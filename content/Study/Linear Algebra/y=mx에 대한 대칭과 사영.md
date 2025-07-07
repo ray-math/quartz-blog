@@ -1,0 +1,167 @@
+직선 $y = mx$에 대한 대칭 변환과 사영 변환을 찾고자 합니다. 일반적인 표준기저에서 해당 식을 찾는 과정은 복잡하므로, 새로운 기저를 이용해 다시 표준변환하는 과정을 설명해보겠습니다.
+
+## 개념정리
+$T$를 유한 차원 벡터 공간 $V$ 위의 선형 연산자라고 하고, $\beta$와 $\beta'$를 $V$의 순서 있는 기저라고 하자. $Q$를 $\beta'$-좌표를 $\beta$-좌표로 변환하는 기저 변환 행렬이라고 가정하면, 다음이 성립한다.
+$$
+[T]_{\beta'} = Q^{-1} [T]_{\beta} Q
+$$
+$T$의 표준기저 표현을 찾는 것은 어려우므로, 새로운 기저 $\beta'$를 선택하여 $T$를 표현하고자 합니다.
+
+## 새로운 기저의 구성
+대칭 변환을 쉽게 표현하기 위해, 직선 $y = mx$에 평행한 벡터와 수직인 벡터를 새로운 기저로 선택합니다. 왜냐하면 평행한 방향의 벡터는 그대로 유지하고, 수직한 벡터는 방향이 반전되기 때문입니다.
+
+1. **평행한 벡터**: $(1, m)$
+	직선의 방향 벡터로, 기울기 $m$을 가진 직선과 평행합니다.
+2. **수직인 벡터**: $(-m, 1)$
+	평행한 벡터와 수직을 이루는 벡터입니다. $(1,m) \cdot (-m,1) = -m + m = 0$ 
+
+이렇게 구성된 새로운 기저 $\beta'$는 다음과 같습니다.
+$$ \beta' = \{(1, m), (-m, 1)\} $$
+## 대칭 변환 행렬 계산
+대칭 변환 $T$가 새로운 기저 $\beta'$에서 어떻게 표현되는지 알아보겠습니다.
+$$\begin{align*}
+  T(1, m) &= 1(1, m) + 0(-m, 1) = (1, m)\\
+  T(-m, 1) &= 0(1, m) + 1(-m, 1) = (-m, 1)
+\end{align*}
+  $$
+$T$는 새로운 기저 $\beta'$에서 대칭축과 평행한 벡터는 유지하고, 수직한 벡터의 방향을 바꾸는 방식으로 동작합니다. 따라서 $T$의 행렬 표현은 다음과 같습니다.
+$$
+[T]_{\beta'} = 
+\begin{bmatrix}
+1 & 0 \\
+0 & -1
+\end{bmatrix}
+$$
+이제, $[T]_{\beta'} = Q^{-1} [T]_{\beta} Q$ 관계식을 이용하면, $[T]_{\beta} = Q[T]_{\beta'}Q^{-1}$를 구할 수 있습니다.
+
+## 기저 변환 행렬 $Q$
+기저 변환 행렬 $Q$는 새로운 기저 $\beta'$를 기존 표준 기저 $\beta$로 나타내는 역할을 합니다.
+
+### 1. 좌표 변환을 이용한 $Q$ 계산
+$$
+Q = [I_V]_{\beta'}^{\beta}
+$$
+- $(1, m)$의 표준 기저 표현
+$$
+  I_V(1, m) = 1(1, 0) + m(0, 1) = 
+  \begin{bmatrix}
+  1 \\
+  m
+  \end{bmatrix}
+  $$
+- $(-m, 1)$의 표준 기저 표현
+$$
+  I_V(-m, 1) = -m(1, 0) + 1(0, 1) = 
+  \begin{bmatrix}
+  -m \\
+  1
+  \end{bmatrix}
+  $$
+따라서 $Q$는 다음과 같습니다.
+$$
+Q= 
+\begin{bmatrix}
+1 & -m \\
+m & 1
+\end{bmatrix}
+$$
+
+### 2. $Q^{-1}$ 계산
+$Q$의 역행렬을 계산하여 $Q^{-1}$를 구하면 다음과 같습니다.
+$$
+Q^{-1} = \frac{1}{\det(Q)} \operatorname{adj}(Q) = 
+\frac{1}{1 + m^2}
+\begin{bmatrix}
+1 & m \\
+-m & 1
+\end{bmatrix}
+$$
+
+## 대칭 변환 행렬 $[T]_{\beta}$ 계산
+마지막으로 $[T]_{\beta} = Q[T]_{\beta'}Q^{-1}$ 관계식을 이용하여 대칭 변환 행렬 $[T]_{\beta}$를 계산합니다.
+
+$$
+\begin{align*}
+[T]_{\beta} &= Q [T]_{\beta'}Q^{-1}\\\\
+&= \begin{bmatrix} 1 & -m \\ m & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix} \frac{1}{1 + m^2} \begin{bmatrix} 1 & m \\ -m & 1 \end{bmatrix}\\\\
+&= \frac{1}{1 + m^2} \begin{bmatrix} 1 - m^2 & 2m \\ 2m & m^2 - 1 \end{bmatrix}
+\end{align*}
+$$
+
+행렬 $[T]_{\beta}$를 사용하여 선형 변환 $T(x, y)$를 정의합니다.
+$$
+\begin{align*}
+T(x, y) &=
+\frac{1}{1 + m^2} \begin{bmatrix} 1 - m^2 & 2m \\ 2m & m^2 - 1 \end{bmatrix}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}\\\\
+&= \frac{1}{1 + m^2} \begin{bmatrix} (1 - m^2)x + 2my \\ 2mx + (m^2 - 1)y \end{bmatrix}
+\end{align*}
+$$
+
+따라서, $T(x, y)$는 다음과 같습니다.
+$$
+T(x, y) =
+\left(
+\frac{x - m^2x + 2my}{1 + m^2},
+\frac{2mx + m^2y - y}{1 + m^2}
+\right)
+$$
+
+## 사영 변환 행렬 계산
+사영 변환 $T$가 새로운 기저 $\beta'$에서 어떻게 표현되는지 알아보겠습니다.
+$$\begin{align*}
+  T(1, m) &= 1(1, m) + 0(-m, 1) = (1, m)\\
+  T(-m, 1) &= 0(1, m) + 0(-m, 1) = (0, 0)
+\end{align*}
+  $$
+$T$는 새로운 기저 $\beta'$에서 사영축과 평행한 벡터는 유지하고, 수직한 벡터는 한 점으로 수렴($\vec{0}$)하는 방식으로 동작합니다. 따라서 $T$의 행렬 표현은 다음과 같습니다.
+
+$$[T]_{\beta'} =
+\begin{bmatrix}
+1 & 0 \\
+0 & 0
+\end{bmatrix}$$
+## 사영 변환 행렬 $[T]_{\beta}$ 계산
+$[T]_{\beta} = Q[T]_{\beta'}Q^{-1}$ 관계식을 이용하여 사영 변환 행렬 $[T]_{\beta}$를 계산합니다.
+
+$$
+\begin{align*}
+[T]_{\beta} &= Q [T]_{\beta'}Q^{-1}\\\\
+&= \begin{bmatrix} 1 & -m \\ m & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} \frac{1}{1 + m^2} \begin{bmatrix} 1 & m \\ -m & 1 \end{bmatrix}\\\\
+&= \frac{1}{1 + m^2} \begin{bmatrix} 1  & m \\ m & m^2 \end{bmatrix}
+\end{align*}
+$$
+
+행렬 $[T]_{\beta}$를 사용하여 선형 변환 $T(x, y)$를 정의합니다.
+$$
+\begin{align*}
+T(x, y) &=
+\frac{1}{1 + m^2}
+\begin{bmatrix}
+1 & m \\
+m & m^2
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}\\
+&=
+\frac{1}{1 + m^2}
+\begin{bmatrix}
+x + my \\
+mx + m^2y
+\end{bmatrix}
+\end{align*}
+$$
+
+따라서, $T(x, y)$는 다음과 같습니다.
+$$
+T(x, y) =
+\left(
+\frac{x + my}{1 + m^2},
+\frac{mx + m^2y}{1 + m^2}
+\right)
+$$
