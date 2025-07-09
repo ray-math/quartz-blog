@@ -135,6 +135,8 @@
 - [[2-8. A Geometric Deﬁnition of Area | 2-8. A Geometric Deﬁnition of Area]]
 - [[2-Appendix. A Brief Review of Continuity and Differentiability | 2-Appendix. A Brief Review of Continuity and Differentiability]]
 - [[3-2. The Deﬁnition of the Gauss Map and Its Fundamental Properties | 3-2. The Deﬁnition of the Gauss Map and Its Fundamental Properties]]
+- [[3-3. The Gauss Map in Local Coordinates | 3-3. The Gauss Map in Local Coordinates]]
+- [[3-4. Vector Fields | 3-4. Vector Fields]]
 - [[Differential Geometry | Differential Geometry]]
 
 ### Dump

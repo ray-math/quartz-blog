@@ -14,7 +14,7 @@ date: 2025-01-01
 - [[Notes#확률과 통계]]
 - [[Notes#대수]]
 - [[Notes#기하]]
-
+- [[Notes#영재]]
 
 ### Yotube
 
@@ -23,8 +23,6 @@ date: 2025-01-01
 - [[Notes#Script]]
 - [[Notes#Shorts]]
 
-모든 노트는 [[Notes]]를 확인하세요.
-
 ### [[Notes#Study|Study]]
 
 전공 수학을 공부하는 분들을 위한 자료입니다.
@@ -32,3 +30,5 @@ date: 2025-01-01
 - [[Notes#Linear Algebra]]
 - [[Notes#Topology]]
 - [[Notes#Differential Geometry]]
+
+모든 노트는 [[Notes]]를 확인하세요.

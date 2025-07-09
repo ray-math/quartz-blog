@@ -19,4 +19,5 @@
 ## The Geometry of the Gauss map
 - [[3-2. The Deﬁnition of the Gauss Map and Its Fundamental Properties]]
 - [[3-3. The Gauss Map in Local Coordinates]]
-- 
+- [[3-4. Vector Fields]]
+- [[3-5. Ruled Surfaces and Minimal Surfaces]]
