@@ -25,7 +25,7 @@ date: 2025-01-01
 
 ### [[Notes#Study|Study]]
 
-전공 수학을 공부하는 분들을 위한 자료입니다.
+전공 수학 자료입니다.
 
 - [[Notes#Linear Algebra]]
 - [[Notes#Topology]]

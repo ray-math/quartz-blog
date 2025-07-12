@@ -21,3 +21,8 @@
 - [[3-3. The Gauss Map in Local Coordinates]]
 - [[3-4. Vector Fields]]
 - [[3-5. Ruled Surfaces and Minimal Surfaces]]
+- [[3-Appendix. Self-Adjoint Linear Maps and Quadratic Forms]]
+
+
+## The Intrinsic Geometry of Surfaces
+- [[4-2. Isometries; Conformal Maps]]
