@@ -1,11 +1,11 @@
 ## Curves
 - [[1-2. Parametrized Curves]]
 - [[1-3. Regular Curves; Arc Length]]
-- [[1-4. The Vector Product in R3]]
+- [[1-4. The Vector Product in R³]]
 - [[1-5. The Local Theory of Curves Parametrized by Arc Length]]
 - [[1-6. The Local Canonical Form]]
 - [[1-7. Global Properties of Plane Curves]]
-
+ 
 ## Regualr Surfaces
 - [[2-2. Regular Surfaces; Inverse Images of Regular Value]]
 - [[2-3. Change of Parameters; Differentiable Functions on Surface]]
@@ -26,3 +26,8 @@
 
 ## The Intrinsic Geometry of Surfaces
 - [[4-2. Isometries; Conformal Maps]]
+- [[4-3. The Gauss Theorem and the Equations of Compatibility]]
+- [[4-4. Parallel Transport. Geodesics.]]
+- [[4-5. The Gauss-Bonnet Theorem and Its Applications]]
+- [[4-6. The Exponential Map. Geodesic Polar Coordinates]]
+

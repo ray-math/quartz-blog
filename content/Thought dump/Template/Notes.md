@@ -122,7 +122,7 @@
 ### Differential Geometry
 - [[1-2. Parametrized Curves | 1-2. Parametrized Curves]]
 - [[1-3. Regular Curves; Arc Length | 1-3. Regular Curves; Arc Length]]
-- [[1-4. The Vector Product in R3 | 1-4. The Vector Product in R3]]
+- [[1-4. The Vector Product in R³ | 1-4. The Vector Product in R³]]
 - [[1-5. The Local Theory of Curves Parametrized by Arc Length | 1-5. The Local Theory of Curves Parametrized by Arc Length]]
 - [[1-6. The Local Canonical Form | 1-6. The Local Canonical Form]]
 - [[1-7. Global Properties of Plane Curves | 1-7. Global Properties of Plane Curves]]
@@ -139,6 +139,11 @@
 - [[3-4. Vector Fields | 3-4. Vector Fields]]
 - [[3-5. Ruled Surfaces and Minimal Surfaces | 3-5. Ruled Surfaces and Minimal Surfaces]]
 - [[3-Appendix. Self-Adjoint Linear Maps and Quadratic Forms | 3-Appendix. Self-Adjoint Linear Maps and Quadratic Forms]]
+- [[4-2. Isometries; Conformal Maps | 4-2. Isometries; Conformal Maps]]
+- [[4-3. The Gauss Theorem and the Equations of Compatibility | 4-3. The Gauss Theorem and the Equations of Compatibility]]
+- [[4-4. Parallel Transport. Geodesics. | 4-4. Parallel Transport. Geodesics.]]
+- [[4-5. The Gauss-Bonnet Theorem and Its Applications | 4-5. The Gauss-Bonnet Theorem and Its Applications]]
+- [[4-6. The Exponential Map. Geodesic Polar Coordinates | 4-6. The Exponential Map. Geodesic Polar Coordinates]]
 - [[Differential Geometry | Differential Geometry]]
 
 ### Dump
@@ -177,6 +182,15 @@
 - [[y=mx에 대한 대칭과 사영 | y=mx에 대한 대칭과 사영]]
 
 ### Topology
+- [[51. Homotopy of Paths | 51. Homotopy of Paths]]
+- [[52. The Fundamental Group | 52. The Fundamental Group]]
+- [[53. Covering Spaces | 53. Covering Spaces]]
+- [[54. The Fundamental Group of the Circle | 54. The Fundamental Group of the Circle]]
+- [[55. Retractions and Fixed Points | 55. Retractions and Fixed Points]]
+- [[56. The Fundamental Theorem of Algebra | 56. The Fundamental Theorem of Algebra]]
+- [[57. The Borsuk-Ulam Theorem | 57. The Borsuk-Ulam Theorem]]
+- [[58. Deformation Retracts and Homotopy Type | 58. Deformation Retracts and Homotopy Type]]
+- [[59. The Fundamental Group of Sⁿ | 59. The Fundamental Group of Sⁿ]]
 - [[국소 유한(locally finite) | 국소 유한(locally finite)]]
 - [[국소연결 (locally connected) | 국소연결 (locally connected)]]
 - [[근방(Neighborhood) | 근방(Neighborhood)]]
@@ -196,6 +210,7 @@
 - [[limit point compactness | limit point compactness]]
 - [[locally compact | locally compact]]
 - [[The Urysohn Lemma | The Urysohn Lemma]]
+- [[Topology | Topology]]
 - [[Topology Knowledge Graph | Topology Knowledge Graph]]
 
 ## Thought dump
