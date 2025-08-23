@@ -7,7 +7,7 @@ $A$ 의 내부 $\operatorname{Int}A$ 와 경계 $\partial A$ 가 둘 다 연결�
 - $\partial A$ 는 $A$ 의 경계, 즉 $\overline{A}\setminus \operatorname{Int}A$ 입니다. 여기서 $\overline{A}$ 는 $A$ 의 closure 입니다.  
 - 한 공간이 connected(연결) 이라는 것은, 그 공간을 서로소이면서 nonempty한 두 개의 open set의 합으로 나눌 수 없다는 뜻입니다.
 
-류법을 사용하여, $A$ 가 연결되지 않았다고 가정하고 모순을 도출하겠습니다.
+귀류법을 사용하여, $A$ 가 연결되지 않았다고 가정하고 모순을 도출하겠습니다.
 
 $A$ 가 연결되지 않았다고 가정하겠습니다. 그러면 $A$ 는 서로소인 두 nonempty한 부분집합 $C$ 와 $D$ 의 합으로 나뉠 수 있습니다. 이때  
 - $C,D\subset A$,  
