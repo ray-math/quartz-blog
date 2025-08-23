@@ -230,6 +230,7 @@
 - [[위상수학자의 사인곡선 | 위상수학자의 사인곡선]]
 - [[유한 교집합 성질 (Finite Intersection Property, FIP) | 유한 교집합 성질 (Finite Intersection Property, FIP)]]
 - [[차원론 | 차원론(Dimension Theory)]]
+- [[콤팩트 2차원 다양체가 삼각분할될 수 있다는 것에 대한 짧은 증명 | 콤팩트 2차원 다양체가 삼각분할될 수 있다는 것에 대한 짧은 증명]]
 - [[파라컴팩트 | 파라컴팩트(paracompact)]]
 - [[포화 집합(Saturated Set) | 포화 집합(Saturated Set)]]
 - [[필터 (FILTERS) | 필터 (FILTERS)]]
