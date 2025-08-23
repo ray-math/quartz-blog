@@ -9,11 +9,11 @@ date: 2025-01-01
 ### [Class](https://raymath.pages.dev/Class/)
 중, 고등학교 수학 수업 내용을 정리해두었습니다.
 
-- [공통](https://raymath.pages.dev/Class/공통-수학)
+- [공통](https://raymath.pages.dev/Class/공통)
 - [미적](https://raymath.pages.dev/Class/미적)
-- [확통](https://raymath.pages.dev/Class/미적)
+- [확통](https://raymath.pages.dev/Class/확통)
 - [대수](https://raymath.pages.dev/Class/대수)
-- [기학](https://raymath.pages.dev/Class/기하)
+- [기하](https://raymath.pages.dev/Class/기하)
 - [영재](https://raymath.pages.dev/Class/영재)
 
 ### Yotube
