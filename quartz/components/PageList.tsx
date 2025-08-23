@@ -1,4 +1,4 @@
-import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
@@ -68,7 +68,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const tags = page.frontmatter?.tags ?? []
 
         return (
           <li class="section-li">
@@ -83,7 +82,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   </a>
                 </h3>
               </div>
-              <ul class="tags">
+              {/* <ul class="tags">
                 {tags.map((tag) => (
                   <li>
                     <a
@@ -94,7 +93,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                     </a>
                   </li>
                 ))}
-              </ul>
+              </ul> */}
             </div>
           </li>
         )
@@ -105,10 +104,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
 PageList.css = `
 .section h3 {
-  margin: 0;
-}
-
-.section > .tags {
   margin: 0;
 }
 `
