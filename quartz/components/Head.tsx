@@ -51,6 +51,8 @@ export default (() => {
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
+        
+        <meta name="google-site-verification" content="RjR4E2c1MRLgp0_TjyEVtmP48GjyYdHevuyk_1GIY2s" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
