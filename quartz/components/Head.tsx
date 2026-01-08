@@ -52,6 +52,7 @@ export default (() => {
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         
+        <meta name="naver-site-verification" content="5e159a7268919737a48b96b31da3abdead65347b" />
         <meta name="google-site-verification" content="RjR4E2c1MRLgp0_TjyEVtmP48GjyYdHevuyk_1GIY2s" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
