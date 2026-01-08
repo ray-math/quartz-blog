@@ -54,7 +54,7 @@ export default (() => {
         
         <meta name="naver-site-verification" content="5e159a7268919737a48b96b31da3abdead65347b" />
         <meta name="google-site-verification" content="RjR4E2c1MRLgp0_TjyEVtmP48GjyYdHevuyk_1GIY2s" />
-        <meta name="google-adsense-account" content="ca-pub-8713785435318590"></meta>
+        <meta name="google-adsense-account" content="ca-pub-8713785435318590">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
