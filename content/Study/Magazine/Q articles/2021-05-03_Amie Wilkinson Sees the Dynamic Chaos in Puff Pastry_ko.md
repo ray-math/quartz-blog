@@ -1,10 +1,7 @@
 ---
 title: 아미 윌킨슨이 퍼프 페이스트리에서 발견한 동역학적 혼돈
 description: 동역학자 아미 윌킨슨에게 우주를 이해한다는 것은 모든 올바른 움직임을 아는 것이다.
-url: https://www.quantamagazine.org/amie-wilkinson-sees-the-dynamic-chaos-in-puff-pastry-20210503/
-author: Amie Wilkinson, Steven Strogatz
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/amie-wilkinson-sees-the-dynamic-chaos-in-puff-pastry-20210503/
 date: 2021-05-03
 ---
 

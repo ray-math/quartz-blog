@@ -1,7 +1,7 @@
 ---
 title: 두 학생이 널리 믿어졌던 수학 추측을 무너뜨리다
 description: 수학자들은 아폴로니우스 원 패킹이라는 고대 구조에 관한 추측을 증명할 직전이라고 생각했다. 그러나 한 여름 프로젝트가 그 추측의 붕괴로 이어졌다.
-url: https://www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/
+url: www.quantamagazine.org/two-students-unravel-a-widely-believed-math-conjecture-20230810/
 date: 2023-08-10
 ---
 

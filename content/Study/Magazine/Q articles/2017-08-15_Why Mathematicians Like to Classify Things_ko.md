@@ -1,6 +1,6 @@
 ---
 title: 수학자들은 왜 분류를 좋아할까
-url: https-//www.quantamagazine.org/why-mathematicians-like-to-classify-things-20170815/
+url: www.quantamagazine.org/why-mathematicians-like-to-classify-things-20170815/
 description: 기하학적 구조의 새로운 유형들을 탐구하는 한 연구자는 말한다. "이것은 모든 시간을 아우르는 결정적인 연구입니다. 마치 최종 책을 쓰는 것과 같습니다."
 date: 2017-08-15
 ---

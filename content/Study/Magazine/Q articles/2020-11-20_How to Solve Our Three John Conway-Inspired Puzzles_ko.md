@@ -1,11 +1,8 @@
 ---
 title: 존 콘웨이가 영감을 준 세 가지 퍼즐의 해법
-url: https-//www.quantamagazine.org/how-to-solve-our-three-john-conway-inspired-puzzles-20201120/
+url: www.quantamagazine.org/how-to-solve-our-three-john-conway-inspired-puzzles-20201120/
 description: 수 퍼즐, 기하 퍼즐, 그리고 무작위 패턴 게임—전설적인 수학자와 연결된 세 가지 문제가 독자들의 열렬한 반응을 이끌어냈다.
 date: 2020-11-20
-author: Pradeep Mutalik
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/10/Conway_puzzle_2880x1620_Lede.jpg)

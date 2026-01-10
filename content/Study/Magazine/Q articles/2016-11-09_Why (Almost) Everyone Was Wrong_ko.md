@@ -1,6 +1,6 @@
 ---
 title: 왜 (거의) 모두가 틀렸는가
-url: https-//www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-20161109/
+url: www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-20161109/
 description: 올해 미국 대선 결과는 분석적 선거 예측 모델 전문가들을 조롱거리로 만들었다.
 date: 2016-11-09
 ---

@@ -1,11 +1,8 @@
 ---
 title: 우사인 볼트의 구간 기록과 미적분의 힘
 description: 인류 역사상 가장 빠른 사람은 정확히 얼마나 빠르게 달릴 수 있을까? 『무한의 힘(Infinite Powers)』에서 발췌한 이 글은 미적분이 어떻게 운동과 변화의 본질을 탐구하는 데 도움을 주는지 보여준다.
-author: Steven Strogatz
 date: 2019-04-03
-url: https://www.quantamagazine.org/infinite-powers-usain-bolt-and-the-art-of-calculus-20190403/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/infinite-powers-usain-bolt-and-the-art-of-calculus-20190403/
 ---
 
 ![Art for "Usain Bolt's Split Times and the Power of Calculus"](https://www.quantamagazine.org/wp-content/uploads/2019/04/Bolt_2880x1620_Lede.jpg)

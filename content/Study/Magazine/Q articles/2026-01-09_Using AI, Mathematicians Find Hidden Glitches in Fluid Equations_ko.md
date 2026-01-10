@@ -1,10 +1,7 @@
 ---
 title: AI로 유체 방정식 속 숨겨진 특이점을 찾아내다
 description: 유체 흐름의 수학이 어디서 무너지는지 보이는 사람에게 100만 달러 상금이 걸려 있다. 특수 훈련된 AI 시스템을 통해, 연구자들은 단순화된 버전의 문제에서 새로운 후보들을 대거 발견했다.
-author: 
-url: https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/
 date: 2026-01-09
 ---
 

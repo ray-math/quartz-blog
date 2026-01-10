@@ -1,10 +1,7 @@
 ---
 title: 마이클 아티야의 상상하는 정신 상태
 description: 86세의 영국 최고의 수학적 중매자는 여전히 거대한 문제들과 씨름하며, 양자와 중력을 통합하는 꿈을 꾸고 있다.
-url: https-//www.quantamagazine.org/michael-atiyahs-mathematical-dreams-20160303/
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/michael-atiyahs-mathematical-dreams-20160303/
 date: 2016-03-03
 ---
 

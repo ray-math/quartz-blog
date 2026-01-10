@@ -1,11 +1,8 @@
 ---
 title: 문 두친, 공정한 투표와 랜덤 워크를 말하다
-url: https://www.quantamagazine.org/moon-duchin-on-fair-voting-and-random-walks-20200407/
+url: www.quantamagazine.org/moon-duchin-on-fair-voting-and-random-walks-20200407/
 description: 기하학이 게리맨더링으로부터 민주주의를 구할 수 있을까? 수학자 문 두친이 진행자 스티븐 스트로가츠와 그 가능성을 논의한다.
-author: Moon Duchin, Steven Strogatz
 date: 2020-04-07
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 터프츠 대학교(Tufts University)의 수학 교수인 문 두친(Moon Duchin)은 계량 기하학(metric geometry)을 사용하여 게리맨더링(gerrymandering)이 제기하는 위협으로부터 민주주의를 방어한다. 그러나 그녀가 진행자 스티븐 스트로가츠와 논의하듯이, 대의 민주주의에서 공정한 투표의 문제는 단순히 목적 함수(objective function)로 환원될 수 없다. 이 에피소드는 데이나 비알렉이 제작했다. 더 자세한 내용은 [Quantamagazine.org](http://quantamagazine.org/)에서 확인할 수 있다. 제작 및 오리지널 음악은 Story Mechanics가 담당했다.

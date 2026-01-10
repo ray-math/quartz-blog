@@ -1,10 +1,7 @@
 ---
 title: 수학자들의 패킹 문제를 돕는 새로운 도구
 description: 구와 다른 도형들을 얼마나 촘촘하게 채울 수 있는지에 대한 개선이 재료과학, 심우주 통신, 이론물리학의 발전으로 이어질 수 있다.
-author: 
-url: https-//www.quantamagazine.org/a-new-tool-to-help-mathematicians-pack-20131220/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-new-tool-to-help-mathematicians-pack-20131220/
 date: 2013-12-20
 ---
 

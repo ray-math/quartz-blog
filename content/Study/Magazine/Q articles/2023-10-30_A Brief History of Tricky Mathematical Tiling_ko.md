@@ -1,10 +1,7 @@
 ---
 title: 까다로운 수학적 타일링의 간략한 역사
-url: https-//www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/
+url: www.quantamagazine.org/a-brief-history-of-tricky-mathematical-tiling-20231030/
 description: 올해 초 "모자" 타일의 발견은 타일과 그 대칭성에 관한 수백 년간의 연구가 정점에 이른 순간이었다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2023-10-30
 ---
 

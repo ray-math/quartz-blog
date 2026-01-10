@@ -1,6 +1,6 @@
 ---
 title: 방정식 없는 예측으로 가는 비틀린 길
-url: https-//www.quantamagazine.org/chaos-theory-in-ecology-predicts-future-populations-20151013/
+url: www.quantamagazine.org/chaos-theory-in-ecology-predicts-future-populations-20151013/
 description: 복잡한 자연계는 표준적인 수학 도구로 분석할 수 없다. 그래서 한 생태학자는 방정식을 버리기로 했다.
 date: 2015-10-13
 ---

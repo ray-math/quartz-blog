@@ -1,8 +1,7 @@
 ---
 title: 함께 그리고 홀로, 소수 간격을 좁히다
-url: https-//www.quantamagazine.org/mathematicians-team-up-on-twin-primes-conjecture-20131119/
+url: www.quantamagazine.org/mathematicians-team-up-on-twin-primes-conjecture-20131119/
 description: 수백 년 된 쌍둥이 소수 추측에 도전하며, 두 명의 고독한 연구자와 대규모 협업 프로젝트가 지난 6개월간 엄청난 진전을 이뤄냈다.
-author: Erica Klarreich
 date: 2013-11-20
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 수학자들은 왜 건초더미 속 건초를 찾을 수 없는가
-url: https://www.quantamagazine.org/why-mathematicians-cant-find-the-hay-in-a-haystack-20180917/
+url: www.quantamagazine.org/why-mathematicians-cant-find-the-hay-in-a-haystack-20180917/
 description: 수학에서는 때로 가장 흔한 것이 가장 찾기 어렵다.
-author: 
 date: 2018-09-17
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Art for "Why Mathematicians Can't Find the Hay in a Haystack"](https://www.quantamagazine.org/wp-content/uploads/2018/09/Hay_1300Lede.jpg)

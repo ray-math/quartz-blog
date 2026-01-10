@@ -1,11 +1,8 @@
 ---
 title: 네 가지 색으로는 부족하다
-url: https://www.quantamagazine.org/the-numbers-and-geometry-behind-a-math-coloring-puzzle-20180618/
+url: www.quantamagazine.org/the-numbers-and-geometry-behind-a-math-coloring-puzzle-20180618/
 description: 무한 평면에서 1단위 떨어진 점들이 같은 색이 되지 않도록 칠하려면 몇 가지 색이 필요할까?
-author: Patrick Honner
 date: 2018-06-18
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Illustration for "Four Is Not Enough"](https://www.quantamagazine.org/wp-content/uploads/2018/06/PlaneColoring_2880x1620.jpg)

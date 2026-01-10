@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 평평한 유체에서 난류를 길들이다
 description: 유체를 평평한 판 형태로 압축함으로써, 연구자들은 난류가 에너지를 소산시키는 대신 시스템에 공급하는 기묘한 방식을 다룰 수 있게 되었다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/mathematicians-tame-turbulence-in-flattened-fluids-20180627/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-tame-turbulence-in-flattened-fluids-20180627/
 date: 2018-06-27
 ---
 

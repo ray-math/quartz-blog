@@ -1,6 +1,6 @@
 ---
 title: 푸리에 변환이란 무엇인가?
-url: https-//www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+url: www.quantamagazine.org/what-is-the-fourier-transform-20250903/
 description: 혁명기 프랑스의 혼란 속에서, 한 수학자의 집념이 오늘날 수학과 물리학 전반을 떠받치는 계산법을 탄생시켰다. 푸리에 변환이라 불리는 이 계산법은 어떤 함수든 그 구성 요소들로 분해한다.
 date: 2025-09-03
 ---

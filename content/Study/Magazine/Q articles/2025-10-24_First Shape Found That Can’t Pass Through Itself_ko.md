@@ -1,11 +1,8 @@
 ---
 title: 자기 자신을 통과할 수 없는 최초의 도형이 발견되다
 description: 3세기가 넘는 시간 끝에, 왕실의 내기에서 시작된 기하학 문제가 마침내 해결되었다.
-url: https://www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
+url: www.quantamagazine.org/first-shape-found-that-cant-pass-through-itself-20251024/
 date: 2025-10-24
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 서론

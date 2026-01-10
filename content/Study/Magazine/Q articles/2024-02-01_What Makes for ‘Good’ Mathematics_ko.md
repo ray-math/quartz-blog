@@ -1,11 +1,8 @@
 ---
-title: '좋은' 수학이란 무엇인가?
-url: https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/
-description: '수학의 모차르트'로 불리는 테렌스 타오가 2007년 '좋은' 수학 연구의 공통 요소에 대한 에세이를 썼다. 이번 에피소드에서 필즈상 수상자가 스티븐 스트로가츠와 함께 그 주제를 다시 논한다.
-author: Terence Tao, Steven Strogatz
+title: 좋은 수학이란 무엇인가?
+url: www.quantamagazine.org/what-makes-for-good-mathematics-20240201/
+description: 수학의 모차르트로 불리는 테렌스 타오가 2007년 좋은 수학 연구의 공통 요소에 대한 에세이를 썼다. 이번 에피소드에서 필즈상 수상자가 스티븐 스트로가츠와 함께 그 주제를 다시 논한다.
 date: 2024-02-01
-sitename: Quanta Magazine
-hostname: quantamagazine.org
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/02/JoY-S3E1-GoodMath-byPeterGreenwood-Lede-LOGO-scaled.webp)

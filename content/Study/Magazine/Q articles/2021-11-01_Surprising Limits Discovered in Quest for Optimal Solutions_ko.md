@@ -1,10 +1,7 @@
 ---
-title: 최적해 탐색의 한계: 놀라운 발견들
+title: "최적해 탐색의 한계,  놀라운 발견들"
 description: 최적화 문제의 해를 찾는 알고리즘은 기계 추론의 핵심이다. 새로운 연구 결과들이 이 알고리즘의 놀라운 한계를 밝혀냈다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/
 date: 2021-11-01
 ---
 

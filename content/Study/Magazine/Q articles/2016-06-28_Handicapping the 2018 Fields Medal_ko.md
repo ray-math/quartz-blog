@@ -1,10 +1,7 @@
 ---
 title: 2018년 필즈상 수상자 예측하기
 description: 페터 숄체는 정수론과 기하학 분야의 업적으로 수학계 최고 영예 중 하나를 수상할 유력 후보로 꼽힌다.
-author: 
-url: https://www.quantamagazine.org/will-peter-scholze-win-the-fields-medal-in-2018-20160628/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/will-peter-scholze-win-the-fields-medal-in-2018-20160628/
 date: 2016-06-28
 ---
 

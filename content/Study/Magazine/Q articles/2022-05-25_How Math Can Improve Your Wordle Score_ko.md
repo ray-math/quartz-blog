@@ -1,10 +1,7 @@
 ---
 title: 수학으로 워들 점수를 향상시키는 법
-url: https-//www.quantamagazine.org/how-math-can-improve-your-wordle-score-20220525/
+url: www.quantamagazine.org/how-math-can-improve-your-wordle-score-20220525/
 description: 정보 이론을 조금만 알아도 워들 게임을 분석하고 개선할 수 있다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2022-05-25
 ---
 

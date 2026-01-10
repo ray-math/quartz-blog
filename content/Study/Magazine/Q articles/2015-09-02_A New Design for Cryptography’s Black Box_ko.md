@@ -1,10 +1,7 @@
 ---
 title: 암호학의 블랙박스를 위한 새로운 설계
 description: 최근의 암호학적 돌파구는 실용화하기 어려운 것으로 판명되었다. 그러나 새로운 발전들은 거의 완벽한 컴퓨터 보안이 놀랍도록 가까이 있을 수 있음을 보여준다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/a-new-design-for-cryptographys-black-box-20150902/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-new-design-for-cryptographys-black-box-20150902/
 date: 2015-09-02
 ---
 

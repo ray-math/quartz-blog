@@ -1,10 +1,7 @@
 ---
-title: 수학의 '이층침대 추측'이 무너졌다
+title: 수학의 이층침대 추측이 무너졌다
 description: 직관적이고, 심지어 자명해 보였다. 하지만 그것은 틀렸다.
-author: 
-url: https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/
 date: 2024-11-01
 ---
 

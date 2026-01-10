@@ -1,6 +1,6 @@
 ---
 title: 바늘 위에 세워진 추측의 탑
-url: https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/
+url: www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/
 description: 표면적으로 카케야 추측은 회전하는 바늘에 관한 단순한 진술이다. 하지만 그 아래에는 방대한 수학이 자리 잡고 있다.
 date: 2023-09-12
 ---

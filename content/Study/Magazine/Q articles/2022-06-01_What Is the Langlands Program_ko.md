@@ -1,11 +1,8 @@
 ---
 title: 랑글랜즈 프로그램이란 무엇인가?
-url: https-//www.quantamagazine.org/what-is-the-langlands-program-20220601/
+url: www.quantamagazine.org/what-is-the-langlands-program-20220601/
 description: 랑글랜즈 프로그램은 수학의 여러 분야를 연결하는 아름답고 정교한 연결망을 제공하며, 오래된 문제들에 대한 새로운 해법으로 가는 길을 제시한다.
 date: 2022-06-01
-author: Quanta Magazine
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 도입

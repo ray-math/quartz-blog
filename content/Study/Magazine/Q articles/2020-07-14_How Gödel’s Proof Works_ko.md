@@ -1,11 +1,8 @@
 ---
 title: 괴델의 증명은 어떻게 작동하는가
-url: https-//www.quantamagazine.org/how-godels-proof-works-20200714/
+url: www.quantamagazine.org/how-godels-proof-works-20200714/
 description: 그의 불완전성 정리는 수학의 모든 것을 설명하는 이론을 찾으려는 노력을 파괴했다. 거의 한 세기가 지난 지금도, 우리는 여전히 그 결과를 이해하려 애쓰고 있다.
 date: 2020-07-14
-author: Natalie Wolchover
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![괴델의 불완전성 정리.](https://www.quantamagazine.org/wp-content/uploads/2020/07/Godel-Tower_2880x1620_Lede.jpg)

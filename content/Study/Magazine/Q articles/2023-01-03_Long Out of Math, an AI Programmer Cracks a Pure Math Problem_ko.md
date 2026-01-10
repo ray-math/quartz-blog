@@ -1,10 +1,7 @@
 ---
 title: 수학을 떠난 AI 프로그래머가 순수 수학 난제를 해결하다
 description: 저녁과 주말 시간을 활용해, 저스틴 길머는 정보 이론의 도구로 순수 수학의 오래된 문제를 공략했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
 date: 2023-01-03
 ---
 

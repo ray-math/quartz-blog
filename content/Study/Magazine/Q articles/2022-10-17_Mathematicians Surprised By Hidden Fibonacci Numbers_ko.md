@@ -1,11 +1,8 @@
 ---
 title: 숨겨진 피보나치 수열로 수학자들을 놀라게 한 기하학의 세계
 description: 독특한 기하학적 세계를 최근 탐구하면서 피보나치 수열과 황금비를 포함한 수수께끼 같은 패턴들이 밝혀졌다.
-url: https://www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/
+url: www.quantamagazine.org/mathematicians-surprised-by-hidden-fibonacci-numbers-20221017/
 date: 2022-10-17
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/Infinite-Staircases_2880x1620_Lede-scaled.webp)

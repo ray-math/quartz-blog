@@ -1,6 +1,6 @@
 ---
 title: 수학자들, 수를 움직여 그 비밀을 밝히다
-url: https-//www.quantamagazine.org/mathematicians-set-numbers-in-motion-to-unlock-their-secrets-20210222/
+url: www.quantamagazine.org/mathematicians-set-numbers-in-motion-to-unlock-their-secrets-20210222/
 description: 새로운 증명이 수론과 동역학계의 통찰을 결합한 신흥 분야인 산술 동역학의 힘을 보여준다.
 date: 2021-02-22
 ---

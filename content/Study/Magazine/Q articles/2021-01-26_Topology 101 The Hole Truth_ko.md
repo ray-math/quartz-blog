@@ -1,10 +1,7 @@
 ---
 title: 위상수학 101- 구멍의 진실
 description: 유연한 도형의 성질들 사이의 관계는 수세기 동안 수학자들을 매혹시켜 왔다.
-author: 
-url: https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/
 date: 2021-01-26
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 아홉 여학생 문제
-url: https-//www.quantamagazine.org/the-nine-schoolgirls-challenge-20150609/
+url: www.quantamagazine.org/the-nine-schoolgirls-challenge-20150609/
 description: 1850년 토머스 커크먼의 유명한 퍼즐의 변형 문제를 풀어보자. 여학생들을 산책 그룹으로 배치하되, 시간 제한이 있으니 빠르게 생각해야 한다.
 date: 2015-06-09
 ---

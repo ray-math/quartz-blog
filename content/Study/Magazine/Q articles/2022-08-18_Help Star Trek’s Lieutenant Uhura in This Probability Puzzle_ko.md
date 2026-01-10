@@ -1,10 +1,7 @@
 ---
-title: 스타트렉의 우후라 중위를 도와라: 확률 퍼즐
+title: "스타트렉의 우후라 중위를 도와라,  확률 퍼즐"
 description: 배우이자 활동가였던 니첼 니콜스를 기리며, 이번 달의 퍼즐은 그녀가 연기한 우후라 중위가 생사가 걸린 난제에 직면하는 스타트렉 모험을 상상한다.
-author: Pradeep Mutalik
-url: https://www.quantamagazine.org/help-star-treks-lieutenant-uhura-in-this-probability-puzzle-20220818/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/help-star-treks-lieutenant-uhura-in-this-probability-puzzle-20220818/
 date: 2022-08-18
 ---
 

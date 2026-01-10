@@ -1,11 +1,8 @@
 ---
 title: 무한은 얼마나 클까?
-url: https-//www.quantamagazine.org/how-big-is-infinity-20220927/
-description: 어린이들과 수학자들이 무한에 대해 던진 끝없는 질문들 중에서, 무한의 '크기'에 관한 질문만큼 매혹적인 것도 드물다.
-author: 
+url: www.quantamagazine.org/how-big-is-infinity-20220927/
+description: 어린이들과 수학자들이 무한에 대해 던진 끝없는 질문들 중에서, 무한의 크기에 관한 질문만큼 매혹적인 것도 드물다.
 date: 2022-09-27
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/09/Infinity_academy_2880x1620_Lede-scaled.webp)

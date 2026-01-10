@@ -1,11 +1,8 @@
 ---
 title: 수학적 조각 실력을 테스트해보세요
-url: https://www.quantamagazine.org/test-your-mathematical-sculpting-skills-20170105/
+url: www.quantamagazine.org/test-your-mathematical-sculpting-skills-20170105/
 description: 2차원 프랙탈을 3차원 물체로 만들 수 있을까요? 가위와 테이프를 준비하고 3D 프린팅된 조각품을 받을 기회에 도전하세요.
 date: 2017-01-05
-author: Quanta Magazine
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Julia Set Contest](https://www.quantamagazine.org/wp-content/uploads/2017/01/Template_615-wide.png)

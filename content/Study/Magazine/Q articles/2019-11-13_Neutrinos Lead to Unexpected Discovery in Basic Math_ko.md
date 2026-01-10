@@ -1,10 +1,7 @@
 ---
 title: 중성미자가 기초 수학에서 예상치 못한 발견으로 이어지다
 description: 세 명의 물리학자가 수학에서 가장 기본적인 대상들 사이의 예상치 못한 관계를 우연히 발견했다.
-author: 
-url: https://www.quantamagazine.org/neutrinos-lead-to-unexpected-discovery-in-basic-math-20191113/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/neutrinos-lead-to-unexpected-discovery-in-basic-math-20191113/
 date: 2019-11-13
 ---
 

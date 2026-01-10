@@ -1,10 +1,7 @@
 ---
 title: 일상적인 수학 속에 숨어 있는 초월수를 찾아서
 description: 초월수 π는 친숙하고 어디에나 있지만, 오일러의 수 e는 어떻게 평범함을 초월하는가?
-author: Pradeep Mutalik
-url: https://www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/where-transcendental-numbers-hide-in-everyday-math-20211027/
 date: 2021-10-27
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 도형을 자르고 재조립하여 방정식의 조각을 찾는 수학자들
-url: https-//www.quantamagazine.org/mathematicians-cut-apart-shapes-to-find-pieces-of-equations-20191031/
-description: "가위 합동" 문제에 관한 새로운 연구는 한 도형을 잘라서 다른 도형으로 재조립할 수 있는 조건을 설명한다.
+url: www.quantamagazine.org/mathematicians-cut-apart-shapes-to-find-pieces-of-equations-20191031/
+description: 가위 합동 문제에 관한 새로운 연구는 한 도형을 잘라서 다른 도형으로 재조립할 수 있는 조건을 설명한다.
 date: 2019-10-31
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 서론

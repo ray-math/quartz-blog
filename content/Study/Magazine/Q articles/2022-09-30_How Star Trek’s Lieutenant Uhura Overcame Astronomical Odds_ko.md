@@ -2,7 +2,7 @@
 title: 스타트렉의 우후라 중위가 천문학적 확률을 극복한 방법
 description: 수학적 추론의 힘만으로 스타트렉 승무원들을 확률론적 곤경에서 구출한 독자들의 이야기
 date: 2022-09-30
-url: https://www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/
+url: www.quantamagazine.org/how-star-treks-lieutenant-uhura-overcame-astronomical-odds-20220930/
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Uhura_2560_Lede.jpg)

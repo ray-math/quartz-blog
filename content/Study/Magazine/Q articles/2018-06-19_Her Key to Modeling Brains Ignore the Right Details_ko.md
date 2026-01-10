@@ -1,10 +1,7 @@
 ---
-title: 뇌를 모델링하는 그녀의 핵심 전략: 적절한 세부사항을 무시하라
+title: "뇌를 모델링하는 그녀의 핵심 전략,  적절한 세부사항을 무시하라"
 description: 물리학자처럼 사고하는 능력이 수학자에서 신경과학자로 전환한 카리나 커토가 이론 모델에서 인간 뇌에 관한 통찰을 이끌어내도록 돕는다.
-author: 
-url: https://www.quantamagazine.org/mathematician-carina-curto-thinks-like-a-physicist-to-solve-neuroscience-problems-20180619/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematician-carina-curto-thinks-like-a-physicist-to-solve-neuroscience-problems-20180619/
 date: 2018-06-19
 ---
 

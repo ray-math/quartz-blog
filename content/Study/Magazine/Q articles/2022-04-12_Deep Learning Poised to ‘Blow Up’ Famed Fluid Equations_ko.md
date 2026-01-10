@@ -1,10 +1,7 @@
 ---
-title: 딥러닝이 유명한 유체 방정식을 '폭파'하려 한다
-description: 250년 동안 수학자들은 오일러의 유체 방정식이 무의미한 답을 낼 수 있음을 증명하려 했다. 머신러닝의 새로운 접근법으로 '폭발'이 곧 일어날 것이라는 기대가 높아지고 있다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+title: 딥러닝이 유명한 유체 방정식을 폭파하려 한다
+description: 250년 동안 수학자들은 오일러의 유체 방정식이 무의미한 답을 낼 수 있음을 증명하려 했다. 머신러닝의 새로운 접근법으로 폭발이 곧 일어날 것이라는 기대가 높아지고 있다.
+url: www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/
 date: 2022-04-12
 ---
 

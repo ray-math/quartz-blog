@@ -1,6 +1,6 @@
 ---
 title: 워들 추측의 수학적 배경
-url: https-//www.quantamagazine.org/the-math-behind-wordle-guesses-20221202/
+url: www.quantamagazine.org/the-math-behind-wordle-guesses-20221202/
 description: 워들은 단어 게임이다. 하지만 수학을 사용하면 (속임수 없이) 승률을 최적화할 수 있다.
 date: 2022-12-02
 ---

@@ -1,10 +1,7 @@
 ---
 title: 무명의 수학자가 소수 간격의 난제를 돌파하다
 description: 거의 알려지지 않은 연구자가 수학의 가장 오래된 문제 중 하나인 쌍둥이 소수 추측에서 위대한 진전을 이루었다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/
 date: 2013-05-19
 ---
 

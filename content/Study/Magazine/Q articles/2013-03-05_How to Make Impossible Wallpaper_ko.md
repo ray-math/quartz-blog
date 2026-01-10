@@ -1,10 +1,7 @@
 ---
 title: 불가능한 벽지 무늬를 만드는 방법
 description: 수학자가 창조한 새로운 벽지 디자인 컬렉션은 결정학적 제약을 무시하는 것처럼 보인다.
-url: https://www.quantamagazine.org/how-to-make-impossible-wallpaper-20130305/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
+url: www.quantamagazine.org/how-to-make-impossible-wallpaper-20130305/
 date: 2013-03-05
 ---
 

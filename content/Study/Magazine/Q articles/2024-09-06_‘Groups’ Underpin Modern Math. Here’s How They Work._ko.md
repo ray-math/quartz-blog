@@ -1,6 +1,6 @@
 ---
-title: 현대 수학의 근간을 이루는 '군'의 작동 원리
-url: https-//www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/
+title: 현대 수학의 근간을 이루는 군의 작동 원리
+url: www.quantamagazine.org/groups-underpin-modern-math-heres-how-they-work-20240906/
 description: 정수와 삼각형의 대칭 사이에 무슨 공통점이 있을까? 19세기 수학자들은 이 질문에 답하기 위해 군(群)이라는 개념을 창안했다.
 date: 2024-09-06
 ---

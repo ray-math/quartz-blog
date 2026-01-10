@@ -1,10 +1,7 @@
 ---
 title: 끈적한 기하 문제의 바늘구멍을 꿰뚫은 새로운 증명
 description: 새로운 증명이 카케야 추측 해결을 향한 중요한 진전을 이뤘다. 이 추측은 겉보기에는 단순하지만 수많은 추측들의 탑을 떠받치고 있다.
-author: (original author)
-url: https://www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-proof-threads-the-needle-on-a-sticky-geometry-problem-20230711/
 date: 2023-07-11
 ---
 

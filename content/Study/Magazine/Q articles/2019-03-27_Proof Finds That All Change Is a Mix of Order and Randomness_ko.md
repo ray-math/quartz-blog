@@ -1,10 +1,7 @@
 ---
 title: 모든 변화는 질서와 무작위의 혼합이라는 증명
-description: '약한 핀스커 추측'의 포괄적인 수학적 증명에 따르면, 모든 변화의 기술은 우연과 결정론의 독특한 혼합이다.
-author: 
-url: https://www.quantamagazine.org/math-proof-finds-all-change-is-mix-of-order-and-randomness-20190327/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 약한 핀스커 추측의 포괄적인 수학적 증명에 따르면, 모든 변화의 기술은 우연과 결정론의 독특한 혼합이다.
+url: www.quantamagazine.org/math-proof-finds-all-change-is-mix-of-order-and-randomness-20190327/
 date: 2019-03-27
 ---
 

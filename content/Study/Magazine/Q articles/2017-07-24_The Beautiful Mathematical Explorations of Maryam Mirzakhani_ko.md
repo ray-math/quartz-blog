@@ -1,10 +1,7 @@
 ---
 title: 마리암 미르자카니의 아름다운 수학적 탐험
-url: https-//www.quantamagazine.org/the-beautiful-mathematical-explorations-of-maryam-mirzakhani-20170724/
+url: www.quantamagazine.org/the-beautiful-mathematical-explorations-of-maryam-mirzakhani-20170724/
 description: 너무 이른 죽음 이후, 마리암 미르자카니의 삶은 그녀의 연구를 통해 가장 잘 기억된다.
-author: Jan Vondrák
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2017-07-24
 ---
 

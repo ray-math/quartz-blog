@@ -1,10 +1,7 @@
 ---
 title: 완벽한 무작위성을 둘러싼 논쟁
-url: https-//www.quantamagazine.org/math-puzzle-solution-perfect-randomness-20190927/
+url: www.quantamagazine.org/math-puzzle-solution-perfect-randomness-20190927/
 description: 자연은 본질적으로 무작위적인가, 아니면 완벽한 무작위성은 우리의 무지에 기반한 환상에 불과한가?
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2019-09-27
 ---
 

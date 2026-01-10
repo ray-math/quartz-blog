@@ -1,6 +1,6 @@
 ---
 title: 당구대의 신비로운 수학
-url: https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/
+url: www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/
 description: 친숙한 게임 속에 숨은 놀라울 정도로 미묘한 기하학은 수학이 얼마나 빠르게 복잡해지는지 보여준다.
 date: 2024-02-15
 ---

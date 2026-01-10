@@ -1,6 +1,6 @@
 ---
 title: 무한 당구대 문제를 푸는 새로운 도형들
-url: https-//www.quantamagazine.org/new-shapes-solve-infinite-pool-table-problem-20170808/
+url: www.quantamagazine.org/new-shapes-solve-infinite-pool-table-problem-20170808/
 description: 두 개의 "희귀한 보석"이 수학의 광범위한 연구를 연결하는 신비로운 다차원 대상을 밝혀냈다.
 date: 2017-08-08
 ---

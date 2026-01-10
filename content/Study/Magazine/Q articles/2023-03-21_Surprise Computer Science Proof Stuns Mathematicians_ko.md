@@ -1,10 +1,7 @@
 ---
 title: 컴퓨터 과학의 놀라운 증명이 수학자들을 경악시키다
 description: 수십 년 동안 수학자들은 어떤 집합이 등차수열을 포함하는지에 대한 문제를 조금씩 개선해왔다. 지난달, 두 컴퓨터 과학자가 이 모든 결과를 단번에 뛰어넘었다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/
 date: 2023-03-21
 ---
 

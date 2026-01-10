@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 유한과 무한 사이의 다리를 놓다
 description: 놀라운 새 증명이 무한의 수학을 물리적 세계와 연결하는 데 도움을 주고 있다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/mathematicians-bridge-finite-infinite-divide-20160524/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-bridge-finite-infinite-divide-20160524/
 date: 2016-05-24
 ---
 

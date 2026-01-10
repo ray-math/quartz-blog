@@ -1,10 +1,7 @@
 ---
 title: 파리아 대칭에서 문샤인 연결 발견되다
-description: '파리아(추방자)'라 불릴 만큼 특이한 대칭이 수론과 깊은 연결을 가지고 있음이 밝혀졌다.
-author: 
-url: https://www.quantamagazine.org/moonshine-link-discovered-for-pariah-symmetries-20170922/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 파리아(추방자)라 불릴 만큼 특이한 대칭이 수론과 깊은 연결을 가지고 있음이 밝혀졌다.
+url: www.quantamagazine.org/moonshine-link-discovered-for-pariah-symmetries-20170922/
 date: 2017-09-22
 ---
 

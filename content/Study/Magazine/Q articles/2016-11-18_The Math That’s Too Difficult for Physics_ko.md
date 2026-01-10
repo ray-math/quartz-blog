@@ -1,11 +1,8 @@
 ---
 title: 물리학이 감당하기엔 너무 어려운 수학
-url: https://www.quantamagazine.org/the-math-thats-too-difficult-for-physics-20161118/
+url: www.quantamagazine.org/the-math-thats-too-difficult-for-physics-20161118/
 description: 물리학자들은 입자 충돌에서 실제로 무슨 일이 일어났는지 어떻게 재구성할까? 그들은 너무나 도전적이어서 어떤 경우에는 단순히 계산할 수 없는 수학을 통해서다. 아직까지는.
-author: Kevin Hartnett
 date: 2016-11-18
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 양성자들을 충돌시키는 것은 한 가지 문제다. 그 뒤에 남겨진 잔해로부터 과학적 의미를 이끌어내는 것은 완전히 다른 문제다.

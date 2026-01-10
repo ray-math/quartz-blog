@@ -1,10 +1,7 @@
 ---
 title: 존 호턴 콘웨이의 유쾌한 마법을 기념하며
 description: 전설적인 수학자의 유쾌한 천재성에서 영감을 받은 수 퍼즐, 기하학 퍼즐, 그리고 무작위 패턴 게임을 탐험하며 즐거움을 느껴보자.
-author: (원문 저자 정보 없음)
-url: https://www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/
 date: 2020-10-15
 ---
 

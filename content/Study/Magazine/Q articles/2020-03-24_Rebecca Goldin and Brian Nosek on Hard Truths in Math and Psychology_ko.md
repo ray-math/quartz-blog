@@ -1,10 +1,7 @@
 ---
 title: 레베카 골딘과 브라이언 노섹이 말하는 수학과 심리학의 불편한 진실
 description: 수학자 레베카 골딘과 심리학 연구자 브라이언 노섹이 호스트 스티븐 스트로가츠와 함께 불편한 진실을 전하는 이가 된다는 것이 어떤 것인지 이야기한다.
-url: https-//www.quantamagazine.org/rebecca-goldin-and-brian-nosek-on-hard-truths-in-math-and-psychology-20200324/
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/rebecca-goldin-and-brian-nosek-on-hard-truths-in-math-and-psychology-20200324/
 date: 2020-03-24
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 수학 파티 게임이 그래프 이론에 대해 알려주는 것
-url: https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/
+url: www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/
 description: 친구들과 함께 이 간단한 수학 게임을 즐기면서 그래프 이론의 근본 원리에 대한 통찰을 얻어보자.
 date: 2022-03-24
-author: Patrick Honner
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/03/Handshake_2880_Lede.jpg)

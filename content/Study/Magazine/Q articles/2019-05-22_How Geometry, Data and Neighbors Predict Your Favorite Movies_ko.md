@@ -1,6 +1,6 @@
 ---
 title: 기하학, 데이터, 그리고 이웃이 당신의 영화 취향을 예측하는 방법
-url: https://www.quantamagazine.org/how-geometry-data-and-neighbors-predict-your-favorite-movies-20190522/
+url: www.quantamagazine.org/how-geometry-data-and-neighbors-predict-your-favorite-movies-20190522/
 description: 고등학교 기하학만 알면 영화 추천 엔진의 기본 수학 원리를 이해할 수 있다.
 date: 2019-05-22
 ---

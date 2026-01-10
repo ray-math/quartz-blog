@@ -1,7 +1,7 @@
 ---
 title: 페르마의 마지막 정리 증명은 왜 개선될 필요가 없는가
 description: 페르마의 마지막 정리에 대한 획기적인 증명이 나온 지 수십 년이 지났지만, 이를 더욱 신뢰할 수 있게 만들려는 아이디어들이 계속 등장한다. 그러나 그러한 노력은 이 증명을 그토록 중요하게 만드는 본질에 대한 깊은 오해를 반영한다.
-url: https-//www.quantamagazine.org/why-the-proof-of-fermats-last-theorem-doesnt-need-to-be-enhanced-20190603/
+url: www.quantamagazine.org/why-the-proof-of-fermats-last-theorem-doesnt-need-to-be-enhanced-20190603/
 date: 2019-06-03
 ---
 

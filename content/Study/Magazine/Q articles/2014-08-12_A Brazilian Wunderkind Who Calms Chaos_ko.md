@@ -1,6 +1,6 @@
 ---
 title: 혼돈을 진정시키는 브라질의 신동
-url: https-//www.quantamagazine.org/artur-avila-is-first-brazilian-mathematician-to-win-fields-medal-20140812/
+url: www.quantamagazine.org/artur-avila-is-first-brazilian-mathematician-to-win-fields-medal-20140812/
 description: 혼돈 이론에서 편재하는 문제들에 대한 아르투르 아빌라의 해법이 "이 분야의 면모를 완전히 바꿔놓았으며", 브라질 최초의 필즈상 수상으로 이어졌다.
 date: 2014-08-12
 ---

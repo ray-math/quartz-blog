@@ -1,10 +1,7 @@
 ---
 title: 암호학의 미래는 양자 안전이 될 것이다. 그 작동 원리는 이렇다.
-url: https://www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/
+url: www.quantamagazine.org/cryptographys-future-will-be-quantum-safe-heres-how-it-will-work-20221109/
 description: 격자 암호는 먼 미래의 양자 컴퓨터 공격으로부터 비밀을 보호할 것을 약속한다.
-author: Quanta Magazine
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2022-11-09
 ---
 

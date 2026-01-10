@@ -1,10 +1,7 @@
 ---
-title: 수학자들, 60년 묵은 '해바라기' 난제를 길들이기 시작하다
+title: 수학자들, 60년 묵은 해바라기 난제를 길들이기 시작하다
 description: 60년 된 해바라기 추측을 향한 중대한 진전이, 무작위 시스템이 커질 때 질서가 어떻게 나타나기 시작하는지에 대한 빛을 비추고 있다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematicians-begin-to-tame-wild-sunflower-problem-20191021/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-begin-to-tame-wild-sunflower-problem-20191021/
 date: 2019-10-21
 ---
 

@@ -1,10 +1,7 @@
 ---
-title: 수학의 판도를 바꾼 '우연한 활동가'
+title: 수학의 판도를 바꾼 우연한 활동가
 description: 60년 경력 동안 레노어 블룸은 논리학과 계산 이론에 새로운 관점을 제시하며 수학과 컴퓨터 과학 분야의 여성들을 위해 헌신해왔다. 이제 그녀의 관심은 의식으로 향한다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/the-accidental-activist-who-changed-the-face-of-mathematics-20240103/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-accidental-activist-who-changed-the-face-of-mathematics-20240103/
 date: 2024-01-03
 ---
 

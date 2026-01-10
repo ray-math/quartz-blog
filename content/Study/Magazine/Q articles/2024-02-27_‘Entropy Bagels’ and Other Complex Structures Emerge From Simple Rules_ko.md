@@ -1,10 +1,7 @@
 ---
-title: '엔트로피 베이글'과 단순한 규칙에서 출현하는 복잡한 구조들
+title: 엔트로피 베이글과 단순한 규칙에서 출현하는 복잡한 구조들
 description: 단순한 환경의 단순한 규칙들이 수학자들을 계속 당혹시키고 있다. 이를 분석하기 위해 정교한 도구들을 고안하면서도 말이다.
-url: https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/
 date: 2024-02-27
 ---
 

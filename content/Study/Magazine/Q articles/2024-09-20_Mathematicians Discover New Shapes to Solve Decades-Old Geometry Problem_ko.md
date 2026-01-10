@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 수십 년 된 기하학 문제를 해결할 새로운 도형을 발견하다
-description: 수학자들은 오랫동안 '일정 너비 도형'이 고차원에서 어떻게 행동하는지 궁금해했다. 놀랍도록 단순한 구성법이 그들에게 답을 제공했다.
-author: Leila Sloman
-url: https://www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 수학자들은 오랫동안 일정 너비 도형이 고차원에서 어떻게 행동하는지 궁금해했다. 놀랍도록 단순한 구성법이 그들에게 답을 제공했다.
+url: www.quantamagazine.org/mathematicians-discover-new-shapes-to-solve-decades-old-geometry-problem-20240920/
 date: 2024-09-20
 ---
 

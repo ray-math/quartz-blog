@@ -1,11 +1,8 @@
 ---
 title: 대칭, 대수학, 그리고 몬스터
-url: https://www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/
+url: www.quantamagazine.org/symmetry-algebra-and-the-monster-20170817/
 description: 수학자와 물리학자가 대칭의 추상적 구조에서 무엇을 보는지 이해하기 위해, 친숙한 도형에서 출발해보자.
 date: 2017-08-17
-author: Scott Martin
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![fidget spinners](https://www.quantamagazine.org/wp-content/uploads/2017/08/FidgetSpinners_2880x1400_1.jpg)

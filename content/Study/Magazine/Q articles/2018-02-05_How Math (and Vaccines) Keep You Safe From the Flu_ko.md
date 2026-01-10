@@ -1,10 +1,8 @@
 ---
 title: 수학(그리고 백신)이 독감으로부터 당신을 보호하는 방법
-url: https-//www.quantamagazine.org/flu-vaccines-and-the-math-of-herd-immunity-20180205/
+url: www.quantamagazine.org/flu-vaccines-and-the-math-of-herd-immunity-20180205/
 description: 간단한 수학을 통해 광범위한 백신 접종이 어떻게 질병의 지수적 확산을 차단하고 전염병을 예방하는지 보여준다.
-author: Piper Harron
 date: 2018-02-05
-sitename: Quanta Magazine
 ---
 
 ![집단 면역 삽화](https://www.quantamagazine.org/wp-content/uploads/2018/02/Herd-Immunity_2880x1620.jpg)

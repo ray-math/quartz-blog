@@ -1,10 +1,7 @@
 ---
-title: 내가 'The Joy of x' 팟캐스트를 진행하는 이유
+title: 내가 The Joy of x 팟캐스트를 진행하는 이유
 description: 저명한 수학자이자 작가인 스티븐 스트로가츠가 다양한 분야의 선도적 연구자들과 나누는 진솔한 대화를 새 팟캐스트를 통해 공유하고자 하는 이유를 설명한다.
-author: Steven Strogatz
-url: https://www.quantamagazine.org/steven-strogatz-talks-science-and-math-on-the-joy-of-x-podcast-20200115/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/steven-strogatz-talks-science-and-math-on-the-joy-of-x-podcast-20200115/
 date: 2020-01-15
 ---
 

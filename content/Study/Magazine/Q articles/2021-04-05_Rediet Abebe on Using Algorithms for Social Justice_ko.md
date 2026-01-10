@@ -1,6 +1,6 @@
 ---
 title: 알고리즘으로 사회 정의를 추구하는 레디엣 아베베
-url: https://www.quantamagazine.org/rediet-abebe-on-using-algorithms-for-social-justice-20210405/
+url: www.quantamagazine.org/rediet-abebe-on-using-algorithms-for-social-justice-20210405/
 description: 컴퓨터 과학자 레디엣 아베베의 응용 수학에 대한 열정은 빈곤과 사회적 불평등 문제를 해결하려는 그녀의 열정과 긴밀히 연결되어 있다.
 date: 2021-04-05
 ---

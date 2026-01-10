@@ -1,11 +1,8 @@
 ---
-title: 난류의 미스터리를 파헤치는 새로운 '초확산' 증명
-url: https-//www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/
+title: 난류의 미스터리를 파헤치는 새로운 초확산 증명
+url: www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/
 description: 난류는 연구하기 악명 높게 어려운 현상이다. 수학자들이 이제 가장 작은 규모에서 난류를 풀어내기 시작했다.
 date: 2025-05-16
-author: Leila Sloman
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 서론

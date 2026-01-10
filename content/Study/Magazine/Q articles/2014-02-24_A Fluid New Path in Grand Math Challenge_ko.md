@@ -1,10 +1,7 @@
 ---
 title: 유체에서 찾은 위대한 수학 난제의 새로운 돌파구
 description: 대담한 추측이 수학의 가장 위대한 미해결 문제 중 하나인 유체 흐름을 기술하는 나비에-스토크스 방정식의 거동에 대한 잠재적 돌파구를 제시한다.
-author: 
-url: https://www.quantamagazine.org/a-fluid-new-path-in-grand-math-challenge-20240224/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-fluid-new-path-in-grand-math-challenge-20240224/
 date: 2014-02-24
 ---
 

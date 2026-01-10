@@ -1,10 +1,7 @@
 ---
 title: 네트워크 수학이 친구 만들기에 도움이 되는 방법
 description: 커뮤니티 내 기존 우정의 구조를 연구하면 새로운 친구 관계를 형성할 때 최선의 연결을 만드는 데 도움이 될 수 있다.
-author: 
-url: https://www.quantamagazine.org/how-network-math-can-help-you-make-friends-20180820/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-network-math-can-help-you-make-friends-20180820/
 date: 2018-08-20
 ---
 

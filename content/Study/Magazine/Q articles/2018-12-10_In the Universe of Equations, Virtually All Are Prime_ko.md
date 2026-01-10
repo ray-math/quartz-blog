@@ -1,6 +1,6 @@
 ---
 title: 방정식의 우주에서, 사실상 모든 것은 소수다
-url: https-//www.quantamagazine.org/in-the-universe-of-equations-virtually-all-are-prime-20181210/
+url: www.quantamagazine.org/in-the-universe-of-equations-virtually-all-are-prime-20181210/
 description: 숫자처럼 방정식도 항상 더 단순한 요소로 쪼갤 수 없다.
 date: 2018-12-10
 ---

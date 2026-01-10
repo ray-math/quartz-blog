@@ -1,6 +1,6 @@
 ---
 title: 위고 뒤미닐-코팽, 필즈상 수상
-url: https-//www.quantamagazine.org/hugo-duminil-copin-wins-the-fields-medal-20220705/
+url: www.quantamagazine.org/hugo-duminil-copin-wins-the-fields-medal-20220705/
 description: 위고 뒤미닐-코팽에게 사유는 거의 언제나 움직임을 동반한다. 복잡한 네트워크의 흐름 관련 성질에 대한 그의 통찰이 그에게 필즈상을 안겨주었다.
 date: 2022-07-05
 ---

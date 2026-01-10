@@ -1,6 +1,6 @@
 ---
 title: 음악가이자 마법사인 수론학자
-url: https://www.quantamagazine.org/number-theorist-manjul-bhargava-is-awarded-fields-medal-20140812/
+url: www.quantamagazine.org/number-theorist-manjul-bhargava-is-awarded-fields-medal-20140812/
 description: 예술적 진리와 아름다움을 찾는 여정이 만줄 바르가바를 수론의 가장 심오한 최근 발견들로 이끌었고, 이는 그가 필즈 메달을 수상하는 데 기여했다.
 date: 2014-08-12
 ---

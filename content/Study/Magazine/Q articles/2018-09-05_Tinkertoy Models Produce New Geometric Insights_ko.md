@@ -1,6 +1,6 @@
 ---
 title: 틴커토이 모형이 만들어낸 새로운 기하학적 통찰
-url: https://www.quantamagazine.org/tinkertoy-models-produce-new-geometric-insights-20180905/
+url: www.quantamagazine.org/tinkertoy-models-produce-new-geometric-insights-20180905/
 description: 복잡한 도형을 단순화하는 신생 분야가 수학자들로 하여금 도형이 시각화되는 공간에 따라 어떻게 달라지는지 이해할 수 있게 하고 있다.
 date: 2018-09-05
 ---

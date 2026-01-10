@@ -1,10 +1,7 @@
 ---
-title: 수학을 변화시킨 '쓸모없는' 관점
-url: https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/
+title: 수학을 변화시킨 쓸모없는 관점
+url: www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/
 description: 처음엔 무용하다고 평가받았던 표현론이 오늘날 수학 전반의 핵심이 되었다.
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2020-06-09
 ---
 

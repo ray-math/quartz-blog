@@ -1,11 +1,8 @@
 ---
 title: 큐비트도 비트만큼 안전할 수 있다는 연구 결과
 description: 새로운 연구 결과는 양자 정보가 이론적으로 고전 정보만큼 오류로부터 잘 보호될 수 있음을 보여준다.
-url: https-//www.quantamagazine.org/qubits-can-be-as-safe-as-bits-researchers-show-20220106/
+url: www.quantamagazine.org/qubits-can-be-as-safe-as-bits-researchers-show-20220106/
 date: 2022-01-06
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Illustration of two interweaving chains, one blue and one orange, against a blue background.](https://www.quantamagazine.org/wp-content/uploads/2022/01/EFC_FOLLOWUP_2880x1620_Lede.jpg)

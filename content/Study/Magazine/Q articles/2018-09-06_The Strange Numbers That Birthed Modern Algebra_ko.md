@@ -1,10 +1,7 @@
 ---
 title: 현대 대수학을 탄생시킨 기묘한 수들
-description: 19세기에 발견된 '사원수'라는 수가 수학자들에게 공간에서의 회전을 기술하는 방법을 제공하며 물리학과 수학을 영원히 변화시켰다.
-author: 
-url: https://www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 19세기에 발견된 사원수라는 수가 수학자들에게 공간에서의 회전을 기술하는 방법을 제공하며 물리학과 수학을 영원히 변화시켰다.
+url: www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/
 date: 2018-09-06
 ---
 

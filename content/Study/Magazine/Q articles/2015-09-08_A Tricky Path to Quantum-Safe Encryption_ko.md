@@ -1,11 +1,8 @@
 ---
 title: 양자 안전 암호화로 가는 험난한 길
 description: 미래의 양자 컴퓨터로부터 데이터를 보호하기 위한 노력 속에서, 암호학자들은 보안과 효율성 사이의 가느다란 경계선을 발견했다.
-url: https://www.quantamagazine.org/quantum-secure-cryptography-crosses-red-line-20150908/
-author: Natalie Wolchover
+url: www.quantamagazine.org/quantum-secure-cryptography-crosses-red-line-20150908/
 date: 2015-09-08
-sitename: Quanta Magazine
-hostname: quantamagazine.org
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/09/BreadCrumbTrail_1300.jpg)

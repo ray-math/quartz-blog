@@ -1,7 +1,7 @@
 ---
 title: 타다시 토키에다의 특별한 마법
-url: https://www.quantamagazine.org/tadashi-tokiedas-special-kind-of-magic-20200310/
-description: 수학자 타다시 토키에다와 진행자 스티븐 스트로가츠가 놀라운 물리적·수학적 성질을 지닌 단순한 '장난감'들로부터 우리가 세상에 대해 무엇을 배울 수 있는지 탐구한다.
+url: www.quantamagazine.org/tadashi-tokiedas-special-kind-of-magic-20200310/
+description: 수학자 타다시 토키에다와 진행자 스티븐 스트로가츠가 놀라운 물리적·수학적 성질을 지닌 단순한 장난감들로부터 우리가 세상에 대해 무엇을 배울 수 있는지 탐구한다.
 date: 2020-03-10
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 수학, 물리학, 생물학을 관통하는 보편적 패턴
 description: Quanta의 In Theory 비디오 시리즈가 자연 전반에서 발견되는 신비로운 수학적 패턴을 탐구하며 돌아왔다.
-url: https-//www.quantamagazine.org/the-universal-pattern-popping-up-in-math-physics-and-biology-20180823/
+url: www.quantamagazine.org/the-universal-pattern-popping-up-in-math-physics-and-biology-20180823/
 date: 2018-08-23
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/08/Universality_2880x1620.gif)

@@ -1,10 +1,7 @@
 ---
 title: 무한 번의 접기로 기하학 문제를 해결한 부자 팀
 description: 이 결과는 4차원 물체를 3차원으로 평탄화하는 더 큰 질문에 답하는 데 도움이 될 수 있다.
-author: 
-url: https://www.quantamagazine.org/father-son-team-solves-geometry-problem-with-infinite-folds-20220404/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/father-son-team-solves-geometry-problem-with-infinite-folds-20220404/
 date: 2022-04-04
 ---
 

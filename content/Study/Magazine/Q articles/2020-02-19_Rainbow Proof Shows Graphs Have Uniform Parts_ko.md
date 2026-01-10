@@ -1,11 +1,8 @@
 ---
 title: 무지개 증명이 밝힌 그래프의 균일한 구조
-url: https://www.quantamagazine.org/mathematicians-prove-ringels-graph-theory-conjecture-20200219/
+url: www.quantamagazine.org/mathematicians-prove-ringels-graph-theory-conjecture-20200219/
 description: 수학자들이 더 작은 그래프의 복사본으로 더 큰 그래프를 완벽하게 덮을 수 있다는 것을 증명했다.
 date: 2020-02-19
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 서론

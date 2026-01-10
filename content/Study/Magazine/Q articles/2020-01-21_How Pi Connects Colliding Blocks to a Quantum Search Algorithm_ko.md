@@ -1,10 +1,7 @@
 ---
 title: 충돌하는 블록과 양자 검색 알고리즘을 연결하는 원주율의 비밀
 description: 호기심 많은 물리학자가 이론적인 블록 충돌과 유명한 양자 검색 알고리즘 사이의 예상치 못한 연결고리를 발견했다.
-author: 
-url: https://www.quantamagazine.org/how-pi-connects-colliding-blocks-to-a-quantum-search-algorithm-20200121/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-pi-connects-colliding-blocks-to-a-quantum-search-algorithm-20200121/
 date: 2020-01-21
 ---
 

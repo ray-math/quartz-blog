@@ -1,11 +1,8 @@
 ---
 title: 최고의 삶을 살고 싶다면, 수학을 하라
-url: https://www.quantamagazine.org/math-and-the-best-life-an-interview-with-francis-su-20170202/
+url: www.quantamagazine.org/math-and-the-best-life-an-interview-with-francis-su-20170202/
 description: 고대 그리스인들은 최고의 삶이란 아름다움, 진리, 정의, 놀이, 그리고 사랑으로 가득 차 있다고 주장했다. 수학자 Francis Su는 그것들을 어디서 찾을 수 있는지 정확히 알고 있다.
-author: Kevin Hartnett
 date: 2017-02-02
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Francis Su](https://www.quantamagazine.org/wp-content/uploads/2017/02/1920wide_MSP-0007.jpg)

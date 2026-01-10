@@ -1,10 +1,7 @@
 ---
 title: 그래프의 구조를 예측하는 새로운 수학적 방법의 발견
 description: 그래프의 숨겨진 구조에 관한 새로운 연구에서, 수학자들이 무작위성의 한계를 탐구한다.
-author: 
-url: https://www.quantamagazine.org/mathematicians-discover-new-way-to-predict-structure-in-graphs-20230622/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-discover-new-way-to-predict-structure-in-graphs-20230622/
 date: 2023-06-22
 ---
 

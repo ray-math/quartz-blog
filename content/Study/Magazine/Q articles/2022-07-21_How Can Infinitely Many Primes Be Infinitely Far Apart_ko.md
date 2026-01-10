@@ -1,10 +1,7 @@
 ---
 title: 무한히 많은 소수가 무한히 멀리 떨어져 있을 수 있을까?
 description: 수학자들은 수천 년 동안 소수의 분포를 연구해 왔다. 최근 흥미로운 종류의 소수에 대한 결과들은 소수가 얼마나 흩어져 있을 수 있는지에 대한 새로운 관점을 제시한다.
-url: https://www.quantamagazine.org/how-can-infinitely-many-primes-be-infinitely-far-apart-20220721/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
+url: www.quantamagazine.org/how-can-infinitely-many-primes-be-infinitely-far-apart-20220721/
 date: 2022-07-21
 ---
 

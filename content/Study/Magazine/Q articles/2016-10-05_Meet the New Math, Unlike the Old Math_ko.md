@@ -1,10 +1,7 @@
 ---
-title: 새로운 수학을 만나다: 옛 수학과는 다른
+title: "새로운 수학을 만나다,  옛 수학과는 다른"
 description: 수학과 과학 교육을 개편하려는 최신 노력은 지식의 기본 구조에 대한 근본적인 재고를 제안한다. 하지만 이것이 성공할 시간을 받을 수 있을까?
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/math-and-science-education-pencils-down-20161005/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-and-science-education-pencils-down-20161005/
 date: 2016-10-05
 ---
 

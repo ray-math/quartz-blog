@@ -1,10 +1,7 @@
 ---
 title: 두 독립 연구팀이 발견한 아홉 번째 데데킨트 수
 description: 이 수들은 겉보기에 서로 무관해 보이는 다양한 수학적 구조를 세어낸다.
-author: 
-url: https://www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/ninth-dedekind-number-found-by-two-independent-groups-20230801/
 date: 2023-08-01
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: 차원을 정의하기 위한 여정
-url: https-//www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/
+url: www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/
 description: 차원 개념은 충분히 단순해 보이지만, 수학자들은 수세기 동안 이를 정확하게 정의하고 이해하기 위해 고군분투했다.
-author: Maggie Chiang
 date: 2021-09-13
 ---
 

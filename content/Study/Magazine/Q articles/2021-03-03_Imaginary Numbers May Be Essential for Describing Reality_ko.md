@@ -1,11 +1,8 @@
 ---
 title: 허수는 실재를 기술하는 데 필수적일 수 있다
 description: 새로운 사고실험이 양자역학은 제곱하면 음수가 되는 기묘한 수 없이는 작동하지 않음을 시사한다.
-url: https-//www.quantamagazine.org/imaginary-numbers-may-be-essential-for-describing-reality-20210303/
+url: www.quantamagazine.org/imaginary-numbers-may-be-essential-for-describing-reality-20210303/
 date: 2021-03-03
-author: Charlie Wood
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![허수의 단위인 문자 i로 지탱되는 카드 하우스](https://www.quantamagazine.org/wp-content/uploads/2021/03/Imaginary_numbers_2880x1620_Lede.jpg)

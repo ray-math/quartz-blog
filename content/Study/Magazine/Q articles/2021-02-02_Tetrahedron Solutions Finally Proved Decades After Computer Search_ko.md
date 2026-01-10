@@ -1,10 +1,7 @@
 ---
 title: 수십 년간의 컴퓨터 탐색 끝에 마침내 증명된 사면체 해
 description: 네 명의 수학자가 유리수 각도를 가진 모든 사면체를 분류하여, 정수론 기법을 사용해 기본 기하학 도형에 관한 오래된 질문을 해결했다.
-url: https-//www.quantamagazine.org/tetrahedron-solutions-finally-proved-decades-after-computer-search-20210202/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: Kevin Hartnett
+url: www.quantamagazine.org/tetrahedron-solutions-finally-proved-decades-after-computer-search-20210202/
 date: 2021-02-02
 ---
 

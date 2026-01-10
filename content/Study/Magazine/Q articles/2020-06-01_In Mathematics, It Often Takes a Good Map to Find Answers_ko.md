@@ -1,6 +1,6 @@
 ---
 title: 수학에서는 좋은 지도가 답을 찾는 열쇠다
-url: https-//www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/
+url: www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/
 description: 수학자들은 어떤 문제가 현재의 지식으로 해결 가능한지, 아니면 완전히 새로운 길을 개척해야 하는지 파악하려 노력한다.
 date: 2020-06-01
 ---

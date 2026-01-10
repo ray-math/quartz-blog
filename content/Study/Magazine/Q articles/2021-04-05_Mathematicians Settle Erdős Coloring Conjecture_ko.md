@@ -1,6 +1,6 @@
 ---
 title: 에르되시 색칠 추측, 수학자들이 마침내 해결하다
-url: https-//www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/
+url: www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/
 description: 50년 전 폴 에르되시와 두 동료 수학자가 즉석에서 풀 수 있을 거라 생각했던 그래프 이론 문제를 한 연구팀이 마침내 증명했다.
 date: 2021-04-05
 ---

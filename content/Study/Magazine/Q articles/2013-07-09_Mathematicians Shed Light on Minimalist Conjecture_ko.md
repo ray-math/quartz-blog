@@ -1,10 +1,7 @@
 ---
 title: 타원곡선의 유리수 해에 관한 최소주의 추측에 빛을 비추다
 description: 두 젊은 수학자가 다항식의 유리수 해 연구의 최전선인 3차 방정식에 빛을 비추고 있다.
-url: https-//www.quantamagazine.org/mathematicians-shed-light-on-minimalist-conjecture-20130709/
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-shed-light-on-minimalist-conjecture-20130709/
 date: 2013-07-09
 ---
 

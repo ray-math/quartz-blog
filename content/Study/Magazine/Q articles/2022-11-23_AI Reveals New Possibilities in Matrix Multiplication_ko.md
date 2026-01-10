@@ -1,6 +1,6 @@
 ---
 title: AI가 밝혀낸 행렬 곱셈의 새로운 가능성
-url: https-//www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/
+url: www.quantamagazine.org/ai-reveals-new-possibilities-in-matrix-multiplication-20221123/
 description: 게임을 플레이하는 신경망의 결과에서 영감을 받아, 수학자들은 오래된 수학 문제에 대해 예상치 못한 진전을 이루고 있다.
 date: 2022-11-23
 ---

@@ -1,6 +1,6 @@
 ---
 title: 저주받은 곡선을 풀어낸 수학자들
-url: https-//www.quantamagazine.org/mathematicians-crack-the-cursed-curve-20171207/
+url: www.quantamagazine.org/mathematicians-crack-the-cursed-curve-20171207/
 description: 40년 넘게 해결을 거부했던 유명한 수학 문제가 마침내 해결되었다. 수학자들은 수론과 물리학을 연결하는 직관을 따라 이 문제를 해결했다.
 date: 2017-12-07
 ---

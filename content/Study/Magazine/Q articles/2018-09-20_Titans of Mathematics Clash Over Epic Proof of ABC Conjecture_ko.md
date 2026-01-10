@@ -1,11 +1,8 @@
 ---
 title: ABC 추측의 대규모 증명을 둘러싼 수학 거장들의 충돌
 description: 두 수학자가 거의 6년간 수학계를 뒤흔든 증명의 핵심에서 치명적인 오류를 발견했다고 주장한다.
-url: https-//www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/
+url: www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/
 date: 2018-09-20
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Art for "Titans of Mathematics Clash Over Epic Proof of ABC Conjecture"](https://www.quantamagazine.org/wp-content/uploads/2018/08/ABC_Conjecture_2880x1620.jpg)

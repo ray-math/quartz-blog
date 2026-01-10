@@ -1,10 +1,7 @@
 ---
 title: 초월수의 역사를 다시 세다
 description: 초월수에는 e와 π 같은 유명한 예들이 포함되지만, 수학자들이 이들을 이해하기까지 수 세기가 걸렸다.
-author: 
-url: https://www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/recounting-the-history-of-maths-transcendental-numbers-20230627/
 date: 2023-06-27
 ---
 

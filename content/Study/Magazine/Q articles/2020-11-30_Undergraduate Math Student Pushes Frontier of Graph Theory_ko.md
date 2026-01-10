@@ -1,10 +1,7 @@
 ---
 title: 학부생이 그래프 이론의 최전선을 밀어붙이다
-url: https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
+url: www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
 description: 21세의 애슈윈 사는 선배 수학자들이 말하기를, 대학생으로서는 거의 전례가 없는 연구 업적을 쌓아올렸다.
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2020-11-30
 ---
 

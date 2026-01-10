@@ -1,11 +1,8 @@
 ---
 title: 물리학에서 가장 어려운 방정식은 무엇이 그토록 어렵게 만드는가?
 description: 나비에-스토크스 방정식은 정원 호스에서 흐르는 물처럼 단순하고 일상적인 현상을 기술하지만, 백만 달러짜리 수학적 난제를 제공한다.
-url: https-//www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/
+url: www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/
 date: 2018-01-16
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![연기 사진](https://www.quantamagazine.org/wp-content/uploads/2018/01/Smoke_lede1300.jpg)

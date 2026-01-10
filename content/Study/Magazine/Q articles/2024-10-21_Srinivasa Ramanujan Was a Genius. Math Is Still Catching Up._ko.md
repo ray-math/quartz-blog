@@ -1,11 +1,8 @@
 ---
 title: 스리니바사 라마누잔은 천재였다. 수학은 여전히 그를 따라잡는 중이다.
-url: https-//www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/
+url: www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/
 description: 식민지 인도의 가난한 집안에서 태어나 32세에 세상을 떠난 라마누잔은, 어디선가 갑자기 나타난 듯한 환상적인 통찰을 남겼고, 그 통찰은 오늘날까지도 수학 전체를 형성하고 있다.
 date: 2024-10-21
-author: (원문 작성자 유지)
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Lede-scaled.webp)

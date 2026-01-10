@@ -1,11 +1,8 @@
 ---
-title: 수학자들이 증명하다: 이 매듭은 주요 난제를 해결할 수 없다
+title: "수학자들이 증명하다,  이 매듭은 주요 난제를 해결할 수 없다"
 description: 유명한 slice-ribbon 추측에 반례가 될 것이라 여겨졌던 한 매듭이 실제로는 그렇지 않음을 보인 새로운 증명.
-url: https-//www.quantamagazine.org/mathematicians-prove-this-knot-cannot-solve-major-problem-20230202/
+url: www.quantamagazine.org/mathematicians-prove-this-knot-cannot-solve-major-problem-20230202/
 date: 2023-02-02
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/02/SliceRibbonConjecture-byKristinaArmitage-Lede-scaled.webp)

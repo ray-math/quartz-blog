@@ -1,10 +1,7 @@
 ---
 title: 음악과 수학에서 경관을 만드는 릴리언 피어스
 description: 릴리언 피어스는 수학 세계로의 접근을 변혁시키는 동시에, 이산과 연속을 연결하는 문제들에서 진전을 이루고자 한다.
-author: Leila Sloman
-url: https://www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/
 date: 2022-03-30
 ---
 

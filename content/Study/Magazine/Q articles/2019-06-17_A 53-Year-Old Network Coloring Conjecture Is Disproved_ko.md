@@ -1,10 +1,7 @@
 ---
 title: 53년 된 네트워크 색칠 추측이 반증되다
 description: 러시아 수학자가 단 3페이지 논문으로, 많은 전문가들이 가능하다고 생각했던 것보다 더 나은 특정 네트워크 색칠 방법을 제시했다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/mathematician-disproves-hedetniemis-graph-theory-conjecture-20190617/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematician-disproves-hedetniemis-graph-theory-conjecture-20190617/
 date: 2019-06-17
 ---
 

@@ -1,10 +1,7 @@
 ---
-title: 양자 프랙탈을 설명하는 '텐 마티니' 증명과 정수론의 만남
+title: 양자 프랙탈을 설명하는 텐 마티니 증명과 정수론의 만남
 description: 한 수학자가 증명한 사람에게 마티니 10잔을 주겠다고 할 만큼 어려운 것으로 알려진 이 증명은 양자역학과 무한히 복잡한 수학적 구조를 연결한다.
-author: 
-url: https://www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/ten-martini-proof-uses-number-theory-to-explain-quantum-fractals-20250825/
 date: 2025-08-25
 ---
 

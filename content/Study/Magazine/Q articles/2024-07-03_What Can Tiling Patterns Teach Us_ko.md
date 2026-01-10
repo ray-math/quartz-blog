@@ -1,11 +1,8 @@
 ---
 title: 타일링 패턴이 우리에게 가르쳐주는 것
-url: https://www.quantamagazine.org/what-can-tiling-patterns-teach-us-20240703/
+url: www.quantamagazine.org/what-can-tiling-patterns-teach-us-20240703/
 description: 표면을 타일로 덮으면 항상 반복적인 패턴이 나타난다—정말 그럴까? 이번 주 에피소드에서 수학자 나탈리 프리비 프랭크와 공동 진행자 잔나 레빈이 최근의 타일링 돌파구가 자연계의 구조적 비밀을 어떻게 밝혀낼 수 있는지 논의한다.
-author: (원문 저자 정보 없음)
 date: 2024-07-03
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/07/JoY-S3E12-Tiling-crPeterGreenwood-Lede-LOGO-scaled.webp)

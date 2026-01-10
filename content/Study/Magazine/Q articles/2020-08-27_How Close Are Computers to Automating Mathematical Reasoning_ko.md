@@ -1,11 +1,8 @@
 ---
 title: 컴퓨터는 수학적 추론 자동화에 얼마나 근접했는가?
-url: https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/
+url: www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/
 description: AI 도구가 차세대 정리 증명기를 형성하고 있으며, 그와 함께 수학과 기계 사이의 관계도 변화하고 있다.
-author: 
 date: 2020-08-27
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![로봇과 인간이 나란히 열심히 수학 문제를 푸는 일러스트](https://www.quantamagazine.org/wp-content/uploads/2020/08/Computer-Proof-Race_2880_Lede.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 단순한 수학 퍼즐이 어떻게 발견을 이끄는가
 description: 숫자 놀이가 깊은 수학적·과학적 통찰로 이어질 수 있다.
-author: 
-url: https://www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/
 date: 2021-05-28
 ---
 

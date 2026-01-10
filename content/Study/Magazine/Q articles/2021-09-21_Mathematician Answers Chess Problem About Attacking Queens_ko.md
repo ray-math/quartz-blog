@@ -1,10 +1,7 @@
 ---
 title: 수학자가 공격하는 퀸들의 체스 문제를 풀다
 description: n-퀸 문제는 체스판에 퀸들을 서로 공격하지 않도록 배치하는 방법이 몇 가지나 되는지를 찾는 문제다. 한 수학자가 이제 이 문제를 거의 완전히 해결했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/
 date: 2021-09-21
 ---
 

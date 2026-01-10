@@ -1,11 +1,8 @@
 ---
 title: 아인슈타인은 어떻게 방향을 잃었고, 그와 함께 일반상대성이론을 잃었는가
-url: https://www.quantamagazine.org/how-einstein-lost-his-bearings-and-with-them-general-relativity-20180314/
+url: www.quantamagazine.org/how-einstein-lost-his-bearings-and-with-them-general-relativity-20180314/
 description: 1913년, 알베르트 아인슈타인은 일반상대성이론을 거의 완성했다. 그러나 단순한 실수 하나가 그를 2년간의 고통스러운 이론 재검토로 이끌었다. 오늘날 수학자들은 여전히 그가 직면했던…
-author: Kevin Hartnett
 date: 2018-03-14
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![1920년 미국에서 출판된, 베를린 대학교 연구실의 알베르트 아인슈타인 사진](https://www.quantamagazine.org/wp-content/uploads/2018/03/Einstein_1300Lede.jpg)

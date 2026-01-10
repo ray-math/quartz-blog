@@ -1,11 +1,8 @@
 ---
 title: 고대 기하학 문제가 새로운 수학적 기법으로 해결되다
 description: 세 명의 수학자가 처음으로 원을 정사각형과 같은 넓이로 만드는 방법을 시각화할 수 있는 조각들로 나누어 보였다.
-url: https-//www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/
+url: www.quantamagazine.org/an-ancient-geometry-problem-falls-to-new-mathematical-techniques-20220208/
 date: 2022-02-08
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ## 서론

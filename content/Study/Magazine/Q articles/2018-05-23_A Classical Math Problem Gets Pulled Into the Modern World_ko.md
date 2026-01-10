@@ -1,10 +1,7 @@
 ---
 title: 고전 수학 문제가 현대 세계로 들어오다
 description: 한 세기 전, 위대한 수학자 다비트 힐베르트는 순수 수학에서 탐구적인 질문을 제기했다. 최적화 이론의 최근 진전이 힐베르트의 연구를 자율주행 자동차의 세계로 끌어들이고 있다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/a-classical-math-problem-gets-pulled-into-the-modern-world-20180523/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-classical-math-problem-gets-pulled-into-the-modern-world-20180523/
 date: 2018-05-23
 ---
 

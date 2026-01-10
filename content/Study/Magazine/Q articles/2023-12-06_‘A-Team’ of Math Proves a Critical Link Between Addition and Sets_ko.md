@@ -1,7 +1,7 @@
 ---
-title: 수학의 'A-팀'이 증명한 덧셈과 집합 사이의 결정적 연결
-description: 두 명의 필즈상 수상자를 포함한 네 명의 저명한 수학자로 구성된 팀이 '가법적 조합론의 성배'로 불리는 추측을 증명했다.
-url: https-//www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/
+title: 수학의 A-팀이 증명한 덧셈과 집합 사이의 결정적 연결
+description: 두 명의 필즈상 수상자를 포함한 네 명의 저명한 수학자로 구성된 팀이 가법적 조합론의 성배로 불리는 추측을 증명했다.
+url: www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/
 date: 2023-12-06
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 고대 전쟁 술책이 오늘날 수학에 살아 숨쉬는 방법
 description: 전설에 따르면 중국 군대는 병력 수를 숨기기 위해 수학적 술책을 사용했다고 한다. 이 기법은 현대 수학 연구의 많은 심오한 영역과 연결되어 있다.
-author: (original author)
-url: https://www.quantamagazine.org/how-ancient-war-trickery-is-alive-in-math-today-20210914/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-ancient-war-trickery-is-alive-in-math-today-20210914/
 date: 2021-09-14
 ---
 

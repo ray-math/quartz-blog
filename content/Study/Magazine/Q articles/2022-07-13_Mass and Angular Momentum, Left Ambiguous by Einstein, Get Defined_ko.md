@@ -1,10 +1,7 @@
 ---
 title: 아인슈타인이 모호하게 남긴 질량과 각운동량, 마침내 정의되다
 description: 놀랍게도 일반상대성이론 도입 107년이 지난 지금도 기본 개념들의 의미가 여전히 정립되고 있다.
-author: 
-url: https-//www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/mass-and-angular-momentum-left-ambiguous-by-einstein-get-defined-20220713/
 date: 2022-07-13
 ---
 

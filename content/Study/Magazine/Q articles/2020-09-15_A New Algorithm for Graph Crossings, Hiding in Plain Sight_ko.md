@@ -1,10 +1,7 @@
 ---
 title: 평면 그래프 교차 판별의 새로운 알고리즘, 눈앞에 숨어 있던 발견
 description: 두 컴퓨터 과학자가 가장 예상치 못한 곳에서 그래프 이론의 큰 도약을 위한 아이디어를 찾아냈다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/
 date: 2020-09-15
 ---
 

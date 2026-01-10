@@ -1,10 +1,7 @@
 ---
 title: 2024년 수학의 주요 성과
-url: https-//www.quantamagazine.org/the-year-in-math-20241216/
+url: www.quantamagazine.org/the-year-in-math-20241216/
 description: 기하학과 정수론의 획기적인 결과들이 수학계를 흥분시킨 한 해였으며, 동시에 인공지능의 발전이 수학의 미래를 변화시키기 시작했다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2024-12-16
 ---
 

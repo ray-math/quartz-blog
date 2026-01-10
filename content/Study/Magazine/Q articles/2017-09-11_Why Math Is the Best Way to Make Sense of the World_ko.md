@@ -1,10 +1,7 @@
 ---
 title: 왜 수학이 세상을 이해하는 최고의 방법인가
 description: 진실과 허구를 구별하려면 정량적 사고에서 출발해야 한다고 수학자 레베카 골딘이 주장한다.
-author: 
-url: https://www.quantamagazine.org/why-math-is-the-best-way-to-make-sense-of-the-world-20170911/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/why-math-is-the-best-way-to-make-sense-of-the-world-20170911/
 date: 2017-09-11
 ---
 

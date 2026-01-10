@@ -1,11 +1,8 @@
 ---
 title: 60년 묵은 그래프 문제, 아마추어 수학자가 풀다
-url: https-//www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/
+url: www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/
 description: 60년 넘게 정체되어 있던 "평면의 색칠수" 문제에서 첫 진전을 이루며, 노화 방지 연구자가 수학적 불멸을 달성했다.
-author: Kevin Hartnett
 date: 2018-04-17
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![826개 꼭짓점 그래프 그림](https://www.quantamagazine.org/wp-content/uploads/2018/04/Graph_826_MHeule_2880.jpg)

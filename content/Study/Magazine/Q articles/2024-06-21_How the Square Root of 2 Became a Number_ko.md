@@ -1,6 +1,6 @@
 ---
 title: 제곱근 2는 어떻게 수가 되었는가
-url: https-//www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/
+url: www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/
 description: 수직선과 같은 유용한 수학적 개념이 엄밀하게 정의되기까지 수천 년이 걸릴 수 있다.
 date: 2024-06-21
 ---

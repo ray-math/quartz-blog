@@ -1,10 +1,7 @@
 ---
 title: 서로 다른 분야를 융합하여, 수학자들이 오래된 문제에서 거리를 좁히다
 description: 수학자들이 모든 점 사이의 거리가 정수인 점들의 집합이 어떤 구조를 가질 수 있는지 밝혀냈다.
-author: 
-url: https-//www.quantamagazine.org/merging-fields-mathematicians-go-the-distance-on-old-problem-20240401/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/merging-fields-mathematicians-go-the-distance-on-old-problem-20240401/
 date: 2024-04-01
 ---
 

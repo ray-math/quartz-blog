@@ -1,6 +1,6 @@
 ---
 title: 수학이 배고픈 곰으로부터 당신을 구할 수 있을까?
-url: https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/
+url: www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/
 description: 이번 달의 퍼즐에서 수학은 생사가 걸린 문제다.
 date: 2021-06-29
 ---

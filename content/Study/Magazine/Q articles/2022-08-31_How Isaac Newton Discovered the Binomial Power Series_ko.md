@@ -1,10 +1,7 @@
 ---
 title: 아이작 뉴턴이 이항 거듭제곱 급수를 발견한 방법
 description: 질문을 다시 생각하고 패턴을 추적하면서 뉴턴은 곡선과 무한 급수 사이의 연결을 발견했다.
-author: 
-url: https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
 date: 2022-08-31
 ---
 

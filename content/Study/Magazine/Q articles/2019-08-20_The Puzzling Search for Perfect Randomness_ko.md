@@ -1,10 +1,7 @@
 ---
 title: 완벽한 무작위성을 찾는 수수께끼 같은 탐구
 description: 객관적이고 완벽한 무작위성이 존재하는가, 아니면 무작위성은 단지 우리의 무지의 산물일 뿐인가?
-author: Pradeep Mutalik
-url: https://www.quantamagazine.org/the-puzzling-search-for-perfect-randomness-20190820/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-puzzling-search-for-perfect-randomness-20190820/
 date: 2019-08-20
 ---
 

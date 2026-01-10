@@ -1,6 +1,6 @@
 ---
 title: 수학자들이 밝힌 도형이 무너지기 시작하는 임계점
-url: https-//www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
+url: www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
 description: 새로운 증명이 도형이 너무 주름져서 압축될 수 있게 되는 정확한 경계를 확립했다.
 date: 2021-06-03
 ---

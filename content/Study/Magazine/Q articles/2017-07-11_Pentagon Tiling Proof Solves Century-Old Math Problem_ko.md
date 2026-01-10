@@ -1,10 +1,7 @@
 ---
 title: 오각형 타일링 증명으로 1세기 묵은 수학 문제 해결
 description: 프랑스 수학자가 평면을 덮는 모든 볼록 오각형, 나아가 모든 볼록 다각형의 분류를 완성했다.
-author: Quanta Magazine
-url: https://www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/pentagon-tiling-proof-solves-century-old-math-problem-20170711/
 date: 2017-07-11
 ---
 

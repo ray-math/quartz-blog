@@ -1,6 +1,6 @@
 ---
 title: 2023년 수학계의 가장 큰 발견들
-url: https://www.quantamagazine.org/the-biggest-discoveries-in-math-in-2023-20231222/
+url: www.quantamagazine.org/the-biggest-discoveries-in-math-in-2023-20231222/
 description: 램지 이론의 획기적 성과와 놀랍도록 단순한 비주기 타일이 수학적 기쁨과 발견으로 가득했던 한 해를 장식했다.
 date: 2023-12-23
 ---

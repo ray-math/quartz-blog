@@ -1,11 +1,8 @@
 ---
 title: 17세에 40년 된 수학 미스터리를 해결한 한나 카이로
-url: https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/
+url: www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/
 description: 홈스쿨링의 제약을 벗어나고자 했던 한 10대 소녀가 버클리 대학원 수업에 들어가 40년 된 추측을 반증했다.
 date: 2025-08-01
-author: (원문 작성자)
-hostname: www.quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![줄무늬 셔츠를 입은 여성이 공원을 배경으로 서 있다](https://www.quantamagazine.org/wp-content/uploads/2025/07/HannahCairo-cr.ValeriePlesch-Lede-scaled.webp)

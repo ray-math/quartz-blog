@@ -1,10 +1,7 @@
 ---
 title: 산술기하학의 오라클
-url: https://www.quantamagazine.org/peter-scholze-and-the-future-of-arithmetic-geometry-20160628/
+url: www.quantamagazine.org/peter-scholze-and-the-future-of-arithmetic-geometry-20160628/
 description: 28세의 페터 숄체는 정수론과 기하학 사이의 깊은 연결을 밝혀내고 있다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2016-06-28
 ---
 

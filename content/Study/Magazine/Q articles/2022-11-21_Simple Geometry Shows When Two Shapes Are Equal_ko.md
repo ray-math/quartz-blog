@@ -1,10 +1,7 @@
 ---
 title: 두 도형의 넓이가 같음을 보여주는 간단한 기하학
 description: 두 다각형이 같은 넓이를 가짐을 증명하는 것은 그것들을 잘라서 재배열하는 것만큼 쉬울 수 있다.
-author: Patrick Honner
-url: https://www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/simple-geometry-shows-when-two-shapes-are-equal-20221121/
 date: 2022-11-21
 ---
 

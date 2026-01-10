@@ -1,11 +1,8 @@
 ---
 title: 새의 눈에서 발견한 자연의 숨겨진 질서
 description: 과학자들이 새의 눈, 구슬 상자, 그리고 놀라운 다른 장소들에서 발견한 신비로운 패턴—규칙적이지도, 무작위도 아닌 질서를 탐구하고 있다.
-url: https://www.quantamagazine.org/hyperuniformity-found-in-birds-math-and-physics-20160712/
-author: Natalie Wolchover
+url: www.quantamagazine.org/hyperuniformity-found-in-birds-math-and-physics-20160712/
 date: 2016-07-12
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/07/CHIKN_1K.jpg)

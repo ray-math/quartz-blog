@@ -1,6 +1,6 @@
 ---
 title: 위조 동전 퍼즐에서 수학적 진리를 찾아서
-url: https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/
+url: www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/
 description: 독자들은 논리적 추론과 수학적 통찰을 균형있게 활용하여 양팔 저울로 가짜 동전을 찾아냈다.
 date: 2022-07-29
 ---

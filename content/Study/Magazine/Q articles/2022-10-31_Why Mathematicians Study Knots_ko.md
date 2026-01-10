@@ -1,11 +1,8 @@
 ---
 title: 수학자들은 왜 매듭을 연구하는가
 description: 추상적인 수학적 호기심과는 거리가 멀게도, 매듭 이론은 수학과 그 너머의 많은 발견들을 이끌어왔다.
-url: https-//www.quantamagazine.org/why-mathematicians-study-knots-20221031/
+url: www.quantamagazine.org/why-mathematicians-study-knots-20221031/
 date: 2022-10-31
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/Knots_2880x1620_Lede2-scaled.webp)

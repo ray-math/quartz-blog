@@ -1,10 +1,7 @@
 ---
 title: 20년 만에 수학자 부부가 군론의 핵심 난제를 해결하다
 description: 브리타 슈페트는 단 하나의 중심 추측을 증명하는 데 경력 전체를 바쳤다. 그녀는 마침내 파트너 마크 카바네스와 함께 성공했다.
-author: 
-url: https-//www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/
 date: 2025-02-19
 ---
 

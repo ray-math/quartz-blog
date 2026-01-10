@@ -1,10 +1,7 @@
 ---
 title: 80년 된 난제에 대한 마법 같은 해답
 description: 테렌스 타오가 대중참여 수학과 전통적 연구를 결합해 전설적인 수학자 파울 에르되시가 제기한 오랜 문제를 해결했다.
-author: 
-url: https-//www.quantamagazine.org/a-magical-answer-to-an-80-year-old-puzzle-20151001/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-magical-answer-to-an-80-year-old-puzzle-20151001/
 date: 2015-10-01
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 수학 4인방, 통일 이론에 힘을 합치다
 description: 수론과 기하학을 연결하는 새로운 돌파구는 긴밀히 협력하는 수학자 그룹의 최신 승리일 뿐이다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/math-quartet-joins-forces-on-unified-theory-20151208/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-quartet-joins-forces-on-unified-theory-20151208/
 date: 2015-12-08
 ---
 

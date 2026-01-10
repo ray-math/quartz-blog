@@ -1,11 +1,8 @@
 ---
 title: 블랙홀이 마침내 수학적으로 안정적임이 증명되다
 description: 회전하는 블랙홀을 기술하는 아인슈타인 방정식의 해가 교란을 받아도 붕괴하지 않는다는 것이 증명되었다.
-url: https-//www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/
+url: www.quantamagazine.org/black-holes-finally-proven-mathematically-stable-20220804/
 date: 2022-08-04
-author: Steve Nadis
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![블랙홀을 연상시키는 검은 원반이 중앙에 있는 일러스트레이션.](https://www.quantamagazine.org/wp-content/uploads/2050/08/Kerr_Stability_2880x1620_Lede-scaled.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 양팔저울로 진실을 재는 퍼즐들
 description: 레크리에이션 수학에서 양팔저울은 정밀하고 정교한 논리를 요구하며 일반화의 기본 원리를 가르치는 무한한 퍼즐의 원천이다.
-author: Pradeep Mutalik
-url: https://www.quantamagazine.org/puzzles-on-weighing-truth-with-a-balance-scale-20220627/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/puzzles-on-weighing-truth-with-a-balance-scale-20220627/
 date: 2022-06-27
 ---
 

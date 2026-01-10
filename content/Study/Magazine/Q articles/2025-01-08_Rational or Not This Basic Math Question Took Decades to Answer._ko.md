@@ -1,6 +1,6 @@
 ---
 title: 유리수인가, 아닌가? 수십 년이 걸린 이 기본적인 수학 질문
-url: https-//www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/
+url: www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/
 description: 어떤 수가 분수로 표현될 수 있는지를 증명하는 것은 놀랍도록 어렵다. 새로운 포괄적 방법이 이 고대의 질문을 해결하는 데 도움을 줄 수 있다.
 date: 2025-01-08
 ---

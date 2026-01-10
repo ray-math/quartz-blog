@@ -1,10 +1,7 @@
 ---
 title: 비밀 코드와 우주 통신의 기초가 되는 대수학
 description: 교실에서 비밀 쪽지를 전달하든 우주 탐사선에서 이미지를 다운로드하든, 리드-솔로몬 코드는 정보를 담아 전송하고 오류를 수정하는 독창적인 방법을 제공한다.
-author: Patrick Honner
-url: https://www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-basic-algebra-behind-secret-codes-and-space-communication-20230123/
 date: 2023-01-23
 ---
 

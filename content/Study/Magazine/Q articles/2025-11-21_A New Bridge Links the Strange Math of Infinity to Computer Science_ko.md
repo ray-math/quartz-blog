@@ -1,11 +1,8 @@
 ---
 title: 무한의 기묘한 수학과 컴퓨터 과학을 잇는 새로운 다리
-url: https-//www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
+url: www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
 description: 기술적 집합론자들은 무한의 틈새 수학을 연구한다. 이제 그들은 자신들의 문제를 알고리즘이라는 구체적인 언어로 다시 쓸 수 있음을 보였다.
-author: Erica Klarreich
 date: 2025-11-21
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/11/Set-Theory-Algorythms-cr-Valentin-Tkach-Lede.jpg)

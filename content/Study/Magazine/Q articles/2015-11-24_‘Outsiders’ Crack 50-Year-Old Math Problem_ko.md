@@ -1,10 +1,7 @@
 ---
-title: '외부자들'이 50년 된 수학 난제를 해결하다
+title: 외부자들이 50년 된 수학 난제를 해결하다
 description: 세 명의 컴퓨터 과학자가 12개의 서로 다른 수학 분야의 핵심 문제를 해결했다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/computer-scientists-solve-kadison-singer-problem-20151124/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/computer-scientists-solve-kadison-singer-problem-20151124/
 date: 2015-11-24
 ---
 

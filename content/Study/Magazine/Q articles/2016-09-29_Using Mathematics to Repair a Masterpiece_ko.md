@@ -1,10 +1,7 @@
 ---
 title: 수학으로 복원하는 650년 전 걸작
 description: 새로운 수학적 기법들이 어떻게 650년 된 예술 작품을 되살리는 데 사용될 수 있는지를 보여준다.
-author: Ingrid Daubechies
-url: https://www.quantamagazine.org/using-mathematics-to-repair-a-masterpiece-20160929/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/using-mathematics-to-repair-a-masterpiece-20160929/
 date: 2016-09-29
 ---
 

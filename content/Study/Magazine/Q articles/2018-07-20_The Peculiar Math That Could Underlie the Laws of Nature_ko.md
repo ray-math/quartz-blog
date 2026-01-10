@@ -1,6 +1,6 @@
 ---
 title: 자연 법칙의 기저에 놓인 기묘한 수학
-url: https-//www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/
+url: www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/
 description: 기본 입자와 힘이 "팔원수(octonions)"라 불리는 기묘한 8차원 수에서 탄생한다는 오래된 의혹에 새로운 발견들이 힘을 실어주고 있다.
 date: 2018-07-20
 ---

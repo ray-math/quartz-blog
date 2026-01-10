@@ -1,10 +1,7 @@
 ---
 title: 네트워크 분석이 밝혀낸 말라리아의 치명적인 변신술
 description: 자연에서 가장 변이가 심한 유전자들 사이에 공유되는 영역을 조사함으로써, 말라리아 연구자들은 이 치명적인 기생충을 이해하는 퍼즐을 맞춰가고 있다.
-author: 
-url: https://www.quantamagazine.org/networks-untangle-malarias-deadly-shuffle-20151015/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/networks-untangle-malarias-deadly-shuffle-20151015/
 date: 2015-10-15
 ---
 

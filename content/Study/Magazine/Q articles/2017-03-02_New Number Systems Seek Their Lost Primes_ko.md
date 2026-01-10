@@ -1,10 +1,7 @@
 ---
-title: 잃어버린 소수를 찾아서: 새로운 수 체계의 탐구
+title: "잃어버린 소수를 찾아서,  새로운 수 체계의 탐구"
 description: 수세기 동안 수학자들은 기존 수에 새로운 값을 추가하여 문제를 해결하려 했다. 이제 그들은 그러한 시도가 초래한 의도치 않은 결과를 연구하고 있다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/ideal-numbers-seek-their-lost-primes-20170302/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/ideal-numbers-seek-their-lost-primes-20170302/
 date: 2017-03-02
 ---
 

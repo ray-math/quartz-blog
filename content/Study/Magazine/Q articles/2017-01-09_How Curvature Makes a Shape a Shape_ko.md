@@ -1,10 +1,7 @@
 ---
 title: 곡률이 도형을 도형답게 만드는 방법
-url: https://www.quantamagazine.org/how-curvature-makes-a-shape-a-shape-20170109/
+url: www.quantamagazine.org/how-curvature-makes-a-shape-a-shape-20170109/
 description: 물체의 곡률에 대한 고대의 연구가 수학자들을 단순한 방정식에 대한 새로운 이해로 이끌고 있다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2017-01-09
 ---
 

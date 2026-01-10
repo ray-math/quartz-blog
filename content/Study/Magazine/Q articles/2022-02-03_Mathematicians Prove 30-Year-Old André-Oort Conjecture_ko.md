@@ -1,6 +1,6 @@
 ---
 title: 수학자들, 30년 된 앙드레-오르트 추측 증명
-url: https-//www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/
+url: www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/
 description: 수학자 팀이 다항식 방정식의 해가 시무라 다양체라는 정교한 기하학적 대상과 어떻게 관련되는지에 대한 중요한 질문을 해결했다.
 date: 2022-02-03
 ---

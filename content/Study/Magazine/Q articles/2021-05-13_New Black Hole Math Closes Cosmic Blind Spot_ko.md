@@ -1,10 +1,7 @@
 ---
 title: 블랙홀 충돌 수학의 새로운 돌파구, 우주의 사각지대를 밝히다
 description: 블랙홀 충돌을 분석하는 수학적 근사법이 작동하지 말아야 할 영역에서도 놀랍도록 정확하게 작동한다. 천문학자들이 이를 이용해 숨겨진 블랙홀 충돌을 찾는 동안, 다른 이들은 묻는다—도대체 왜?
-author: Steve Nadis
-url: https://www.quantamagazine.org/new-black-hole-math-closes-cosmic-blind-spot-20210513/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-black-hole-math-closes-cosmic-blind-spot-20210513/
 date: 2021-05-13
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: 염소처럼 고집스러운 방정식을 푸는 법
-url: https-//www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/
+url: www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/
 description: 수학 교사들은 수백 년 동안 이상한 모양의 들판에 염소를 묶어 학생들을 당황시켜 왔다. 한 방목 염소 문제가 어떻게 한 세기 넘게 수학자들을 난감하게 만들었는지 알아보자.
-author: Patrick Honner
 date: 2021-05-06
 ---
 

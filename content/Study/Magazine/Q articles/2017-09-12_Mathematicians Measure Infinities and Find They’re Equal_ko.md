@@ -1,6 +1,6 @@
 ---
 title: 수학자들이 두 무한의 크기를 측정하다—그리고 그들이 같음을 발견하다
-url: https-//www.quantamagazine.org/mathematicians-measure-infinities-find-theyre-equal-20170912/
+url: www.quantamagazine.org/mathematicians-measure-infinities-find-theyre-equal-20170912/
 description: 두 수학자가 두 개의 서로 다른 무한이 크기가 같다는 것을 증명하며 오랜 질문을 해결했다. 그들의 증명은 무한의 크기와 수학 이론의 복잡도 사이의 놀라운 연결에 기반한다.
 date: 2017-09-12
 ---

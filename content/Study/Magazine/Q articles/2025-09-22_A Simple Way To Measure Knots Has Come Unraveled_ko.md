@@ -1,10 +1,7 @@
 ---
 title: 매듭을 측정하는 간단한 방법이 풀려버렸다
 description: 두 수학자가 직관적인 질문—매듭을 푸는 것이 얼마나 어려운가?—에 복잡한 답이 있음을 증명했다.
-author: 
-url: https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/
 date: 2025-09-22
 ---
 

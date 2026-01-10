@@ -1,10 +1,7 @@
 ---
 title: 고대 방정식이 수 체계의 새로운 면모를 드러내다
 description: 아르키메데스 이래로 수학자들은 제곱의 차를 포함하는 방정식에 매혹되어 왔다. 이제 두 수학자가 이러한 방정식이 얼마나 자주 해를 갖는지 증명하며, 수십 년간의 탐구를 마무리했다.
-author: Leila Sloman
-url: https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
 date: 2022-08-10
 ---
 

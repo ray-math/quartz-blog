@@ -1,10 +1,7 @@
 ---
 title: 위상수학자들이 투표소 배치 문제를 다루다
 description: 수학자들이 위상수학적 추상화를 사용하여 투표하기 어려운 장소를 찾아낸다.
-author: 
-url: https://www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/topologists-tackle-the-trouble-with-poll-placement-20240326/
 date: 2024-03-26
 ---
 

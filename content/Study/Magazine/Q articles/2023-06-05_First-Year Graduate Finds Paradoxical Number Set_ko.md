@@ -1,6 +1,6 @@
 ---
 title: 대학원 1년차 학생이 발견한 역설적인 수의 집합
-url: https-//www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/
+url: www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/
 description: 어떤 두 쌍도 같은 합을 갖지 않으면서, 세 개의 수를 더하면 충분히 큰 모든 정수를 만들 수 있는 집합의 존재가 증명되었다.
 date: 2023-06-05
 ---

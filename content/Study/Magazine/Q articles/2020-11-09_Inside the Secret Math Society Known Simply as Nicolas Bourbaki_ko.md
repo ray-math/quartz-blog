@@ -1,10 +1,7 @@
 ---
 title: 니콜라 부르바키라는 이름의 비밀 수학 결사 내부
 description: 거의 한 세기 동안 니콜라 부르바키의 익명 회원들은 순수한 수학적 사고의 표현을 의도한 책들을 집필해왔다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/
 date: 2020-11-09
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: 현실의 경계에 있는 (허수) 수
-description: 물리 세계의 기묘함을 모델링할 수 있을 만큼 특이한, '허수' 성분을 가진 복소수는 친숙한 수에 뿌리를 두고 있다.
-url: https://www.quantamagazine.org/the-imaginary-numbers-at-the-edge-of-reality-20181025/
+description: 물리 세계의 기묘함을 모델링할 수 있을 만큼 특이한, 허수 성분을 가진 복소수는 친숙한 수에 뿌리를 두고 있다.
+url: www.quantamagazine.org/the-imaginary-numbers-at-the-edge-of-reality-20181025/
 date: 2018-10-25
-author: Quanta Magazine
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/10/ImaginaryNumbers_2880x1620.jpg)

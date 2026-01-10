@@ -1,10 +1,7 @@
 ---
 title: 블랙홀을 구하려던 추측, 수학자들이 반증하다
 description: 수학자들이 강한 우주 검열 추측을 반증했다. 이 연구는 일반 상대성 이론 연구에서 가장 중요한 질문 중 하나에 답하며, 블랙홀 내부에 대한 우리의 생각을 근본적으로 바꾼다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematicians-disprove-conjecture-made-to-save-black-holes-20180517/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-disprove-conjecture-made-to-save-black-holes-20180517/
 date: 2018-05-17
 ---
 

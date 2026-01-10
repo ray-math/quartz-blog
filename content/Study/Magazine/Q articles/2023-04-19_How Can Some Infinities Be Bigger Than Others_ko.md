@@ -1,10 +1,7 @@
 ---
 title: 어떤 무한이 다른 무한보다 클 수 있을까?
 description: 모든 무한은 끝없이 계속되는데, 어떤 무한이 다른 무한보다 더 클 수 있을까? 수학자 Justin Moore가 Steven Strogatz와 함께 무한의 신비를 논의한다.
-author: Steven Strogatz
-url: https://www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-can-some-infinities-be-bigger-than-others-20230419/
 date: 2023-04-19
 ---
 

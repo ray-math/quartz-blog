@@ -1,10 +1,7 @@
 ---
 title: 여론조사 데이터에 숨어 있던 악마
 description: 2007년 금융위기를 초래한 바로 그 문제가 올해 대선의 여론조사 데이터도 무너뜨렸다.
-url: https-//www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-part-2-20161111/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
+url: www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-part-2-20161111/
 date: 2016-11-11
 ---
 

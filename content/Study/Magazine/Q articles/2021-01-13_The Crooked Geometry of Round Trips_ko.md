@@ -1,10 +1,7 @@
 ---
 title: 왕복 여행의 비틀린 기하학
-url: https-//www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/
+url: www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/
 description: 정육면체 모양의 지구에 산다면 어떨까? 세계를 한 바퀴 도는 최단 경로를 어떻게 찾을 수 있을까?
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2021-01-13
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 삶과 우주의 데이터에 숨겨진 비밀을 밝히는 사람
 description: 통계학자 도널드 리처즈는 실제 데이터에 숨겨진 미묘한 패턴을 발견하는 데 평생을 바쳤다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/donald-richards-seeks-patterns-in-the-data-of-life-and-the-universe-20180411/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/donald-richards-seeks-patterns-in-the-data-of-life-and-the-universe-20180411/
 date: 2018-04-11
 ---
 

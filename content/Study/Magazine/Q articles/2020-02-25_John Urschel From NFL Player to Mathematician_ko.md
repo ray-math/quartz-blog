@@ -1,6 +1,6 @@
 ---
 title: 존 어셜- NFL 선수에서 수학자로
-url: https://www.quantamagazine.org/john-urschel-from-nfl-player-to-mathematician-20200225/
+url: www.quantamagazine.org/john-urschel-from-nfl-player-to-mathematician-20200225/
 description: 볼티모어 레이븐스에서 프로 미식축구 선수 생활을 은퇴하고 수학자가 된 존 어셜이 진행자 스티븐 스트로가츠와 함께 자신을 그래프 이론의 세계로 끌어들인 매혹에 대해 이야기한다.
 date: 2020-02-25
 ---

@@ -1,10 +1,7 @@
 ---
 title: 우주의 기하학은 무엇인가?
 description: 우리 마음속에서 우주는 영원히 펼쳐지는 것처럼 보인다. 하지만 기하학을 사용하면 "보통의" 무한 공간에 대한 대안을 제공하는 다양한 3차원 형태들을 탐험할 수 있다.
-author: 
-url: https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/
 date: 2020-03-16
 ---
 

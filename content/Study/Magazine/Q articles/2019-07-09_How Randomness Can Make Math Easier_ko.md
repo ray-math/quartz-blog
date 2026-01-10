@@ -1,11 +1,8 @@
 ---
 title: 무작위성이 수학을 더 쉽게 만드는 방법
-url: https://www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/
+url: www.quantamagazine.org/how-randomness-can-make-math-easier-20190709/
 description: 무작위성은 수학적 명제를 증명하기 더 어렵게 만들 것처럼 보인다. 그러나 실제로는 정반대의 효과를 낸다.
-author: Kevin Hartnett
 date: 2019-07-09
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/07/MathRandomness_2880x1620-LEDE.jpg)

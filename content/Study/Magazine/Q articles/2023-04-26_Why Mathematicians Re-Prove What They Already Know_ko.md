@@ -1,10 +1,7 @@
 ---
 title: 수학자들은 왜 이미 아는 것을 다시 증명하는가
 description: 소수가 무한히 많다는 것은 수천 년 전부터 알려진 사실이지만, 새로운 증명들은 정리들이 서로 어떻게 의존하는지에 대한 신선한 통찰을 제공한다.
-author: 
-url: https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/
 date: 2023-04-26
 ---
 

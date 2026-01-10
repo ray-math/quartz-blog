@@ -1,6 +1,6 @@
 ---
 title: 끈 이론이 영감을 준 놀랍고도 당혹스러운 새로운 수학 증명
-url: https-//www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/
+url: www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/
 description: 수년 전, 한 대담한 필즈상 수상자가 대수기하학의 주요 문제를 해결할 수 있다고 주장하는 광범위한 프로그램의 개요를 제시했다. 다른 수학자들은 의구심을 품었다. 이제 그가 증명을 가지고 있다고 말한다.
 date: 2025-12-12
 ---

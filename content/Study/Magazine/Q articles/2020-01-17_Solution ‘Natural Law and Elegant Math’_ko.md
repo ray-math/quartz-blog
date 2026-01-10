@@ -1,11 +1,8 @@
 ---
 title: 자연 법칙과 우아한 수학 - 퍼즐 해답
-url: https://www.quantamagazine.org/puzzle-solution-natural-law-and-elegant-math-20200117/
+url: www.quantamagazine.org/puzzle-solution-natural-law-and-elegant-math-20200117/
 description: 수학은 많은 물리 현상에 우아한 설명을 제공하지만, 현실 세계의 상황은 종종 복잡한 수치 계산의 정글을 헤쳐나가야 한다.
-author: Pradeep Mutalik
 date: 2020-01-17
-sitename: Quanta Magazine
-hostname: quantamagazine.org
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/12/ElegantMath_2880x1500_Lede.jpg)

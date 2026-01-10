@@ -1,10 +1,7 @@
 ---
-title: 수학자들이 '구형 정육면체' 구축의 긴 여정을 완수하다
+title: 수학자들이 구형 정육면체 구축의 긴 여정을 완수하다
 description: 구처럼 행동하는 도형으로 공간을 "정육면체적으로" 채울 수 있을까? 기하학과 이론 전산학의 교차점에서 나온 증명이 "예"라고 답한다.
-author: 
-url: https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/
 date: 2023-02-10
 ---
 

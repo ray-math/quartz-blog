@@ -1,11 +1,8 @@
 ---
-title: 페르마의 마지막 정리의 '거의-증명'
-url: https-//www.quantamagazine.org/the-crazy-number-that-almost-solved-fermats-last-theorem-20170303/
-description: 19세기 수학자들은 '단위근'이 페르마의 마지막 정리를 풀 열쇠라고 믿었다. 그러나 그들은 치명적인 결함을 발견했다.
-author: Kevin Hartnett
+title: 페르마의 마지막 정리의 거의-증명
+url: www.quantamagazine.org/the-crazy-number-that-almost-solved-fermats-last-theorem-20170303/
+description: 19세기 수학자들은 단위근이 페르마의 마지막 정리를 풀 열쇠라고 믿었다. 그러나 그들은 치명적인 결함을 발견했다.
 date: 2017-03-03
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/03/zn1x2000.jpg)

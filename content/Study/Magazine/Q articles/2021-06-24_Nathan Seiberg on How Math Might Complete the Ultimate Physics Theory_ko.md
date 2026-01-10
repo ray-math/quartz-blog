@@ -1,11 +1,8 @@
 ---
 title: 네이선 사이버그가 말하는 궁극의 물리 이론을 완성할 수학
 description: 불완전한 상태임에도 양자장론은 지금까지 발견된 물리 이론 중 가장 성공적이다. 양자장론의 주요 설계자 중 한 명인 네이선 사이버그가 양자장론의 간극과 그것이 어떻게...
-url: https-//www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/
+url: www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/
 date: 2021-06-24
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![숲속 작은 나무 다리를 건너는 네이선 사이버그의 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/06/Nathan-Seiberg_Bridge_Lede-1.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 2020년 수학과 컴퓨터 과학의 한 해
 description: 수학자와 컴퓨터 과학자들이 계산 복잡도, 정수론, 기하학에서 큰 성과를 증명하는 동안, 컴퓨터는 수학 연구에서 점점 더 필수불가결한 존재임을 입증했다.
-author: 
-url: https://www.quantamagazine.org/the-year-in-math-and-computer-science-20201223/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-year-in-math-and-computer-science-20201223/
 date: 2020-12-23
 ---
 

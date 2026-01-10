@@ -1,10 +1,7 @@
 ---
 title: 시각의 비밀을 풀어내는 수학적 모델
-url: https-//www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/
+url: www.quantamagazine.org/a-mathematical-model-unlocks-the-secrets-of-vision-20190821/
 description: 수학자들과 신경과학자들이 시각이 어떻게 가능한지 설명하는, 해부학적으로 정확한 최초의 모델을 만들어냈다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2019-08-21
 ---
 

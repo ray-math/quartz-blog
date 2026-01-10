@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 홀수 그래프에 관한 오래된 질문에 답하다
 description: 두 수학자가 그래프에서 홀수 개의 연결을 가진 꼭짓점들의 비율에 관한 전설적인 문제를 해결했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/
 date: 2021-05-19
 ---
 

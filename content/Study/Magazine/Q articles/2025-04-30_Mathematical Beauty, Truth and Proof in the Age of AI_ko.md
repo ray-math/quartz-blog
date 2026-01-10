@@ -1,11 +1,8 @@
 ---
 title: AI 시대의 수학적 아름다움, 진리, 그리고 증명
-url: https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/
+url: www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/
 description: 수학자들이 수학을 한다는 것의 의미에 대한 근본적인 변화를 준비하기 시작했다.
 date: 2025-04-30
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/04/AI-Changing-Math_crSally-Caulwell-Lede.webp)

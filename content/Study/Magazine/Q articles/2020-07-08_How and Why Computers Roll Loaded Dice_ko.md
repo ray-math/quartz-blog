@@ -1,11 +1,8 @@
 ---
 title: 컴퓨터는 어떻게, 그리고 왜 편향된 주사위를 굴리는가
 description: 연구자들이 확정적인 기계에 확률을 주입하는 방법에 한 걸음 더 다가섰다.
-url: https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/
-author: Jordana Cepelewicz
+url: www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/
 date: 2020-07-08
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![다양한 종류와 색상의 주사위 사진](https://www.quantamagazine.org/wp-content/uploads/2020/07/Dice_2880x1620_Lede.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 음수 가중치 그래프에서 최단 경로를 찾는 빠른 알고리즘, 마침내 등장하다
 description: 연구자들이 일부 단계가 다른 단계를 상쇄할 수 있는 경우에도, 이론적으로 가능한 것과 거의 같은 속도로 네트워크를 통과하는 최단 경로를 찾는 방법을 발견했다.
-author: Leila Sloman
-url: https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
 date: 2023-01-18
 ---
 

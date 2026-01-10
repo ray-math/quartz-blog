@@ -1,6 +1,6 @@
 ---
-title: 페데리코 아르딜라: 수학, 음악, 그리고 가능성의 공간
-url: https://www.quantamagazine.org/federico-ardila-on-math-music-and-the-space-of-possibilities-20210329/
+title: "페데리코 아르딜라,  수학, 음악, 그리고 가능성의 공간"
+url: www.quantamagazine.org/federico-ardila-on-math-music-and-the-space-of-possibilities-20210329/
 description: 수학자 페데리코 아르딜라는 상상할 수 없이 거대한 수의 가능성들 속에 숨어있는 유용한 답을 찾기 위해 창조적인 접근을 취한다.
 date: 2021-03-29
 ---

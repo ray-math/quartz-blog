@@ -1,6 +1,6 @@
 ---
 title: 공간을 채우는 특별한 사면체를 찾는 학부생들
-url: https-//www.quantamagazine.org/undergraduates-hunt-for-special-tetrahedra-that-fit-together-20210209/
+url: www.quantamagazine.org/undergraduates-hunt-for-special-tetrahedra-that-fit-together-20210209/
 description: MIT 학부생 그룹이 공간을 타일링하는 사면체를 찾고 있다. 수천 년간 이어진 탐구의 최신 시도이며, 이들은 이미 새로운 발견을 해냈다.
 date: 2021-02-09
 ---

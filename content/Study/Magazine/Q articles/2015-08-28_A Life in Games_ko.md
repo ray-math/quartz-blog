@@ -1,11 +1,8 @@
 ---
 title: 게임 속에서 펼쳐진 삶
-url: https://www.quantamagazine.org/john-conways-life-in-games-20150828/
+url: www.quantamagazine.org/john-conways-life-in-games-20150828/
 description: 수학자 존 호턴 콘웨이의 무수한 업적들—생명 게임, 새싹 게임, 초실수—은 놀이하는 마음에서 탄생했다.
-author: Siobhan Roberts
 date: 2015-08-28
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 금이 간 낡은 영국식 이빨로 왼손 검지손가락을 갉아먹으며, 관자놀이 혈관이 불끈 튀어나오고 이마를 찌푸린 채, 엊그제 감은 듯한 머리카락 아래에서—수학자 존 호턴 콘웨이(John Horton Conway)는 아무런 미안함 없이 시간을 보내며 궁리하고 사색한다(tinkering and thinkering). 즉 곰곰이 생각에 잠긴다는 뜻이다. 하지만 그는 자신이 아무것도 안 하고, 게으름을 피우고, 게임을 하고 있을 뿐이라고 우길 것이다.

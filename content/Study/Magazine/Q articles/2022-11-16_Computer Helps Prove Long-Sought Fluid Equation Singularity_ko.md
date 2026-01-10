@@ -1,10 +1,7 @@
 ---
 title: 컴퓨터가 증명한 250년 숙원의 유체 방정식 특이점
 description: 250년 이상 수학자들은 오일러 방정식이 때때로 유체의 흐름을 설명하는 데 실패할 수 있는지 궁금해했다. 새로운 컴퓨터 보조 증명이 이 탐구에서 중요한 돌파구를 마련했다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/
 date: 2022-11-16
 ---
 

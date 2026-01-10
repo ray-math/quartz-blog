@@ -1,10 +1,7 @@
 ---
 title: 미국 수학 올림피아드 팀을 정상으로 되돌린 코치
 description: 포션 로는 자신의 경쟁 본능과 파격적인 성향을 활용해 미국 수학 올림피아드 프로그램에 새 생명을 불어넣었다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/po-shen-loh-led-the-u-s-math-team-back-to-first-place-20210216/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/po-shen-loh-led-the-u-s-math-team-back-to-first-place-20210216/
 date: 2021-02-16
 ---
 

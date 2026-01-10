@@ -1,11 +1,8 @@
 ---
 title: 자연의 임계 경보 시스템
-url: https-//www.quantamagazine.org/natures-critical-warning-system-20151118/
+url: www.quantamagazine.org/natures-critical-warning-system-20151118/
 description: 생태계 먹이그물, 뇌, 지구 기후 같은 복잡계에서 나타나는 경보 신호의 정체를 과학자들이 밝혀내고 있다. 이것이 미래의 재앙을 막는 데 도움이 될 수 있을까?
-author: (원문 작성자 정보 유지)
 date: 2015-11-18
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/11/CriticalSlowing_615x400.jpg)

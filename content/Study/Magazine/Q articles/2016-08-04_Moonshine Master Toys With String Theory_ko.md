@@ -1,10 +1,7 @@
 ---
 title: 문샤인의 대가, 끈 이론과 놀다
 description: 물리학자이자 수학자인 미란다 청(Miranda Cheng)은 끈 이론, 대수학, 정수론 사이의 신비로운 연결을 활용하는 작업을 하고 있다.
-author: 
-url: https://www.quantamagazine.org/moonshine-master-toys-with-string-theory-20160804/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/moonshine-master-toys-with-string-theory-20160804/
 date: 2016-08-04
 ---
 

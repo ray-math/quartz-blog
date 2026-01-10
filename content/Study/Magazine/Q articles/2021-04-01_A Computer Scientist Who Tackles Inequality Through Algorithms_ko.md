@@ -1,6 +1,6 @@
 ---
 title: 알고리즘으로 불평등에 맞서는 컴퓨터 과학자
-url: https-//www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/
+url: www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/
 description: 레디엣 아베베는 이론 컴퓨터 과학의 도구를 사용해 시급한 사회 문제를 이해하고 해결하려 한다.
 date: 2021-04-01
 ---

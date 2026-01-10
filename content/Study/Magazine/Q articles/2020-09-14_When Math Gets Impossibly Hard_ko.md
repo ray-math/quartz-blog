@@ -1,7 +1,7 @@
 ---
 title: 수학이 불가능할 정도로 어려워질 때
 description: 수학자들은 오랫동안 어떤 문제들은 단순히 해답이 존재하지 않는다는 현실과 씨름해왔다.
-url: https-//www.quantamagazine.org/when-math-gets-impossibly-hard-20200914/
+url: www.quantamagazine.org/when-math-gets-impossibly-hard-20200914/
 date: 2020-09-14
 ---
 

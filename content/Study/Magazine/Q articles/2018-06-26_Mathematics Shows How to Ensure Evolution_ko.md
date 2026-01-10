@@ -1,11 +1,8 @@
 ---
 title: 수학이 밝혀낸 진화를 보장하는 방법
 description: 그래프 이론에서 나온 새로운 결과들은 집단의 조직 방식이 자연선택의 궁극적 승리를 보장하거나—혹은 영원히 막을 수 있음을 증명한다.
-url: https-//www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/
+url: www.quantamagazine.org/mathematics-shows-how-to-ensure-evolution-20180626/
 date: 2018-06-26
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Illustration for "Mathematics Shows How to Ensure Evolution"](https://www.quantamagazine.org/wp-content/uploads/2018/06/Islands_288x1620.jpg)

@@ -1,8 +1,7 @@
 ---
 title: 대학원생이 수십 년 된 콘웨이 매듭 문제를 해결하다
-url: https-//www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/
+url: www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/
 description: 리사 피치릴로는 전설적인 수학자 존 콘웨이가 반세기 전에 발견한 이상한 매듭에 대한 오랜 질문에 일주일도 안 되어 답했다.
-author: Erica Klarreich
 date: 2020-05-19
 ---
 

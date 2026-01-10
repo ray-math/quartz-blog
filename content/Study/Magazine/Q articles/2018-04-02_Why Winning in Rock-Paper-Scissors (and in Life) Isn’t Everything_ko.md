@@ -1,10 +1,7 @@
 ---
 title: 가위바위보(그리고 인생)에서 이기는 것이 전부가 아닌 이유
-url: https://www.quantamagazine.org/the-game-theory-math-behind-rock-paper-scissors-20180402/
+url: www.quantamagazine.org/the-game-theory-math-behind-rock-paper-scissors-20180402/
 description: 가위바위보에서 존 내시의 게임 이론 균형 개념은 어떤 모습일까?
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2018-04-02
 ---
 

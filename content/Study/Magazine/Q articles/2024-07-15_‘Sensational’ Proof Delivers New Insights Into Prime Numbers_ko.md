@@ -1,10 +1,7 @@
 ---
-title: 소수에 대한 새로운 통찰을 제공하는 '센세이셔널한' 증명
+title: 소수에 대한 새로운 통찰을 제공하는 센세이셔널한 증명
 description: 이 증명은 유명한 리만 가설에 대한 잠재적 예외에 더 엄격한 한계를 설정한다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/sensational-proof-delivers-new-insights-into-prime-numbers-20240715/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/sensational-proof-delivers-new-insights-into-prime-numbers-20240715/
 date: 2024-07-15
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 강력한 아이디어의 간단한 시각적 증명
 description: 램지 정리는 그래프의 구조에서 나타나는 놀랍고도 유용한 일관성을 예측한다. 이 정리가 작동하는 방식에 대한 간단한 시각적 증명을 소개한다.
-url: https-//www.quantamagazine.org/a-simple-visual-proof-of-a-powerful-idea-20170413/
+url: www.quantamagazine.org/a-simple-visual-proof-of-a-powerful-idea-20170413/
 date: 2017-04-13
-author: Quanta Magazine
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/Ramsey28_2600.jpg)

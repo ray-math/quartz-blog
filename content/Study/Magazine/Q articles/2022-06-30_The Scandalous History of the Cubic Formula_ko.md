@@ -1,10 +1,7 @@
 ---
 title: 3차 방정식 해법의 스캔들로 얽힌 역사
 description: 3차 방정식을 풀려는 탐구는 결투, 배신, 그리고 현대 수학의 탄생으로 이어졌다.
-author: 
-url: https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/
 date: 2022-06-30
 ---
 

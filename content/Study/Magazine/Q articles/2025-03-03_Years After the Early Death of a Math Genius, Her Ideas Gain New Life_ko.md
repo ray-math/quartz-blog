@@ -1,6 +1,6 @@
 ---
 title: 수학 천재의 이른 죽음 이후, 그녀의 아이디어가 새로운 생명을 얻다
-url: https-//www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303/
+url: www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303/
 description: 새로운 증명이 故 마리암 미르자카니의 연구를 확장하며, 낯선 수학적 영역의 선구자로서 그녀의 유산을 공고히 했다.
 date: 2025-03-03
 ---

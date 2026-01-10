@@ -1,10 +1,7 @@
 ---
 title: 오각형의 (수학적) 문제
-url: https-//www.quantamagazine.org/the-math-problem-with-pentagons-20171211/
+url: www.quantamagazine.org/the-math-problem-with-pentagons-20171211/
 description: 삼각형과 정사각형은 빈틈없이 평면을 채운다. 그런데 오각형은 왜 그렇게 어려운 걸까?
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2017-12-11
 ---
 

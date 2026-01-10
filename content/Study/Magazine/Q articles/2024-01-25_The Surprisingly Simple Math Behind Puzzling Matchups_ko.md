@@ -1,10 +1,7 @@
 ---
 title: 놀라울 정도로 단순한 수학이 설명하는 복잡한 대결 구도
 description: Anna가 Benji를 이기고 Benji가 Carl을 이긴다면, Anna는 Carl을 이길까?
-author: 
-url: https://www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/
 date: 2024-01-25
 ---
 

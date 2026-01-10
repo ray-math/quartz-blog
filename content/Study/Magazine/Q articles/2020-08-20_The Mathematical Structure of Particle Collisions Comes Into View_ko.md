@@ -1,10 +1,7 @@
 ---
 title: 입자 충돌의 수학적 구조가 드러나다
 description: 물리학자들이 입자 충돌의 복잡한 수학 계산 속에서 숨겨진 대수적 구조를 발견했다. 일부는 이것이 자연 세계를 설명하는 더 우아한 이론으로 이어지기를 기대한다.
-author: Charlie Wood
-url: https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/
 date: 2020-08-20
 ---
 

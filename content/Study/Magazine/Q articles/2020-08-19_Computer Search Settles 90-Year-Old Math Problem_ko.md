@@ -1,10 +1,7 @@
 ---
 title: 컴퓨터 탐색으로 90년 된 수학 문제 해결
-url: https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/
+url: www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/
 description: 켈러의 추측을 컴퓨터 친화적인 그래프 탐색 문제로 변환함으로써, 연구자들이 마침내 공간을 타일로 덮는 문제를 해결했다.
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2020-08-19
 ---
 

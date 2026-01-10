@@ -1,8 +1,7 @@
 ---
 title: 무한한 방정식에 질서를 부여하는 혁신가
 description: 수학자 카우처 비르카르는 생존 농장에서 태어나 이란-이라크 전쟁 한가운데서 자랐다. 영국으로 망명한 후, 그는 난해한 대수기하학의 세계에 질서를 부여하는 데 성공했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/caucher-birkar-who-fled-war-and-found-asylum-wins-fields-medal-20180801/
+url: www.quantamagazine.org/caucher-birkar-who-fled-war-and-found-asylum-wins-fields-medal-20180801/
 date: 2018-08-01
 ---
 

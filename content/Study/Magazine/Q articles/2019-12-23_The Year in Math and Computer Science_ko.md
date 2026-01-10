@@ -1,6 +1,6 @@
 ---
 title: 2019년 수학과 컴퓨터 과학의 한 해
-url: https-//www.quantamagazine.org/quantas-year-in-math-and-computer-science-2019-20191223/
+url: www.quantamagazine.org/quantas-year-in-math-and-computer-science-2019-20191223/
 description: 수학자와 컴퓨터 과학자들이 수학의 근본적 이해를 재검토하는 동시에 정수론, 그래프 이론, 머신 러닝, 양자 컴퓨팅에서 큰 진전을 이루었다.
 date: 2019-12-23
 ---

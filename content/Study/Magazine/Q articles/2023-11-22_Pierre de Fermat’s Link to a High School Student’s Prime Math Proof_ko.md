@@ -1,10 +1,7 @@
 ---
 title: 한 고등학생의 소수 증명과 페르마의 연결고리
-description: 페르마의 덜 유명한 '소정리'가 어떻게 수학자들로 하여금 소수와 비슷한 카마이클 수를 연구하게 만들었는가.
-author: 
-url: https://www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 페르마의 덜 유명한 소정리가 어떻게 수학자들로 하여금 소수와 비슷한 카마이클 수를 연구하게 만들었는가.
+url: www.quantamagazine.org/pierre-de-fermats-link-to-a-high-school-students-prime-math-proof-20231122/
 date: 2023-11-22
 ---
 

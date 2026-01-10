@@ -1,10 +1,7 @@
 ---
 title: 에르되시의 최고 난제, 획기적 증명으로 첫 관문 돌파
 description: 두 수학자가 수 패턴에 관한 폴 에르되시의 가장 사랑받는 문제의 첫 단계를 증명했다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/landmark-math-proof-clears-hurdle-in-top-erdos-conjecture-20200803/
 date: 2020-08-03
 ---
 

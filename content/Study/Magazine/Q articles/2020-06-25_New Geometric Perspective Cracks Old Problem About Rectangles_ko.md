@@ -1,10 +1,7 @@
 ---
 title: 사각형에 관한 오래된 문제를 해결한 새로운 기하학적 관점
-description: 코로나19 봉쇄 기간 동안, 조슈아 그린과 앤드류 롭이 '직사각형 못 박기 문제'의 한 버전을 증명하는 방법을 알아냈다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 코로나19 봉쇄 기간 동안, 조슈아 그린과 앤드류 롭이 직사각형 못 박기 문제의 한 버전을 증명하는 방법을 알아냈다.
+url: www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/
 date: 2020-06-25
 ---
 

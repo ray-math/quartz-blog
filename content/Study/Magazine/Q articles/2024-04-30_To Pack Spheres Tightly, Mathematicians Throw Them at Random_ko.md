@@ -1,10 +1,7 @@
 ---
 title: 구를 빽빽하게 채우려면, 수학자들은 구를 무작위로 던진다
 description: 네 명의 수학자가 75년 된 기록을 깨고 고차원 구를 더 조밀하게 채우는 방법을 찾았다.
-url: https://www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: Leila Sloman
+url: www.quantamagazine.org/to-pack-spheres-tightly-mathematicians-throw-them-at-random-20240430/
 date: 2024-04-30
 ---
 

@@ -1,11 +1,8 @@
 ---
 title: 여전히 풀지 못하는 간단한 수학 문제
-url: https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/
+url: www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/
 description: 악명 높은 콜라츠 추측에 최근 진전이 있었지만, 우리는 여전히 어떤 수가 무한 루프를 벗어날 수 있는지 알지 못한다.
 date: 2020-09-22
-author: Patrick Honner
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/09/Collatz_2880x1620_Lede.jpg)

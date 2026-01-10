@@ -1,6 +1,6 @@
 ---
 title: 증명 없이, 수학자들은 얼마나 많은 증거가 충분한지 고민한다
-url: https-//www.quantamagazine.org/without-a-proof-mathematicians-wonder-how-much-evidence-is-enough-20181031/
+url: www.quantamagazine.org/without-a-proof-mathematicians-wonder-how-much-evidence-is-enough-20181031/
 description: 새로운 통계 모델이 정수론에서 오랫동안 유지되어 온 가정들에 의문을 제기한다. 증명만이 진정으로 중요한 분야에서 이 모델을 얼마나 신뢰해야 할까?
 date: 2018-10-31
 ---

@@ -1,11 +1,8 @@
 ---
 title: 19세기의 수수께끼가 마침내 풀리다
 description: 두 수학자가 소수와 관련된 합에서 나타나는 기묘한 패턴을 설명하기 위해 고안된 패터슨의 추측을 증명했다.
-url: https-//www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/
+url: www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/
 date: 2022-08-15
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Pattersons-Conjecture_2880x1620_Lede-scaled.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 오각형이 없는 그래프가 근본적으로 다르다는 것을 밝힌 새로운 증명
 description: 연구자들이 에르되시-하이날 추측의 특수한 경우를 증명했다. 이는 오각형과 유사한 구조를 배제한 그래프에서 무슨 일이 일어나는지를 보여준다.
-author: Steve Nadis
-url: https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/
 date: 2021-04-26
 ---
 

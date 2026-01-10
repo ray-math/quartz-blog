@@ -1,6 +1,6 @@
 ---
 title: 2022년 수학의 가장 큰 돌파구들
-url: https://www.quantamagazine.org/the-biggest-math-breakthroughs-in-2022-20221222/
+url: www.quantamagazine.org/the-biggest-math-breakthroughs-in-2022-20221222/
 description: 기하학, 조합론, 통계물리학, 정수론의 주요 돌파구에 대해 4개의 필즈 메달이 수여되었으며, 컴퓨터가 수학 분야를 어떻게 변화시키고 있는지에 대한 논의가 계속되었다.
 date: 2022-12-22
 ---

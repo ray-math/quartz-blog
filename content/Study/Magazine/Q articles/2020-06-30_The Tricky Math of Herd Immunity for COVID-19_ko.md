@@ -1,10 +1,7 @@
 ---
 title: COVID-19 집단면역의 까다로운 수학
 description: 집단면역은 장소마다 다르며, 이를 계산하는 데는 많은 요인이 영향을 미친다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/the-tricky-math-of-covid-19-herd-immunity-20200630/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-tricky-math-of-covid-19-herd-immunity-20200630/
 date: 2020-06-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 생명이 새긴 패턴을 해독하는 수학자
-url: https://www.quantamagazine.org/a-mathematician-who-decodes-the-patterns-stamped-out-by-life-20171220/
+url: www.quantamagazine.org/a-mathematician-who-decodes-the-patterns-stamped-out-by-life-20171220/
 description: 코리나 타르니타는 경쟁하는 생명체들이 만들어낸 토양의 기묘한 패턴을 해독한다.
 date: 2017-12-20
 ---

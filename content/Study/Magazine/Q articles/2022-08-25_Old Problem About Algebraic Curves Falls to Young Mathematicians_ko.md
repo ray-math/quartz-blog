@@ -1,11 +1,8 @@
 ---
 title: 수세기 된 대수 곡선 문제, 젊은 수학자들에게 무너지다
 description: 에릭 라슨과 이사벨 포그트가 보간 문제를 해결했다. 이는 기하학에서 가장 기본적인 대상에 관한 수세기 묵은 질문이었다. 그들의 거실 칠판도 이 성과에 한몫했다.
-url: https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/
+url: www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/
 date: 2022-08-25
-author: Jordana Cepelewicz
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Curves_2560_Lede.jpg)

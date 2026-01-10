@@ -1,11 +1,8 @@
 ---
 title: 그래프에서 규칙적 구조가 필연적으로 나타나는 시점을 보인 새로운 증명
-url: https-//www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
+url: www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
 description: 새로운 증명이 수학적 그래프가 규칙적인 부분구조를 포함하기 위해 정확히 얼마나 커야 하는지를 밝혀냈다.
 date: 2022-06-23
-author: Jordana Cepelewicz
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![선으로 연결된 점들.](https://www.quantamagazine.org/wp-content/uploads/2022/06/Graph_Bounds_2880x1620_Lede-scaled.jpg)

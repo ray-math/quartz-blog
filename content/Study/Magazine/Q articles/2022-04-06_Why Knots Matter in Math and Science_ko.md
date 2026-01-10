@@ -1,11 +1,8 @@
 ---
 title: 수학과 과학에서 매듭이 중요한 이유
-url: https-//www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/
+url: www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/
 description: 매듭은 DNA의 생화학이나 3차원 공간의 기하학을 이해하는 열쇠가 될 수 있다. Steven Strogatz가 Colin Adams, Lisa Piccirillo와 함께 이 신비를 탐구한다.
 date: 2022-04-06
-author: Steven Strogatz
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/JOY_OF_Y-E2_2880x1620_Logo_Lede.jpg)

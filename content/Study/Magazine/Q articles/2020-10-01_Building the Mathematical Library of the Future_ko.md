@@ -1,10 +1,7 @@
 ---
 title: 미래의 수학 도서관 건설하기
 description: 소규모 수학자 공동체가 Lean이라는 소프트웨어를 사용하여 새로운 디지털 저장소를 구축하고 있다. 그들은 이것이 수학 분야의 미래를 대표하기를 희망한다.
-url: https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
 date: 2020-10-01
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 제자리에, 준비, 곱하기!
 description: 초등학교에서 배운 곱셈 방법도 맞지만, 컴퓨터는 훨씬 더 빠른 알고리즘을 사용한다.
-url: https-//www.quantamagazine.org/the-math-behind-a-faster-multiplication-algorithm-20190923/
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-math-behind-a-faster-multiplication-algorithm-20190923/
 date: 2019-09-23
 ---
 

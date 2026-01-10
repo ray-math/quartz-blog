@@ -1,10 +1,7 @@
 ---
 title: 수학적 진리의 한계를 탐구하는 새로운 증명들
 description: 두 수학자 그룹이 힐베르트의 유명한 제10문제의 확장된 버전을 증명함으로써, 수학적으로 알 수 없는 영역을 넓혔다.
-author: 
-url: https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/
 date: 2025-02-03
 ---
 

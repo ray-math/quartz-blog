@@ -1,10 +1,7 @@
 ---
 title: 수학자들, 흔한 공간 속에서 숨겨진 구조를 발견하다
 description: 50년간의 탐색 끝에 수학자들은 벡터 공간에서 "부분공간 디자인"의 단 하나의 예만을 찾았다. 새로운 증명은 그러한 구조가 무한히 많이 존재함을 밝혀낸다.
-author: Erica Klarreich
-url: https-//www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/
 date: 2023-04-12
 ---
 

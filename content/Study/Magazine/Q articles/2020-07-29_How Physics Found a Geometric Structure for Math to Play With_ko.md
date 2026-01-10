@@ -1,10 +1,7 @@
 ---
 title: 물리학이 수학에 선물한 새로운 기하학의 세계
 description: 심플렉틱 기하학은 현대 수학의 여러 분야에 광범위한 영향을 미치는 비교적 새로운 분야다. 이 기하학이 무엇인지 알아보자.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/how-physics-gifted-math-with-a-new-geometry-20200729/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-physics-gifted-math-with-a-new-geometry-20200729/
 date: 2020-07-29
 ---
 

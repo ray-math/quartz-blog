@@ -1,6 +1,6 @@
 ---
 title: 재귀 수열의 놀라운 행동
-url: https-//www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/
+url: www.quantamagazine.org/the-astonishing-behavior-of-recursive-sequences-20231116/
 description: 어떤 기묘한 수학적 수열들은 항상 정수를 유지하다가—어느 순간 그렇지 않게 된다. 이 수수께끼 같은 패턴은 그래프 이론과 소수와의 연결을 드러내며 수학자들을 경탄하게 만들고 있다.
 date: 2023-11-16
 ---

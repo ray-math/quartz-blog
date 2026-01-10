@@ -1,11 +1,8 @@
 ---
 title: 다리 놓기를 즐기는 수학자
 description: Ana Caraiani는 야심찬 랭글랜즈 프로그램을 통해 수학을 통합하고자 한다.
-url: https-//www.quantamagazine.org/ana-caraiani-delights-in-building-mathematical-bridges-20211117/
+url: www.quantamagazine.org/ana-caraiani-delights-in-building-mathematical-bridges-20211117/
 date: 2021-11-17
-author: Steve Nadis
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![검은 코트를 입은 Ana Caraiani가 다리 위에 서 있는 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/11/Ana_Caraiani_2880x1620_Lede.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 1800년대 지도 색칠 문제, 컴퓨터만이 풀 수 있다
 description: 4색 문제는 설명하기는 간단하지만, 그 복잡한 증명은 여전히 찬사와 비판을 동시에 받고 있다.
-author: 
-url: https://www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/only-computers-can-solve-this-map-coloring-problem-from-the-1800s-20230329/
 date: 2023-03-29
 ---
 

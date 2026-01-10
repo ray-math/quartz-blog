@@ -1,10 +1,8 @@
 ---
 title: 고등학교 중퇴생 허준이, 필즈상을 수상하다
-url: https-//www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/
+url: www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/
 description: 허준이는 대학 6년 차에 우연히 만난 수학에 관심을 갖기 전까지 수학에 무관심했다. 이제 조합론과 기하학을 연결하는 그의 심오한 통찰은 수학계 최고의 영예로 이어졌다.
-author: Leila Sloman
 date: 2022-07-05
-sitename: Quanta Magazine
 ---
 
 ![다면체를 든 허준이](https://www.quantamagazine.org/wp-content/uploads/2022/06/Huh_2880x1620_Lede-scaled.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 수학자의 예상치 못한 물리 세계 여행
 description: 로렌 윌리엄스는 양의 그라스만 다양체라는 근본적인 대상의 조각들로부터 모험적인 수학 경력을 개척해왔다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
 date: 2020-12-16
 ---
 

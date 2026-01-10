@@ -1,6 +1,6 @@
 ---
-title: 수학자들이 '극단적' 블랙홀에 대한 호킹의 주장을 반박하다
-url: https-//www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/
+title: 수학자들이 극단적 블랙홀에 대한 호킹의 주장을 반박하다
+url: www.quantamagazine.org/mathematicians-prove-hawking-wrong-about-extremal-black-holes-20240821/
 description: 수십 년 동안 극단적 블랙홀은 수학적으로 불가능하다고 여겨졌다. 새로운 증명이 그 반대임을 밝혀냈다.
 date: 2024-08-21
 ---

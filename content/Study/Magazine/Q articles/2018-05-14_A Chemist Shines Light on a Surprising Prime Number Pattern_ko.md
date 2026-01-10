@@ -1,10 +1,7 @@
 ---
 title: 화학자가 놀라운 소수 패턴에 빛을 비추다
 description: 결정학자가 소수를 입자 시스템으로 취급하자, 회절 패턴이 정수론의 기존 추측에 대한 새로운 관점을 만들어냈다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/a-chemist-shines-light-on-a-surprising-prime-number-pattern-20180514/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-chemist-shines-light-on-a-surprising-prime-number-pattern-20180514/
 date: 2018-05-14
 ---
 

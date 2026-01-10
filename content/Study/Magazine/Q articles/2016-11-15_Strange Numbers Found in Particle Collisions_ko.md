@@ -1,10 +1,7 @@
 ---
 title: 입자 충돌에서 발견된 기묘한 수들
-url: https-//www.quantamagazine.org/strange-numbers-found-in-particle-collisions-20161115/
+url: www.quantamagazine.org/strange-numbers-found-in-particle-collisions-20161115/
 description: 물리학 실험 결과와 순수 수학의 중요한 수들 사이에서 예상치 못한 연결이 나타났다.
-author: (원문 그대로)
-hostname: www.quantamagazine.org
-sitename: Quanta Magazine
 date: 2016-11-15
 ---
 

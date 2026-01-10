@@ -1,8 +1,8 @@
 ---
-title: 취미생활자가 발견한 수학의 난제, '아인슈타인' 타일
+title: 취미생활자가 발견한 수학의 난제, 아인슈타인 타일
 description: 놀라울 정도로 단순한 이 타일은 평면을 반복되지 않는 패턴으로 채울 수 있는 최초의 단일 연결 타일이며, 반복 패턴으로는 평면을 채울 수 없다.
 date: 2023-04-04
-url: https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/
+url: www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/
 ---
 
 ![육각형 타일링이 모자 타일링으로 변화하는 빨간색과 노란색 일러스트레이션.](https://www.quantamagazine.org/wp-content/uploads/2023/04/EinsteinTiles-bySamuelVelasco-Lede-scaled.webp)

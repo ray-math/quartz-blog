@@ -1,10 +1,7 @@
 ---
 title: 컴퓨터가 수학자가 될 수 있을까?
-url: https-//www.quantamagazine.org/can-computers-be-mathematicians-20220629/
+url: www.quantamagazine.org/can-computers-be-mathematicians-20220629/
 description: 인공지능이 체스나 바둑 같은 문제 해결 과제에서 인간을 넘어섰다. 수학 연구가 다음 차례일까? Steven Strogatz가 수학자 Kevin Buzzard와 대화하며, 수학을 컴퓨터가 이해할 수 있는 언어로 번역하려는 노력에 대해 알아본다.
-author: Steven Strogatz
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2022-06-29
 ---
 

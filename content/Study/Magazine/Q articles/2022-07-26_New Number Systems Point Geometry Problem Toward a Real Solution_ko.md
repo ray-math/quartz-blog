@@ -1,10 +1,7 @@
 ---
 title: 새로운 수 체계가 기하학 문제를 실제 해답으로 이끌다
 description: 카케야 추측은 선을 모든 방향으로 향하게 하려면 얼마나 많은 공간이 필요한지를 예측한다. 수학자들은 한 가지 중요한 예외를 제외하고, 하나씩 다른 수 체계에서 이를 증명해왔다.
-author: 
-url: https://www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-number-systems-point-geometry-problem-toward-a-real-solution-20220726/
 date: 2022-07-26
 ---
 

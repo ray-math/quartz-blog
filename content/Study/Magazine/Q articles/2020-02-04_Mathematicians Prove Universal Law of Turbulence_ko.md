@@ -1,6 +1,6 @@
 ---
 title: 수학자들이 난류의 보편 법칙을 증명하다
-url: https-//www.quantamagazine.org/mathematicians-prove-universal-law-of-turbulence-20200204/
+url: www.quantamagazine.org/mathematicians-prove-universal-law-of-turbulence-20200204/
 description: 무작위성을 활용하여 세 명의 수학자가 난류 시스템의 혼돈스러운 운동을 지배하는 우아한 법칙을 증명했다.
 date: 2020-02-04
 ---

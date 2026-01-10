@@ -1,10 +1,7 @@
 ---
 title: 꿀벌 속삭이는 사람이 밝혀낸 수학의 비밀
 description: 스칼렛 하워드가 꿀벌에게 산술을 가르치는 동안, 꿀벌들은 그녀에게 수의 개념이 모든 두뇌에 얼마나 근본적인지 보여주었다.
-author: (원문 저자 정보 없음)
-url: https://www.quantamagazine.org/what-scarlett-howard-learns-from-the-bees-she-teaches-20200122/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/what-scarlett-howard-learns-from-the-bees-she-teaches-20200122/
 date: 2020-01-22
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 단순한 산술이 지닌 놀라운 힘
-url: https://www.quantamagazine.org/the-puzzling-power-of-simple-arithmetic-20210420/
+url: www.quantamagazine.org/the-puzzling-power-of-simple-arithmetic-20210420/
 description: 산술 연산을 가지고 놀다 보면 예상치 못한 깊이 있는 발견에 이를 수 있으며, 이는 종종 더 깊은 수학, 때로는 더 깊은 과학으로 우리를 안내한다.
 date: 2021-04-20
 ---

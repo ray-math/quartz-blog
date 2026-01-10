@@ -1,10 +1,7 @@
 ---
 title: 간단해 보이는 문제가 우주보다 큰 숫자를 만들어낸다
-url: https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204/
+url: www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204/
 description: 특정 벡터 시스템을 탐색하는 것이 가장 복잡한 계산 문제 중 하나임을 연구자들이 증명했다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2023-12-04
 ---
 

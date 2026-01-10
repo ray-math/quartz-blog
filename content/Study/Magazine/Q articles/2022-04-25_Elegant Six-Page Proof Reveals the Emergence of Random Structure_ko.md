@@ -1,10 +1,7 @@
 ---
 title: 무작위 구조의 출현을 밝히는 우아한 6페이지 증명
 description: 두 젊은 수학자가 Kahn-Kalai 추측의 완전한 증명으로 동료들을 놀라게 했다—무작위 집합과 그래프에서 구조가 어떻게 출현하는지에 대한 포괄적 진술이다.
-author: 
-url: https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/
 date: 2022-04-25
 ---
 

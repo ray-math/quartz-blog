@@ -1,6 +1,6 @@
 ---
 title: 층(Sheaf)이란 무엇인가?
-url: https-//www.quantamagazine.org/what-are-sheaves-20240719/
+url: www.quantamagazine.org/what-are-sheaves-20240719/
 description: 이 은유적인 정원들은 현대 수학의 중심 대상이 되었다.
 date: 2024-07-19
 ---

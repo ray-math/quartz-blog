@@ -1,11 +1,7 @@
 ---
 title: Quanta 팟캐스트를 소개합니다
-url: https-//www.quantamagazine.org/introducing-the-quanta-podcast-20250430/
+url: www.quantamagazine.org/introducing-the-quanta-podcast-20250430/
 description: 먼 우주의 탐험부터 세포 내부, 수학의 추상, 정보 자체의 복잡성까지, Quanta 팟캐스트는 알려진 것과 알려지지 않은 것 사이의 최전선을 탐험하는 여정이 될 것입니다.
-author: 
-url: https-//www.quantamagazine.org/introducing-the-quanta-podcast-20250430/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2025-04-30
 ---
 

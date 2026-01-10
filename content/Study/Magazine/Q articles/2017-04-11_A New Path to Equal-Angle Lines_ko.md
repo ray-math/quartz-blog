@@ -1,10 +1,7 @@
 ---
 title: 등각 직선으로 가는 새로운 길
 description: 등각 직선은 기하학의 기본 구성 요소다. 수학자들이 모든 차원에서 존재 가능한 등각 직선의 개수에 대해 더욱 엄격한 한계를 발견했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/a-new-path-to-equal-angle-lines-20170411/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-new-path-to-equal-angle-lines-20170411/
 date: 2017-04-11
 ---
 

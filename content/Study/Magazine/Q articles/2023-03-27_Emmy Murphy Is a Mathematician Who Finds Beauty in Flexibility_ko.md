@@ -1,10 +1,7 @@
 ---
 title: 유연성 속에서 아름다움을 발견하는 수학자, 에미 머피
 description: 수상 경력을 지닌 기하학자가 제약과 창조가 만나는 비옥한 경계에서 가장 큰 충만함을 느낀다.
-author: 
-url: https://www.quantamagazine.org/emmy-murphy-is-a-mathematician-who-finds-beauty-in-flexibility-20230327/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/emmy-murphy-is-a-mathematician-who-finds-beauty-in-flexibility-20230327/
 date: 2023-03-27
 ---
 

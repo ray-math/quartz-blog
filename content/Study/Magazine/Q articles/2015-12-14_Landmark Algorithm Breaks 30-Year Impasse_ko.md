@@ -1,11 +1,8 @@
 ---
 title: 30년 난제를 깬 획기적인 알고리즘
-url: https://www.quantamagazine.org/algorithm-solves-graph-isomorphism-in-record-time-20151214/
+url: www.quantamagazine.org/algorithm-solves-graph-isomorphism-in-record-time-20151214/
 description: 컴퓨터 과학의 핵심 문제 중 하나를 해결하는 빠른 새 알고리즘에 과학자들이 들썩이고 있다.
 date: 2015-12-14
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 컴퓨터 과학자들이 이 분야의 가장 핵심적인 문제 중 하나를 해결하는 빠른 새 알고리즘에 들썩이고 있다.

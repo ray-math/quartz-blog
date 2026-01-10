@@ -1,10 +1,7 @@
 ---
 title: 대학원생이 덧셈의 한계에 관한 고전적 문제를 해결하다
 description: 새로운 증명이 덧셈이 불가능해질 때 나타나는 숨겨진 패턴을 밝혀낸다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/
 date: 2025-05-22
 ---
 

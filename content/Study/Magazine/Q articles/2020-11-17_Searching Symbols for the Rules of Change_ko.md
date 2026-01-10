@@ -1,6 +1,6 @@
 ---
 title: 변화의 규칙을 찾기 위한 기호 탐색
-url: https://www.quantamagazine.org/bryna-kra-builds-mathematical-windows-to-symbolize-the-complex-20201117/
+url: www.quantamagazine.org/bryna-kra-builds-mathematical-windows-to-symbolize-the-complex-20201117/
 description: 브리나 크라는 복잡한 동역학계가 시간에 따라 어떻게 진화하는지 설명하는 수열의 패턴을 탐색한다.
 date: 2020-11-17
 ---

@@ -1,10 +1,7 @@
 ---
 title: 양자장론이 수학 난제의 문을 열다
 description: 수학자들이 오랫동안 이해하려 애써온 그래프의 모듈라이 공간. 새로운 논문이 물리학의 도구를 사용해 그 내부를 엿보는 데 성공했다.
-author: 
-url: https://www.quantamagazine.org/quantum-field-theory-pries-open-mathematical-puzzle-20230216/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/quantum-field-theory-pries-open-mathematical-puzzle-20230216/
 date: 2023-02-16
 ---
 

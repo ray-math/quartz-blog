@@ -1,11 +1,8 @@
 ---
 title: 그래프 이론은 어떻게 우리 세상을 형성하는가?
-url: https-//www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/
+url: www.quantamagazine.org/how-does-graph-theory-shape-our-world-20250626/
 description: 마리아 추드노프스키가 그래프 이론에서의 여정, 오랫동안 미해결로 남아있던 완벽 그래프 문제에 대한 획기적인 해법, 그리고 이 추상적인 분야가 일상과 교차하는 예상 밖의 방식들에 대해 성찰한다.
-author: (원문 저자 정보 없음)
 date: 2025-06-26
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![눈의 도식](https://www.quantamagazine.org/wp-content/uploads/2025/06/JOW-S4-Ep8-MARIA-CHUDNOVSKY-Lede-LOGO-scaled.webp)

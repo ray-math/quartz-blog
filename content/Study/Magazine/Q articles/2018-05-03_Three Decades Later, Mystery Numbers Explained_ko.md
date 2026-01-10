@@ -1,11 +1,8 @@
 ---
 title: 30년 만에 풀린 신비한 숫자들의 비밀
 description: 제타 값은 서로 멀리 떨어진 기하학적 세계들을 연결하는 것처럼 보인다. 새로운 증명에서 수학자들은 마침내 그 이유를 설명한다.
-url: https-//www.quantamagazine.org/three-decades-later-mystery-numbers-explained-20180503/
+url: www.quantamagazine.org/three-decades-later-mystery-numbers-explained-20180503/
 date: 2018-05-03
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![Art for "Three Decades Later, Mystery Numbers Explained"](https://www.quantamagazine.org/wp-content/uploads/2018/05/Cube_2880x1620.jpg)

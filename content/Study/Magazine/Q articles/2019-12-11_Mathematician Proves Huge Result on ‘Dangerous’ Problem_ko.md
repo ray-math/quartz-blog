@@ -1,10 +1,7 @@
 ---
-title: 수학자가 '위험한' 문제에서 거대한 성과를 증명하다
+title: 수학자가 위험한 문제에서 거대한 성과를 증명하다
 description: 수학자들은 콜라츠 추측을 수렁으로 간주하며 서로에게 멀리하라고 경고한다. 그러나 테런스 타오가 수십 년 만에 누구보다 큰 진전을 이루었다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematician-proves-huge-result-on-dangerous-problem-20191211/
 date: 2019-12-11
 ---
 

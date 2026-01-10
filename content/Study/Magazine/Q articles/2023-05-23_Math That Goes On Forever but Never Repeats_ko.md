@@ -1,10 +1,7 @@
 ---
 title: 영원히 계속되지만 결코 반복되지 않는 수학
 description: 간단한 수학으로 최근 발견된 비주기적 단일 타일의 복잡성을 이해할 수 있다.
-author: 
-url: https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/
 date: 2023-05-23
 ---
 

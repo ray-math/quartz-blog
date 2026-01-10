@@ -1,6 +1,6 @@
 ---
 title: 수학자들, 디지털적으로 섬세한 소수의 새로운 부류를 발견하다
-url: https-//www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/
+url: www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/
 description: 구체적인 예시를 하나도 찾지 못했음에도, 연구자들은 무한한 자릿수 중 어느 하나만 바꿔도 합성수가 되어버리는 매우 섬세한 소수가 널리 퍼져 있다는 것을 증명했다.
 date: 2021-03-30
 ---

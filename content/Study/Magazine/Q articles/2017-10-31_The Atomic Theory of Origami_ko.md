@@ -1,6 +1,6 @@
 ---
 title: 종이접기의 원자 이론
-url: https-//www.quantamagazine.org/the-atomic-theory-of-origami-20171031/
+url: www.quantamagazine.org/the-atomic-theory-of-origami-20171031/
 description: 종이접기의 접힘과 꺾임을 격자 안의 원자처럼 재해석함으로써, 연구자들은 단순한 구조 속에 숨겨진 놀라운 현상을 발견하고 있다.
 date: 2017-10-31
 ---

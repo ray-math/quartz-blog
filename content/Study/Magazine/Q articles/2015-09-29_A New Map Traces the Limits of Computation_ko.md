@@ -1,10 +1,7 @@
 ---
 title: 계산의 한계를 추적하는 새로운 지도
 description: 계산 복잡도 이론의 주요 진전이 컴퓨터가 할 수 있는 문제와 할 수 없는 문제 사이의 깊은 연결을 드러낸다.
-url: https-//www.quantamagazine.org/edit-distance-reveals-hard-computational-problems-20150929/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
+url: www.quantamagazine.org/edit-distance-reveals-hard-computational-problems-20150929/
 date: 2015-09-29
 ---
 

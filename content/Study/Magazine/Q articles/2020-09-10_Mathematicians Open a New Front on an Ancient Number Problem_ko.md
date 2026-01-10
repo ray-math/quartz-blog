@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 고대의 수 이론 문제에 새로운 돌파구를 열다
 description: 수천 년 동안 수학자들은 홀수 완전수가 존재하는지 궁금해했고, 그 과정에서 이 가상의 수가 만족해야 할 놀라운 제약 조건 목록을 만들어왔다. 이 문제에 대한 새로운 통찰이 등장했다.
-author: Steve Nadis
-url: https://www.quantamagazine.org/mathematicians-open-a-new-front-on-an-ancient-number-problem-20200910/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-open-a-new-front-on-an-ancient-number-problem-20200910/
 date: 2020-09-10
 ---
 

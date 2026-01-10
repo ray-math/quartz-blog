@@ -1,11 +1,8 @@
 ---
 title: 정수 수열의 감정가
 description: 50년 넘게 수학자 닐 슬로안(Neil Sloane)은 흥미롭고 중요한 정수 수열들의 권위 있는 컬렉션을 관리해왔다.
-url: https-//www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/
+url: www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/
 date: 2015-08-06
-author: (original author)
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/08/Sloane01_1k.jpg)

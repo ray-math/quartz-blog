@@ -1,10 +1,7 @@
 ---
 title: 수학에서 가장 아름다운 구조 중 하나를 이루는 삼조 트리
 description: 마르코프 수는 무리수의 비밀과 피보나치 수열의 패턴을 드러낸다. 하지만 이에 관한 한 가지 질문은 한 세기가 넘도록 증명되지 않고 있다.
-author: (원문 저자 정보 유지)
-url: https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/
 date: 2023-12-12
 ---
 

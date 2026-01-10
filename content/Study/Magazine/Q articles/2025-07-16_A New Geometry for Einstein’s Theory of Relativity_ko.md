@@ -1,10 +1,7 @@
 ---
 title: 아인슈타인 상대성이론을 위한 새로운 기하학
-url: https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/
+url: www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/
 description: 비엔나 대학교 수학자 팀이 일반상대성이론의 적용 범위를 확장하기 위한 도구를 개발하고 있다.
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2025-07-16
 ---
 

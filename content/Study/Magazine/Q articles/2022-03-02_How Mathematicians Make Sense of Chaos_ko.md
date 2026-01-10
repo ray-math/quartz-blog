@@ -1,10 +1,7 @@
 ---
 title: 수학자들은 혼돈을 어떻게 이해하는가
-url: https://www.quantamagazine.org/how-mathematicians-make-sense-of-chaos-20220302/
+url: www.quantamagazine.org/how-mathematicians-make-sense-of-chaos-20220302/
 description: 동역학계는 혼돈스럽고 예측 불가능할 수 있지만, 수학자들은 이를 이해하는 도구를 발견했다.
-author: (원문 그대로)
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2022-03-02
 ---
 

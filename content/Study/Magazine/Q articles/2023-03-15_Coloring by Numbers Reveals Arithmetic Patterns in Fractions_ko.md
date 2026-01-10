@@ -1,6 +1,6 @@
 ---
 title: 분수를 색칠하면 드러나는 산술 패턴
-url: https-//www.quantamagazine.org/coloring-by-numbers-reveals-arithmetic-patterns-in-fractions-20230315/
+url: www.quantamagazine.org/coloring-by-numbers-reveals-arithmetic-patterns-in-fractions-20230315/
 description: 최근 논문에서 두 명의 수학자가 분수를 범주화할 때 특정 패턴이 불가피하게 나타남을 증명했다.
 date: 2023-03-15
 ---

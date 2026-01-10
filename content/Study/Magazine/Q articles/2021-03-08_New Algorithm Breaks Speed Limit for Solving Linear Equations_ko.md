@@ -1,6 +1,6 @@
 ---
 title: 선형 방정식을 푸는 속도의 한계를 깬 새로운 알고리즘
-url: https-//www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/
+url: www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/
 description: 무작위성을 활용하여, 새로운 알고리즘이 수학과 컴퓨터 과학에서 가장 기본적인 계산 중 하나를 수행하는 근본적으로 새롭고 더 빠른 방법을 달성했다.
 date: 2021-03-08
 ---

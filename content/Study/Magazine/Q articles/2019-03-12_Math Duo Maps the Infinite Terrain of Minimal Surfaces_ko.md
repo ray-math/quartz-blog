@@ -1,10 +1,7 @@
 ---
 title: 무한한 극소곡면의 지형을 그려낸 수학 듀오
 description: 두 수학자가 30년 전의 모호한 수학 이론을 발전시켜, 비눗막과 같은 극소곡면이 광범위한 형태 속에 풍부하게 나타남을 보였다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/math-duo-maps-the-infinite-terrain-of-minimal-surfaces-20190312/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-duo-maps-the-infinite-terrain-of-minimal-surfaces-20190312/
 date: 2019-03-12
 ---
 

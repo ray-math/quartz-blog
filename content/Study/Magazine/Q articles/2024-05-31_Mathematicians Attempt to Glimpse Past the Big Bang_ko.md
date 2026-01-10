@@ -1,11 +1,8 @@
 ---
 title: 빅뱅 이전을 들여다보려는 수학자들의 시도
-url: https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/
+url: www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/
 description: 모형 시공간의 기하학을 연구함으로써, 연구자들은 우주의 첫 순간들에 대한 대안적 관점을 제시한다.
 date: 2024-05-31
-author: Steve Nadis
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/05/BeforeInflation-crNicoRoper-Lede-scaled.webp)

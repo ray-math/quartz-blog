@@ -1,10 +1,7 @@
 ---
 title: 구를 이용해 화성과 통신하는 방법
 description: 메시지가 뒤섞이는 것을 방지하기 위해, 수학자들은 메시지를 기하학적 형태로 변환할 수 있다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/how-to-use-a-sphere-to-talk-to-mars-20170412/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-to-use-a-sphere-to-talk-to-mars-20170412/
 date: 2017-04-12
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 무작위 표면에 숨겨진 정교한 질서
-url: https-//www.quantamagazine.org/random-surfaces-hide-an-intricate-order-20190702/
+url: www.quantamagazine.org/random-surfaces-hide-an-intricate-order-20190702/
 description: 수학자들이 무작위 표면에 무작위 과정을 적용하면 일관된 패턴이 나타난다는 것을 증명했다.
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2019-07-02
 ---
 

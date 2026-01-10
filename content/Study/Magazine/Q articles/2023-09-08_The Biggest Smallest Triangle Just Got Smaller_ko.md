@@ -1,10 +1,7 @@
 ---
 title: 가장 큰 최소 삼각형이 더 작아졌다
 description: 정사각형 안에 점들을 빽빽이 배치할 때 생기는 삼각형 크기를 추정하는 문제에서, 수십 년간의 정체를 깨는 새로운 증명이 등장했다.
-author: 
-url: https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/
 date: 2023-09-08
 ---
 

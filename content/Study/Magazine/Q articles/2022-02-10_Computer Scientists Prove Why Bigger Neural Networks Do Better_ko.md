@@ -1,10 +1,7 @@
 ---
 title: 컴퓨터 과학자들이 증명한 거대 신경망의 우수성
 description: 두 연구자가 신경망이 더 잘 기억하려면 기존 예상보다 훨씬 더 많은 매개변수가 필요함을 증명했다.
-author: 
-url: https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/
 date: 2022-02-10
 ---
 

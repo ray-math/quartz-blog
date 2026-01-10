@@ -1,10 +1,7 @@
 ---
-title: 수학의 '가장 오래된 문제'에 새로운 답이 나오다
+title: 수학의 가장 오래된 문제에 새로운 답이 나오다
 description: 새로운 증명이 정수를 단위분수의 합으로 표현하는 방법의 편재성에 관한 수십 년 된 결과를 크게 강화했다.
-author: Quanta Magazine
-url: https://www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/
 date: 2022-03-09
 ---
 

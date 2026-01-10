@@ -1,6 +1,6 @@
 ---
 title: 슈퍼순열의 숨겨진 비밀을 풀어내다
-url: https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/
+url: www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/
 description: SF 소설가와 인터넷 익명 댓글 작성자가 오랜 순열 문제에 돌파구를 마련했다. 그들은 무엇을 발견했을까?
 date: 2019-01-16
 ---

@@ -1,11 +1,8 @@
 ---
 title: 어떤 공간은 쪼갤 수 없다는 증명
 description: 수학자들이 백 년 묵은 삼각분할 추측을 해결했다. 이는 모든 공간을 더 작은 단위로 나눌 수 있는지 묻는 위상수학의 주요 문제였다.
-url: https-//www.quantamagazine.org/triangulation-conjecture-disproved-20150113/
+url: www.quantamagazine.org/triangulation-conjecture-disproved-20150113/
 date: 2015-01-13
-author: Kevin Hartnett
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/01/GlenFaught_615x400.gif)

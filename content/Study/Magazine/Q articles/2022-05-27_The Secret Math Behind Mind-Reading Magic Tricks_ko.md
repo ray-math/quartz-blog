@@ -1,10 +1,7 @@
 ---
 title: 마음을 읽는 마술의 숨은 수학
 description: 네 가지 퍼즐 해법이 불가능해 보이는 적은 정보로 숨겨진 숫자를 알아내는 다양한 방법을 보여준다.
-author: Quanta Magazine
-url: https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/
 date: 2022-05-27
 ---
 

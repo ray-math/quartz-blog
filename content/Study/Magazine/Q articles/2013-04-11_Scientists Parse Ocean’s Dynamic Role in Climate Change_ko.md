@@ -1,10 +1,7 @@
 ---
 title: 과학자들이 기후 변화에서 해양의 역동적 역할을 밝히다
 description: 수학자와 해양학자들이 남극해의 혹독한 바다에서 수집한 새로운 데이터가 기후 모델을 극적으로 개선할 수 있다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/scientists-parse-oceans-role-in-climate-change-20130411/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/scientists-parse-oceans-role-in-climate-change-20130411/
 date: 2013-04-11
 ---
 

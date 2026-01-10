@@ -1,11 +1,8 @@
 ---
 title: The Joy of x 팟캐스트 새 시즌, 과학자들의 내면을 탐구하다
-url: https-//www.quantamagazine.org/new-season-of-the-joy-of-x-podcast-explores-scientists-inner-lives-20210302/
+url: www.quantamagazine.org/new-season-of-the-joy-of-x-podcast-explores-scientists-inner-lives-20210302/
 description: 스티븐 스트로가츠와 저명한 연구자들이 나누는 깊이 있는 대화의 두 번째 시즌이 팬데믹으로 지친 우리의 지적 갈증을 채워준다.
 date: 2021-03-02
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![스티븐 스트로가츠가 마이크 앞에 앉아 있고, 주변에 다양한 주제를 상징하는 아이콘들이 소용돌이치는 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2021/03/Joy-of-X_2560_Lede.jpg)

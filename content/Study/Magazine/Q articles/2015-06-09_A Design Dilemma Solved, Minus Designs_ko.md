@@ -1,10 +1,7 @@
 ---
 title: 150년 묵은 조합 디자인 문제, 마침내 해결되다
 description: 사람들을 그룹으로 묶는 방법에 관한 150년 된 수수께끼가 해결되었지만, 여전히 많은 퍼즐이 남아 있다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/150-year-old-math-design-problem-solved-20150609/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/150-year-old-math-design-problem-solved-20150609/
 date: 2015-06-09
 ---
 

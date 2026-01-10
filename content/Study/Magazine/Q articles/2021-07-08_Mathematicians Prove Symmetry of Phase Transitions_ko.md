@@ -1,10 +1,7 @@
 ---
 title: 수학자들이 상전이의 대칭성을 증명하다
 description: 수학자 그룹이 임계점에서 회전 불변성이라는 대칭성이 많은 물리 시스템에 걸쳐 보편적인 성질임을 증명했다.
-author: 
-url: https://www.quantamagazine.org/mathematicians-prove-symmetry-of-phase-transitions-20210708/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-prove-symmetry-of-phase-transitions-20210708/
 date: 2021-07-08
 ---
 

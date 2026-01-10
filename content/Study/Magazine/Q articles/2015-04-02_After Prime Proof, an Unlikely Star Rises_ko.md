@@ -1,10 +1,7 @@
 ---
 title: 소수 증명 이후, 예상치 못한 스타의 탄생
 description: 2년 전만 해도 거의 무명이었던 장이탕은 정수론의 주요 난제를 풀어내며 수학계의 스타로 급부상했다. 그는 이제 어디로 향할 것인가?
-author: Erica Klarreich
-url: https://www.quantamagazine.org/yitang-zhang-and-the-mystery-of-numbers-20150402/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/yitang-zhang-and-the-mystery-of-numbers-20150402/
 date: 2015-04-02
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 우리가 어디로 가는지와 어디에서 왔는지를 연결하는 수학
 description: 재귀는 서로 다른 수학 수업의 아이디어들 사이에 다리를 놓고, 창의적 수학적 사고의 힘을 보여준다.
-url: https://www.quantamagazine.org/math-that-connects-where-were-going-to-where-weve-been-20240322/
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-that-connects-where-were-going-to-where-weve-been-20240322/
 date: 2024-03-22
 ---
 

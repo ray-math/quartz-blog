@@ -1,10 +1,7 @@
 ---
 title: 수학자들은 소수 정리를 증명하는 것을 결코 멈추지 않을 것이다
 description: 왜 수학자들은 같은 결과를 다른 방식으로 증명하는 것을 즐기는가?
-author: 
-url: https-//www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/
 date: 2020-07-22
 ---
 

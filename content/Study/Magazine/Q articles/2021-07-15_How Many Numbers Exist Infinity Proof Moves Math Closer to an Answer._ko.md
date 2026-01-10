@@ -1,11 +1,8 @@
 ---
 title: 숫자는 얼마나 많이 존재하는가? 무한에 관한 새로운 증명이 수학을 답에 더 가깝게 이끌다
-url: https-//www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/
+url: www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/
 description: 50년 동안 수학자들은 실수의 총 개수를 알 수 없다고 믿어왔다. 새로운 증명은 그렇지 않을 수 있음을 시사한다.
-author: Natalie Wolchover
 date: 2021-07-15
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![무한 기호가 새겨진 탑을 바라보는 남자](https://www.quantamagazine.org/wp-content/uploads/2021/07/Infinity-Tower_Lede_2880.jpg)

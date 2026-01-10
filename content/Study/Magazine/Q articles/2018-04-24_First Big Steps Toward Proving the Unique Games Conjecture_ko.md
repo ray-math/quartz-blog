@@ -1,10 +1,7 @@
 ---
 title: 유니크 게임 추측 증명을 향한 첫 번째 큰 발걸음
 description: 일련의 새로운 증명들이 이론 컴퓨터 과학의 위대한 추측 중 하나를 증명할 수 있는 사정거리 안으로 연구자들을 이끌고 있다.
-url: https://www.quantamagazine.org/computer-scientists-close-in-on-unique-games-conjecture-proof-20180424/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
-author: 
+url: www.quantamagazine.org/computer-scientists-close-in-on-unique-games-conjecture-proof-20180424/
 date: 2018-04-24
 ---
 

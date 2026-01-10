@@ -1,10 +1,7 @@
 ---
 title: 수학자 3인조, 수 세기 된 정수론 문제에서 획기적 진전을 이루다
 description: 두 분수의 세제곱 합으로 나타낼 수 있는 정수가 얼마나 많은지에 대한 최초의 한계를 제시한 이 연구는 "정수론학자들의 오랜 난제"에서 중요한 진전을 이뤄냈다.
-author: Erica Klarreich
-url: https://www.quantamagazine.org/mathematical-trio-advances-centuries-old-number-theory-problem-20221129/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematical-trio-advances-centuries-old-number-theory-problem-20221129/
 date: 2022-11-29
 ---
 

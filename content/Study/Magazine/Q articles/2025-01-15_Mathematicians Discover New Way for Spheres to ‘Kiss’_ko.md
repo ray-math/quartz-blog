@@ -1,10 +1,7 @@
 ---
-title: 구체들이 '키스'하는 새로운 방법의 발견
+title: 구체들이 키스하는 새로운 방법의 발견
 description: 새로운 증명이 이른바 키싱 문제의 중요한 경우들에서 수십 년 만의 첫 진전을 이루었다. 이를 위해서는 전통적인 접근법을 과감히 버려야 했다.
-author: 
-url: https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/
 date: 2025-01-15
 ---
 

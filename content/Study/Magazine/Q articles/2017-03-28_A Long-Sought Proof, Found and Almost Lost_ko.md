@@ -1,10 +1,7 @@
 ---
 title: 오랜 증명, 발견되고 거의 잊혀질 뻔하다
 description: 독일의 은퇴한 통계학자가 유명한 수학 난제를 증명했을 때, 학계의 반응은 놀랍도록 조용했다.
-author: 
-url: https-//www.quantamagazine.org/statistician-proves-gaussian-correlation-inequality-20170328/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/statistician-proves-gaussian-correlation-inequality-20170328/
 date: 2017-03-28
 ---
 

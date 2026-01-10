@@ -1,10 +1,7 @@
 ---
 title: 증명 보조 프로그램, 최전선 수학으로 도약하다
 description: 컴퓨터 프로그램 Lean을 사용하는 수학자들이 최전선 연구 수학의 어려운 정리의 정확성을 검증했다.
-url: https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/
-author: (원문 유지)
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/
 date: 2021-07-28
 ---
 

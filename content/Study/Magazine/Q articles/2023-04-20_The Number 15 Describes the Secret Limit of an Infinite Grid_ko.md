@@ -1,10 +1,7 @@
 ---
 title: 숫자 15가 밝혀낸 무한 격자의 비밀스러운 한계
-description: "팩킹 색칠" 문제는 무한 격자를 숫자로 채울 때, 같은 숫자가 서로 너무 가까워지지 않으려면 몇 개의 숫자가 필요한지를 묻는다. 컴퓨터의 도움을 받은 새로운 증명이 놀라울 정도로 명쾌한 답을 찾아냈다.
-author: 
-url: https://www.quantamagazine.org/the-number-15-describes-the-secret-limit-of-an-infinite-grid-20230420/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 팩킹 색칠 문제는 무한 격자를 숫자로 채울 때, 같은 숫자가 서로 너무 가까워지지 않으려면 몇 개의 숫자가 필요한지를 묻는다. 컴퓨터의 도움을 받은 새로운 증명이 놀라울 정도로 명쾌한 답을 찾아냈다.
+url: www.quantamagazine.org/the-number-15-describes-the-secret-limit-of-an-infinite-grid-20230420/
 date: 2023-04-20
 ---
 

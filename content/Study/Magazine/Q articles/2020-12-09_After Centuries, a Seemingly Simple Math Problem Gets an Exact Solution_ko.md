@@ -1,11 +1,8 @@
 ---
 title: 수세기 만에 풀린 단순해 보이는 수학 문제의 정확한 해
-url: https-//www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/
+url: www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/
 description: 수학자들은 울타리에 묶인 염소가 풀을 뜯을 수 있는 범위에 대해 오랫동안 고민해왔으며, 이제야 근사값이 아닌 정확한 답을 찾아냈다.
-author: Steve Nadis
 date: 2020-12-09
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![빨간 줄에 묶여 두 원의 교차점에서 풀을 뜯는 검은 염소의 일러스트](https://www.quantamagazine.org/wp-content/uploads/2020/12/Goat-Problem_2600_Lede.jpg)

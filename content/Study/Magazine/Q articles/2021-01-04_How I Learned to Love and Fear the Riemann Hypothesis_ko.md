@@ -1,6 +1,6 @@
 ---
 title: 리만 가설을 사랑하고 두려워하게 된 이유
-url: https-//www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/
+url: www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/
 description: 한 정수론 학자가 리만 가설과의 첫 만남을 회상하며, 새로운 Quanta 비디오에서 그 수학을 풀어낸다.
 date: 2021-01-04
 ---

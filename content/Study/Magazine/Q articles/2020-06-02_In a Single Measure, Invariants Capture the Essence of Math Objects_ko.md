@@ -1,10 +1,7 @@
 ---
 title: 단 하나의 측도로 수학적 대상의 본질을 포착하는 불변량
 description: 근본적으로 다른 대상들을 구별하기 위해, 수학자들은 대상의 핵심 특징을 암호화하는 불변량에 의지한다.
-author: 
-url: https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/
 date: 2020-06-02
 ---
 

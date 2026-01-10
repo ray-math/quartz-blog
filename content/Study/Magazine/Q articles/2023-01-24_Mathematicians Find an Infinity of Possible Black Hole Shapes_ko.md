@@ -1,6 +1,6 @@
 ---
 title: 수학자들이 발견한 무한히 많은 블랙홀 형태의 가능성
-url: https-//www.quantamagazine.org/mathematicians-find-an-infinity-of-possible-black-hole-shapes-20230124/
+url: www.quantamagazine.org/mathematicians-find-an-infinity-of-possible-black-hole-shapes-20230124/
 description: 3차원 공간에서 블랙홀의 표면은 반드시 구여야 한다. 그러나 새로운 결과는 고차원에서 무한히 많은 형태가 가능함을 보여준다.
 date: 2023-01-24
 ---

@@ -1,10 +1,7 @@
 ---
 title: 페르마의 마지막 정리의 핵심이 초강력해졌다
-description: 페르마의 마지막 정리 배후의 핵심 통찰을 확장함으로써, 네 명의 수학자들이 수학의 '대통일 이론' 구축을 향해 큰 진전을 이루었다.
-author: 
-url: https://www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 페르마의 마지막 정리 배후의 핵심 통찰을 확장함으로써, 네 명의 수학자들이 수학의 대통일 이론 구축을 향해 큰 진전을 이루었다.
+url: www.quantamagazine.org/the-core-of-fermats-last-theorem-just-got-superpowered-20250602/
 date: 2025-06-02
 ---
 

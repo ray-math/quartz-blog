@@ -1,11 +1,8 @@
 ---
 title: 문샤인의 그림자를 쫓는 수학자들
-url: https-//www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/
+url: www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/
 description: 연구자들이 정수론, 대수학, 끈 이론 사이의 미스터리한 연결을 추적하고 있다.
 date: 2015-03-12
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/03/MonstrousMoonshine_996x560.jpg)

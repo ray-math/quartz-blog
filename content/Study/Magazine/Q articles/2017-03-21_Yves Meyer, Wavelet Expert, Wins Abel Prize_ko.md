@@ -1,11 +1,8 @@
 ---
 title: 웨이블릿 이론의 개척자 이브 메이어, 아벨상 수상
 description: 프랑스 수학자가 "웨이블릿의 수학적 이론 발전에서 핵심적인 역할"로 인정받았다.
-url: https-//www.quantamagazine.org/yves-meyer-wavelet-expert-wins-abel-prize-20170321/
+url: www.quantamagazine.org/yves-meyer-wavelet-expert-wins-abel-prize-20170321/
 date: 2017-03-21
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/03/meyer_wavelet_quanta_2k.jpg)

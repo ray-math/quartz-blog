@@ -1,6 +1,6 @@
 ---
 title: 저차원 위상수학의 새로운 아젠다
-url: https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/
+url: www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/
 description: 지난 10월, 수십 명의 수학자들이 파사데나에 모여 "커비 리스트"의 세 번째 버전을 만들었다—이 분야에서 가장 중요한 미해결 문제들의 집대성.
 date: 2024-02-22
 ---

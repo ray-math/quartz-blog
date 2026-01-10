@@ -1,10 +1,7 @@
 ---
 title: 등호 너머의 수학이 존재하는가?
 description: 수학은 정확히 같지 않으면서도 본질적으로 동일한 것들을 다룰 수 있을까? 범주론자 유제니아 쳉과 진행자 스티븐 스트로가츠가 추상화의 힘과 즐거움에 대해 이야기한다.
-author: 
-url: https://www.quantamagazine.org/is-there-math-beyond-the-equal-sign-20230322/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/is-there-math-beyond-the-equal-sign-20230322/
 date: 2023-03-22
 ---
 

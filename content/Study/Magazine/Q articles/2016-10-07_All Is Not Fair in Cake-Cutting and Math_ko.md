@@ -1,10 +1,7 @@
 ---
 title: 케이크 자르기와 공정성의 수학—모든 것이 공평하지는 않다
-description: 무언가를 나눌 때, '공정하다'의 정의는 한 가지가 아니다.
-author: 
-url: https://www.quantamagazine.org/cake-cutting-and-the-mathematics-of-fairness-20161007/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+description: 무언가를 나눌 때, 공정하다의 정의는 한 가지가 아니다.
+url: www.quantamagazine.org/cake-cutting-and-the-mathematics-of-fairness-20161007/
 date: 2016-10-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 갈루아 군과 다항식의 대칭성
-url: https://www.quantamagazine.org/how-galois-groups-used-polynomial-symmetries-to-reshape-math-20210803/
+url: www.quantamagazine.org/how-galois-groups-used-polynomial-symmetries-to-reshape-math-20210803/
 description: 다항식 방정식의 정확한 해보다는 해들 사이의 관계에 집중함으로써, 에바리스트 갈루아는 현대 수학의 흐름을 완전히 바꾸어 놓았다.
 date: 2021-08-03
 ---

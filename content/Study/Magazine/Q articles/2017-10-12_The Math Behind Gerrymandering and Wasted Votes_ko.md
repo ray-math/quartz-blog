@@ -1,10 +1,7 @@
 ---
 title: 게리맨더링과 낭비된 표의 수학
 description: 단순한 수학이 교묘한 정치인들의 선거구 조작을 도울 수 있다. 하지만 그 수학은 동시에 문제를 식별하고 해결하는 데에도 도움이 된다.
-author: 
-url: https://www.quantamagazine.org/the-math-behind-gerrymandering-and-wasted-votes-20171012/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-math-behind-gerrymandering-and-wasted-votes-20171012/
 date: 2017-10-12
 ---
 

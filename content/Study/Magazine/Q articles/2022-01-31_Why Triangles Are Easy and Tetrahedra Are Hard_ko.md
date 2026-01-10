@@ -1,6 +1,6 @@
 ---
 title: 삼각형은 쉽고 사면체는 어려운 이유
-url: https://www.quantamagazine.org/triangles-are-easy-tetrahedra-are-hard-20220131/
+url: www.quantamagazine.org/triangles-are-easy-tetrahedra-are-hard-20220131/
 description: 삼각형 내각의 합 정리 덕분에 삼각형을 다루기는 쉽다. 이 정리에 의존할 수 없다면 어떻게 될까?
 date: 2022-01-31
 ---

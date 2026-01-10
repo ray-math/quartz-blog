@@ -1,11 +1,8 @@
 ---
 title: 수학의 로제타석
-url: https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/
+url: www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/
 description: 1940년 앙드레 베유는 여동생 시몬에게 보낸 편지에서 수학의 세 영역을 연결하는 번역 체계에 대한 비전을 제시했다. 80년이 지난 지금도 이 비전은 수학에서 가장 흥미진진한 발전들을 이끌어내고 있다.
-author: (원문 그대로)
 date: 2024-05-06
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/05/RosettaStone-byKristinaArmitage-Lede-scaled.webp)

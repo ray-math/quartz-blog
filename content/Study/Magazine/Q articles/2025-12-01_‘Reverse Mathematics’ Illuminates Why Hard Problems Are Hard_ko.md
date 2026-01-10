@@ -1,11 +1,8 @@
 ---
-title: '역수학(Reverse Mathematics)'이 밝혀낸 어려운 문제가 어려운 이유
+title: 역수학(Reverse Mathematics)이 밝혀낸 어려운 문제가 어려운 이유
 description: 연구자들이 메타수학적 기법을 사용해 겉보기에 전혀 다른 정리들이 사실은 논리적으로 동치임을 증명했다.
-url: https-//www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/
+url: www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/
 date: 2025-12-01
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![역피라미드 모양으로 쌓인 카드 집.](https://www.quantamagazine.org/wp-content/uploads/2025/12/ReverseMathematics-crSonOfAlan-Lede-scaled.webp)

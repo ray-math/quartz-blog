@@ -1,10 +1,7 @@
 ---
 title: 새로운 보편 법칙의 극단에서
 description: 물리학과 수학 전반에 걸쳐 나타나는 신비로운 통계 법칙을 설명하는 강력한 이론이 등장했다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/
 date: 2014-10-15
 ---
 

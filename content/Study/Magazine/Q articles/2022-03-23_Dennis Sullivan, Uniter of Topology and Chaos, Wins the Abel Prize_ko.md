@@ -1,10 +1,7 @@
 ---
 title: 위상수학과 카오스를 통합한 데니스 설리반, 아벨상 수상
 description: 미국 수학자 데니스 설리반이 도형과 공간을 이해하는 완전히 새로운 방법들을 창안했다.
-author: 
-url: https://www.quantamagazine.org/dennis-sullivan-uniter-of-topology-and-chaos-wins-the-abel-prize-20220323/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/dennis-sullivan-uniter-of-topology-and-chaos-wins-the-abel-prize-20220323/
 date: 2022-03-23
 ---
 

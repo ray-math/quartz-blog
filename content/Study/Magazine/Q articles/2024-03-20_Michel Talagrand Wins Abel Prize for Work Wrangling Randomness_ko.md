@@ -1,10 +1,7 @@
 ---
 title: 무작위성을 길들인 수학자, 미셸 탈라그랑이 아벨상을 수상하다
 description: 프랑스 수학자 미셸 탈라그랑은 수십 년에 걸쳐 무작위 과정을 다루는 도구 세트를 개발했고, 이는 현재 수학과 과학 전반에서 광범위하게 사용되고 있다.
-author: Jordana Cepelewicz
-url: https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/
 date: 2024-03-20
 ---
 

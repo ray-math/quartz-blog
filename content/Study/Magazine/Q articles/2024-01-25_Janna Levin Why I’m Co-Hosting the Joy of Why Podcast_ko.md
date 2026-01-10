@@ -1,10 +1,7 @@
 ---
-title: 왜 내가 '왜의 기쁨' 팟캐스트 공동 진행자가 되었는가
-description: '왜의 기쁨' 팟캐스트가 두 명의 공동 진행자, 24명의 뛰어난 게스트, 그리고 24개의 새로운 에피소드와 함께 세 번째 시즌으로 돌아온다.
-author: Janna Levin
-url: https://www.quantamagazine.org/janna-levin-why-im-co-hosting-the-joy-of-why-podcast-20240125/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+title: 왜 내가 왜의 기쁨 팟캐스트 공동 진행자가 되었는가
+description: 왜의 기쁨 팟캐스트가 두 명의 공동 진행자, 24명의 뛰어난 게스트, 그리고 24개의 새로운 에피소드와 함께 세 번째 시즌으로 돌아온다.
+url: www.quantamagazine.org/janna-levin-why-im-co-hosting-the-joy-of-why-podcast-20240125/
 date: 2024-01-25
 ---
 

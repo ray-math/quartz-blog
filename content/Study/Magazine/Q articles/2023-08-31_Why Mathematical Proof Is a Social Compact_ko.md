@@ -1,6 +1,6 @@
 ---
 title: 수학적 증명이 사회적 합의인 이유
-url: https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/
+url: www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/
 description: 정수론 학자 앤드루 그랜빌이 말하는 수학의 본질—그리고 왜 객관성은 결코 완전히 도달할 수 없는지.
 date: 2023-08-31
 ---

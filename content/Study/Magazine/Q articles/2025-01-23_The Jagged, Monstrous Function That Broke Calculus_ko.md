@@ -1,6 +1,6 @@
 ---
 title: 미적분학을 무너뜨린 들쭉날쭉한 괴물 함수
-url: https-//www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/
+url: www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/
 description: 19세기 후반, 카를 바이어슈트라스는 프랙탈과 같은 함수를 발명했고, 이는 "개탄할 만한 악"이라는 비난을 받았다. 시간이 지나면서, 이 함수는 수학의 기초를 완전히 변화시켰다.
 date: 2025-01-23
 ---

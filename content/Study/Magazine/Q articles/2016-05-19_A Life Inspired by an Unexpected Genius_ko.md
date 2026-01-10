@@ -1,10 +1,7 @@
 ---
 title: 예상치 못한 천재에게서 영감을 받은 삶
 description: 켄 오노에게 위대함은 언제나 기대되는 것이었다. 하지만 부모의 기대와 씨름하던 그는 두 번이나 대학을 중퇴한 수학 천재의 삶에서 위안과 영감을 찾았다.
-author: (원문 저자 정보 유지)
-url: https-//www.quantamagazine.org/the-mathematician-ken-onos-life-inspired-by-ramanujan-20160519/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/the-mathematician-ken-onos-life-inspired-by-ramanujan-20160519/
 date: 2016-05-19
 ---
 

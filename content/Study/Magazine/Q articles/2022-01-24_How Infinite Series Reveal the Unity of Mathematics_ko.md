@@ -1,10 +1,7 @@
 ---
 title: 무한급수가 드러내는 수학의 통일성
 description: 무한급수는 수학에서 가장 과소평가되면서도 강력한 개념 중 하나로, 수학의 방대한 그물망 전체를 연결할 수 있다.
-author: Steven Strogatz
-url: https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/
 date: 2022-01-24
 ---
 

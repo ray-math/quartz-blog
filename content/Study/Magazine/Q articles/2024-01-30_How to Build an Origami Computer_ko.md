@@ -1,6 +1,6 @@
 ---
 title: 종이접기로 컴퓨터를 만드는 방법
-url: https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/
+url: www.quantamagazine.org/how-to-build-an-origami-computer-20240130/
 description: 두 수학자가 종이접기로 원리적으로 모든 가능한 계산을 수행할 수 있음을 보였다.
 date: 2024-01-30
 ---

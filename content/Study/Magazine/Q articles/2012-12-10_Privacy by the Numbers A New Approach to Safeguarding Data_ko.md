@@ -1,11 +1,8 @@
 ---
 title: 숫자로 지키는 프라이버시- 데이터 보호의 새로운 접근법
-url: https://www.quantamagazine.org/a-mathematical-approach-to-safeguarding-private-data-20121210/
-description: '차등 프라이버시'라는 수학적 기법이 높은 수준의 프라이버시 보호를 충족하면서도 연구자들에게 방대한 개인 데이터 저장소에 대한 접근을 제공한다.
-author: Erica Klarreich
+url: www.quantamagazine.org/a-mathematical-approach-to-safeguarding-private-data-20121210/
+description: 차등 프라이버시라는 수학적 기법이 높은 수준의 프라이버시 보호를 충족하면서도 연구자들에게 방대한 개인 데이터 저장소에 대한 접근을 제공한다.
 date: 2012-12-10
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 1997년, 매사추세츠 주가 주 공무원들의 건강 기록을 의료 연구자들에게 공개하기 시작했을 때, 정부는 환자의 이름, 주소, 사회보장번호를 삭제했다. 당시 주지사였던 윌리엄 웰드(William Weld)는 기록에서 개별 환자를 식별하는 것은 불가능할 것이라고 대중에게 확신시켰다.

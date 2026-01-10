@@ -1,10 +1,7 @@
 ---
-title: 수학에서는 '거짓말을 당할 수 없다'
+title: 수학에서는 거짓말을 당할 수 없다
 description: 실비아 세르파티에게 수학은 진리와 아름다움, 그리고 과학적·인간적 연결을 구축하는 것이다.
-author: Quanta Magazine
-url: https://www.quantamagazine.org/sylvia-serfaty-on-mathematical-truth-and-frustration-20170221/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/sylvia-serfaty-on-mathematical-truth-and-frustration-20170221/
 date: 2017-02-21
 ---
 

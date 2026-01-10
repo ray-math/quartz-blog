@@ -1,10 +1,7 @@
 ---
 title: 주름 패턴의 새로운 수학
 description: 포괄적인 수학적 틀이 주름 패턴을 기하학적 문제에 대한 우아한 해법으로 다룬다.
-author: 
-url: https-//www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/
-hostname: 
-sitename: 
+url: www.quantamagazine.org/the-new-math-of-wrinkling-patterns-20220922/
 date: 2022-09-22
 ---
 

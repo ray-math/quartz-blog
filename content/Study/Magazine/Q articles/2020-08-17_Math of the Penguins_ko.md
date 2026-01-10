@@ -1,10 +1,7 @@
 ---
 title: 펭귄들의 수학
 description: 황제펭귄은 체온을 유지하기 위해 무리를 지을 때 엄격한 기하학적 간격과 수학적 효율성을 보여준다. 이는 펭귄 집단의 전반적인 건강 상태에 대한 비밀을 밝혀줄 수 있다.
-author: Susan D'Agostino
-url: https://www.quantamagazine.org/math-of-the-penguins-20200817/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/math-of-the-penguins-20200817/
 date: 2020-08-17
 ---
 

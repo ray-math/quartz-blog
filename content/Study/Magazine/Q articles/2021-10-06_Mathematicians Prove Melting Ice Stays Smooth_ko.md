@@ -2,10 +2,7 @@
 title: 녹는 얼음이 매끄럽게 유지된다는 수학적 증명
 description: 수십 년의 노력 끝에, 수학자들은 얼음과 물 사이의 경계처럼 자유롭게 움직이는 경계의 운동을 모델링하는 복잡한 방정식을 완전히 이해하게 되었다.
 date: 2021-10-06
-author: 
-url: https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/
 ---
 
 ## 서론

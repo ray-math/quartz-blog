@@ -1,10 +1,7 @@
 ---
 title: 암호학의 선구자, 저기술 방식으로 안전한 선거를 추구하다
 description: RSA 알고리즘으로 온라인 상거래를 보호한 로널드 리베스트가 이제 민주주의 선거를 더욱 신뢰할 수 있게 만들려 하고 있다.
-author: 
-url: https://www.quantamagazine.org/rsa-cryptographer-ronald-rivest-seeks-secure-elections-20200312/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/rsa-cryptographer-ronald-rivest-seeks-secure-elections-20200312/
 date: 2020-03-12
 ---
 

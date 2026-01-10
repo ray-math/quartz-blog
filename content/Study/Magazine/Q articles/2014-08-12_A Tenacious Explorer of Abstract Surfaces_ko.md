@@ -1,11 +1,8 @@
 ---
 title: 추상적 곡면을 탐험하는 불굴의 수학자
-url: https-//www.quantamagazine.org/maryam-mirzakhani-is-first-woman-fields-medalist-20140812/
+url: www.quantamagazine.org/maryam-mirzakhani-is-first-woman-fields-medalist-20140812/
 description: 위상수학, 기하학, 동역학계 사이의 깊은 연결을 발견하여 최초의 여성 필즈상 수상자가 된 마리암 미르자카니가 40세의 나이에 암으로 세상을 떠났다. 이 글은 2014년에 우리가 작성한…
-author: Erica Klarreich
 date: 2014-08-12
-sitename: Quanta Magazine
-hostname: quantamagazine.org
 ---
 
 ## 서론

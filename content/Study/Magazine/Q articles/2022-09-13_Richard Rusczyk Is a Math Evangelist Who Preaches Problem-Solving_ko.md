@@ -1,11 +1,8 @@
 ---
 title: 문제 해결을 전파하는 수학 전도사, 리처드 루스칙
-url: https-//www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/
+url: www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/
 description: Art of Problem Solving의 설립자 리처드 루스칙은 "즐겁고 아름다운 수학"과 문제 해결 능력을 모든 교실에 가져오려는 비전을 가지고 있다.
 date: 2022-09-13
-author: Erica Klarreich
-sitename: Quanta Magazine
-hostname: quantamagazine.org
 ---
 
 ![샌디에이고의 Art of Problem Solving 교실에서 노란 벽 앞에 서 있는 리처드 루스칙](https://www.quantamagazine.org/wp-content/uploads/2022/09/Richard_Rusczyk_2880x1620_Lede-scaled.jpg)

@@ -1,10 +1,7 @@
 ---
 title: 다항식 내부의 척력을 측정한 수학자
 description: 베셀린 디미트로프의 신첼-자센하우스 추측 증명은 다항식의 특수한 값들이 서로를 밀어내는 방식을 정량화한다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/new-math-measures-the-repulsive-force-within-polynomials-20200514/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/new-math-measures-the-repulsive-force-within-polynomials-20200514/
 date: 2020-05-14
 ---
 

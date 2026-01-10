@@ -1,11 +1,8 @@
 ---
 title: 움직이는 시스템으로 기술된 수에서 무한 패턴이 나타난다
 description: 수학자들이 충분히 큰 정수 집합에서 필연적으로 나타나는 구조를 발견하고 있다.
-url: https://www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/
+url: www.quantamagazine.org/infinite-patterns-appear-in-numbers-described-as-moving-systems-20221205/
 date: 2022-12-05
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![조립 라인을 따라 내려오는 파란색 숫자들을 기계 팔이 집어 올리는 모습.](https://www.quantamagazine.org/wp-content/uploads/2022/12/InfiniteSumsets-bySamuelVelasco-Lede-scaled.webp)

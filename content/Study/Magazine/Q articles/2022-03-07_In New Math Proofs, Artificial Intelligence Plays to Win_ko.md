@@ -1,11 +1,8 @@
 ---
 title: 새로운 수학 증명에서 인공지능이 승리를 위해 경기한다
 description: AlphaGo와 같은 인공지능 시스템을 본떠 만든 새로운 컴퓨터 프로그램이 조합론과 그래프 이론의 여러 미해결 문제를 해결했다.
-url: https-//www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/
+url: www.quantamagazine.org/in-new-math-proofs-artificial-intelligence-plays-to-win-20220307/
 date: 2022-03-07
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![비어 있는 상자들과 숫자 1이 들어 있는 일부 상자들로 채워진 정사각형 격자를 보여주는 옛날 비디오 게임 스타일의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2022/03/Counterexamle_2880x1620_Lede.jpg)

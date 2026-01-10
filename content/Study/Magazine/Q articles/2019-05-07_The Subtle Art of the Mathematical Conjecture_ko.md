@@ -1,6 +1,6 @@
 ---
 title: 수학적 추측의 미묘한 예술
-url: https-//www.quantamagazine.org/the-subtle-art-of-the-mathematical-conjecture-20190507/
+url: www.quantamagazine.org/the-subtle-art-of-the-mathematical-conjecture-20190507/
 description: 추측은 증명이 아닌 교육받은 추론이다. 하지만 좋은 추측은 수학을 앞으로 나아가게 하며, 수학적 미지의 세계로 향하는 길을 가리킨다.
 date: 2019-05-07
 ---

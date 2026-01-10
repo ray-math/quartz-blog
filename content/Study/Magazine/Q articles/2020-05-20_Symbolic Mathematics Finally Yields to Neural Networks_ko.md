@@ -1,10 +1,7 @@
 ---
 title: 기호 수학, 마침내 신경망에 문을 열다
 description: 복잡한 수학 방정식을 번역한 후, 연구자들은 더 큰 질문에 답할 수 있는 AI 시스템을 만들었다.
-author: 
-url: https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/
 date: 2020-05-20
 ---
 

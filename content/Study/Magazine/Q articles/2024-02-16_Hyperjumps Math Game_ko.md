@@ -1,10 +1,7 @@
 ---
 title: 하이퍼점프 수학 게임
-url: https://www.quantamagazine.org/hyperjumps-math-game-20240216/
+url: www.quantamagazine.org/hyperjumps-math-game-20240216/
 description: Quanta Magazine의 매일 새로운 인터랙티브 수학 게임, 하이퍼점프를 플레이하세요!
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2024-02-16
 ---
 

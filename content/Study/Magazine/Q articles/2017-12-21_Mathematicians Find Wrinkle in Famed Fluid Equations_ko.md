@@ -1,10 +1,7 @@
 ---
 title: 유명한 유체 방정식에서 발견된 주름
 description: 두 수학자가 특정 극한 조건에서 나비에-스토크스 방정식이 무의미한 결과를 출력한다는 것을 증명했다.
-author: Kevin Hartnett
-url: https://www.quantamagazine.org/mathematicians-find-wrinkle-in-famed-fluid-equations-20171221/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/mathematicians-find-wrinkle-in-famed-fluid-equations-20171221/
 date: 2017-12-21
 ---
 

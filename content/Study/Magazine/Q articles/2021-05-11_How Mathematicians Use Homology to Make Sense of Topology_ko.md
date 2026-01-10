@@ -1,11 +1,8 @@
 ---
 title: 수학자들이 위상수학을 이해하기 위해 호몰로지를 사용하는 방법
 description: 원래 구멍을 세는 엄밀한 수단으로 고안된 호몰로지는 수학적 아이디어의 뼈대를 제공하며, 데이터 내의 형태를 분석하는 새로운 방법을 제시한다.
-url: https://www.quantamagazine.org/how-mathematicians-use-homology-to-make-sense-of-topology-20210511/
+url: www.quantamagazine.org/how-mathematicians-use-homology-to-make-sense-of-topology-20210511/
 date: 2021-05-11
-author: 
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 ---
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/05/Homology_2880x1620_Lede.jpg)

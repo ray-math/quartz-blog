@@ -1,10 +1,7 @@
 ---
 title: 고도로 연결된 네트워크에는 항상 순환 경로가 존재한다
 description: 수학자들이 특정한 일반적 유형의 그래프에는 각 점을 정확히 한 번씩 방문하는 경로가 반드시 존재함을 증명했다.
-author: 
-url: https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/
 date: 2024-06-07
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: 통계학 박사후연구원이 수십 년 된 기하학 문제를 해결하다
-url: https-//www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/
+url: www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/
 description: 분야 전문가들도 놀란 일이다. 통계학 박사후연구원이 고차원 볼록 기하학의 가장 중요한 문제 중 하나를 해결했다.
-author: Erica Klarreich
-hostname: quantamagazine.org
-sitename: Quanta Magazine
 date: 2021-03-01
 ---
 

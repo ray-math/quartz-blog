@@ -1,6 +1,6 @@
 ---
 title: 미국 최고 수영 선수들이 금메달을 따기 위해 수학을 활용하는 방법
-url: https-//www.quantamagazine.org/how-americas-fastest-swimmers-use-math-to-win-gold-20240710/
+url: www.quantamagazine.org/how-americas-fastest-swimmers-use-math-to-win-gold-20240710/
 description: 정수론 학자 켄 오노가 올림픽 선수들에게 더 효율적으로 수영하는 법을 가르치고 있다.
 date: 2024-07-10
 ---

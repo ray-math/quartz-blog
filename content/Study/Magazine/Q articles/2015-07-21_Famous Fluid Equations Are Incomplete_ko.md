@@ -1,10 +1,7 @@
 ---
 title: 유명한 유체 방정식은 불완전하다
 description: 자연의 입자 묘사와 유체 묘사를 연결하려는 115년간의 노력이 수학자들을 예상치 못한 답으로 이끌었다.
-author: Natalie Wolchover
-url: https://www.quantamagazine.org/famous-fluid-equations-are-incomplete-20150721/
-hostname: quantamagazine.org
-sitename: Quanta Magazine
+url: www.quantamagazine.org/famous-fluid-equations-are-incomplete-20150721/
 date: 2015-07-21
 ---
 
