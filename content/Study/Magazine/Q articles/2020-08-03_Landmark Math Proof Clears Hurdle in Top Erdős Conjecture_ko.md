@@ -77,8 +77,6 @@ date: 2020-08-03
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/08/SET-Erdos-graphic.jpg)
 
-Lucy Reading-Ikkanda and Samuel Velasco/Quanta Magazine
-
 이 질문(표준 셋 게임뿐 아니라 카드가 더 많은 큰 버전에 관한 것이기도 하다)은 자연수에 관한 해당 질문의 자연스러운 장난감 모델이다. 그래서 수학자들은 베이트먼과 카츠의 돌파구가, 특히 다른 [최근](https://link.springer.com/article/10.1007/s11854-008-0020-x) [발전들](https://annals.math.princeton.edu/2011/174-1/p20)과 결합되면 에르되시 추측을 증명하는 길을 제공할 수 있기를 희망했다. 베이트먼과 카츠의 논문이 나온 직후, 가워스는 이 시도를 위해 [폴리매스 프로젝트(Polymath project)](https://polymathprojects.org/2011/02/05/polymath6-improving-the-bounds-for-roths-theorem/)—대규모 온라인 협업—를 소집했다.
 
 > 폴리매스 프로젝트는 가워스가 2009년 시작한 공개 수학 협업 실험이다. 아이디어는 간단하다: 어려운 수학 문제를 블로그에 올리고, 누구나 아이디어를 댓글로 기여할 수 있다. 첫 번째 폴리매스 프로젝트는 6주 만에 새로운 증명을 찾았고, 27명의 기여자가 "D.H.J. Polymath"라는 집단 저자명으로 논문을 출판했다. 그러나 모든 문제가 이런 협업에 적합한 것은 아니다—문제를 작은 조각으로 나눌 수 있고, 각 아이디어를 빠르게 검증할 수 있어야 한다. 에르되시 추측은 너무 기술적이고 깊은 집중이 필요해서 대규모 협업에 맞지 않았다.

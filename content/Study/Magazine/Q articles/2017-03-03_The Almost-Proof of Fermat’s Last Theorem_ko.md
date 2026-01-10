@@ -7,8 +7,6 @@ date: 2017-03-03
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/03/zn1x2000.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 때로는 일반적인 수들만으로는 문제를 해결할 수 없다. 19세기 수학자들은 페르마의 마지막 정리(Fermat's Last Theorem)를 해결하려 할 때 이를 깨달았다. 당시 이 정리는 이미 200년 동안 미해결로 남아 있었고, 정수론(number theory)에서 가장 중요한 난제로 여겨졌다.

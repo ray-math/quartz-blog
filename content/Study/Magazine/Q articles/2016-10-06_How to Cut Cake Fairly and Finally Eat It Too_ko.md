@@ -7,8 +7,6 @@ date: 2016-10-06
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/10/CAKE_1500.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 두 명의 젊은 컴퓨터 과학자가 임의의 수의 사람들 사이에서 케이크를 공정하게 나누는 방법을 알아냈다. 이는 수학자들이 수십 년간 씨름해온 문제를 해결한 것이다. 그들의 연구는 많은 연구자들을 놀라게 했는데, 이들은 그러한 공정 분배 프로토콜이 아마도 불가능할 것이라고 믿어왔기 때문이다.

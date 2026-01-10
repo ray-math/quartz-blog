@@ -29,8 +29,6 @@ Peter Greenwood for Quanta Magazine
 
 세 가지 간단한 매듭(왼쪽 위에서 시계방향으로): 매듭 아님(unknot), 세잎 매듭(trefoil), 네모 매듭(square knot).
 
-Figures by Merrill Sherman/Quanta Magazine; source: David S. Richeson
-
 매듭은 또한 결합하여 새로운 매듭을 형성할 수 있다. 예를 들어, 세잎 매듭(trefoil)으로 알려진 간단한 매듭을 그것의 거울상과 결합하면 네모 매듭이 생성된다. (그리고 두 개의 동일한 세잎 매듭을 결합하면 할머니 매듭(granny knot)을 만든다.)
 
 세잎 매듭과 그것의 거울상을 결합하여 네모 매듭을 만든다.

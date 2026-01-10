@@ -7,8 +7,6 @@ date: 2017-06-28
 
 ![Graph](https://www.quantamagazine.org/wp-content/uploads/2017/06/Graphs_FIN_1300Lede.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 내가 최근에 쓴 글은 수학계에 늦게, 그것도 정통적이지 않은 경로를 통해 입문한 [수학자 허준이(June Huh)](https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170626/)에 관한 것이다. 허준이의 수학 접근 방식 역시 놀라울 정도로 독특했다. 그와 두 명의 공동 연구자 에릭 카츠(Eric Katz), 카림 아디프라시토(Karim Adiprasito)는 한 수학 분야의 아이디어를 그 아이디어가 속할 것 같지 않은 영역으로 번역하는 방법을 찾아냄으로써 로타의 추측(Rota conjecture)이라는 중요한 문제를 해결했다.

@@ -39,8 +39,6 @@ date: 2018-10-31
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/10/RationalSolutionsNewcolor_560.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine; Source: Dr Minhyong Kim
-
 거기서 멈출 이유가 없다. 절차를 반복하여 두 번째 유리수 점을 지나는 다른 유리수 기울기의 직선을 그리면—그 직선은 원과 세 번째 유리수 점에서 교차할 것이다. 이것을 영원히 계속하면 결국 원 위의 무한히 많은 유리수 점들을 모두 찾게 될 것이다.
 
 원의 경우, 나머지를 모두 찾기 위해 단 하나의 유리수 점으로 시작하기만 하면 된다. 나머지를 발견하기 위해 처음에 알아야 하는 유리수 해의 개수를 곡선의 "계수(rank)"라고 한다. 계수는 무한 집합의 유리수 해를 단 하나의 숫자로 특성화하는 깔끔한 방법이다. "이 곡선들에 대한 유리수 해를 설명하는 최선의 방법이다"라고 매사추세츠 공과대학(MIT)의 수학자이자 박, 다트머스 칼리지의 [존 보이트(John Voight)](https://math.dartmouth.edu/~jvoight/), 위스콘신 대학교 매디슨의 [멜라니 매쳇 우드(Melanie Matchett Wood)](https://www.math.wisc.edu/~mmwood/)와 함께 모델의 공동 저자인 [비에론 푸넨(Bjorn Poonen)](http://www-math.mit.edu/~poonen/)이 말했다.

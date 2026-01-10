@@ -7,8 +7,6 @@ date: 2017-05-30
 
 ![조합론과 별자리](https://www.quantamagazine.org/wp-content/uploads/2017/05/CupsCapsConstellations_2880x1613_01.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 좋은 수학 문제를 판별하는 한 가지 기준은, 그것을 풀려고 노력하는 과정에서 예상치 못한 발견을 하게 되는지 여부다. 1933년 에스터 클라인(Esther Klein)이 경험한 것이 바로 그러했다.

@@ -45,8 +45,6 @@ date: 2017-02-09
 
 ![Graphic: How to find fixed points](https://www.quantamagazine.org/wp-content/uploads/2017/02/FixedPoint1000_double.png)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 수학적 대상으로 재정의되자, 심플렉틱 다양체의 성질과, 특히 해밀토니안 벡터장의 역학에 대해 온갖 흥미로운 질문을 던지는 것이 가능해졌다. 예를 들어, 벡터장을 따라 흐르다가 시작한 곳으로 돌아오는 입자(또는 행성)를 상상해보자. 수학자들은 이것을 "닫힌 궤도(closed orbit)"라고 부른다.
 
 이러한 닫힌 궤도의 의미를 심하게 뒤틀린 탁자 표면을 상상함으로써 직관적으로 이해할 수 있다. 어떤 위치에서 구슬을 굴렸을 때 그 구슬이 시작 위치로 다시 돌아오는 위치의 개수를 세어봄으로써 탁자의 본질에 대해 흥미로운 무언가를 배울 수 있을 것이다. 닫힌 궤도에 대한 질문을 함으로써, 수학자들은 공간의 성질을 더 일반적으로 조사할 수 있다.
@@ -72,8 +70,6 @@ Lucy Reading-Ikkanda/Quanta Magazine
 이런 일이 발생하는 상황에서, 수학자들은 함수를 섭동(perturbing)—약간 조정—함으로써 겹침을 고친다. 이것은 함수의 그래프를 흔들어서 선들이 한 점에서 교차하도록 하는 효과가 있으며, 수학자들이 "횡단성(transversality)"이라고 부르는 것을 달성한다.
 
 ![Graphic: Tricky Intersections](https://www.quantamagazine.org/wp-content/uploads/2017/02/Intersection615.png)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 플로어의 고정점 계수 방법은 2차원 $x$-$y$ 평면이 아니라 훨씬 더 고차원적이고 복잡한 공간에서 작동했지만, 원리는 동일했다. 이러한 조건 하에서 횡단성을 달성하는 것은 많은 기술적 뉘앙스를 가진 어려운 작업으로 밝혀졌다. "후카야가 아놀드 추측의 가장 일반적인 설정을 증명하려고 시도하면서, 단순하고 순진한 방법으로는 항상 횡단성을 달성할 수 없다는 것이 점점 더 분명해졌어요," 스탠포드 대학교의 저명한 심플렉틱 기하학자 야코프 엘리아쉬베르크(Yakov Eliashberg)가 말했다.
 

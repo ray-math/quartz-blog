@@ -65,8 +65,6 @@ Nielsen은 고등학교 수학 경시대회에서 처음으로 완전수에 대�
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/09/OPN-graphic-MOBILE_final.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 수가 이런 형태를 취한다면, 역시 오일러가 증명한 두 관계식 덕분에 약수들을 합하는 오일러의 시그마 함수를 계산하기 훨씬 쉬워진다. 첫째, 그는 $a$와 $b$가 서로소(relatively prime 또는 coprime), 즉 공통 소인수를 공유하지 않는 경우에만 $\sigma(a \times b) = \sigma(a) \times \sigma(b)$임을 증명했다. 예를 들어, $14 = 2 \times 7$과 $15 = 3 \times 5$는 서로소다. 둘째, 그는 임의의 소수 $p$와 양의 정수 지수 $a$에 대해, $\sigma(p^{a}) = 1 + p + p^{2} + \cdots + p^{a}$임을 보였다.
 
 > 시그마 함수의 승법성(multiplicativity)은 완전수 연구를 다루기 쉽게 만드는 핵심 성질이다. 예를 들어, $\sigma(12) = \sigma(2^{2} \times 3)$를 직접 계산하려면 12의 모든 약수 1, 2, 3, 4, 6, 12를 나열하고 더해야 한다. 하지만 승법성을 사용하면 $\sigma(12) = \sigma(2^{2}) \times \sigma(3) = (1 + 2 + 4) \times (1 + 3) = 7 \times 4 = 28$로 간단히 계산된다. 이는 소인수분해를 알면 시그마 함수를 효율적으로 계산할 수 있다는 의미다. 더 깊이 들어가면, 시그마 함수는 '곱셈적 함수(multiplicative function)'의 한 예다—이런 함수들은 정수론에서 중요한 역할을 하며, 디리클레 급수(Dirichlet series)와 리만 제타 함수로 이어지는 이론의 기초가 된다.
@@ -88,8 +86,6 @@ Samuel Velasco/Quanta Magazine
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/09/OPN-graphic-Spoofs.jpg)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/09/OPN-graphic-Spoofs-MOBILE.jpg)
-
-Samuel Velasco/Quanta Magazine
 
 Voight가 2016년 12월 BYU에서 세미나를 한 후, 그는 Nielsen, Jenkins 등과 이 수에 대해 논의했다. 그 직후, BYU 팀은 더 많은 가짜를 찾기 위한 체계적이고 계산 기반의 탐색에 착수했다. 그들은 시작할 가장 작은 밑과 지수를 선택할 것이고(예: $3^{2}$), 그러면 그들의 컴퓨터는 가짜 홀수 완전수를 만드는 추가 밑과 지수에 대한 옵션들을 분류할 것이다. Nielsen은 이 프로젝트가 학생들에게 자극적인 연구 경험을 제공할 것이라고만 생각했지만, 분석은 그가 예상한 것보다 더 많은 것을 산출했다.
 

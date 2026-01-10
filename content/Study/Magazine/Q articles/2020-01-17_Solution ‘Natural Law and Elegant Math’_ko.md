@@ -33,7 +33,9 @@ date: 2020-01-17
 
 따라서 이상화된 물리 법칙에 따르면 물체는 절대 멈추지 않을 것이다. [Lionel Lincoln](https://www.quantamagazine.org/puzzle-does-nature-need-elegant-math-20191205/#comment-4713342154), [Ty Rex](https://www.quantamagazine.org/puzzle-does-nature-need-elegant-math-20191205/#comment-4715803058), [Jonathan Vercruysse](https://www.quantamagazine.org/puzzle-does-nature-need-elegant-math-20191205/#comment-4726427613)가 지적했듯이 말이다. Vercruysse는 지수 곡선에서 예상되는 대로 로그를 포함하는 올바른 거리($D$)와 시간($T$) 공식을 제시한다:
 
-$$D = \frac{\log\left(\frac{T}{9} + 1\right)}{\log\frac{10}{9}}$$
+$$
+D = \frac{\log\left(\frac{T}{9} + 1\right)}{\log\frac{10}{9}}
+$$
 
 더 자세한 설명은 [Vercruysse의 댓글](https://www.quantamagazine.org/puzzle-does-nature-need-elegant-math-20191205/#comment-4726427613)을 참고하라.
 

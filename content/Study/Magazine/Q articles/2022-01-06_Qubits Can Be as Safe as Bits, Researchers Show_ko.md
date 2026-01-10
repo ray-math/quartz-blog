@@ -7,8 +7,6 @@ date: 2022-01-06
 
 ![Illustration of two interweaving chains, one blue and one orange, against a blue background.](https://www.quantamagazine.org/wp-content/uploads/2022/01/EFC_FOLLOWUP_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 수 세기에 걸쳐 인류는 정보를 점점 더 내구성 있고 유용한 형태로 저장하는 방법을 배워왔다. 석판에서 종이로, 종이에서 디지털 매체로. 1980년대부터 연구자들은 [양자 컴퓨터](https://www.quantamagazine.org/tag/quantum-computing/) 내부에 정보를 저장하는 방법을 이론적으로 연구하기 시작했다. 양자 컴퓨터 안에서 정보는 원자 규모의 온갖 종류의 오류에 노출된다. 1990년대에 이르러 연구자들은 몇 가지 [방법](https://www.quantamagazine.org/how-quantum-computers-will-correct-their-errors-20211116/)을 찾아냈지만, 이들 방법은 고전(일반적인) 컴퓨터에서 사용되는 경쟁 방법에 미치지 못했다. 고전적 방법들은 신뢰성과 효율성의 놀라운 조합을 제공했다.

@@ -9,8 +9,6 @@ date: 2021-05-19
 
 이 그래프에서 강조된 부분은 모든 꼭짓점이 서로 홀수 개의 연결을 갖는 부분그래프를 형성한다. 수학자들은 이제 모든 그래프에서 이러한 성질을 가진 부분그래프의 최소 크기를 알게 되었다.
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 수십 년 동안 수학자들은 그래프와 그 연결 개수에 관한 단순한 질문을 놓고 논쟁해왔다. 이제 학부 수학 전공생도 생각해낼 법한 논증을 사용하여, 캘리포니아 대학교 어바인 캠퍼스의 [Asaf Ferber](https://faculty.sites.uci.edu/asaff/)와 텔아비브 대학교의 [Michael Krivelevich](http://www.math.tau.ac.il/~krivelev/)가 [3월에 게시한 증명](https://arxiv.org/abs/2009.05495)을 통해 마침내 답을 제공했다.

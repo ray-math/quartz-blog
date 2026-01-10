@@ -7,8 +7,6 @@ date: 2018-07-30
 
 ![Art for "A Math Theory for Why People Hallucinate"](https://www.quantamagazine.org/wp-content/uploads/2018/07/Hallucination_2880_v2.jpg)
 
-[aeforia](https://aeforiadesign.com/) and Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 1920년대, 반문화 운동의 대부 Timothy Leary가 Harvard 대학교에서 LSD와 다른 환각제를 자기 실험하여 파장을 일으키기 수십 년 전, Heinrich Klüver라는 젊은 지각 심리학자는 시각 환각에 대한 연구에서 자신을 실험 대상으로 삼았다. Minnesota 대학교 실험실에서 어느 날 그는 페요테 버튼—선인장 *Lophophora williamsii*의 말린 꼭대기 부분—을 섭취하고, 그 영향 아래 자신의 시야가 어떻게 변하는지 세심하게 기록했다. 그는 고대 동굴 벽화와 Joan Miró의 그림에서 흔히 볼 수 있는 모양과 놀랍도록 유사한 반복적인 패턴들을 관찰했고, 이것들이 아마도 인간 시각에 내재된 것일 수 있다고 추측했다. 그는 이 패턴들을 네 가지 뚜렷한 유형으로 분류하고 "형태 상수(form constants)"라고 명명했다: 격자 무늬(체스판, 벌집 모양, 삼각형 포함), 터널, 나선형, 그리고 거미줄 모양.
@@ -24,8 +22,6 @@ date: 2018-07-30
 ![Four form constants](https://www.quantamagazine.org/wp-content/uploads/2018/07/FormConstants_560.jpg)
 
 Heinrich Klüver는 환각제의 영향 아래에서 본 형태들을 "형태 상수"로 알려진 네 가지 범주로 분류했다.
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 새롭게 떠오르는 가설은 소위 ["튜링 패턴(Turing patterns)"을 생성하는 메커니즘](https://www.quantamagazine.org/biologists-home-in-on-turing-patterns-20130325/)의 변형을 가리킨다. 1952년 논문에서, 영국의 수학자이자 암호 해독자인 Alan Turing은 생물학에서 흔히 볼 수 있는 반복 패턴들—예를 들어 호랑이나 제브라피시의 줄무늬, 또는 표범의 점박이—을 생성하는 수학적 메커니즘을 제안했다. 과학자들은 고전적인 튜링 메커니즘이 뇌처럼 잡음이 많고 복잡한 시스템에서는 아마도 일어날 수 없다는 것을 오랫동안 알고 있었다. 그러나 Cowan의 협력자인 University of Illinois, Urbana-Champaign의 물리학자 [Nigel Goldenfeld](https://www.quantamagazine.org/seeing-emergent-physics-behind-evolution-20170831/)는 잡음을 고려하는 원래 아이디어의 변형을 제안했다. 최근 두 논문에서 보고된 실험적 증거는 이 "확률적 튜링 메커니즘(stochastic Turing mechanism)"이 사람들이 환각할 때 보는 기하학적 형태 상수의 배후에 있다는 이론을 뒷받침했다.
 

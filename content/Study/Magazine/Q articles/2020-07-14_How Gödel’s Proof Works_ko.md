@@ -9,8 +9,6 @@ date: 2020-07-14
 
 모든 수학 체계에는 결코 증명할 수 없는 명제들이 존재한다.
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 1931년, 오스트리아의 논리학자 쿠르트 괴델(Kurt Gödel)은 역사상 가장 놀라운 지적 성취 중 하나를 이뤄냈다.
@@ -146,7 +144,9 @@ Olena Shmahalo/Quanta Magazine
 
 *궁금한 독자를 위해, 이 명제는 다음과 같이 읽힌다: "어떤 정수 $x$가 존재해서 $x$에 2를 곱한 것이 $2^{1} \times 3^{8} \times 5^{6} \times 7^{5} \times 11^{6} \times 13^{9}$와 같고, $x$에 4를 곱한 것이 $2^{1} \times 3^{8} \times 5^{6} \times 7^{5} \times 11^{6} \times 13^{9}$와 같은 정수 $x$는 존재하지 않는다." 대응하는 공식은:
 
-$$(∃x)(x \times ss^{0} = sss \ldots sss^{0}) \cdot \sim(∃x)(x \times ssss^{0} = sss \ldots sss^{0})$$
+$$
+(∃x)(x \times ss^{0} = sss \ldots sss^{0}) \cdot \sim(∃x)(x \times ssss^{0} = sss \ldots sss^{0})
+$$
 
 여기서 $sss \ldots sss^{0}$는 후속자 기호 $s$가 $2^{1} \times 3^{8} \times 5^{6} \times 7^{5} \times 11^{6} \times 13^{9}$개 있는 것을 나타낸다. 기호 ⋅는 "그리고"를 의미하며, 기본 어휘로 더 긴 표현의 축약이다: $p \cdot q$는 ~(~$p$ ∨ ~$q$)를 나타낸다. [[본문으로 돌아가기.]](https://www.quantamagazine.org#jump2)
 

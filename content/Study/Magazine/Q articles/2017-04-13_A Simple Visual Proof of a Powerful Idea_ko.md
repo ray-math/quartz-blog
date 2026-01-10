@@ -7,8 +7,6 @@ date: 2017-04-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/Ramsey28_2600.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine; Source: Jonathan Jedwab, Simon Fraser University
-
 ## 서론
 
 [기하학의 최근 발전](https://www.quantamagazine.org/20170411-equiangular-lines-proof/)은 또 다른 분야인 그래프 이론의 중요한 아이디어, 램지 정리(Ramsey's theorem)를 집중적으로 활용한다. 램지 정리는 모든 점들이 빨간 선 또는 파란 선으로 연결된 그래프에서, 완전히 균일한—즉, 모두 빨강 또는 모두 파랑인—큰 부분 그래프가 반드시 존재함을 보장한다.

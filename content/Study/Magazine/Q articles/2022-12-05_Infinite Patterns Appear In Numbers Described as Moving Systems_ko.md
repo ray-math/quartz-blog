@@ -7,8 +7,6 @@ date: 2022-12-05
 
 ![조립 라인을 따라 내려오는 파란색 숫자들을 기계 팔이 집어 올리는 모습.](https://www.quantamagazine.org/wp-content/uploads/2022/12/InfiniteSumsets-bySamuelVelasco-Lede-scaled.webp)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 1977년 12월, 수학 전문 학술지 *Journal d'Analyse Mathématique*에 혁명적인 [논문](https://www.cs.umd.edu/~gasarch/TOPICS/vdw/furstenbergsz.pdf) 한 편이 조용히 등장했다. 저자 힐렐 퓌르스텐베르크(Hillel Furstenberg)는 어떤 놀라운 결과도—심지어 새로운 결과조차도—주장하지 않았다. 그는 단지 다른 수학자 엔드레 세메레디(Endre Szemerédi)가 2년 전에 이미 증명한 정리에 대한 새로운 증명을 제시했을 뿐이었다.
@@ -76,8 +74,6 @@ Yosef Adest
 > 에르되시의 추측을 정확히 표현하면: 양의 상한 밀도(upper density) $\delta > 0$를 가진 집합 $A \subseteq \mathbb{N}$에 대해, 무한 집합 $B, C$가 존재하여 $B + C \subseteq A$이다. 여기서 중요한 것은 $B$와 $C$가 모두 무한이라는 점이다. 만약 $B$ 또는 $C$ 중 하나가 유한이면 문제는 자명하다. 또한 $B + C \subseteq A$라는 포함 관계가 핵심이다—$A$ 전체를 합집합으로 표현하는 것이 아니라, $A$ 안에 무한 합집합이 숨어 있다는 것이다. 이것은 $A$의 '풍부함(richness)'을 나타낸다: 밀도가 양수이면, $A$는 단순히 큰 집합인 것이 아니라 내부에 풍부한 대수적 구조를 포함한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/12/Infinite_sumsets_560.jpg)
-
-Merrill Sherman/Quanta Magazine
 
 모레이라는 대학원 친구인 리히터와 로버트슨을 이 프로젝트에 끌어들였다. 현재 맨체스터 대학교에 있는 로버트슨은 모레이라보다 1년 앞서 졸업했고, 리히터는 몇 년 뒤였다. 세 사람 모두 에르고딕 이론 기법을 조합론에 적용하는 데 능숙했다. 하지만 이 문제는 새로운 도전을 제기했다.
 

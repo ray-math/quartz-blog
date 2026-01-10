@@ -43,8 +43,6 @@ date: 2021-08-25
 
 곰이 A에서 B로 이동하는 동안, 수영 선수는 항상 반대편을 유지하며(선 MN으로 표시됨), 최종적으로 점 P에 도달한다. 수영 선수의 반원 경로는 빨간색으로 표시되고, 그의 가장 바깥쪽 안전 원은 녹색이다. PQ는 그의 최종 반지름 방향 질주다.
 
-Samuel Velasco/Quanta Magazine
-
 곰이 방향을 자주 바꾼다면, 수영 선수는 단순히 곰의 반대 방향으로 이동하며, [Jonathan Barmak](https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/#comment-5481198793)이 "조각별로 반원형(같은 반지름의 원호들의 연결)"이라고 묘사한 경로를 따르면 된다. 이것도 같은 시간에 곰으로부터 같은 거리를 벌린다.
 
 **B.** 여러 독자들이 지적했듯이, 이 전략은 수영 선수가 반지름 0.5이고 중심이 (0, −0.5)인 반원(빨간색 OP)을 따라 이동하며, 중심의 남쪽 점 (0, −1)에서 끝나게 한다. [Jonathan Barmak는 기술적 이유를](https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/#comment-5439765885) 들어 왜 이 경로가 반원인지 설명했다.

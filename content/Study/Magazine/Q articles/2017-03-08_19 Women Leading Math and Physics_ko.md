@@ -9,8 +9,6 @@ date: 2017-03-08
 
 왼쪽 위부터 시계방향으로: 수치트라 세바스찬(Suchitra Sebastian), 실비아 세르파티(Sylvia Serfaty), 헬렌 퀸(Helen Quinn), 마리암 미르자카니(Maryam Mirzakhani), 자넷 콘래드(Janet Conrad), 신시아 드워크(Cynthia Dwork), 잔나 레빈(Janna Levin), 엘레나 아프릴레(Elena Aprile), 미란다 청(Miranda Cheng).
 
-사진 일러스트레이션: Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 1970년대, 이탈리아계 미국인 암흑물질 물리학자 [엘레나 아프릴레(Elena Aprile)](https://www.quantamagazine.org/20161220-elena-aprile-interview-dark-matter/)는 자신의 시간에 대한 경쟁적 요구를 전혀 용인하지 않으려는 남성 지도교수들 속에서 살아남았다. "그것이 나를 티타늄처럼 만들었습니다"라고 그녀는 뛰어나지만 까다로운 멘토와의 관계에 대해 말했다. "그는 당신을 가능한 한계를 넘어서까지 계속 밀어붙였습니다: '이건 오직 과학에 관한 것이고, 목표에 관한 것이다. 먹여야 할 아기가 있다고? 어떻게든 방법을 찾아라.'"

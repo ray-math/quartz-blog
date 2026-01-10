@@ -39,15 +39,11 @@ Fred Olivier/Nature Picture Library/Science Photo Library
 
 ![바람이 불어오는 쪽에서 따뜻한 쪽으로 펭귄이 이동하여 무리의 모양이 변하는 것을 보여주는 그래픽](https://www.quantamagazine.org/wp-content/uploads/2020/08/Penguins-graphic-1-MOBILE.v3.jpg)
 
-Samuel Velasco/Susan D'Agostino/Quanta Magazine; based on: [Modeling Huddling Penguins](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050277)
-
 이동자는 바람이 가는 쪽 경계에서 열 손실이 가장 적은 펭귄들을 새로운 이웃으로 선택하여, 다른 펭귄들을 방해하지 않고 새 자리에 정착한다. (그는 새로운 이웃의 수를 최대화하는 자리를 선택할 수도 있고 그렇지 않을 수도 있다—이 모델에서 그에게 중요한 것은 열 손실이 가장 적은 펭귄들을 찾는 것뿐이다.) 그가 자리를 잡으면, 한 마리 이상의 새 이웃이 이제 한 번도 움직이지 않았는데도 허들 내부에 위치하게 될 수 있다. 한편, 바람이 불어오는 쪽에서는 이동자가 이전 자리를 비워둠으로써 이전에 내부에 있던 펭귄이 경계에 노출될 수 있다.
 
 더 많은 펭귄이 열을 찾아 이동하면서 허들의 경계는 끊임없이 변한다. 시간이 지나면서 허들의 거친 형태가 명확해진다. 원래의 덩어리는 규칙적인 기하학적 형태로 변형된다: 직선으로 된 측면과 둥근 끝을 가진 장타원형(oblong shape).
 
 > 장타원형은 타원과 유사하지만 양 끝이 반원으로 마무리된 형태로, 육상 경기장 트랙을 떠올리면 쉽다. 이 형태가 자발적으로 나타나는 것은 유체역학과 최소 에너지 원리의 결과다. 바람이 한 방향으로 지속적으로 불면, 허들은 바람에 수직인 방향으로는 좁고 평행한 방향으로는 길게 늘어난다. 이는 바람에 노출되는 전체 표면적을 최소화하는 동시에, 펭귄들이 바람이 가는 쪽으로 이동할 공간을 제공한다. 수학적으로 이는 제약 조건 하의 최적화 문제다: 주어진 펭귄 개체 수(일정한 부피)로 바람에 의한 열 손실(표면적과 바람 노출)을 최소화하는 형태를 찾는 것. 비누막이 표면 장력 때문에 최소 표면적의 형태를 이루는 것처럼, 허들도 열역학적 '장력'에 의해 최적 형태로 수렴한다.
-
-Samuel Velasco/Susan D'Agostino/Quanta Magazine; based on: ![개별 펭귄의 움직임이 시간에 따라 허들의 모양을 어떻게 변화시키는지 보여주는 그래픽](https://www.quantamagazine.org/wp-content/uploads/2020/08/Penguins-graphic-2.v2.jpg)
 
 ![개별 펭귄의 움직임이 시간에 따라 허들의 모양을 어떻게 변화시키는지 보여주는 그래픽](https://www.quantamagazine.org/wp-content/uploads/2020/08/Penguins-graphic-2-MOBILE.jpg)
 

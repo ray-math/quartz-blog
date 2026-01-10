@@ -95,7 +95,9 @@ Quanta Magazine
 
 바로 그렇다! 적어도 이 문제의 우주는 그렇다. 선택한 전략이 아무리 시끄럽거나 복잡해도 기댓값은 항상 같다. 전략 2에서 전략 1에 비해 베팅이 두 배가 될 때, 유리한 섞기에서는 승리가 더 크지만, 카드 순서가 반대일 때 판돈이 더 나빠지는 것으로 정확히 보상된다(RRBB를 BBRR과, 또는 RBRB를 BRBR과 비교하라). 가장 무모한 전략은 단 하나의 덱에 대해서만 큰 잭팟을 얻지만 다른 모든 것에 대해서는 아무것도 얻지 못한다. 불균형한 덱의 이점은 더 많은 색에 베팅하는 이점을 정확히, 거의 이상하게 균형 잡는다. 이 통찰과 그것을 증명하는 방법은 댓글에서 [Erik H](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5265801426)에 의해 처음 지적되었으며, 그는 다른 색이 고갈되었을 때 남은 색에 전체 판돈을 거는 한, 더 가능성 낮은 색에 베팅하는 전략을 포함하여 모든 전략이 동등하다고 올바르게 추론했다. [Paolo Di Giusto](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5264668503), Erik H, [Paolo Abiuso](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5272085980)는 기댓값에 대한 재귀 관계(recurrence relation)를 유도했으며, 새 카드가 뒤집힐 때 기댓값이 이전 값을 기반으로 어떻게 변하는지 보여주었다—이것이 이 미스터리를 밝히는 첫 번째 단계다. Paolo Abiuso는 재귀 관계로부터 다음 관계가 참이라면 가능성이 낮은 색이 나타나 만들어진 불균형 덱의 이점이 가능성이 높은 색이 나타나는 이점과 정확히 균형을 이루어 베팅을 무관하게 만든다고 추론했다:
 
-$$m \times E(m - 1, n) = n \times E(m, n - 1)$$
+$$
+m \times E(m - 1, n) = n \times E(m, n - 1)
+$$
 
 여기서 $m$과 $n$은 아직 남아 있는 빨간색과 검은색 카드의 수이고 $E(m, n)$은 $m$개의 빨간색 카드와 $n$개의 검은색 카드가 있을 때 얻을 기댓값이다. 이 관계는 가능성이 낮은 색이나 높은 색에 베팅하든 동일하게 유지된다. 모든 크기의 덱에 대해 이것을 증명하는 방법은 수학적 귀납법(mathematical induction)의 마법을 통해서다. 즉, 우리가 한 것처럼 작은 수에 대해 결과가 참임을 보여주는 것으로 시작한 다음, 특정 $n$에 대해 작동한다면 단일 카드가 덱에 추가될 때도 작동해야 함을 보여준다. 짜잔, 따라서 모든 $n$에 대해 작동한다. [Paolo Abiuso](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5272085980)의 게시물에서 실제 식을 확인할 수 있다.
 
@@ -103,7 +105,9 @@ $$m \times E(m - 1, n) = n \times E(m, n - 1)$$
 
 모든 전략이 동등하다는 것을 알게 되면, 그 중 어느 것에 대해서든 기댓값을 계산할 수 있다. 계산하기 가장 쉬운 것은 먼저 모든 빨간색 카드에 베팅하는 무모한 전략에 대한 기댓값이다. 맞을 확률은 52개 중 26개를 선택하는 경우의 수의 역수이고, 초기 판돈 100이 매 라운드마다 두 배가 되어 $100 \times 2^{52}$ 달러를 얻게 된다. 식은
 
-$$100 \times 2^{52} \left(\frac{26! \times 26!}{52!}\right)$$
+$$
+100 \times 2^{52} \left(\frac{26! \times 26!}{52!}\right)
+$$
 
 이며, [Wolfram Alpha](https://www.wolframalpha.com/)가 알려주듯이 $908.13이고, 이것이 게임 입장에 대한 이론적 공정 가치다(표준 카지노는 아마도 약 $950을 청구할 것이다). "이론적 공정 가치"라고 말하는 이유는 실제로는 무모한 베팅에서 정말로, 정말로 운이 좋다면 엄청난 금액(약 $450조)을 이길 가능성이 있어서 절대 그것을 회수할 수 없기 때문이다. 당신은 파산 법원이 내 채권자로서 당신에게 가지도록 허용할 찌꺼기에 만족해야 할 것이다. 이것은 의심할 여지 없이 기댓값의 가치를 낮출 것이다!
 
@@ -111,7 +115,7 @@ $$100 \times 2^{52} \left(\frac{26! \times 26!}{52!}\right)$$
 
 증명 및/또는 금액에 대한 정확한 계산을 제공한 다른 사람들은 [Lazar Ilic](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5268859210), [Muhaimin Khan](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5269741385), [Charles Wang](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5263424295), [Laurent](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5268066319), [Valentin Vincendon](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5267518416), [Manuel Fortin](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5275554183), [Ashley Lopez](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5281223921), [Okhtay Ilghami](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5277840973)다. 여러 독자들은 큰 숫자에 대해서는 답이 스털링 공식(Stirling's formula)으로 근사될 수 있다고 지적했는데, 그 공식은 수학의 멋진 반전 중 하나로 $\pi$를 사용한다. 파이 데이(pi day)를 축하할 또 하나의 이유다!
 
-> 스털링 공식(Stirling's formula)은 큰 $n$에 대한 팩토리얼 $n!$의 근사다: $$n! \approx \sqrt{2\pi n} \left(\frac{n}{e}\right)^{n}$$. 더 정확한 형태는 $n! = \sqrt{2\pi n} \left(\frac{n}{e}\right)^{n} e^{\lambda_{n}}$이며, 여기서 $0 < \lambda_{n} < \frac{1}{12n}$이다. 이 공식은 1730년대 아브라함 드무아브르(Abraham de Moivre)가 처음 발견했고, 제임스 스털링(James Stirling)이 개선했다. 놀라운 점은 정수론의 팩토리얼에 원주율 $\pi$와 자연로그의 밑 $e$가 등장한다는 것이다. 이는 감마 함수(Gamma function) $\Gamma(n) = (n-1)!$의 적분 표현에서 기인한다. 스털링 공식은 통계역학(엔트로피 계산), 정보이론(채널 용량), 조합론(점근 분석) 등에서 광범위하게 쓰인다. 이 문제에서 $\binom{52}{26} \approx \frac{2^{52}}{\sqrt{26\pi}}$로 근사할 수 있다.
+> 스털링 공식(Stirling's formula)은 큰 $n$에 대한 팩토리얼 $n!$의 근사다: $n! \approx \sqrt{2\pi n} \left(\frac{n}{e}\right)^{n}$. 더 정확한 형태는 $n! = \sqrt{2\pi n} \left(\frac{n}{e}\right)^{n} e^{\lambda_{n}}$이며, 여기서 $0 < \lambda_{n} < \frac{1}{12n}$이다. 이 공식은 1730년대 아브라함 드무아브르(Abraham de Moivre)가 처음 발견했고, 제임스 스털링(James Stirling)이 개선했다. 놀라운 점은 정수론의 팩토리얼에 원주율 $\pi$와 자연로그의 밑 $e$가 등장한다는 것이다. 이는 감마 함수(Gamma function) $\Gamma(n) = (n-1)!$의 적분 표현에서 기인한다. 스털링 공식은 통계역학(엔트로피 계산), 정보이론(채널 용량), 조합론(점근 분석) 등에서 광범위하게 쓰인다. 이 문제에서 $\binom{52}{26} \approx \frac{2^{52}}{\sqrt{26\pi}}$로 근사할 수 있다.
 
 위의 표에서 내가 사용한 최종 확률적 전략은 [Laurent](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5268066319)가 설명한 "분산 없음(no variance)" 전략으로, 모든 덱에 대해 정확히 기댓값을 얻는다. 이것을 찾고 [증명을 제공한](https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/#comment-5277015444) Laurent에게 찬사를 보낸다!
 

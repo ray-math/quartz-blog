@@ -35,8 +35,6 @@ date: 2019-12-11
 
 직접 시도해 보려면 [여기](https://www.dcode.fr/collatz-conjecture)를 클릭하라.
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 "3을 곱하고 2로 나누는 것만 알면 바로 가지고 놀 수 있습니다. 시도하고 싶어지죠." "[가장 단순한 불가능한 문제(The Simplest Impossible Problem)](https://www.youtube.com/watch?v=m4CjXk_b8zo)"라는 제목의 인기 유튜브 영상을 제작한 그리넬 대학의 수학자 [마크 챔벌랜드(Marc Chamberland)](https://www.grinnell.edu/user/chamberl)가 말했다.
 
 하지만 정당한 증명은 드물다.

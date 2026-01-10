@@ -43,8 +43,6 @@ Khot는 이 문제를 해결하는 열쇠가 또 다른 문제의 복잡도를 �
 
 ![Graphic illustration depicting the unique games conjecture: Proposed in 2002, this conjecture has broad implications for understanding problems in which you're trying to satisfy as many constraints as you can. THE GAME: Color nodes in a network according to predetermined constraints. CONSTRAINTS (simplified to just two for the purposes of this graphic): 1. Joined nodes cannot be the same color. 2. If a node is orange then its adjoining nodes must be blue. THE CONJECTURE says (roughly speaking) that there is no efficient algorithm capable of identifying colorings, for every conceivable network, that satisfy even a tiny fraction of the number of constraints the optimal coloring satisfies.](https://www.quantamagazine.org/wp-content/uploads/2018/04/UniqueGamesConjecture_560.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 Khot가 이 추측을 공식화한 동기는 그래프 색칠과 밀접하게 연결되어 있었다. 그러나 그와 다른 이론 컴퓨터 과학자들이 이 추측의 파급 효과를 연구하기 시작하면서, 그들은 이것이 그래프 색칠과는 거리가 먼 문제들에 대한 방대한 양의 정보를 암호화하고 있다는 것을 발견했다. Khot는 이 추측이 "완전히 자기만의 생명을 갖게 되었다"고 말했다.
 
 특히 2008년, 버클리 캘리포니아 대학교의 [Prasad Raghavendra](https://people.eecs.berkeley.edu/~prasad/)는 만약 이 추측이 참이라면 반정부호 계획법(semidefinite programming)이라는 특정한 단순한 알고리즘이 모든 "제약 만족" 문제—가능한 한 많은 규칙 집합을 만족시키려는 문제—에 대해 가능한 최선의 근사 해를 제공한다는 것을 [보였다](https://dl.acm.org/citation.cfm?id=1374414).
@@ -96,8 +94,6 @@ O'Donnell은 "그가 이 추측으로 상을 받고 있는데, 많은 사람들�
 멀리 내다보는 대학원생의 마음에서 나온 문제에 어울리게, 새로운 논문들의 가장 중요한 아이디어들 중 많은 것이 팀의 대학원생인 Dor Minzer에게서 나왔다. Khot는 "이 사람은 놀랍다. Dor는 정말로 전체의 설계자였다"고 말했다.
 
 ![Graphic illustration depicting the 2-2 unique games conjecture: A recent proof of this conjecture brings researchers part of the way toward proving the Unique Games Conjecture. Here, the game constraints are revised to allow two color choices instead of one. THE GAME: Color nodes in a network according to predetermined constraints. REVISED CONSTRAINTS CONSTRAINTS (simplified to just two for the purposes of this graphic): 1. Joined nodes cannot be the same color. 2. If a node is orange then its adjoining nodes must be either blue or green. THE PROOF tells us (again, roughly speaking) that, given these broader constraints, there is no efficient algorithm capable of identifying colorings, for every conceivable network, that satisfy even a tiny fraction of the number of constraints the optimal coloring satisfies.](https://www.quantamagazine.org/wp-content/uploads/2018/04/2-2_GamesCOnjecture_560.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 많은 대학원생들은 유니크 게임 추측처럼 유명하게 가시밭길 같은 문제를 다루기에는 너무 위축되었을지 모르지만, Minzer에게는 그것이 고려 사항이 아니었다. "내가 생각했던 방식은 내가 흥미롭다고 생각하는 문제에 대해, 내가 정말로 존경하는 두 사람과 함께 생각할 기회가 있었고, 어떻게 되는지 보자는 것이었다"고 그는 말했다.
 

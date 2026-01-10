@@ -5,10 +5,6 @@ description: LED 조명의 색상은 투박한 과정으로 제어된다. 새로
 date: 2017-09-06
 ---
 
-![Lucy Reading-Ikkanda/Quanta Magazine](https://www.quantamagazine.org/wp-content/uploads/2017/09/LED_1300_lede_motions.gif)
-
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 LED 전구의 핵심에는 정교한 양자 춤이 자리 잡고 있다. 이 춤을 더 정밀하게 안무할수록, LED는 미래의 보편적인 에너지 효율적 조명원으로서의 약속에 더 가까워진다(LED는 이미 효율적이지만, 훨씬 더 나아질 수 있다). 내가 최근 쓴 기사 "[수학자들이 불량 파동을 길들이다: LED의 미래를 밝히다](https://www.quantamagazine.org/mathematicians-tame-rogue-waves-illuminating-future-of-led-lighting-20170822/)"는 물리학자들이 이 양자 춤을 브로드웨이 쇼의 감독처럼 한 걸음씩 계획할 수 있게 해주는 수학적 발견에 관한 이야기다.
@@ -26,10 +22,6 @@ LED는 전자가 반도체 물질 내에서 발견되는 양전하를 가진 입
 > 풍경 함수(landscape function)라는 이름은 이 함수가 만드는 시각적 이미지에서 유래했다. 이 함수 $u(x)$를 그래프로 그리면 산과 골짜기가 있는 풍경처럼 보인다. 놀랍게도 이 '풍경'의 골짜기들이 정확히 전자가 갇히는 위치를 나타낸다. 수학적으로 풍경 함수는 슈뢰딩거 방정식(Schrödinger equation) $-\Delta u + V(x)u = \lambda u$에서 유도된다. 여기서 $V(x)$는 무질서한 포텐셜(전자를 밀어내거나 끌어당기는 힘의 분포)이고, $\Delta$는 라플라시안 연산자다. 마이보로다와 필로슈는 이 복잡한 방정식의 고유함수(eigenfunction)들—전자가 취할 수 있는 양자 상태들—이 모두 풍경 함수라는 단 하나의 함수로 제한된다는 것을 발견했다. 이는 마치 복잡한 오케스트라 연주의 모든 변주를 하나의 악보로 통제할 수 있다는 발견과 같다. 2012년 처음 소개된 이 통찰은 반도체 물리학뿐 아니라 앤더슨 국소화(Anderson localization), 양자 혼돈(quantum chaos) 등 많은 분야에 영향을 미쳤다.
 
 수학적 발견이 실용적인 응용처를 찾는 데는 수십 년이 걸릴 수 있으며—어떤 것들은 영원히 찾지 못한다. 그러나 2012년에 도입된 풍경 함수는 이미 물리학자들과 엔지니어들에게 채택되었다. 캘리포니아 대학교 산타바버라(University of California, Santa Barbara)에서 물리학자 클로드 바이스부흐(Claude Weisbuch)와 제임스 스펙(James Speck)은 풍경 함수를 사용하여 더 나은 녹색 LED를 설계하기 위해 에너지부로부터 연구비를 받았다—녹색은 효율적으로 엔지니어링하기 가장 어려운 LED 색상이다.
-
-![Lucy Reading-Ikkanda/Quanta Magazine](https://www.quantamagazine.org/wp-content/uploads/2017/09/LED_BLOG.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 LED가 방출하는 색상은 반도체 물질의 "밴드 갭(band gap)"이라고 불리는 것에 달려 있다. 이 용어는 전자가 높은 에너지 상태에서 낮은 에너지 상태로 이동할 때 잃는 에너지의 양을 가리킨다. 밴드 갭을 전자가 그러한 점프를 할 때 이동하는 "거리"로 생각할 수 있다. 거리(또는 갭)가 클수록, 전자의 시작점과 최종 위치 사이의 에너지 차이가 커진다—그리고 이 차이는 열의 포논으로 또는, 바람직하게는, 빛의 광자로 보존된다. 밴드 갭은 또한 방출되는 빛의 색상을 결정한다: 더 넓은 밴드 갭은 예를 들어 파란색 빛으로 이어지고, 더 좁은 밴드 갭은 빨간색 빛으로 이어진다. (밴드 갭의 폭과 방출되는 빛의 색상 사이의 관계는 어떤 의미에서 광파의 주파수가 파동의 색상을 결정하는 방식과 유사하다.)
 

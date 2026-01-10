@@ -33,7 +33,9 @@ Olena Shmahalo / Quanta Magazine
 
 에르되시의 추측은 1938년 스코틀랜드 수학자 로버트 알렉산더 랭킨(Robert Alexander Rankin)이 고안한 큰 소수 간격에 대한 기묘하게 생긴 한계에 기초한다. 랭킨은 충분히 큰 수 $X$에 대해, $X$ 이하의 가장 큰 소수 간격이 최소한 다음과 같다는 것을 보였다:
 
-$$\frac{1}{3} \frac{\log X \cdot \log \log X \cdot \log \log \log \log X}{(\log \log \log X)^{2}}$$
+$$
+\frac{1}{3} \frac{\log X \cdot \log \log X \cdot \log \log \log \log X}{(\log \log \log X)^{2}}
+$$
 
 UCLA의 테렌스 타오(Terence Tao)는 말한다. "정수론 공식은 많은 'log'(자연로그의 줄임말)를 갖는 것으로 악명 높습니다." 타오는 일리노이 대학교 어바나-샴페인의 케빈 포드(Kevin Ford), 옥스퍼드 대학교의 벤 그린(Ben Green), 모스크바 스테클로프 수학 연구소의 세르게이 코냐긴(Sergei Konyagin)과 함께 두 편의 새 논문 중 하나를 썼다. 사실 정수론 학자들은 좋아하는 농담이 있다고 타오는 말한다: 익사하는 정수론 학자가 뭐라고 외칠까? "Log log log log..."
 

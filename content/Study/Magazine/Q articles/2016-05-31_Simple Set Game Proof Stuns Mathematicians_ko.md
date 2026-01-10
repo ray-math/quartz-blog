@@ -7,8 +7,6 @@ date: 2016-05-31
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/Alice_QoD_v1.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 최근 몇 주 동안 온라인에 게시된 일련의 논문들에서, 수학자들이 패턴 맞추기 카드 게임 Set과 관련된 문제를 해결했다. 놀랍게도 이 문제는 게임 자체보다도 앞선 것이다. 그 해법의 단순함은 수학자들을 경악시켰으며, 이미 다른 [조합론(combinatorics)](https://www.quantamagazine.org/tag/combinatorics/) 문제들에서도 진전을 이끌어내고 있다.

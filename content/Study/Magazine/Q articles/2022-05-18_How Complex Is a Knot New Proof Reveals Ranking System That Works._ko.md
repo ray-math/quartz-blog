@@ -9,8 +9,6 @@ date: 2022-05-18
 
 두 매듭이 특정한 종류의 4차원 원기둥으로 연결될 수 있으면 콘코던트(concordant)하다고 한다.
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 1981년, [캐머런 고든(Cameron Gordon)](https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349)은 두 매듭—한 가닥의 실이나 끈으로 만들어지는 매듭을 본떠 만든 수학적 구조물—을 연결하는 새로운 방식을 제안했다. 그의 논문에서, 그는 이 새로운 관계를 사용하여 매듭들을 복잡도에 따라 배열할 수 있다고 추측했다.

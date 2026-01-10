@@ -9,8 +9,6 @@ date: 2022-04-21
 
 다항식 방정식의 근들은 그들의 많은 비밀을 드러낸다.
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 최근 발표된 [논문](https://arxiv.org/abs/2111.06507)에서 Princeton University의 [Manjul Bhargava](https://www.quantamagazine.org/number-theorist-manjul-bhargava-is-awarded-fields-medal-20140812/)는 수학에서 가장 오래된 관심사 중 하나인 다항식 방정식의 해에 관한 85년 된 추측을 해결했다. 예를 들어 $x^{2} - 3x + 2 = 0$과 같은 방정식 말이다. University of Montreal의 교수 [Andrew Granville](https://scholar.google.co.uk/citations?user=veBMlY8AAAAJ&hl=en)는 말한다. "훌륭한 문제이자 유명한 오래된 질문이죠. [Bhargava]는 흥미롭고 다소 다른 접근법을 사용했는데, 매우 창의적이었습니다."

@@ -49,8 +49,6 @@ date: 2017-03-28
 
 ![THE GAUSSIAN CORRELATION INEQUALITY … in convex geometry: Consider any two convex symmetrical shapes in any number of dimensions that are centered on the same point, which forms a target. Darts thrown at the target will land in a bell curve or "Gaussian distribution" of positions. The overlap of the two shapes increases your probability (P) of striking both. [Equation: see sample graphic] … in multivariate statistics: Consider a sample of people's weights and heights plotted on x-y axes. Because these variables are correlated, the odds that someone's weight and height will both fall within a combined range is greater than or equal to the product of the independent odds of falling in each range. (The general inequality holds for any number of variables.)](https://www.quantamagazine.org/wp-content/uploads/2017/03/GCI_615_double.png)
 
-*Lucy Reading-Ikkanda/Quanta Magazine*
-
 동일한 점을 중심으로 하는 두 개의 볼록 다각형, 예를 들어 직사각형과 원을 상상해보자. 이 점이 표적 역할을 한다. 표적을 향해 던진 다트는 중심점 주변에 종 모양 곡선 또는 "가우스 분포(Gaussian distribution)"를 따라 착지한다. 가우스 상관 부등식은 다트가 직사각형과 원 안에 동시에 착지할 확률이 항상 직사각형 내부에 착지할 개별 확률과 원 내부에 착지할 개별 확률의 곱보다 크거나 같다고 말한다. 더 명확히 말하면, 두 도형이 겹치기 때문에 하나를 맞추면 다른 하나도 맞출 확률이 증가한다는 것이다. 동일한 부등식이 한 점을 중심으로 하는 임의의 차원을 가진 임의의 두 볼록 대칭 도형에 대해 성립한다고 생각되었다.
 
 > 볼록(convex) 도형이란, 도형 내부의 임의의 두 점을 잇는 선분이 항상 도형 내부에 있는 도형이다. 원, 타원, 다각형(오목한 부분이 없는), 구, 타원체 등이 볼록 도형이다. 별 모양처럼 안쪽으로 패인 부분이 있으면 볼록하지 않다. 볼록 기하학은 이런 도형들의 성질을 연구하는 수학 분야로, 최적화 이론, 경제학, 컴퓨터 과학에서 중요하다. 왜냐하면 많은 최적화 문제(예: 최소 비용 찾기)가 볼록 함수나 볼록 집합 위에서 정의되기 때문이다. GCI가 "볼록" 도형에 대해 성립한다는 것은 우연이 아니다—볼록성은 수학에서 "좋은 성질"을 보장하는 핵심 조건 중 하나다.

@@ -9,8 +9,6 @@ date: 2017-03-02
 
 수학자들은 소수와 밀접하게 관련된 "유수(class number)"의 뿌리 구조를 파헤치고 있다.
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 1847년, 가브리엘 라메(Gabriel Lamé)는 페르마의 마지막 정리를 증명했다. 적어도 그는 그렇게 생각했다. 라메는 많은 중요한 발견을 한 프랑스 수학자였다. 그해 3월, 그는 200년 이상 최고의 천재들을 좌절시켜 온 문제에 대한 우아한 증명, 어쩌면 자신의 가장 위대한 업적을 이루었다고 확신했다.
@@ -102,8 +100,6 @@ Olena Shmahalo/Quanta Magazine
 
 ![대칭이 많을수록 덜 자주 발생한다. 삼각형의 간단한 기하학적 예로 이것을 볼 수 있다](https://www.quantamagazine.org/wp-content/uploads/2017/03/CountingSymmetries_1000_double.png)
 
-*Lucy Reading-Ikkanda/Quanta Magazine*
-
 삼각형은 여섯 개의 대칭을 가지며 한 번 나타난다. 벌어진 턱 모양은 두 개의 대칭을 가지며 세 번 나타난다. 또는 다르게 말하면, 삼각형은 벌어진 턱보다 세 배 많은 대칭을 가지며 1/3만큼 자주 나타난다. 이 관계—무언가가 더 많은 대칭을 가질수록, 그것은 덜 자주 발생한다—는 수학 전체에 걸쳐 성립한다. 이것이 사실인 이유는 무언가가 대칭이 적을수록, 그것이 나타날 수 있는 방법이 더 많기 때문이다. 대칭이 없는 2차원 도형은 무한히 많지만, 무한한 대칭선을 가진 도형은 단 하나—원—뿐이라는 것을 생각해 보라.
 
 > 이 대칭-빈도 역관계(symmetry-frequency inverse relationship)는 수학의 깊은 원리다. 군론에서 이것은 궤도-안정화 정리(orbit-stabilizer theorem)로 정식화된다: $|G| = |Orb(x)| \cdot |Stab(x)|$, 여기서 $|Orb(x)|$는 $x$의 궤도 크기(구별 가능한 구성의 수)이고 $|Stab(x)|$는 안정화군 크기(대칭의 수)다. 대칭이 3배 많으면 ($|Stab(x)|$가 3배), 궤도가 1/3 크기가 된다 ($|Orb(x)|$가 1/3). 즉, 서로 다른 것처럼 보이는 구성이 1/3만큼만 존재한다. 위 삼각형 예에서: 정삼각형은 6개 대칭(3개 회전 + 3개 반사)을 가지며 1번 나타난다. 벌어진 턱은 2개 대칭(항등원소 + 1개 반사)을 가지며 3번 나타난다. 선 하나는 2개 대칭을 가지며 3번 나타난다. 점만 있는 것은 6개 대칭을 가지며 1번 나타난다. $1 \cdot 6 + 3 \cdot 2 + 3 \cdot 2 + 1 \cdot 6 = 24 = 4!$로, 4개 물체의 모든 배치를 정확히 셀 수 있다. 이 원리는 조합론, 군론, 표현론, 심지어 양자역학에까지 나타난다.
@@ -121,8 +117,6 @@ Olena Shmahalo/Quanta Magazine
 ![격자를 사용하여 군을 보여줌](https://www.quantamagazine.org/wp-content/uploads/2017/03/Group_450_double.png)
 
 ![격자를 사용하여 군을 보여줌](https://www.quantamagazine.org/wp-content/uploads/2017/03/Group_1000_double.png)
-
-*Lucy Reading-Ikkanda/Quanta Magazine*
 
 이 설정에서, 군의 "대칭"은 군의 덧셈 구조를 보존하는 방식으로 군의 원소를 재배열할 수 있는 곳에서 발생한다. Group 2의 경우, 그러한 대칭이 두 개 있다. $x$와 $z$를 바꾸는 대칭과 "항등" 대칭(어떤 원소의 위치도 바꾸지 않는 것)이다. ($x + x = y$이고 $z + z = y$이므로, $x$와 $z$는 교환 가능하다.)
 

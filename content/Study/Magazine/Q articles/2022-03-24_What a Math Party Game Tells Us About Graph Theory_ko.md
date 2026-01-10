@@ -17,8 +17,6 @@ BIG MOUTH for Quanta Magazine
 
 처음에 모든 사람은 0번 악수를 했으므로, 모두 짝수에서 시작한다. Anna와 Byron이 먼저 나서서 서로 악수한다고 하자. 이제 그들은 각각 악수를 한 번씩 했다.
 
-Merrill Sherman/Quanta Magazine
-
 Caitlin도 참여해야 하므로, 그녀는 Byron과 악수한다. 이제 그녀는 악수를 한 번 했으니 홀수다. 하지만 이제 Byron은 두 번 악수를 했으므로, 다시 짝수로 돌아갔다.
 
 Demarr, Ernest, Flora도 뛰어들어 악수를 시작하면서, 짝수를 홀수로, 홀수를 짝수로 바꾸어 나간다.

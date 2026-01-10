@@ -7,8 +7,6 @@ date: 2017-03-21
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/03/meyer_wavelet_quanta_2k.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 지난 반세기 동안 수많은 수학 분야를 유랑하며 깊은 기여를 남긴 프랑스 수학자 이브 메이어(Yves Meyer)가 오늘 노르웨이 오슬로에서 열린 시상식에서 [2017년 아벨상](http://www.abelprize.no/)을 수상했다. 스스로를 "유목민"이라 부르는 그는 자신이 탐험한 각 분야마다 독창적인 발자취를 남겼다.

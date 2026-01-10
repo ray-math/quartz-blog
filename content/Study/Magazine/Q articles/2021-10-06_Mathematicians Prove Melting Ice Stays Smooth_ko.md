@@ -99,8 +99,6 @@ Susan Schwartzenberg, [Exploratorium](http://www.exploratorium.edu)
 
 ![포물면 온도 분포가 녹는 얼음에서 특이점 형성으로 이어지는 과정을 보여주는 3패널 그래픽.](https://www.quantamagazine.org/wp-content/uploads/2021/10/Ice-graphic-Final-MOBILE2.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 "그것은 모델에 재앙이 될 것이다. 완전한 혼돈이지"라고 2018년 수학의 최고 영예인 [필즈상을 수상한](https://www.quantamagazine.org/a-traveler-who-finds-stability-in-the-natural-world-20180801/) 피갈리는 말했다.
 
 그러나 카파렐리의 결과는 단지 최악의 시나리오였다. 그것은 잠재적 특이점의 최대 크기를 확립했지만, 방정식에서 특이점이 실제로 얼마나 자주 발생하는지, 또는 얼마나 오래 지속되는지에 대해서는 아무것도 말하지 않았다. 2019년까지, 피갈리, 로스-오톤, 세라는 더 많은 것을 알아내는 놀라운 방법을 알아냈다.

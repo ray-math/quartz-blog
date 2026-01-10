@@ -7,8 +7,6 @@ date: 2023-03-15
 
 ![색칠된 분수들의 화려한 모습](https://www.quantamagazine.org/wp-content/uploads/2023/03/RationalColoring-byKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 McGill University에서 수학 박사 과정을 시작한 지 1년 후, Matt Bowen은 문제에 직면했다. "자격시험을 봤는데 정말 형편없는 성적을 받았습니다"라고 그가 말했다. Bowen은 자신의 시험 점수가 수학적 능력을 제대로 반영하지 못했다고 확신했고, 그것을 증명하기로 결심했다. 작년 가을, 그와 그의 지도교수인 [Marcin Sabok](https://www.mcgill.ca/mathstat/marcin-sabok)이 [램지 이론(Ramsey theory)](https://www.quantamagazine.org/tag/ramsey-theory) 분야의 [중요한 진전을 게재](https://arxiv.org/abs/2210.12290v1)함으로써 그는 마침내 그렇게 했다.

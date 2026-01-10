@@ -7,8 +7,6 @@ date: 2017-01-03
 
 ![3D "Basilica" Julia set](https://www.quantamagazine.org/wp-content/uploads/2017/01/Basilica_1000x560.png)
 
-Olena Shmahalo/Quanta Magazine; 원본 그림: Laurent Bartholdi와 Laura DeMarco
-
 ## 서론
 
 야생에서 동물을 발견했을 때 그것에 대해 더 알고 싶다면, 여러분은 몇 가지를 할 수 있다: 무엇을 먹는지 관찰하고, 찔러서 어떻게 반응하는지 보고, 기회가 된다면 해부해볼 수도 있다.

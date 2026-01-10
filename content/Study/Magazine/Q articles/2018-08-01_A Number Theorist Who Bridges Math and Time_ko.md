@@ -9,8 +9,6 @@ date: 2018-08-01
 
 뉴저지주 프린스턴의 고등연구소(Institute for Advanced Study) 남쪽 잔디밭에 있는 Akshay Venkatesh.
 
-사진: [Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine; 삽화: Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 5월 어느 오후, 뉴저지주 프린스턴에 있는 고등연구소(IAS)의 울창한 캠퍼스에 있는 놀이터에서, 수학자 Akshay Venkatesh는 네 살 난 딸을 그네에 태워 밀어주면서도 수학계의 천재 신화에 대한 단상을 이어갔다. 천재라는 고정관념이 수학이라는 학문에 전혀 도움이 되지 않는다고 그가 *Quanta*에 말했다. "사람들이 수학에 기여하는 다양한 방식을 전혀 포착하지 못하는 것 같아요."

@@ -12,8 +12,6 @@ date: 2018-08-01
 
 영국 케임브리지 근처 자택 정원에 있는 카우처 비르카르.
 
-사진: [Philipp Ammon](https://www.photoammon.com/) for Quanta Magazine; 일러스트레이션: Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 올 봄, [카우처 비르카르(Caucher Birkar)](https://www.dpmms.cam.ac.uk/~cb496/)는 수학의 최고 영예인 필즈 메달(Fields Medal)을 받게 될 것이라는 소식을 듣고 얼마 지나지 않아 학부 시절의 기억 하나를 떠올렸다. 그 시점에 이미 그는 먼 길을 걸어온 상태였다. 이란 서부 쿠르드 지역의 자급 농업 마을에서 태어나 자란 비르카르는 이란에서 가장 명망 높은 대학 중 하나인 테헤란 대학교에 진학했다. 그곳 수학 동아리에서 벽에 걸린 필즈 메달 수상자들의 사진을 공부하던 기억을 그는 떠올렸다. "그 사진들을 보며 스스로에게 물었죠. '내가 이 사람들 중 한 명이라도 만날 수 있을까?' 당시 이란에서는 서방 세계에 갈 수 있을지조차 알 수 없었습니다."
@@ -117,8 +115,6 @@ Kevin Hartnett (pinboard); [Philipp Ammon](https://www.photoammon.com/) for Quan
 "우리는 모든 곳에서 같은 종류의 곡률을 갖는 대상을 찾고자 합니다." 콜라르가 말했다. "때로는 안장처럼, 때로는 구처럼, 때로는 평평한 부분을 갖는 무언가는 원하지 않습니다. 그건 너무 복잡해요."
 
 > 곡률의 '부호'는 기하학적 직관과 직결된다. 양의 곡률(positive curvature)을 가진 공간의 대표적 예는 구(sphere)다. 구 표면 위의 삼각형을 그리면 내각의 합이 180도보다 크다. 음의 곡률(negative curvature)을 가진 공간은 쌍곡면(hyperbolic surface)이다. 여기서 삼각형의 내각의 합은 180도보다 작다. 0의 곡률은 평평한 평면이다. 이런 직관을 고차원 대수다양체로 확장한 것이 파노, 칼라비-야우, 일반형의 분류다. 파노 다양체는 '양의 곡률'(엄밀히는 풍부한 반표준인자, ample anti-canonical divisor)을 갖는다. 이는 기하학적으로 '컴팩트하고 볼록한' 형태다. 칼라비-야우는 곡률이 0(trivial canonical divisor)이다. 일반형은 음의 곡률(big canonical divisor)을 갖는다. 이 분류는 단순한 기하학적 분류가 아니라, 대수다양체의 '대수적 성질'(유리 곡선의 존재, 유리 사상의 행동 등)과도 깊이 연관되어 있다. 비르카르의 업적은 이 세 범주, 특히 파노 다양체의 구조를 체계적으로 밝힌 것이다.
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 ![An infographic explaining what birational transformation is](https://www.quantamagazine.org/wp-content/uploads/2018/08/FanoVarieties_560.jpg)
 

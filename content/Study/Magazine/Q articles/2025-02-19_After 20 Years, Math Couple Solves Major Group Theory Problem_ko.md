@@ -7,8 +7,6 @@ date: 2025-02-19
 
 ![레고 조각을 검사하는 사람들 그룹과, 작은 조각들로 만들어진 큰 레고 조각](https://www.quantamagazine.org/wp-content/uploads/2025/02/McKayConjecture-crKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 2003년, 브리타 슈페트(Britta Späth)라는 독일 대학원생이 군론(group theory)이라는 수학 분야의 가장 큰 미해결 문제 중 하나인 맥케이 추측(McKay conjecture)을 접했다. 처음에 그녀의 목표는 비교적 겸손했다. 다른 많은 수학자들이 이전에 해왔던 것처럼, 이 문제에 점진적인 진전을 이루는 정리 하나둘을 증명하기를 바랐다. 하지만 세월이 흐르면서 그녀는 이 문제로 계속해서 돌아왔다. 다른 것에 집중하려고 할 때마다 "그것은 연결되지 않았다"고 그녀는 말했다.

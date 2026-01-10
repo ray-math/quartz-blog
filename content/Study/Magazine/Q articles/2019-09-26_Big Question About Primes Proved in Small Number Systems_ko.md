@@ -9,8 +9,6 @@ date: 2019-09-26
 
 쌍둥이 소수는 얼마나 많이 존재할까? 새로운 증명이 힌트를 제공한다.
 
-Olena Shmahalo/Quanta Magazine
-
 ## 도입
 
 9월 7일, 두 명의 수학자가 수학에서 가장 유명한 미해결 문제 중 하나의 변형 버전에 대한 [증명을 발표](https://arxiv.org/abs/1808.04001)했다. 이 결과는 한 세기 이상 수학자들을 괴롭혀온 "[쌍둥이 소수 추측(twin primes conjecture)](https://www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/)"에 대한 연구의 새로운 전선을 열었으며, 산술의 가장 깊은 특성들과 관련된 함의를 담고 있다.
@@ -90,8 +88,6 @@ Weil의 핵심 통찰은 유한체의 설정에서 기하학의 기법들이 숫
 Sawin과 Shusterman의 전략은 공간을 두 부분으로 나누는 것이다. 부분 중 하나는 짝수 개의 인수를 가진 다항식에 해당하는 모든 점을 가질 것이다. 다른 부분은 홀수 개의 인수를 가진 다항식에 해당하는 모든 점을 가질 것이다.
 
 ![기하학을 사용하여 소수 다항식을 찾는 방법을 설명하는 그래픽.](https://www.quantamagazine.org/wp-content/uploads/2019/09/03_GeometryOfPrimes_560.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 이미 이것은 문제를 더 단순하게 만든다. 유한체에 대한 쌍둥이 소수 추측은 단 하나의 인수만 가진 다항식에 관한 것이다(마치 소수가 그 자신이라는 단일 인수를 갖는 것처럼). 그리고 1은 홀수이므로, 짝수 인수를 가진 공간의 부분을 완전히 버릴 수 있다.
 

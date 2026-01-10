@@ -7,8 +7,6 @@ date: 2021-07-28
 
 ![검은 배경에 입체적인 블록으로 구성된 다채로운 순서도 그림](https://www.quantamagazine.org/wp-content/uploads/2021/07/Liquid_Tensor_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine; Johan Commelin
-
 ## 서론
 
 컴퓨터 증명 보조 프로그램(proof assistant)은 수년간 수학계의 흥미로운 이야깃거리였다. 수학자들의 작업 방식에서 핵심적인 측면을 자동화할 수 있다는 가능성을 보여주었지만, 실제로는 수학 분야에 큰 영향을 미치지 못했다.

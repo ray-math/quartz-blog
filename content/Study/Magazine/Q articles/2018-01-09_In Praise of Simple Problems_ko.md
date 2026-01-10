@@ -49,8 +49,6 @@ date: 2018-01-09
 
 ![당구 그림 설명](https://www.quantamagazine.org/wp-content/uploads/2018/01/Outer-billiards_560.jpg)
 
-출처: Richard Schwartz, Lucy Reading-Ikkanda/Quanta Magazine 각색
-
 초기 지점에서 시작한 다음, 모양에 접선이 되는 선을 그립니다—한 점에서 모양을 터치하는 거죠. 원래 점에서 접점까지와 같은 거리에 있는 점에서 멈춥니다. 그런 다음 궤도와 같은 것을 만들기 위해 과정을 반복합니다.
 
 줄곧 주요 질문은: 점이 모양으로부터 임의로 멀리 이동하는 그런 모양과 시작점이 있는가? 궤도가 무한한가? 이것은 [제가 해결한 질문](https://arxiv.org/abs/0709.1229)이었습니다. 특정 모양들—양측 대칭을 가진 사각형인 연(kites)—에 대해 탈출할 수 있다는 것을 보였습니다.

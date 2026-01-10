@@ -9,8 +9,6 @@ date: 2023-04-18
 
 20세기 물리학의 대칭성은 점(points)을 기반으로 구축되었다. 고차 대칭(higher symmetries)은 1차원 선(lines)에 기반한다.
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 한 세기가 넘는 기간 동안 물리학의 모든 주요 진보가 [대칭성에 대한 발견](https://www.quantamagazine.org/the-simple-idea-behind-einsteins-greatest-discoveries-20190626/)을 중심으로 이루어져 왔다고 말해도 과장이 아니다. 일반 상대성 이론의 여명기에도, [표준 모형(Standard Model)](https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/)의 탄생에도, [힉스 입자의 발견](https://www.quantamagazine.org/videos/how-does-symmetry-shape-natures-laws-2/)에도 대칭성이 핵심적인 역할을 했다.
@@ -128,8 +126,6 @@ Brian I. Gillis
 군 인코딩 작업은 대수학(algebra)의 언어로 표현된다. 대수 방정식을 풀 때 순서가 중요한 것과 같은 방식으로(4를 2로 나누는 것은 2를 4로 나누는 것과 같지 않다), 군의 대수적 구조는 회전을 포함한 대칭 변환을 적용할 때 순서가 어떻게 중요한지를 드러낸다.
 
 시카고 대학교의 [클레이 코르도바(Clay Córdova)](https://physics.uchicago.edu/people/profile/clay-cordova/)는 "변환들 사이의 대수적 관계를 이해하는 것은 어떤 응용의 전제 조건"이라고 말했다. "회전이 무엇인지 이해하기 전까지는 세계가 회전에 의해 어떻게 제약되는지 이해할 수 없다."
-
-Merrill Sherman/Quanta Magazine
 
 이러한 관계를 조사함으로써, 두 개의 별도 팀—하나는 코르도바와 샤오가 포함된 팀, 다른 하나는 스토니브룩 대학과 도쿄 대학의 연구자들이 포함된 팀—은 현실적인 양자 시스템에서도 군 구조에 부합하지 않는 비가역 대칭(non-invertible symmetries)이 있다는 것을 발견했다. 물리학의 다른 모든 중요한 유형의 대칭성은 군 구조에 들어맞는다. 대신, 이러한 대칭성은 대칭이 결합될 수 있는 방법에 대해 더 완화된 규칙을 가진 범주(categories)라고 불리는 관련 대상으로 기술된다.
 

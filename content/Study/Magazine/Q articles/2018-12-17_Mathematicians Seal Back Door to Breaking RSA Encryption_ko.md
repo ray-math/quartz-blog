@@ -7,8 +7,6 @@ url: www.quantamagazine.org/mathematicians-seal-back-door-to-breaking-rsa-encryp
 
 ![다항식으로 둘러싸인 자물쇠 그림](https://www.quantamagazine.org/wp-content/uploads/2018/12/RSA-1300Lede.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 *Quanta*에 최근 게재된 나의 [기사](https://www.quantamagazine.org/in-the-universe-of-equations-virtually-all-are-prime-20181210/)는 순진한 관점에서 보면 놀라울 수 있는 새롭게 증명된 현상을 설명했다. 특정 유형의 다항식은 사실상 모두 "소(prime)"이며, 이는 인수분해할 수 없다는 의미다.
@@ -41,7 +39,9 @@ RSA 암호화는 유사한 방식으로 작동한다. 단순화된 형태로 설
 
 ## 3단계: 이진수 표현을 다항식으로 변환한다. 이진수의 각 자리 숫자를 다항식의 계수로 취급한다:
 
-$$x^{3} + x^{2} + x + 1$$
+$$
+x^{3} + x^{2} + x + 1
+$$
 
 ($x = 2$일 때 이 다항식은 15와 같다는 점에 주목하라. 2는 이진 표기법의 기수이기 때문이다.)
 
@@ -49,7 +49,9 @@ $$x^{3} + x^{2} + x + 1$$
 
 ## 4단계: 다항식을 인수분해한다:
 
-$$(x^{2} + 1) \times (x + 1)$$
+$$
+(x^{2} + 1) \times (x + 1)
+$$
 
 > 다항식 인수분해는 대수학의 기본 기술이다. 여기서 $x^{3} + x^{2} + x + 1$을 인수분해하는 방법을 보자. 먼저 항들을 묶으면: $x^{2}(x + 1) + 1(x + 1) = (x^{2} + 1)(x + 1)$. 이것은 고등학교 수준의 대수학이지만, 중요한 점은 큰 다항식에 대해서도 효율적인 인수분해 알고리즘이 존재한다는 것이다. 정수의 소인수분해와 달리 다항식 인수분해는 다항 시간(polynomial time) 내에 해결 가능하다. 이것이 바로 이 방법이 뒷문이 될 수 있는 이유다.
 

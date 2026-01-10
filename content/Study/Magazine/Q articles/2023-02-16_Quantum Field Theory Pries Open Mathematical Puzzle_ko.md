@@ -7,8 +7,6 @@ date: 2023-02-16
 
 ![작은 인간 형상이 황금빛 기하학적 구조 위에 서 있고, 하늘은 구불구불한 분홍색과 보라색 격자로 가득 차 있다](https://www.quantamagazine.org/wp-content/uploads/2023/02/ExponentialCohomologies-byKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 지난달, [Karen Vogtmann](https://warwick.ac.uk/fac/sci/maths/people/staff/karen_vogtmann/)과 [Michael Borinsky](https://michaelborinsky.com/)는 그동안 접근이 불가능했던 수학적 세계, 즉 그래프의 모듈라이 공간(moduli space of graphs) 내부에 엄청난 양의 수학적 구조가 존재한다는 [증명을 발표했다](https://arxiv.org/abs/2301.01121). 이 공간은 Vogtmann과 그녀의 공동 연구자가 1980년대 중반에 [처음 기술한](https://link.springer.com/article/10.1007/BF01388734) 개념이다.
@@ -29,8 +27,6 @@ University of Warwick의 수학자인 Vogtmann과 Borinsky는 Vogtmann이 수십
 
 모듈라이 공간과 연관된 그래프들의 예시다. 각 그래프의 계수는 루프의 개수로 주어진다. 수학자들은 또한 그래프를 꼭짓점의 개수로도 분류한다. 계수가 증가하면, 그 계수를 가진 가능한 그래프의 수가 급격히 증가한다.
 
-Merrill Sherman/Quanta Magazine
-
 주어진 계수의 그래프들에 대한 모듈라이 공간의 형태는 그래프들 사이의 관계에 의해 결정된다. 공간을 걸어다닐 때 근처의 그래프들은 유사해야 하고, 서로 부드럽게 변형되어야 한다. 그러나 이러한 관계들은 복잡하여, 모듈라이 공간은 수학적으로 불안정한 특징들을 갖게 된다. 예를 들어, 모듈라이 공간의 세 개 벽이 한 점을 통과하는 영역 같은 것들이다.
 
 수학자들은 코호몰로지 류(cohomology classes)라는 대상을 사용하여 공간이나 도형의 구조를 연구할 수 있다. 코호몰로지 류는 공간이 어떻게 구성되어 있는지를 드러내는 데 도움을 준다. 예를 들어, 수학자들이 가장 좋아하는 도형 중 하나인 도넛을 생각해 보자. 도넛 위에서 코호몰로지 류는 단순히 루프들이다.
@@ -41,11 +37,7 @@ Merrill Sherman/Quanta Magazine
 
 종수 1 토러스(구멍이 하나)는 두 개의 비자명한 코호몰로지 류만을 갖지만, 종수 2 토러스는 여섯 개를 갖는다.
 
-Merrill Sherman/Quanta Magazine
-
 종수 1 토러스(구멍이 하나)는 두 개의 독립적인 비자명한 코호몰로지 류만을 갖지만, 종수 2 토러스는 네 개를 갖는다.
-
-Merrill Sherman/Quanta Magazine
 
 그러나 모든 코호몰로지 류가 동등하게 만들어진 것은 아니다. 세 번째 루프처럼 도넛 바깥쪽에 놓인 루프는 항상 미끄러지거나 수축하여 다른 루프와의 교차를 피할 수 있다. 이것이 "자명한(trivial)" 코호몀로지 류다.
 

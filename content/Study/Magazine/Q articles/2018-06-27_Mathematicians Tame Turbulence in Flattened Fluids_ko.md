@@ -39,8 +39,6 @@ NASA/Goddard Space Flight Center Scientific Visualization Studio, the Cassini Im
 
 ![나비에-스토크스 방정식](https://www.quantamagazine.org/wp-content/uploads/2018/06/Navier-StokesEquation_560.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 > 위 그림의 나비에-스토크스 방정식을 부분별로 해석하면: $\frac{\partial v}{\partial t}$는 속도의 시간 변화율(가속도), $(v \cdot \nabla)v$는 대류 항(convective term, 유체가 자기 자신을 운반하면서 생기는 가속), $-\frac{1}{\rho}\nabla p$는 압력 기울기에 의한 힘, $\nu \nabla^{2} v$는 점성에 의한 확산, $f$는 외부 강제력이다. 대류 항의 비선형성이 난류의 복잡성과 예측 불가능성의 핵심 원인이다.
 
 결국, 지구에서, 그리고 특히 목성과 토성 같은 거대 가스 행성에서, 날씨는 얇고 평평한 대기층에 제한된다. 허리케인이나 걸프 스트림(Gulf Stream) 같은 큰 패턴들 — 그리고 목성의 거대한 수평 구름 띠와 대적점(Great Red Spot) — 은 모두 더 작은 규모로부터 에너지를 공급받고 있을지도 모른다. 최근 몇 년 동안, 지구와 다른 행성의 바람을 분석하는 연구자들은 에너지가 더 큰 규모로 흐르는 신호, 즉 2차원 난류의 명확한 징후를 감지했다. 그들은 그 행동이 멈추거나 시작하는 조건들을 매핑하기 시작했다.

@@ -29,8 +29,6 @@ date: 2018-11-15
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Universal-coverings_figA_560.png)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 르베스그로부터 편지를 받은 직후, 팔은 정육각형이 보편 덮개라는 것을 깨달았다. 그런 다음 그는 한 걸음 더 나아갔다. 그는 육각형에서 인접하지 않은 두 모서리를 잘라낼 수 있음을 알아차렸다—결과 도형은 넓이가 더 작았지만 여전히 보편 덮개였다.
 
 "육각형을 위에 겹쳐놓고, 두 번째 것을 30도 회전시키면 두 모서리를 잘라낼 수 있습니다. 팔은 거기서 멈췄죠."라고 깁스가 말했다.
@@ -40,8 +38,6 @@ Lucy Reading-Ikkanda/Quanta Magazine
 다음 80년 동안 두 명의 다른 수학자들이 팔의 보편 덮개에서 얇은 조각들을 깎아냈다. 1936년 롤란트 슈프라게(Roland Sprague)는 모서리 중 하나 근처의 부분을 제거했다. 1992년 H. C. 한센(H. C. Hansen)은 오른쪽 아래와 왼쪽 아래 모서리에서 극히 작은 쐐기 모양 두 개를 제거했다. 한센의 넓이 절감을 그림으로 표현하면 위치에 대한 정보는 전달할 수 있지만 크기에 대해서는 불가피하게 오해를 불러일으킨다: 그 넓이는 0.00000000004 단위였다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Universal-coverings_figB_560.png)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 "실제 축척으로 그릴 수 없습니다. 원자 크기의 조각들이 될 테니까요."라고 캘리포니아 대학교 리버사이드의 수학자 [존 베즈(John Baez)](http://math.ucr.edu/home/baez/)가 말했다.
 

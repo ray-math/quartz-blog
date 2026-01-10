@@ -7,8 +7,6 @@ date: 2019-03-19
 
 ![Art for "Karen Uhlenbeck, Uniter of Geometry and Analysis, Wins Abel Prize"](https://www.quantamagazine.org/wp-content/uploads/2019/03/Uhlenbeck_2880x1620_Lede.jpg)
 
-Olena Shmahalo/Quanta Magazine; soap film: Kamonrat/Shutterstock.com
-
 ## 서론
 
 수학 분야 전체를 개척한 선구적 연구로 유명한 [Karen Uhlenbeck](https://web.ma.utexas.edu/users/uhlen/)이 오늘 오슬로에서 [아벨상(Abel Prize)](http://www.abelprize.no/) 수상자로 발표되었다. 노르웨이 과학문예아카데미가 2003년에 제정한 이 상은 수학계의 노벨상으로 널리 인정받고 있다.

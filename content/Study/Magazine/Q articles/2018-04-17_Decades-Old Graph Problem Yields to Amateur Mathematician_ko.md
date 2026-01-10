@@ -11,8 +11,6 @@ date: 2018-04-17
 
 이 826개의 꼭짓점을 가진 그래프는 연결된 두 꼭짓점이 같은 색이 되지 않도록 하려면 최소 5가지 색이 필요하다. (고해상도 버전은 [여기](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/04/Graph_826_MHeule_5K.jpg)를 클릭.)
 
-Olena Shmahalo/Quanta Magazine; 출처: [Marijn Heule](http://www.cs.utexas.edu/users/marijn/)
-
 ## 서론
 
 1950년, 시카고 대학교의 학생이었던 에드워드 넬슨(Edward Nelson)은 수학자들을 수십 년간 괴롭힐 수 있는, 기만적으로 단순해 보이는 질문을 던졌다. 그래프—점들의 집합을 선으로 연결한 것—를 상상해 보자. 모든 선의 길이가 정확히 같고, 모든 것이 평면 위에 놓여 있다고 하자. 이제 [모든 점에 색을 칠하되](https://www.quantamagazine.org/mathematicians-closer-to-perfect-graph-coloring-theorem-20151020/), 연결된 두 점이 같은 색을 갖지 않도록 한다. 넬슨이 던진 질문은 이것이었다: 무한히 많은 꼭짓점을 연결하여 만든 그래프를 포함하여, 어떤 그래프든 색칠하는 데 필요한 최소 색의 개수는 무엇인가?
@@ -43,8 +41,6 @@ Courtesy of Aubrey de Grey/SENS Research Foundation
 
 ![그래프 색칠 문제를 설명하는 그림](https://www.quantamagazine.org/wp-content/uploads/2018/04/ChromaticNumber_560Inline.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 하드비거-넬슨 문제는 조금 다르다. 지도에서처럼 유한한 개수의 꼭짓점을 고려하는 대신, 평면의 각 점마다 하나씩, 무한히 많은 꼭짓점을 고려한다. 두 점이 정확히 1단위 떨어져 있으면 변으로 연결된다. 색칠수의 하한을 찾기 위해서는, 특정 개수의 색이 필요한 유한한 개수의 꼭짓점을 가진 그래프를 만드는 것으로 충분하다. 그것이 바로 드 그레이가 한 일이다.
 
 > 여기서 논리 구조를 명확히 이해해야 한다. 평면의 색칠수가 정확히 $k$라는 것은 두 가지를 의미한다: (1) $k$가지 색으로 충분하다 (상한), (2) $k-1$가지 색으로는 부족하다 (하한). 상한을 증명하려면 평면 전체를 색칠하는 알고리즘이나 전략을 제시해야 한다—어렵다. 하한을 증명하려면 $k-1$가지 색으로 칠할 수 없는 구체적인 유한 그래프를 하나만 찾으면 된다—상대적으로 쉽다. 왜냐하면 그 유한 그래프도 평면 위의 단위 거리 그래프의 일부이므로, 전체 평면을 칠하려면 최소한 그 그래프를 칠할 수 있어야 하기 때문이다. 드 그레이는 5색이 필요한 유한 그래프를 구성함으로써 하한을 4에서 5로 올렸다.
@@ -56,8 +52,6 @@ Lucy Reading-Ikkanda/Quanta Magazine
 ![1,581개 꼭짓점 그래프 그림](https://www.quantamagazine.org/wp-content/uploads/2018/04/ChromaticColoring_1581vGraph_DeGrey_2K.jpg)
 
 드 그레이의 1,581개 꼭짓점 그래프. (고해상도 버전은 [여기](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/04/ChromaticColoring_1581vGraph_DeGrey_5K.jpg)를 클릭.)
-
-Olena Shmahalo/Quanta Magazine; 출처: Aubrey de Grey
 
 5가지 색을 필요로 하는 어떤 그래프든 발견한 것은 주요한 성취였지만, 수학자들은 같은 일을 하는 더 작은 그래프를 찾을 수 있을지 알고 싶어했다. 아마도 더 작은 5색 그래프—또는 가능한 가장 작은 5색 그래프—를 찾는 것이 연구자들에게 하드비거-넬슨 문제에 대한 추가적인 통찰을 줄 것이고, 그들이 평면의 모든 점으로 만들어진 그래프를 색칠하는 데 정확히 5가지 색(또는 6가지, 또는 7가지)이 충분하다는 것을 증명할 수 있게 해줄 것이다.
 

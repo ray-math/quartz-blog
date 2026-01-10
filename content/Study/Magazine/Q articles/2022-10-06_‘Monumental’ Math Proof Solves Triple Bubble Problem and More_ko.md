@@ -101,7 +101,7 @@ Courtesy of Emanuel Milman; Holland Photo Imaging
 
 방울들을 연구하기 위해 섭동을 사용하는 것은 결코 새로운 아이디어가 아니지만, 비눗방울 군집의 중요한 특징들을 탐지할 섭동들을 알아내는 것은 "약간의 어두운 예술"이라고 니먼이 말했다.
 
-> 섭동 이론(perturbation theory)은 변분법(calculus of variations)의 핵심 도구다. 기본 아이디어는 다음과 같다: 어떤 해가 최소값을 준다면, 그 해를 아주 조금 변형시켰을 때 목적함수(여기서는 표면적)가 증가해야 한다. 수학적으로, 해 $u$에 작은 변동 $\epsilon v$를 더한 $u + \epsilon v$를 고려하면, 표면적 함수 $F(u + \epsilon v)$를 $\epsilon$에 대해 테일러 전개할 수 있다: $$F(u + \epsilon v) = F(u) + \epsilon F'(u)[v] + \frac{\epsilon^{2}}{2} F''(u)[v,v] + \cdots$$ 여기서 $F'(u)[v]$는 1차 변분(first variation), $F''(u)[v,v]$는 2차 변분(second variation)이다. $u$가 최소값이면 모든 허용된 $v$에 대해 $F'(u)[v] = 0$이어야 하고(오일러-라그랑주 방정식), $F''(u)[v,v] \geq 0$이어야 한다(2차 조건). 밀만과 니먼의 천재성은 만약 벽이 구형이나 평면이 아니라면, 거울 대칭을 이용한 특별한 섭동 $v$를 구성하여 $F'(u)[v] < 0$이 되도록 만들 수 있다는 것을 발견한 데 있다. 이는 모순을 일으켜, 결국 모든 벽이 구형이거나 평평해야 함을 증명한다.
+> 섭동 이론(perturbation theory)은 변분법(calculus of variations)의 핵심 도구다. 기본 아이디어는 다음과 같다: 어떤 해가 최소값을 준다면, 그 해를 아주 조금 변형시켰을 때 목적함수(여기서는 표면적)가 증가해야 한다. 수학적으로, 해 $u$에 작은 변동 $\epsilon v$를 더한 $u + \epsilon v$를 고려하면, 표면적 함수 $F(u + \epsilon v)$를 $\epsilon$에 대해 테일러 전개할 수 있다: $F(u + \epsilon v) = F(u) + \epsilon F'(u)[v] + \frac{\epsilon^{2}}{2} F''(u)[v,v] + \cdots$ 여기서 $F'(u)[v]$는 1차 변분(first variation), $F''(u)[v,v]$는 2차 변분(second variation)이다. $u$가 최소값이면 모든 허용된 $v$에 대해 $F'(u)[v] = 0$이어야 하고(오일러-라그랑주 방정식), $F''(u)[v,v] \geq 0$이어야 한다(2차 조건). 밀만과 니먼의 천재성은 만약 벽이 구형이나 평면이 아니라면, 거울 대칭을 이용한 특별한 섭동 $v$를 구성하여 $F'(u)[v] < 0$이 되도록 만들 수 있다는 것을 발견한 데 있다. 이는 모순을 일으켜, 결국 모든 벽이 구형이거나 평평해야 함을 증명한다.
 
 사후 판단으로, "일단 당신이 [밀만과 니먼의 섭동들을] 보면, 그것들은 상당히 자연스럽게 보인다"고 캘리포니아 대학교 데이비스의 [조엘 하스(Joel Hass)](https://www.math.ucdavis.edu/~hass/)가 말했다.
 

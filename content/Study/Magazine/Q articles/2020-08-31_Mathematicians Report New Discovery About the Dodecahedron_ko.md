@@ -7,8 +7,6 @@ date: 2020-08-31
 
 ![정십이면체 위를 직선으로 걷는 개미를 묘사한 그림.](https://www.quantamagazine.org/wp-content/uploads/2020/08/Dodecahedron_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 수학자들은 2,000년이 넘는 시간 동안 다섯 개의 플라톤 다면체(Platonic solids)—정사면체(tetrahedron), 정육면체(cube), 정팔면체(octahedron), 정이십면체(icosahedron), 정십이면체(dodecahedron)—의 구조를 해부해왔지만, 여전히 우리가 모르는 것이 많다.

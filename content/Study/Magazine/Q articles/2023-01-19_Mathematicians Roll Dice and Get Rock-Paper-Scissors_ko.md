@@ -7,8 +7,6 @@ date: 2023-01-19
 
 ![서로 다른 숫자로 뒤덮인 초록색 6면체 주사위 4개와 그 주사위들을 연결하는 주황색 화살표를 그린 일러스트](https://www.quantamagazine.org/wp-content/uploads/2023/01/IntransitiveDice-byKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 도입
 
 빌 게이츠(Bill Gates)의 이야기에 따르면, 워런 버핏(Warren Buffett)이 한번은 그에게 주사위 게임을 제안했다고 한다. 각자 버핏이 소유한 네 개의 주사위 중 하나를 선택한 뒤 굴려서, 더 큰 숫자가 나오는 쪽이 이기는 게임이었다. 이 주사위들은 일반적인 주사위가 아니었다—보통의 1부터 6까지가 아닌 다른 숫자 조합을 가지고 있었다. 버핏은 게이츠에게 먼저 선택권을 주어 가장 강한 주사위를 고를 수 있게 했다. 하지만 게이츠가 주사위들을 살펴본 후, 그는 역제안을 했다: 버핏이 먼저 고르라고.
@@ -24,8 +22,6 @@ Kristina Armitage/Quanta Magazine
 수학자들은 50년 전에 비이행적 주사위의 [첫 번째 사례들](https://www.scientificamerican.com/article/mathematical-games-1970-12/)을 만들어냈고, 결국 주사위의 면이 점점 더 많아질수록 임의의 길이의 비이행적 순환을 만들 수 있다는 것을 [증명했다](https://www.semanticscholar.org/paper/Nontransitive-Dice-With-Equal-Means-%E2%88%97-Finkelstein-Thorp/827a76a29c323a6e1eac459f514e0cc4c662f963). 수학자들이 최근까지 알지 못했던 것은 비이행적 주사위가 얼마나 흔한가 하는 것이었다. 그런 예시를 신중하게 고안해야 하는가, 아니면 주사위를 무작위로 선택해도 비이행적 집합을 찾을 좋은 가능성이 있는가?
 
 세 개의 주사위를 보면, $A$가 $B$를 이기고 $B$가 $C$를 이긴다는 것을 안다면, 그것은 $A$가 가장 강하다는 증거처럼 보인다. $C$가 $A$를 이기는 상황은 드물어야 한다. 실제로, 주사위의 숫자들이 서로 다른 합계를 가질 수 있다면, 수학자들은 이 직관이 참이라고 믿는다.
-
-Merrill Sherman/Quanta Magazine
 
 하지만 작년 말에 온라인에 게시된 [논문](https://arxiv.org/abs/2211.16156)은 또 다른 자연스러운 설정에서 이 직관이 극적으로 실패한다는 것을 보여준다. 주사위가 일반 주사위에 나타나는 숫자만 사용하고 일반 주사위와 같은 합계를 가져야 한다고 요구한다고 가정하자. 그러면 논문이 보여준 바에 따르면, $A$가 $B$를 이기고 $B$가 $C$를 이긴다면, $A$와 $C$는 서로에 대해 본질적으로 동등한 승률을 갖는다.
 

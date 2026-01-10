@@ -47,8 +47,6 @@ Senechal은 "이것이 단지 이러한 것들을 찾는 것을 넘어서 이론
 
 첫 번째 관련 질문은: 같은 부피의 두 평면 면 도형을 항상 직선 절단으로 분할하고 서로로 재조립할 수 있는가? David Hilbert가 1900년에 이것을 물었고, 같은 해 그의 제자였던 Max Dehn이 답의 중요한 부분을 제공했다.
 
-Lucy Reading-Ikkanda/Samuel Velasco/Quanta Magazine
-
 Dehn은 사면체나 정육면체 같은 다면체 도형의 각도를 사용하여 단일 양을 계산할 수 있음을 보였는데, 이것이 이제 Dehn 불변량(Dehn invariant)으로 불린다. 그는 두 도형이 "[가위 합동(scissors congruent)](https://www.quantamagazine.org/mathematicians-cut-apart-shapes-to-find-pieces-of-equations-20191031/#:~:text=Kevin%20Hartnett,-Senior%20Writer&text=If%20you%20can%2C%20the%20shapes%20are%20%E2%80%9Cscissors%20congruent.%E2%80%9D&text=For%20two%2Ddimensional%20shapes%2C%20the,the%20shapes%20are%20scissors%20congruent.)"—즉, 조각으로 잘라서 서로로 재조립할 수 있음—이 되려면 같은 Dehn 불변량을 가져야 함을 증명했다. Dehn은 이 새로운 측정값을 사용하여 정사면체와 정육면체의 Dehn 불변량이 다르기 때문에 정사면체는 정육면체와 가위 합동이 아님을 증명했다.
 
 > Dehn 불변량은 힐베르트의 세 번째 문제에 대한 답이다. 2차원에서는 놀랍게도 같은 넓이의 두 다각형은 항상 가위 합동이다—이것을 Bolyai-Gerwien 정리라 한다. 하지만 3차원에서는 부피만으로는 충분하지 않다. Dehn은 각 모서리에서 그 모서리의 길이 $\ell$과 이면각 $\alpha$를 곱한 값 $\ell \otimes \alpha$를 특별한 방식으로 더하여 불변량을 구성했다. 여기서 $\otimes$는 각도를 $\pi$의 유리수 배수 부분과 무리수 부분으로 분해하는 텐서곱 구조를 나타낸다. 정사면체의 Dehn 불변량은 0이 아니지만 정육면체는 모든 이면각이 $\pi/2$의 정수배이므로 Dehn 불변량이 0이다. 따라서 정사면체를 아무리 잘게 잘라도 정육면체로 재조립할 수 없다. 이는 3차원 기하학의 본질적인 복잡성을 보여주는 깊은 결과이다.

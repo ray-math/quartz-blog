@@ -9,8 +9,6 @@ date: 2019-04-24
 
 고전적 비트는 흑백이지만, 양자 비트는 훨씬 더 복잡하다.
 
-Michelle Yun/Quanta Magazine
-
 ## 서론
 
 내가 9살이었을 때, 우리 가족은 새 컴퓨터를 샀다. 그것은 딱 한 가지를 제외하고는 모든 면에서 우리의 오래된 컴퓨터보다 나았다. 바로 내가 가장 좋아하는 레이싱 게임을 실행할 수 없다는 것이었다. 내가 가장 중요하게 생각하는 프로그램을 실행할 수 없다면, 멋진 새 컴퓨터가 무슨 소용이란 말인가? 당시 나는 그렇게 생각했던 것을 기억한다.
@@ -32,8 +30,6 @@ Michelle Yun/Quanta Magazine
 > Karatsuba 알고리즘의 핵심 아이디어는 '분할 정복(divide and conquer)'과 영리한 대수적 트릭의 조합이다. 두 개의 $n$자리 수 $x$와 $y$를 곱한다고 하자. 이들을 $x = a \cdot 10^{m} + b$, $y = c \cdot 10^{m} + d$로 나눈다(여기서 $m = n/2$). 전통적 방법으로는 $ac$, $ad$, $bc$, $bd$ 네 번의 곱셈이 필요하다. 하지만 Karatsuba는 $(a+b)(c+d) = ac + ad + bc + bd$라는 사실을 이용해, $ac$, $bd$, 그리고 $(a+b)(c+d)$만 계산하면 된다는 것을 보였다. 왜냐하면 $ad + bc = (a+b)(c+d) - ac - bd$이기 때문이다. 이렇게 네 번의 곱셈을 세 번으로 줄인다. 이 과정을 재귀적으로 적용하면, 전체 계산 복잡도가 $O(n^{2})$에서 약 $O(n^{1.58})$로 개선된다. 큰 수일수록 이 차이는 극적이다.
 
 ![An infographic explaining the Karatsuba method for efficiently multiplying two large numbers.](https://www.quantamagazine.org/wp-content/uploads/2019/04/KaratsubaMethod_560.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 고전 컴퓨터가 Karatsuba 방법을 실행할 때, 진행하면서 정보를 삭제한다. 예를 들어, 두 자릿수를 네 자릿수로 재구성한 후에는 두 자릿수를 잊어버린다. 컴퓨터가 신경 쓰는 것은 네 자릿수 자체뿐이다. Karatsuba 방법의 고전적 버전은 산을 오르면서 장비를 버리는 등반가와 같다. 전체 과정 내내 모든 것을 가지고 다닐 필요가 없을 때 더 빠르게 움직일 수 있다.
 

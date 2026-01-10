@@ -7,8 +7,6 @@ date: 2017-02-09
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/02/SymGeo07_Lede.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 심플렉틱 기하학(symplectic geometry)이라는 분야에서 핵심적인 문제 중 하나는 두 개의 복잡한 기하학적 공간의 교점(intersection points)을 어떻게 세느냐 하는 것이다. 이 교점을 세는 문제는 이 분야에서 가장 유명한 미해결 문제 중 하나인 아널드 추측(Arnold conjecture)의 핵심이면서, 동시에 기본적인 기술의 문제이기도 하다. 수학자들이 다른 종류의 연구를 수행하기 위해서는 이러한 교점을 세는 방법을 알아야만 한다.

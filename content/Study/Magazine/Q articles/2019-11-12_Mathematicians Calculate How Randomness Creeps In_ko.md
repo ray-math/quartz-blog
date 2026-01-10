@@ -7,8 +7,6 @@ date: 2019-11-12
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/11/15PuzzleProblem_FullWidthLede.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 아마 여러분은 15 퍼즐(15 puzzle)을 해본 적이 있을 것이다. 4×4 격자판에 15개의 타일과 하나의 빈 공간이 있는, 답답하면서도 중독성 있는 그 게임 말이다. 목표는 타일들을 이리저리 밀어서 숫자 순서대로 배열하거나, 어떤 버전에서는 그림을 완성하는 것이다.

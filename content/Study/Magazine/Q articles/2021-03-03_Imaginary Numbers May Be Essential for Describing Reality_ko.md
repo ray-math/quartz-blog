@@ -7,8 +7,6 @@ date: 2021-03-03
 
 ![허수의 단위인 문자 i로 지탱되는 카드 하우스](https://www.quantamagazine.org/wp-content/uploads/2021/03/Imaginary_numbers_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 수 세기 전, 수학자들은 특정 곡선의 성질을 계산하기 위해 불가능해 보이는 것을 요구한다는 사실을 발견하고 당혹스러워했다. 바로 자기 자신과 곱하면 음수가 되는 수들이었다.

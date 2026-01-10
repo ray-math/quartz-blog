@@ -7,8 +7,6 @@ date: 2021-06-10
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/06/Quantum-Field-Theory_Infinity-Bridge_Lede.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 지난 한 세기 동안 양자장론(quantum field theory)은 역사상 가장 포괄적이고 성공적인 물리 이론으로 입증되었다. 양자장론은 "도형"이 정사각형과 원 같은 구체적 사례를 포괄하듯이, 많은 특정한 양자장 이론들을 아우르는 총칭이다. 이 중 가장 대표적인 이론이 표준 모형(Standard Model)으로 알려져 있으며, 이것이 바로 그토록 성공적이었던 물리학 프레임워크다.

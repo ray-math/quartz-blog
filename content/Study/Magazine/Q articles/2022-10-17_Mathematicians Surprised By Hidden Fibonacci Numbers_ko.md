@@ -9,8 +9,6 @@ date: 2022-10-17
 
 "무한 계단"에서 각 계단의 높이는 피보나치 수열의 수들의 비율로 주어진다.
 
-Kristina Armitage/Quanta Magazine; Image Source: Maxiphoto
-
 ## 서론
 
 14년 전, 수학자 [Dusa McDuff](https://math.barnard.edu/profiles/dusa-mcduff)와 [Felix Schlenk](http://members.unine.ch/felix.schlenk/index.html)는 이제야 비로소 꽃을 피우기 시작한 숨겨진 기하학적 정원을 우연히 발견했다. 두 사람은 특정한 종류의 직사각형 모양, 즉 매우 특별한 방식으로 짜내지고 접혀서 공 안에 채워질 수 있는 도형에 관심이 있었다. 그들이 궁금했던 것은: 특정한 모양에 대해, 공이 얼마나 커야 하는가?
@@ -38,8 +36,6 @@ Kristina Armitage/Quanta Magazine; Image Source: Maxiphoto
 > 심플렉틱 기하학은 19세기 해밀턴 역학에서 탄생했다. 고전역학에서 물체의 상태는 위치 $q$와 운동량 $p$ (또는 속도)로 완전히 기술된다. 이 두 변수가 만드는 공간을 '위상공간(phase space)'이라 부르며, 모든 물리적으로 가능한 상태들의 집합을 나타낸다. 핵심은 이 공간이 특별한 기하학적 구조, 즉 '심플렉틱 형식(symplectic form)' $\omega = dp \wedge dq$를 갖는다는 것이다. 이 구조는 정준변환(canonical transformation)—물리 법칙을 보존하는 좌표 변환—하에서 불변이다. 진자의 경우, 위치 $\theta$와 각운동량 $L$이 원기둥 $(S^{1} \times \mathbb{R}, d\theta \wedge dL)$을 만든다. 이 원기둥을 '변형'할 수 있지만, 변형은 심플렉틱 형식을 보존해야 한다—이것이 물리학을 건드리지 않는다는 의미다. 현대에는 끈 이론의 미러 대칭, 양자역학의 기하학적 양자화 등 물리학의 최전선에서 심플렉틱 기하학이 핵심 역할을 한다.
 
 심플렉틱 도형을 수정할 수 있지만, 아주 특정한 방식으로만 가능하다. 최종 결과는 같은 시스템을 반영해야 한다. 바꿀 수 있는 유일한 것은 그것을 측정하는 방법이다. 이러한 규칙은 기본 물리학을 망치지 않도록 보장한다.
-
-Merrill Sherman/Quanta Magazine
 
 McDuff와 Schlenk는 심플렉틱 타원체(symplectic ellipsoid)—길쭉한 덩어리—를 공 안에 맞출 수 있는지를 알아내려고 노력했다. 임베딩 문제(embedding problem)로 알려진 이런 유형의 문제는 유클리드 기하학에서는 꽤 쉽다. 유클리드 기하학에서는 도형이 전혀 구부러지지 않는다. 부피가 변하지 않는 한 도형을 원하는 만큼 구부릴 수 있는 다른 기하학 분야에서도 간단하다.
 
@@ -73,13 +69,9 @@ Holm과 Pires의 그룹이 분석한 도형은 Hirzebruch 곡면(Hirzebruch surf
 
 그러나 그룹은 결국 발판을 찾았고, 2020년 10월 그들은 특정 $b$ 값에 대한 무한 계단을 발굴한 [논문](https://arxiv.org/abs/2010.08567)을 게시했다.
 
-Merrill Sherman/Quanta Magazine
-
 > 워크숍에서 시작된 이 협력 연구는 현대 수학 연구의 전형적 패턴을 보여준다. 다양한 배경의 수학자들이 모여 집중적으로 문제를 공격하고, 처음엔 실패하지만 끈질기게 시도한 끝에 돌파구를 찾는다. 특히 젊은 수학자(Weiler)와 거장(McDuff)의 협력, 여성 수학자들의 네트워크(AWM 워크숍)가 중요한 역할을 했다. 이런 '인간적' 측면은 종종 간과되지만, 수학 발전의 실제 동력이다.
 
 칸토어 집합(Cantor set)을 만들려면, 선분으로 시작하라. 중간 3분의 1을 제거한 다음, 남은 각 선분의 중간 3분의 1을 제거하라. 무한히 반복하면, 개별 점들의 집합만 남을 때까지.
-
-Merrill Sherman/Quanta Magazine
 
 올해 3월, McDuff, Weiler 그리고 코로나바이러스 팬데믹 동안 McDuff와 함께 작업하기 시작한 Holm의 학생 Nicki Magill은 Hirzebruch 곡면에 타원체를 임베딩하는 프로젝트를 거의 완성한 [사전 출판본](https://arxiv.org/abs/2203.06453)을 게시했다. "놀랍다"고 Holm이 말했다. "너무 아름답다."
 

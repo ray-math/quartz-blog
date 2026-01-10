@@ -7,8 +7,6 @@ date: 2023-02-02
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/02/SliceRibbonConjecture-byKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 60년도 더 전, Ralph Fox는 오늘날까지 수학자들을 괴롭히는 매듭에 관한 문제를 제기했다. [그의 질문](https://ben300694.github.io/pdfs/concordance/%5BFox%5D_Some_Problems_in_Knot_Theory_(1962).pdf)은 이제 "slice-ribbon 추측(slice-ribbon conjecture)"으로 알려져 있으며, 이것은 겉보기에 서로 다른 두 매듭 그룹이 사실은 같다고 주장한다. 매듭의 세계 안에서 우아한 단순성이 존재함을 시사하는 이 문제는 매듭 이론에서 가장 주목받는 난제 중 하나가 되었다. "이 추측이 참이라면, 세계가 우리가 기대하는 것보다 조금 더 구조적이라는 의미입니다"라고 본(Bonn)의 막스 플랑크 수학 연구소(Max Planck Institute for Mathematics)의 수학자 [Arunima Ray](http://people.mpim-bonn.mpg.de/aruray/)는 말했다.

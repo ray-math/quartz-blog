@@ -27,7 +27,9 @@ Robert Neubecker for Quanta Magazine
 
 이 질문을 이해하기 위해, 숫자 애호가 지망생이 배우는 첫 번째 흥미로운 사실 중 하나부터 시작하자: 소수는 무한히 많다. 유클리드는 2,000년 전에 수학 역사상 가장 유명한 귀류법(proof by contradiction) 증명 중 하나로 이것을 증명했다. 그는 소수가 유한개만 존재한다고 가정하고, 그 모든 $n$개의 소수를 목록으로 상상했다:
 
-$$p_{1}, \ p_{2}, \ p_{3}, \ \ldots, \ p_{n}$$
+$$
+p_{1}, \ p_{2}, \ p_{3}, \ \ldots, \ p_{n}
+$$
 
 그런 다음 그는 영리한 일을 했다: 그는 다음 수 $q = p_{1} \times p_{2} \times p_{3} \times \ldots \times p_{n} + 1$을 생각했다.
 
@@ -47,15 +49,21 @@ $q$는 목록의 모든 것보다 크기 때문에 소수 목록에 있을 수 �
 
 이제 우리의 소수 간격을 만들어 보자. 다음과 같은 연속된 수들의 수열을 고려하라:
 
-$$7! + 2, \quad 7! + 3, \quad 7! + 4, \quad 7! + 5, \quad 7! + 6, \quad 7! + 7$$
+$$
+7! + 2, \quad 7! + 3, \quad 7! + 4, \quad 7! + 5, \quad 7! + 6, \quad 7! + 7
+$$
 
 $7! = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1$이므로, 수열의 첫 번째 수 $7! + 2$는 2로 나누어떨어진다. 이는 약간의 인수분해 후에 볼 수 있다:
 
-$$7! + 2 = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 + 2 = 2(7 \times 6 \times 5 \times 4 \times 3 \times 1 + 1)$$
+$$
+7! + 2 = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 + 2 = 2(7 \times 6 \times 5 \times 4 \times 3 \times 1 + 1)
+$$
 
 마찬가지로, 두 번째 수 $7! + 3$은 3으로 나누어떨어진다:
 
-$$7! + 3 = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 + 3 = 3(7 \times 6 \times 5 \times 4 \times 2 \times 1 + 1)$$
+$$
+7! + 3 = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 + 3 = 3(7 \times 6 \times 5 \times 4 \times 2 \times 1 + 1)
+$$
 
 유사하게, $7! + 4$는 4로, $7! + 5$는 5로, $7! + 6$은 6으로, $7! + 7$은 7로 나누어떨어진다. 이는 $7! + 2, 7! + 3, 7! + 4, 7! + 5, 7! + 6, 7! + 7$이 6개의 연속된 합성수의 수열임을 의미한다. 우리는 최소한 6의 소수 간격을 가지게 되었다.
 
@@ -63,7 +71,9 @@ $$7! + 3 = 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1 + 3 = 3(7 \ti
 
 이 전략은 일반화하기 쉽다. 수열
 
-$$n! + 2, \quad n! + 3, \quad n! + 4, \quad \ldots, \quad n! + n$$
+$$
+n! + 2, \quad n! + 3, \quad n! + 4, \quad \ldots, \quad n! + n
+$$
 
 은 $n - 1$개의 연속된 합성수의 수열이다. 이는 임의의 $n$에 대해, 최소한 $n - 1$의 길이를 가진 소수 간격이 존재한다는 것을 의미한다. 이것은 임의로 긴 소수 간격이 있다는 것을 보여주며, 따라서 자연수 목록을 따라 나가면 가장 가까운 소수가 100, 1,000, 심지어 1,000,000,000개의 수만큼 떨어져 있는 곳들이 있다.
 
@@ -111,7 +121,9 @@ $$n! + 2, \quad n! + 3, \quad n! + 4, \quad \ldots, \quad n! + n$$
 
 아마도 가장 충격적인 발견은 이러한 이상한 수들의 새로운 변형에 대한 [2020년의 결과](https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/)였을 것이다. 자릿수가 무엇인지에 대한 개념을 완화함으로써, 수학자들은 수의 표현을 재상상했다: 97 자체를 생각하는 대신, 그들은 그것을 선행 0을 가진 것으로 생각했다:
 
-$$\ldots0000000097$$
+$$
+\ldots0000000097
+$$
 
 각 선행 0은 자릿수로 생각될 수 있으며, 디지털 섬세함의 질문은 이러한 새로운 표현으로 확장될 수 있다. "광범위하게 디지털 섬세한 소수(widely digitally delicate prime)"—그 자릿수 중 **어느 것이든**, 선행 0을 포함하여, 바꾸면 항상 합성수가 되는 소수—가 존재할 수 있을까? 수학자 마이클 필라세타(Michael Filaseta)와 제러마이어 사우스윅(Jeremiah Southwick)의 연구 덕분에, 우리는 놀랍게도 답이 그렇다는 것을 알고 있다. 광범위하게 디지털 섬세한 소수는 존재할 뿐만 아니라, 무한히 많다.
 

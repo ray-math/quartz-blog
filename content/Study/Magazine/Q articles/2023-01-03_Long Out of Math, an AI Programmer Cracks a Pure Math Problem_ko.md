@@ -9,8 +9,6 @@ date: 2023-01-03
 
 집합족(family of sets)이 "합집합으로 닫혀있다(union-closed)"는 것은, 그 집합족 내 임의의 두 집합을 합쳤을 때 그 결과가 이미 집합족 안에 존재하는 집합과 같다는 의미다.
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 10월 중순, [저스틴 길머(Justin Gilmer)](https://scholar.google.com/citations?user=Ml_vQ8MAAAAJ&hl=en)는 친구의 결혼식에 참석하기 위해 캘리포니아에서 뉴욕으로 날아갔다. 동부 해안에 머무는 동안, 그는 7년 전 박사 학위를 받았던 럿거스 대학교(Rutgers University)의 지도교수였던 수학자 [마이클 색스(Michael Saks)](https://sites.math.rutgers.edu/~saks/)를 방문했다.

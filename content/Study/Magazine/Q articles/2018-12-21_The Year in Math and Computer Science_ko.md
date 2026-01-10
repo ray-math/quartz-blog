@@ -7,8 +7,6 @@ date: 2018-12-21
 
 ![Mathematics - abstract illustration](https://www.quantamagazine.org/wp-content/uploads/2018/12/Quanta_YearEnd_Math-1720x1147.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 2018년 수학계는 젊음이 지배했다. 4년마다 40세 이하의 최고 수학자들에게 수여되는 필즈 메달(Fields Medal)이 수학적 지형 전반에 자신의 흔적을 남긴 네 명의 인물들에게 돌아갔다. 올해 수상자 중 한 명인 Peter Scholze는 30세의 나이로 역대 최연소 수상자 중 한 명이 되었다. 그러나 2018년 어느 순간에는 30세조차 늙어 보일 수 있었다.
 
 > 필즈 메달은 수학계의 노벨상으로 불린다. 노벨상과 달리 4년마다 국제수학자대회(ICM)에서 수여되며, 40세 미만이라는 연령 제한이 있다는 점이 독특하다. 이는 1936년 캐나다 수학자 John Charles Fields의 유지에 따른 것으로, 젊은 수학자들에게 미래의 업적을 위한 격려를 주자는 취지다. 이 나이 제한 때문에 많은 뛰어난 수학자들이 수상하지 못했고, 때로는 논란의 대상이 되기도 한다. 그러나 다른 관점에서 보면, 이는 수학이 근본적으로 젊음의 학문이라는 메시지를 담고 있다—혁명적 아이디어는 종종 기존 틀에 갇히지 않은 젊은 정신에서 나온다.
@@ -64,8 +62,6 @@ Olena Shmahalo/Quanta Magazine
 > 양자 검증 문제는 다음과 같은 근본적 질문에서 출발한다: 만약 누군가(혹은 어떤 기업)가 양자 컴퓨터를 갖고 있다고 주장하며 계산 결과를 제시한다면, 우리는 그들이 정말로 양자 컴퓨터를 사용했는지, 그리고 결과가 정확한지를 어떻게 검증할 수 있을까? 이는 단순히 이론적 호기심이 아니다. 미래에 양자 컴퓨팅 클라우드 서비스가 등장하면, 고전 컴퓨터만 가진 사용자가 원격 양자 컴퓨터의 계산을 신뢰할 수 있어야 한다. 문제는 고전 컴퓨터는 원리적으로 양자 계산을 효율적으로 시뮬레이션할 수 없다는 것이다—그게 양자 우위의 핵심이니까. 그렇다면 어떻게 검증할까? Mahadev의 획기적 아이디어는 암호학의 함정 문제(trapdoor problem), 특히 Learning With Errors(LWE) 문제를 활용하는 것이었다. 양자 컴퓨터에게 암호학적으로 숨겨진 정보를 포함한 문제를 주고, 그 답을 통해 양자 계산이 실제로 일어났음을 검증할 수 있게 하는 프로토콜을 만들었다. 이는 양자 컴퓨팅과 암호학이라는 두 분야의 심오한 통합이며, 8년의 끈질긴 연구 끝에 나온 결과다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Goldfeld-HP_2800.jpg)
-
-David Song/Quanta Magazine; Source: Dorian Goldfeld
 
 [새로운 증명이 무한한 곡선들이 두 가지 유형으로 나뉜다는 것을 보이다](https://www.quantamagazine.org/new-proof-shows-infinite-curves-come-in-two-types-20181107/)
 

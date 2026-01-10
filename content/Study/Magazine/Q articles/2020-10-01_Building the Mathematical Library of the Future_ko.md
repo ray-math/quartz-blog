@@ -67,8 +67,6 @@ Lean은 "전술(tactics)"이라는 자동화된 프로세스를 사용하여 이
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/10/Lean-graphic-FINAL-MOBILE.v2.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 "Lean이 무언가를 이해할 수 있다는 것은 거의 인간이 [수학 교과서를] Lean이 이해할 수 있는 형태로 번역했다는 것을 의미할 뿐입니다"라고 Morrison이 말했다.
 
 불행히도, 간단하다고 해서 쉬운 것은 아니다. 특히 많은 수학의 경우 교과서가 실제로 존재하지 않는다는 점을 고려하면 더욱 그렇다.

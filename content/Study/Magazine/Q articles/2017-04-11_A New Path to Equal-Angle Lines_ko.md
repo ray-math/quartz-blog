@@ -23,8 +23,6 @@ date: 2017-04-11
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/Equiangular__11201.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 증명을 달성하기 위해, 수학자들은 문제를 매우 다른 수학적 설정으로 변환하는 방법을 찾아냈다. 수학자들은 변환된 형태에서 등각 직선의 성질을 확립한 다음, 그것을 다시 기하학적 설정으로 가져올 수 있었는데, 이는 마치 꿈속의 비전으로 돌아가기 위해 자신의 발걸음을 되짚는 것과 거의 같은 방식이었다.
 
 > 이 연구의 핵심 아이디어는 '범주적 사고(categorical thinking)'라는 현대 수학의 강력한 원리를 보여준다. 한 수학적 구조가 다른 구조로 '번역'될 수 있을 때, 각 설정에서 증명하기 쉬운 성질이 다르다. 기하학적으로는 시각화하기 어려운 고차원 등각 직선이 그래프 이론에서는 점과 색깔 있는 변으로, 선형대수학에서는 행렬로 표현될 수 있다. 각 표현에서 우리는 다른 도구를 사용할 수 있다—그래프 이론에서는 Ramsey의 정리, 선형대수학에서는 계수(rank) 계산. 이러한 '수학적 다언어주의(mathematical multilingualism)'는 20세기 수학의 가장 중요한 발전 중 하나였다. Alexander Grothendieck의 대수기하학 혁명도 같은 철학에 기반했다: 문제를 올바른 언어로 번역하면, 증명은 거의 자명해진다.
@@ -58,8 +56,6 @@ Bukh의 결과는 우아하지 않았다—"어떤 면에서는 최선의 접근
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/EquiLimit_900.jpg)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/EquiLimit_1120.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 등각 직선의 집합을 가져오자. 각 직선에 벡터를 대응시킨다—특정 방향을 가리키는 대상. 각 직선에 대해 두 개의 가능한 벡터를 상상할 수 있는데, 하나는 직선의 한 방향을 가리키고, 다른 하나는 반대 방향을 가리킨다. 하나를 선택한 다음, 각 벡터 쌍의 "내적(dot product)"을 계산하라. 벡터들이 예각을 이루면 내적은 양수가 될 것이다. 둔각을 이루면 음수가 될 것이다.
 

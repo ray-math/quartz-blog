@@ -7,8 +7,6 @@ date: 2021-09-21
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/QUEENS_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 집에 체스 세트가 몇 개 있다면, 다음 퍼즐을 한번 시도해보라: 8개의 퀸을 체스판 위에 배치하되, 어떤 퀸도 다른 퀸을 공격하지 않도록 하라. 한 가지 배치에 성공했다면, 두 번째 배치를 찾을 수 있겠는가? 세 번째는? 도대체 몇 가지나 있을까?

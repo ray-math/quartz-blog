@@ -7,8 +7,6 @@ date: 2023-03-21
 
 ![1부터 40까지의 숫자 사이를 점프하는 파란색 계단으로 표현된, 등차수열을 회피하는 수열의 그림](https://www.quantamagazine.org/wp-content/uploads/2023/03/ArithmeticProgressions-bySamuelVelasco-Lede-scaled.webp)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 2023년 2월 5일 일요일, 올로프 시사스크(Olof Sisask)와 토마스 블룸(Thomas Bloom)은 자신들의 연구 분야에서 가장 큰 미해결 문제에 대한 놀라운 돌파구를 담은 이메일을 받았다. 일리노이 대학교 어바나-샴페인 캠퍼스의 대학원생 잔더 켈리(Zander Kelley)가 캘리포니아 대학교 로스앤젤레스(UCLA)의 라구 메카(Raghu Meka)와 함께 쓴 [논문](https://arxiv.org/abs/2302.05537)을 시사스크와 블룸에게 보낸 것이다. 켈리와 메카는 모두 컴퓨터 과학자였는데, 이는 시사스크와 블룸이 연구하는 가법 조합론(additive combinatorics)과는 지적으로 완전히 다른 세계였다.

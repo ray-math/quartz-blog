@@ -35,8 +35,6 @@ date: 2018-05-17
 
 ![코시 지평선이 있는 블랙홀과 없는 블랙홀 비교 그래픽](https://www.quantamagazine.org/wp-content/uploads/2018/05/CauchyHorizon_560wide.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 그러나 블랙홀 안으로 계속 여행하면, 결국 코시 지평선(Cauchy horizon)이라고 알려진 또 다른 지평선을 통과한다. 여기서 상황이 이상해진다. 아인슈타인의 방정식은 시공간의 여러 다른 구성이 펼쳐질 수 있다고 보고하기 시작한다. 그것들은 모두 다르지만, 모두 방정식을 만족한다. 이론은 어느 옵션이 참인지 말해줄 수 없다. 물리 이론에게 이것은 중대한 죄다.
 
 캐나다 구엘프 대학교의 물리학자 [에릭 푸아송(Eric Poisson)](https://www.physics.uoguelph.ca/poisson/research/)은 "우리가 일반 상대성 이론에서 발견하는 것처럼 보이는 예측 가능성의 상실은 매우 불안했다"고 말했다.

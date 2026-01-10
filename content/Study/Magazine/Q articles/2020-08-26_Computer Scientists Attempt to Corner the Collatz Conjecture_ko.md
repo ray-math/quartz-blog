@@ -53,8 +53,6 @@ SAT 솔빙은 문제를 가져와서, 명제 논리를 사용하는 컴퓨터 �
 
 [여기](http://www.dcode.fr/collatz-conjecture)에서 직접 시도해 보라.
 
-Lucy Reading-Ikkanda/Samuel Velasco/Quanta Magazine
-
 첫 번째 단계로, 컴퓨터 과학자인 Aaronson은 컴퓨터가 작업하기에 더 자연스러운 재작성 시스템(rewriting system)이라고 불리는 콜라츠 추측의 대안적 형식화를 고안했다.
 
 재작성 시스템에서는 A, B, C 같은 기호 집합이 있다. 그것들을 사용해서 수열을 형성한다: ACACBACB. 또한 그 수열들을 변환하는 규칙들이 있다. 한 규칙은 "AC"를 볼 때마다 "BC"로 대체하라고 말할 수 있다. 다른 규칙은 "BC"를 "AAA"로 대체할 수 있다. 원하는 종류의 변환을 지정하는 규칙을 원하는 만큼 가질 수 있다.

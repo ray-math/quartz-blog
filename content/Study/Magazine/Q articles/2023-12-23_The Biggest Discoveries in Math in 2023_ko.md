@@ -90,7 +90,7 @@ date: 2023-12-23
 아마도 다른 어떤 수학 영역보다도, 정수론자들은 믿을 수 없을 만큼 복잡한 기술적 구성을 사용해 간단하게 들리는 정리를 증명할 수 있다. 올해 *Quanta*는 독자들을 그런 구성들의 일부를 순회하는 여행으로 안내했다. 우리는 덧셈, 뺄셈, 곱셈, 나눗셈과 함께 수학의 "다섯 번째 기본 연산"으로 묘사되어 온 모듈러 형식(modular forms)에 대한 [심층 시각적 설명](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)을 발표했다. 그리고 우리는 독자들을 정수론의 가장 강력한 도구 중 하나인 [이차 상호법칙(quadratic reciprocity)의 역사적 여행](https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/)으로 데려갔다. 모듈러 형식 설명은 덜 연구된 유형의 함수이지만 그럼에도 물리학에 중요한 함의를 갖는 소위 [합동이 아닌 모듈러 형식(noncongruence modular forms)](https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/)에 관한 기사에서 영감을 받았다.
 
 > 모듈러 형식은 복소 상반평면(upper half-plane) $\mathcal{H} = \{z \in \mathbb{C} : \text{Im}(z) > 0\}$에서 정의된 복소 함수 $f(z)$로, 특수한 변환 성질을 만족한다. 핵심 성질은 모듈러 변환 하에서의 행동이다: 행렬 $\gamma = \begin{pmatrix} a & b \\ c & d \end{pmatrix} \in \text{SL}_{2}(\mathbb{Z})$에 대해
-> $$f\left(\frac{az + b}{cz + d}\right) = (cz + d)^{k} f(z)$$
+> $f\left(\frac{az + b}{cz + d}\right) = (cz + d)^{k} f(z)$
 > 를 만족한다(여기서 $k$는 가중치).
 > 
 > 왜 "다섯 번째 연산"인가? 모듈러 형식은 정수론의 거의 모든 곳에 나타난다. 타원 곡선, $L$-함수, 갈루아 표현, 심지어 끈 이론까지. 라마누잔의 타우 함수, 아이젠슈타인 급수, 데데킨트 에타 함수가 모두 모듈러 형식이다. 페르마의 마지막 정리 증명의 핵심은 타원 곡선이 모듈러임을 보이는 것이었다(모듈성 정리). 모듈러 형식은 산술 정보를 기하학적·해석적 대상으로 인코딩하는 다리 역할을 한다. 푸리에 계수가 정수론적으로 의미 있는 수를 담고 있어, 계산적으로도 강력하다.

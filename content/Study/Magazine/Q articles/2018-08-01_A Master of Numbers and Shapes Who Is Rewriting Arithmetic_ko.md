@@ -9,8 +9,6 @@ date: 2018-08-01
 
 독일 본 대학교 수학연구소의 페터 숄체.
 
-사진: [Nyani Quarmyne](http://www.nqphotography.com/) for Quanta Magazine; 삽화: Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 필즈상(Fields Medal)—수학계 최고의 영예—시상을 앞두고, 수상자의 신원은 항상 엄격하게 비밀로 유지된다. 하지만 이번에는 한 이름이 모든 이의 입에 오르내렸다: 독일 본 대학교의 [페터 숄체](http://www.math.uni-bonn.de/people/scholze/)였다.

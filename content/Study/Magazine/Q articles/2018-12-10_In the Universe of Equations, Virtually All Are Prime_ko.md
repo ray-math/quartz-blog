@@ -63,8 +63,6 @@ Breuillard와 Varjú는 다항식 기약성을 연구하기 위해 출발하지 
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/12/PolynomialPrimes_560.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 이러한 조건이 주어졌을 때, Breuillard와 Varjú는 두 가지를 이해하고 싶었다: 원 위의 모든 점을 방문하는 데 얼마나 걸릴 것인가? 그리고 모든 점을 대략 같은 횟수만큼 방문하는 데 얼마나 걸릴 것인가?
 
 이러한 질문들은 수학자들에게 "혼합 문제(mixing problem)"로 알려져 있으며, 다항식 기약성과 관련이 있는 것으로 밝혀진다. Breuillard와 Varjú는 무작위 걷기의 경로가 0과 1을 계수로 하는 다항식 방정식으로 기술될 수 있다는 것을 인식했다. 무작위 걷기의 "혼합 시간(mixing time)"은 그 무작위 걷기를 기술하는 대부분의 다항식이 기약인지 아닌지와 밀접하게 관련되어 있다.

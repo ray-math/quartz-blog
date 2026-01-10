@@ -7,8 +7,6 @@ date: 2025-09-15
 
 ![A model of earth with barren land and green oceans](https://www.quantamagazine.org/wp-content/uploads/2025/09/07-MATH-OF-CATASTROPHE-cr.Mark-Belan-Lede-1720x963.webp)
 
-Mark Belan/Quanta Magazine
-
 ## 서론
 
 ## 1960년대, 소련의 기후학자이자 수학자였던 미하일 부디코는 핵 아마겟돈 직전에 놓인 행성의 잠재적 미래를 연구하기 시작했다. 그는 약 6억 년 전 과거를 살펴보는 것으로 시작했다.

@@ -7,8 +7,6 @@ date: 2018-05-03
 
 ![Art for "Three Decades Later, Mystery Numbers Explained"](https://www.quantamagazine.org/wp-content/uploads/2018/05/Cube_2880x1620.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 거의 30년 전, 한 물리학자 그룹이 수학에서 가장 중요한 숫자들 중 일부가 전혀 나타날 것 같지 않은 곳에서 발견되는 것을 목격했다. 새로운 증명이 마침내 그 숫자들이 왜 거기에 있는지를 설명한다.

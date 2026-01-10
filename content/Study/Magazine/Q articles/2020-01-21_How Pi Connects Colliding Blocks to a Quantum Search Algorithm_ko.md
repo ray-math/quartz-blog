@@ -7,8 +7,6 @@ date: 2020-01-21
 
 ![서로 다른 크기의 블록들이 충돌하는 모습과 다양한 벡터를 보여주는 다이어그램](https://www.quantamagazine.org/wp-content/uploads/2020/01/Blocks_2880x1220Lede.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 원주율의 숫자들, 충돌하는 블록들, 그리고 양자 검색 알고리즘—이들의 공통점은 무엇일까? 예상보다 훨씬 많다. 장난기 가득한 두 논문, [2003년의 논문](https://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf)과 [지난달에 발표된 논문](https://arxiv.org/abs/1912.02207)이 이들 사이의 연결고리를 제공한다. 이 두 논문은 함께 역학(dynamics), 기하학(geometry), 그리고 양자 계산(quantum computation)의 세계를 연결하며, 가장 추상적인 수학 퍼즐조차도 놀라운 물리적 관련성을 가질 수 있음을 보여준다.

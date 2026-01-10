@@ -7,8 +7,6 @@ date: 2022-03-17
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/03/Joy-of-Why-intro-illustration_2880x1620_Lede.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 ## 서론
 
 어린 시절 나는 공룡, 보석, 번개의 종류에 관한 책들을 읽는 것을 무척 좋아했다. 그중에서도 가장 좋아했던 책은 *Tell Me Why*(왜 그럴까요)*라는 제목의 책이었다. Arkady Leokum이 쓴 이 책은 아이들이 던지는 질문들에 간단한 답을 제공했다. 왜 여름에는 더울까? 왜 하늘은 파랄까? 이 책은 과학자들이 아직도 풀려고 노력하는 더 깊은 질문들에 대해서도 솔직했다. 우주는 어떻게 시작되었을까? 우리는 왜 잠을 자야 할까?

@@ -7,8 +7,6 @@ date: 2019-06-17
 
 ![Art for "A 53-Year-Old Network Coloring Conjecture Is Disproved"](https://www.quantamagazine.org/wp-content/uploads/2019/06/Graph_Coloring_2880x1620_LEDE.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 도입
 
 지난달 온라인에 게시된 한 논문이 네트워크의 노드(node)에 색을 배정하는 최선의 방법에 관한 53년 된 추측을 반증했다. 이 논문은 단 3페이지 만에, 많은 수학자들이 가능하다고 여겼던 것보다 더 나은 방법으로 특정 네트워크를 색칠할 수 있음을 보였다.

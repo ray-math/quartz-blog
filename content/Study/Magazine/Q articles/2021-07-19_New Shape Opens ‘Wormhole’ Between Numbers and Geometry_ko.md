@@ -7,8 +7,6 @@ date: 2021-07-19
 
 ![왼쪽의 기하학적 도형들이 웜홀을 통해 오른쪽의 수들과 연결되는 모습을 보여주는 삽화.](https://www.quantamagazine.org/wp-content/uploads/2021/07/Langlands_lede_2560.jpg)
 
-[Matteo Bassini](https://www.artstation.com/matteobassini) for Quanta Magazine; spots by Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 수학계 최대 프로젝트가 보기 드문 선물을 받았다. 2월에 [공개된](https://arxiv.org/abs/2102.13459) 350쪽 분량의 방대한 논문은 전 세계 연구자들이 이 분야의 가장 심오한 질문들을 탐구하는 방식을 바꿔놓을 것이다. 이 연구는 기하학과 수 사이의 관계에 대한 대담하고 한때는 공상적이라 여겨졌던 꿈을 실현하는 새로운 기하학적 대상을 만들어냈다.

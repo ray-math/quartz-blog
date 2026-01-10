@@ -7,8 +7,6 @@ date: 2023-01-12
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/01/ProbabilityTheory-byKristinaArmitage-Lede-scaled.webp)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 그들의 야망은 처음부터 높았다. Will Sawin과 Melanie Matchett Wood가 2020년 여름 함께 연구를 시작했을 때, 그들은 정수론의 가장 매혹적인 추측들의 핵심 요소를 재고하려는 목표를 세웠다. 그들이 주목한 대상인 류군(class groups)은 수가 정수를 넘어 확장될 때 산술이 어떻게 작동하는지에 관한 근본적인 질문과 밀접하게 연관되어 있다. Columbia 대학의 [Sawin](https://williamsawin.com)과 Harvard의 [Wood](https://people.math.harvard.edu/~mmwood/)는 류군보다 훨씬 더 일반적이고 수학적으로 다루기 어려운 구조에 대한 예측을 만들고자 했다.

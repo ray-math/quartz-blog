@@ -43,8 +43,6 @@ date: 2021-08-26
 
 ![순차적 회전을 통해 무한히 많은 점을 선택하는 과정을 보여주는 그래픽.](https://www.quantamagazine.org/wp-content/uploads/2021/08/Banach-Tarski-1.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 이 집합은 두 가지 핵심 속성을 가질 것이다. 첫 번째는 같은 점을 두 번 이상 포함하지 않을 것이라는 점이다—이것은 회전 각도가 무리수라는 사실 덕분에 보장된다. 두 번째는 집합이 셀 수 있는 무한이 될 것이라는 점이다—회전 과정을 통해 선택된 각 점에 자연수를 할당할 수 있다.
 
 "전체 구는 이 셀 수 없는 객체입니다"라고 토론토 대학교의 집합론자 [스펜서 웅거(Spencer Unger)](https://www.math.toronto.edu/sunger/)는 말했다. "하지만 그것은 셀 수 있는 많은 조각들로 분해됩니다."

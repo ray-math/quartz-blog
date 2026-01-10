@@ -8,8 +8,6 @@ date: 2022-02-03
 
 시무라 다양체의 1차원 버전인 모듈러 곡선의 도해.
 
-Samuel Velasco/Quanta Magazine; source: [Kilom691 and Alexander Hulpke](https://en.wikipedia.org/wiki/Fundamental_domain#/media/File:ModularGroup-FundamentalDomain.svg)
-
 ## 서론
 
 2021년 9월에 게시된 놀라운 증명에서, 세 명의 수학자가 앙드레-오르트 추측(André-Oort conjecture)이라는 30년 묵은 문제를 해결하고, 다항식 방정식의 해를 이해하려는 수세기에 걸친 탐구를 한 단계 진전시켰다. 이 연구는 수학 분야의 거의 전 영역에 걸친 아이디어들을 활용한다.

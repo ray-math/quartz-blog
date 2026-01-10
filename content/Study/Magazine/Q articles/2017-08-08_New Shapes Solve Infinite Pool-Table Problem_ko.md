@@ -7,8 +7,6 @@ date: 2017-08-08
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/08/HeavenlyBilliards.jpg)
 
-Olena Shmahalo/Quanta Magazine; background: [FrostBo](http://frostbo.deviantart.com/gallery/29720170/BACKGROUND-Celestial)
-
 ## 도입
 
 마찰이 없고 포켓도 없는 당구대 위에서 당구공을 쳐서, 공이 당구대 벽에 끊임없이 튕기며 멈추지 않게 만든다고 상상해보자. 수년 후에 다시 돌아온다면 무엇을 발견하게 될까? 공은 행성이 태양을 도는 것처럼 어떤 반복되는 궤도에 안착했을까, 아니면 펠트로 덮인 평면을 끊임없이 탐험하며 계속해서 새로운 경로를 그리고 있을까?

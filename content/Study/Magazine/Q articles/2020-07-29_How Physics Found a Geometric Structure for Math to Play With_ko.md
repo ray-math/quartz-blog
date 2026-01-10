@@ -7,8 +7,6 @@ date: 2020-07-29
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Symplectic-Sphere_2880_Lede_v01.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 1800년대 초, 윌리엄 로완 해밀턴(William Rowan Hamilton)은 거의 마법 같은 성질을 지닌 새로운 종류의 기하학적 공간을 발견했다. 그 공간은 운동과 수학을 하나의 빛나는 기하학적 대상 안에 인코딩했다.
@@ -37,8 +35,6 @@ Olena Shmahalo/Quanta Magazine
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Symplectic-Figure-1-MOBILE.v2.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 예를 들어, 지구본의 경도와 위도선처럼 공의 표면에 계량 구조(metric structure)를 추가할 수 있다. 이 구조는 두 점 사이의 거리를 측정할 수 있게 만든다. 하지만 일단 그 구조가 자리 잡으면, 원래의 구조를 깨지 않고서는 더 이상 공을 부풀리거나 움푹 들어가게 할 수 없다. 왜냐하면 그렇게 하면 점들 사이의 거리를 바꾸는 것이기 때문이다. 예를 들어, 지구본을 부풀리면 뉴욕과 런던 사이의 거리가 더 멀어질 것이다.
 
 > 계량 구조는 리만 기하학(Riemannian geometry)의 핵심 개념이다. 19세기 중반 베른하르트 리만이 발전시킨 이 기하학은 아인슈타인의 일반상대성이론의 수학적 토대가 되었다. 계량은 공간의 각 점에서 무한소 거리를 측정하는 방법을 제공한다. 예를 들어, 평평한 유클리드 공간에서는 피타고라스 정리 $ds^{2} = dx^{2} + dy^{2}$가 계량이다. 하지만 구면 위에서는 다른 계량이 필요하다. 중요한 점은 계량이 있으면 거리, 각도, 곡률 같은 기하학적 양들을 모두 정의할 수 있다는 것이다. 계량 구조는 매우 '단단한' 구조다—거리를 보존하는 변환(등거리변환, isometry)만 허용되기 때문이다. 심플렉틱 구조는 이보다 약간 더 유연하면서도 여전히 중요한 제약을 가한다.
@@ -55,8 +51,6 @@ Samuel Velasco/Quanta Magazine
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Symplectic-Figure-2-MOBILE.v2.jpg)
 
-Samuel Velasco/Quanta Magazine
-
 이 6차원 공간은 넓이 측정을 가능하게 하기 때문에 심플렉틱 구조를 가진 공간의 한 예다. 그것이 어떻게 작동하는지 살펴보자.
 
 공간의 각 점에서 여섯 개의 "벡터(vector)", 즉 방향이 있는 화살표를 그릴 수 있는데, 이것들은 벡터가 가리키는 차원을 따른 행성의 방향 또는 운동량에 해당한다. 두 벡터가 평행사변형—넓이를 가진 2차원 공간—을 정의할 수 있기 때문에, 공간의 두 벡터를 택해서 넓이를 측정하는 것이 가능하다.
@@ -64,14 +58,12 @@ Samuel Velasco/Quanta Magazine
 하지만 0이 아닌 숫자가 나오도록 하려면, 특정한 벡터 쌍을 선택해야 한다: 같은 축을 따른 방향과 운동량을 나타내는 벡터들이다. $y$ 운동량 벡터와 짝지어진 $z$ 방향 벡터처럼 짝이 맞지 않는 벡터들은 넓이가 0인 평행사변형을 형성한다.
 
 > 이것이 심플렉틱 구조의 핵심이다. 수학적으로 말하면, 심플렉틱 형식(symplectic form) $\omega$는 각 점에서 두 벡터를 받아서 숫자를 출력하는 '2-형식(2-form)'이다. 예를 들어, 6차원 위상 공간에서 $\omega$는 다음과 같이 쓸 수 있다:
-> $$\omega = dx \wedge dx_{m} + dy \wedge dy_{m} + dz \wedge dz_{m}$$
+> $\omega = dx \wedge dx_{m} + dy \wedge dy_{m} + dz \wedge dz_{m}$
 > 여기서 $\wedge$는 '쐐기곱(wedge product)'이라는 연산이다. 이 식이 말하는 것은: $(x, x_{m})$ 방향의 두 벡터에 대해서만 넓이가 0이 아니고, $(y, y_{m})$와 $(z, z_{m})$도 마찬가지며, 다른 모든 조합은 넓이가 0이라는 것이다. 이 '선택적 쌍짓기'가 심플렉틱 기하학을 특별하게 만든다. 또한 심플렉틱 형식은 '비퇴화(non-degenerate)'여야 하는데, 이는 모든 벡터에 대해 넓이가 0이 되는 벡터는 0벡터뿐이라는 의미다. 그리고 '닫혀있어야(closed)' 하는데, 이는 $d\omega = 0$이라는 기술적 조건이다. 이 두 조건이 심플렉틱 구조를 수학적으로 정의한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Symplectic-Figure-3.v2.jpg)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Symplectic-Figure-3-MOBILE.jpg)
-
-Samuel Velasco/Quanta Magazine
 
 이 쌍을 이루는 벡터들은 또한 심플렉틱 공간의 또 다른 중요한 성질, 즉 복소수와의 본질적인 연결을 반영한다. 이 수들은 $-1$의 제곱근인 $i$를 포함하며, $a + bi$의 형태를 취하는데, 여기서 $a$는 실수 부분이고 $b$는 허수 부분이다. 6차원 심플렉틱 공간을 정의하는 한 가지 방법은 세 개의 복소수를 사용하는 것인데, 각 수의 두 부분이 좌표 중 두 개를 제공한다. 이 두 부분은 또한 넓이를 측정하기 위해 짝지은 두 벡터에 해당한다.
 

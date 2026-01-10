@@ -69,7 +69,9 @@ University of Göttingen
 
 $ax^{3} + bx^{2} + cx + d = 0$로 쓰인 3차 다항식의 근은 다음 공식을 사용하여 찾을 수 있다:
 
-$$x = \sqrt[3]{-\frac{q}{2} + \sqrt{\frac{q^{2}}{4} + \frac{p^{3}}{27}}} + \sqrt[3]{-\frac{q}{2} - \sqrt{\frac{q^{2}}{4} + \frac{p^{3}}{27}}}$$
+$$
+x = \sqrt[3]{-\frac{q}{2} + \sqrt{\frac{q^{2}}{4} + \frac{p^{3}}{27}}} + \sqrt[3]{-\frac{q}{2} - \sqrt{\frac{q^{2}}{4} + \frac{p^{3}}{27}}}
+$$
 
 (여기서 $p$와 $q$는 원래 계수들로부터 결정되는 값들이다.)
 

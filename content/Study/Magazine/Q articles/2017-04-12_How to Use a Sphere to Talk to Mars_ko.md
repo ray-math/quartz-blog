@@ -7,8 +7,6 @@ date: 2017-04-12
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/04/SphericalCode_2600.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 ## 서론
 
 화성에서 메시지를 보내는 것은 매우 어려운 일이다.

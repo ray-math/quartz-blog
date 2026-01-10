@@ -29,8 +29,6 @@ Grace Park for Quanta Magazine
 
 *Quanta*는 또한 [1월 칼럼](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/)과 [호몰로지라는 관련 주제](https://www.quantamagazine.org/how-mathematicians-use-homology-to-make-sense-of-topology-20210511/)를 다룬 설명글로 위상수학 자체의 기원을 탐구했다.
 
-Olena Shmahalo/Quanta Magazine
-
 [AI의 블랙박스 열기](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 
 수학자들이 수학을 하는 것을 돕든, 과학 데이터의 분석을 돕든, 인공 뉴런의 층들 위에 구축된 인공지능의 한 형태인 심층 신경망(deep neural networks)은 점점 더 정교하고 강력해지고 있다. 그것들은 또한 여전히 미스터리로 남아 있다: 전통적인 기계학습 이론은 그들의 막대한 수의 매개변수가 과적합(overfitting)과 일반화 불능을 초래해야 한다고 말하지만, 분명히 다른 무언가가 일어나고 있음에 틀림없다. 알고 보니 커널 머신(kernel machines)이라고 불리는 더 오래되고 더 잘 이해된 기계학습 모델들이 이러한 신경망의 이상화된 버전과 [수학적으로 동등하다](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)는 것이 밝혀졌고, 이는 디지털 블랙박스를 이해하고 활용하는 새로운 방법을 제시한다.
@@ -40,8 +38,6 @@ Olena Shmahalo/Quanta Magazine
 그러나 후퇴도 있었다. 합성곱 신경망(convolutional neural networks)이라고 알려진 관련 종류의 AI는 [유사한 물체와 다른 물체를 구별하는 데 매우 어려움](https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/)을 겪고 있으며, 아마도 항상 그럴 것이다. 마찬가지로, 최근 연구는 경사 하강법(gradient descent)—신경망을 훈련하고 다른 계산 작업을 수행하는 데 유용한 알고리즘—이 [근본적으로 어려운 문제](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)라는 것을 보여주었으며, 이는 일부 작업이 영원히 그것의 도달 범위를 벗어날 수 있음을 의미한다. 양자 컴퓨팅은 그 가능성에도 불구하고, 3월에 오류에 저항하는 위상적 큐비트(topological qubits)를 만드는 방법을 설명하는 [주요 논문](https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/)이 철회되면서 큰 후퇴를 겪었고, 한때 희망에 찬 과학자들은 그러한 기계가 불가능할 수도 있다는 것을 깨닫게 되었다. (스콧 애런슨(Scott Aaronson)은 [칼럼과 비디오에서](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/) 양자 컴퓨터가 왜 그렇게 다루기 어렵고, 심지어 이야기하기조차 어려운지를 강조했다.)
 
 > 경사 하강법은 최적화 알고리즘의 근간을 이루는 방법이다. 산의 정상에서 눈을 가리고 내려온다고 상상해보자. 각 지점에서 가장 가파르게 내려가는 방향으로 한 걸음씩 이동하면, 결국 계곡 바닥(최솟값)에 도달할 것이다. 경사 하강법은 이와 같은 원리로 작동한다. 함수의 기울기(경사)를 계산하고, 그 반대 방향으로 조금씩 이동하면서 함수값을 최소화한다. 신경망 훈련에서는 손실 함수(loss function)—예측과 실제값의 차이를 측정하는 함수—를 최소화하기 위해 경사 하강법을 사용한다. 그러나 실제 손실 함수는 수백만 차원의 복잡한 지형을 가지며, 수많은 지역 최솟값(local minima), 안장점(saddle points), 평평한 영역들로 가득하다. 최근 연구는 일반적인 경우에 경사 하강법이 전역 최솟값(global minimum)을 찾는 것이 계산 복잡도 이론의 관점에서 본질적으로 어렵다는 것을 보였다. 이는 단순히 더 빠른 컴퓨터나 더 영리한 알고리즘으로는 해결할 수 없는 근본적인 한계를 시사한다. 그럼에도 불구하고 실제로 경사 하강법이 잘 작동하는 이유는 여전히 활발한 연구 주제다.
-
-Olena Shmahalo/Quanta Magazine
 
 [무한의 본질](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 
@@ -74,8 +70,6 @@ Matteo Bassini for Quanta Magazine
 실제로, 컴퓨터는 올해 다양한 방식으로 수학자들에게 도움이 되는 것으로 입증되었다. 1월에, *Quanta*는 양자 컴퓨터를 위한 새로운 알고리즘에 대해 보도했는데, 이 알고리즘은 상호작용이 자기 자신에게 영향을 미칠 수 있는 비선형 시스템을 먼저 [더 단순한 선형 시스템](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)으로 근사함으로써 처리할 수 있게 해준다. 컴퓨터는 또한 수학자들의 팀이 현대적인 하드웨어와 알고리즘을 사용하여 26년 전에 발견된 것 이외에 [더 이상의 특수 사면체 유형이 없다](https://www.quantamagazine.org/mathematicians-finally-prove-rational-tetrahedron-solutions-20210202/)는 것을 증명했을 때, 그리고 더 극적으로는 Lean이라는 이름의 디지털 증명 보조 도구가 [난해한 현대 증명](https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/)의 정확성을 검증했을 때 수학 연구를 계속 전진시켰다.
 
 > 증명 보조 도구(proof assistant)는 수학의 미래를 바꿀 수 있는 혁명적 기술이다. 현대 수학 증명은 수백 페이지에 달하며, 매우 복잡한 논리와 최첨단 기법들을 사용한다. 숄체와 더스틴 클라우센(Dustin Clausen)의 응축 수학(condensed mathematics)에 관한 작업이 좋은 예다. 이 증명은 너무 복잡해서 전문가들조차 모든 세부 사항을 검증하기 어렵다. 여기서 Lean과 같은 증명 보조 도구가 등장한다. Lean은 사용자가 수학적 명제와 증명을 형식 언어로 작성하면, 각 단계가 논리적으로 타당한지 자동으로 검증한다. 컴퓨터는 틀리지 않으므로, Lean이 증명을 받아들이면 그것은 정말로 올바른 것이다. 2021년 여름, 숄체는 자신의 최근 작업을 Lean으로 형식화하는 프로젝트를 제안했다. 놀랍게도 전 세계의 수학자들과 프로그래머들이 협력하여 6개월 만에 이 방대한 작업을 완료했다. 이것은 여러 의미에서 역사적 순간이었다. 첫째, 최첨단 연구가 실시간으로 형식화되었다. 둘째, 오픈 소스 협업의 힘을 보여주었다. 셋째, 증명 보조 도구가 더 이상 장난감이 아니라 진지한 연구 도구임을 입증했다. 미래에는 복잡한 증명이 출판될 때 형식화된 버전도 함께 제공되는 것이 표준이 될 수 있다. 이는 수학의 신뢰성을 크게 향상시킬 것이다.
-
-Olena Shmahalo/Quanta Magazine
 
 [수학이 물리학을 다시 만나다](https://www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/)
 

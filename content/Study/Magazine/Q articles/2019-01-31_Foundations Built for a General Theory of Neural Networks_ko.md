@@ -65,8 +65,6 @@ Arun Chaganty
 
 ![GRAPHIC: HOW TO DESIGN A NEURAL NETWORK](https://www.quantamagazine.org/wp-content/uploads/2019/01/NeuralNetwok_560_rev.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 그러나 이러한 일반적인 지침을 넘어서면, 엔지니어들은 대체로 실험적 증거에 의존해야 한다. 그들은 1,000개의 서로 다른 신경망을 실행하고 단순히 어느 것이 작업을 완료하는지 관찰한다.
 
 "이러한 선택들은 실제로 종종 시행착오로 이루어집니다"라고 하닌은 말했다. "선택이 무한히 많고 무엇이 최선인지 정말로 알 수 없기 때문에 이것은 다소 힘든 [방법입니다]."

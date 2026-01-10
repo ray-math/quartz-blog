@@ -7,8 +7,6 @@ date: 2018-05-14
 
 ![Crystal diffraction art for "A Chemist Shines Light on a Surprising Prime Number Pattern"](https://www.quantamagazine.org/wp-content/uploads/2018/05/CrystalPrimes_2880x1620.jpg)
 
-Olena Shmahalo/Quanta Magazine
-
 ## 서론
 
 약 1년 전, 이론화학자 [살바토레 토르콰토(Salvatore Torquato)](https://chemistry.princeton.edu/faculty/torquato)는 정수론 학자 [매튜 드 쿠르시-아일랜드(Matthew de Courcy-Ireland)](https://www.math.princeton.edu/people/matthew-de-courcy-ireland-0)와 만나 자신이 소수(prime numbers)—1과 자기 자신으로만 나누어떨어지는 양의 정수—를 가지고 매우 이례적인 일을 했다고 설명했다.
@@ -40,8 +38,6 @@ Olena Shmahalo/Quanta Magazine
 > 준결정은 20세기 결정학의 가장 놀라운 발견 중 하나다. 전통적으로 결정은 주기적으로 반복되는 구조를 가져야 한다고 믿어졌다. 그러나 1984년 다니엘 셰흐트만(Daniel Shechtman)은 알루미늄-망간 합금에서 5회 회전 대칭을 가진 회절 패턴을 발견했다—수학적으로 주기적 결정에서는 불가능한 대칭이다. 이 발견은 처음에는 회의적으로 받아들여졌지만(노벨상 수상자 라이너스 폴링은 "준결정이란 없다. 준과학자만 있을 뿐"이라고 조롱했다), 결국 패러다임을 바꿨고 셰흐트만은 2011년 노벨 화학상을 받았다. 준결정의 브래그 피크 간격은 황금비($\phi = \frac{1+\sqrt{5}}{2}$)같은 무리수와 관련이 있다. 예를 들어 펜로즈 타일링의 회절 패턴에서 피크 위치는 $\phi$의 거듭제곱으로 표현된다. 반면 소수의 경우, 피크 간격이 2, 6, 30 같은 유리수 비율을 따른다는 점에서 준결정보다 더 "주기적"이지만, 무한히 많은 층위가 중첩되어 있다는 점에서 더 복잡하다. 이것이 "새로운 범주"인 이유다.
 
 ![Graphic Illustration: In computer experiments, theoretical chemists have diffracted light off long sequences of prime numbers to reveal the hidden order underlying their seemingly erratic distribution. The primes produce a fractal-like diffraction pattern that's similar, yet different, to that of quasicrystals.](https://www.quantamagazine.org/wp-content/uploads/2018/05/Prime-Number-Pattern_560.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine; Crystal diffraction pattern by [Sven.hovmoeller](https://commons.wikimedia.org/wiki/File:Tant-ED.jpg); Quasicrystal diffraction pattern by [Materialscientist](https://commons.wikimedia.org/wiki/File:Zn-Mg-HoDiffraction.JPG))
 
 인터뷰한 수많은 정수론 학자들에 따르면, 프린스턴 팀의 발견이 [정수론](https://www.quantamagazine.org/tag/number-theory/)의 발전을 촉발할 것으로 기대할 이유는 없다. 관련 수학의 대부분은 다른 형태로 이미 알려져 있었다. 실제로 토르콰토가 지난 봄 (콘의 제안으로) 그의 플롯과 공식을 드 쿠르시-아일랜드에게 보여주었을 때, 젊은 수학자는 소수 회절 패턴이 "정수론에서 거의 보편적으로 받아들여지는 추측들로 설명될 수 있다"는 것을 빠르게 알아차렸다.
 

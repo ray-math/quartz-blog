@@ -7,8 +7,6 @@ date: 2022-04-04
 
 ![다면체 형태가 평평하게 접히는 모습을 보여주는 일러스트](https://www.quantamagazine.org/wp-content/uploads/2022/04/Flattening_Polyhedra_2880x1620_Lede.jpg)
 
-Kristina Armitage/Quanta Magazine
-
 ## 서론
 
 컴퓨터 과학자 Erik Demaine과 그의 아버지이자 예술가이며 컴퓨터 과학자인 Martin Demaine은 수년간 종이접기의 한계를 넓혀왔다. 그들의 정교한 오리가미 조각품은 뉴욕 현대미술관(Museum of Modern Art) 영구 소장품의 일부이며, 10년 전에는 PBS에서 방영된 오리가미 다큐멘터리의 주요 예술가로 소개되기도 했다.

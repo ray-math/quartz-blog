@@ -41,8 +41,6 @@ date: 2019-04-11
 
 ![An infographic explaining the Karatsuba method for efficiently multiplying two large numbers.](https://www.quantamagazine.org/wp-content/uploads/2019/04/KaratsubaMethod_560.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 "덧셈은 학교에서 1년 먼저 배우는데, 그것이 훨씬 쉽기 때문입니다. 선형 시간에, 즉 수를 오른쪽에서 왼쪽으로 읽는 것만큼 거의 빠르게 할 수 있습니다"라고 2007년 당시 가장 빠른 곱셈 알고리즘을 만든 펜실베이니아 주립대학교(Pennsylvania State University)의 수학자 [마틴 퓌러(Martin Fürer)](http://www.cse.psu.edu/~fhs/)가 말했다.
 
 > 선형 시간이란 무엇인가? 알고리즘의 시간 복잡도를 표현하는 핵심 개념이다. 덧셈이 선형 시간, 즉 $O(n)$에 수행된다는 것은 $n$자리 수 두 개를 더할 때 각 자릿수를 한 번씩만 처리하면 된다는 의미다. 예를 들어 123 + 456을 계산할 때, 오른쪽부터 시작해서 3+6=9, 2+5=7, 1+4=5를 순서대로 계산하면 끝이다. 3번의 단계로 3자리 덧셈이 완료된다. 반면 전통적인 곱셈은 $O(n^{2})$다. 123 × 456을 계산하려면 3 × 3 = 9번의 한 자리 곱셈이 필요하다. 큰 수에서 이 차이는 극적이다. 1000자리 수의 경우, 덧셈은 약 1000단계지만 곱셈은 1,000,000단계다.

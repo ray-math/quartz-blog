@@ -37,8 +37,6 @@ date: 2020-08-19
 
 ![2차원 평면을 정사각형으로, 또는 3차원 공간을 정육면체로 타일링하면 불가피하게 일부 도형이 변을 완전히 공유하게 됨을 보여주는 그림](https://www.quantamagazine.org/wp-content/uploads/2020/08/Keller-graphics-TILING-MOBILE.v2.jpg)
 
-Samuel Velasco/Quanta Magazine; 출처: [https://www.cs.cmu.edu/~mheule/Keller/](https://www.cs.cmu.edu/~mheule/Keller/)
-
 간단한 논증을 통해 추측이 한 차원에서 거짓이면, 그보다 높은 모든 차원에서도 필연적으로 거짓임을 알 수 있다. 따라서 라가리아스와 쇼어 이후, 미해결 차원은 7, 8, 9차원뿐이었다. 2002년에 맥키는 8차원(따라서 9차원도)에서 [켈러의 추측이 거짓임을 증명했다](https://link.springer.com/article/10.1007/s00454-002-2801-9).
 
 그래서 7차원만이 열린 문제로 남았다—그것은 추측이 성립하는 가장 높은 차원이거나, 추측이 실패하는 가장 낮은 차원이었다.
@@ -67,8 +65,6 @@ Samuel Velasco/Quanta Magazine; 출처: [https://www.cs.cmu.edu/~mheule/Keller/]
 
 ![2차원에서 켈러 그래프를 보여주는 그림—다른 색깔의 점이 있는 주사위들과, 완전히 연결된 네 개의 주사위로 구성된 이론적 클리크(존재한다면)가 어떻게 보일지](https://www.quantamagazine.org/wp-content/uploads/2020/08/Keller-graphics-GRAPH-MOBILE.v2.jpg)
 
-Samuel Velasco/Quanta Magazine; 출처: [https://www.cs.cmu.edu/~mheule/Keller/](https://www.cs.cmu.edu/~mheule/Keller/)
-
 예를 들어, 한 주사위가 빨강 점 두 개를 가지고 있고 다른 주사위가 검정 점 두 개를 가지고 있다면, 그들은 연결되지 않는다: 한 위치에 대한 기준(다른 색)은 충족하지만, 다른 위치에 대한 기준(쌍을 이룬 색)은 충족하지 못한다. 그러나 한 주사위가 빨강-검정으로 칠해져 있고 다른 주사위가 초록-초록으로 칠해져 있다면 그들은 연결된다. 왜냐하면 한 위치에서는 쌍을 이룬 색(빨강-초록)을 가지고 있고 다른 위치에서는 다른 색(검정-초록)을 가지고 있기 때문이다.
 
 네 가지 색을 사용하여 두 개의 점에 색을 칠하는 방법은 16가지가 있다(그래서 우리는 16개의 주사위로 작업하고 있다). 가능한 16가지를 모두 당신 앞에 배열하라. 규칙에 맞는 모든 주사위 쌍을 연결하라. 이제 핵심 질문이다: 서로 모두 연결된 네 개의 주사위를 찾을 수 있는가?
@@ -88,8 +84,6 @@ Samuel Velasco/Quanta Magazine; 출처: [https://www.cs.cmu.edu/~mheule/Keller/]
 ![켈러 그래프에서 서로 다른 주사위와 이에 대응하는 타일 배치의 관계를 보여주는 그림](https://www.quantamagazine.org/wp-content/uploads/2020/08/Keller-graphics-DICTIONARY.v2.jpg)
 
 ![켈러 그래프에서 서로 다른 주사위와 이에 대응하는 타일 배치의 관계를 보여주는 그림](https://www.quantamagazine.org/wp-content/uploads/2020/08/Keller-graphics-DICTIONARY-MOBILE.v3.jpg)
-
-Samuel Velasco/Quanta Magazine
 
 > 이 대응 관계가 왜 작동하는지 좀 더 자세히 살펴보자. 원래 켈러의 문제는 연속적인 유클리드 공간을 단위 초정육면체(unit hypercube)로 타일링하는 것이다. 코라디-사보 변환의 핵심 통찰은 각 타일의 '유형'을 유한하게 분류할 수 있다는 것이다. 각 타일의 꼭짓점 좌표를 정수 부분과 소수 부분으로 나눌 수 있다. 정수 부분은 타일의 '위치'를 나타내고, 소수 부분은 타일의 '유형'을 나타낸다. 놀랍게도, 타일링 문제는 이 유형들 사이의 관계로 환원된다. 주사위의 색은 실제로 좌표의 소수 부분이 0과 1/2 중 어느 쪽에 가까운지를 부호화한다. 이렇게 무한한 문제가 유한한 조합론적 객체로 변환되는 것은 이산수학의 힘을 보여주는 아름다운 예다.
 

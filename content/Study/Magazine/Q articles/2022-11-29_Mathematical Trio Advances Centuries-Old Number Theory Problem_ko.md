@@ -27,8 +27,6 @@ Sally Caulwell for Quanta Magazine
 
 파란색 숫자는 두 유리수의 세제곱 합으로 쓸 수 있고, 나머지는 그럴 수 없다. 수학자들은 모든 정수의 절반이 각 진영에 속한다고 믿지만—증명하지는 못했다.
 
-Merrill Sherman/Quanta Magazine
-
 홀수와 짝수와 달리, "이 두 진영은 미묘하다"고 하버드의 [배리 마주르(Barry Mazur)](https://people.math.harvard.edu/~mazur/)가 말했다. 어떤 숫자가 어느 진영에 속하는지 결정하는 것으로 알려진, 모든 숫자에 대해 작동하는 검증법이 없다. 수학자들은 강력한 후보인 검증법들을 생각해냈지만, 현재로서는 각각 어떤 결함이 있다—수학자들은 그 검증이 항상 결론에 도달할 것임을 증명할 수 없거나, 또는 그 결론이 정확하다는 것을 증명할 수 없다.
 
 세제곱의 합, 그리고 더 일반적으로 삼차 방정식을 이해하는 어려움은 "정수론학자들에게 반복되는 당혹스러움"이었다고 바르가바가 말했다. 그는 2014년에 타원곡선(elliptic curves)으로 알려진 삼차 방정식에 대한 [유리수 해에 대한 연구](https://www.quantamagazine.org/mathematicians-shed-light-on-minimalist-conjecture-20130709/)로 [필즈상을 수상했다](https://www.quantamagazine.org/number-theorist-manjul-bhargava-is-awarded-fields-medal-20140812/). 두 세제곱의 합은 이것의 특수한 경우다.

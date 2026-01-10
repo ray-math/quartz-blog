@@ -57,8 +57,6 @@ University of Colorado, Boulder
 
 ![Graphic for scale-free networks](https://www.quantamagazine.org/wp-content/uploads/2018/02/Scale-Free_1120-02.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 멱함수 법칙 분포에는 특징적인 척도가 없다 (따라서 "척도 없는"이라는 이름이 붙었다). 멱함수 법칙은 정점이 없다—단순히 높은 차수에 대해 감소하지만, 비교적 천천히 감소하며, 그래프의 다른 부분을 확대하면 자기유사적으로 보인다. 결과적으로, 대부분의 노드는 여전히 낮은 차수를 가지지만, 엄청난 수의 링크를 가진 허브가 소량으로, 모든 규모에서 나타난다.
 
 > 멱함수 법칙 $P(k) \propto k^{-\alpha}$의 자기유사성은 로그-로그 플롯에서 명확히 드러난다. 양쪽 축에 로그 스케일을 사용하면, 멱함수 법칙은 기울기 $-\alpha$인 직선이 된다. 이는 $\log P(k) = -\alpha \log k + \text{상수}$이기 때문이다. 직선이라는 것은 스케일과 무관함을 의미한다. 차수 10과 100 사이의 관계가 차수 100과 1000 사이의 관계와 동일하다. 이것이 '척도 불변성(scale invariance)'이다. 프랙탈 기하학의 해안선처럼, 얼마나 확대하든 같은 패턴이 반복된다.

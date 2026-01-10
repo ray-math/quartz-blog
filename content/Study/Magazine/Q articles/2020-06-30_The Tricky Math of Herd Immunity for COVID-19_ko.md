@@ -23,8 +23,6 @@ COVID-19의 $R_{0}$가 2.5라고 하자. 이는 각 감염자가 평균적으로
 
 ![R0 = 2인 질병에 감염된 사람이 2명을 감염시키는 것을 보여주는 다이어그램](https://www.quantamagazine.org/wp-content/uploads/2020/06/Herd_Immunity_Diagram_1.jpg)
 
-Lucy Reading-Ikkanda/Quanta Magazine
-
 그 시점에서 바이러스는 여전히 퍼질 것이지만, 완전히 멈출 때까지 감속하는 속도로 퍼진다. 마치 자동차가 가속 페달에서 발을 떼는 순간 멈추지 않는 것처럼, 바이러스도 집단면역에 도달하는 순간 사라지지 않는다.
 
 호주 라트로브 대학교(La Trobe University)의 [조엘 밀러(Joel Miller)](https://scholars.latrobe.edu.au/display/jcmiller)는 말했다. "인구의 60%가 감염되면 감염 수가 감소하기 시작한다고 상상할 수 있습니다. 그러나 질병이 사그라들기 시작하는 동안 추가로 20%가 감염될 수 있습니다."
@@ -34,8 +32,6 @@ Lucy Reading-Ikkanda/Quanta Magazine
 > 이것은 역학에서 "과충격(overshoot)" 현상으로 알려져 있다. 임계값을 넘어서도 유행이 즉시 멈추지 않는 이유는 관성 때문이다. 임계값에 도달하는 순간에도 많은 사람들이 이미 감염되어 있고, 이들이 계속해서 다른 사람들을 감염시킨다. 수학적으로 이는 미분방정식 시스템의 해가 평형점을 '넘어서(overshoot)' 진동하는 현상과 유사하다. 1927년 커맥(Kermack)과 맥켄드릭(McKendrick)의 고전적인 SIR 모델 논문은 이미 이 과충격 현상을 분석했다. 실제 데이터에서도 이는 명확히 관찰된다—예를 들어 1918년 스페인 독감에서 많은 도시들이 집단면역 임계값을 상당히 초과한 후에야 유행이 끝났다.
 
 ![더 많은 사람이 면역을 가지면 질병이 퍼지기 어려워지는 것을 보여주는 다이어그램](https://www.quantamagazine.org/wp-content/uploads/2020/06/Herd_Immunity_Diagram_2.jpg)
-
-Lucy Reading-Ikkanda/Quanta Magazine
 
 버지니아 공과대학교(Virginia Polytechnic Institute and State University)의 [케이트 랭위그(Kate Langwig)](https://www.globalchange.vt.edu/dr-kate-langwig/)는 말했다. "불을 전혀 피울 수 없다는 의미는 아니지만, 그 발생은 사라질 것입니다."
 
