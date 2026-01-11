@@ -49,7 +49,7 @@ $$
 
 내적은 두 벡터의 길이의 곱과 그들 사이의 각도 $\theta$의 곱으로도 표현할 수 있다: 
 $$
-v_1\cdot v_2 = \mbox{length of }v_1 \times \mbox{ length of }v_2 \times\cos\theta.
+v_1\cdot v_2 = \text{length of }v_1 \times \text{ length of }v_2 \times\cos\theta.
 $$
 
 예를 들어, 하나는 $x$축에, 다른 하나는 $y$축에 있으며 둘 다 길이가 1인 두 벡터의 내적은: 

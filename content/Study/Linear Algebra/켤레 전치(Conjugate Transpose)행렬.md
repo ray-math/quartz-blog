@@ -6,7 +6,9 @@ tags:
 ## 켤레 전치(Conjugate Transpose)의 정의
 행렬 $A$ 에 대해, 켤레 전치는 다음과 같이 정의된다.
 
-$$ A^* = \overline{A}^T $$
+$$
+ A^* = \overline{A}^T 
+$$
 
 즉, 행렬을 전치(Transpose)한 후, 복소 켤레(Conjugate)를 취한 것이다. 문헌에 따라 다르게 표현하는 경우도 있다. ($A^H$ 또는 특히 양자역학에서 $A^\dagger$)
 ## 켤레 전치의 성질

@@ -60,26 +60,26 @@ A의 미래와 과거 광원뿔 내에서 시공간은 "이전에 발생했다"�
 
 > 여기서 소수점 자리는 수학적 의미의 소수가 아니라 프로세스를 구별하는 식별자를 인코딩하는 영리한 방법이다. 프로세스 1의 시계는 항상 .1로 끝나고, 프로세스 2의 시계는 항상 .2로 끝나므로, 두 시계가 절대 같은 값을 가질 수 없다. 예를 들어 5.1과 5.2는 정수 부분은 같지만 소수 부분이 다르므로 다른 값이다. 이는 단순하지만 강력한 트릭으로, 분산 시스템에서 모든 사건에 고유한 타임스탬프를 부여할 수 있게 한다. 실제 구현에서는 프로세스 ID를 비트 연산으로 인코딩하는 등 더 효율적인 방법을 사용하지만, 개념적 본질은 동일하다.
 
-따라서 프로세스 $P_{1}$의 시계 $C_{1}$의 초기값은 프로세스가 시작할 때 $C_{1}(\mbox{start})=0.1$이 될 것이다. 그리고 $P_{2}$와의 상호작용 없이 $P_{1}$ 내에서 사건이 발생할 때마다 시계는 1틱씩 진행된다:
+따라서 프로세스 $P_{1}$의 시계 $C_{1}$의 초기값은 프로세스가 시작할 때 $C_{1}(\text{start})=0.1$이 될 것이다. 그리고 $P_{2}$와의 상호작용 없이 $P_{1}$ 내에서 사건이 발생할 때마다 시계는 1틱씩 진행된다:
 $$
-P_{1}: C_{1}(\mbox{start})=0.1 \rightarrow C_{1}(\mbox{event a})=1.1 \rightarrow C_{1}(\mbox{event b})=2.1.
+P_{1}: C_{1}(\text{start})=0.1 \rightarrow C_{1}(\text{event a})=1.1 \rightarrow C_{1}(\text{event b})=2.1.
 $$
 
 마찬가지로 프로세스 $P_{2}$에 대해:
 $$
-P_{2}: C_{2}(\mbox{start})=0.2 \rightarrow C_{2}(\mbox{event c})=1.2 \rightarrow C_{2}(\mbox{event d})=2.2.
+P_{2}: C_{2}(\text{start})=0.2 \rightarrow C_{2}(\text{event c})=1.2 \rightarrow C_{2}(\text{event d})=2.2.
 $$
 
 각 프로세서의 위치를 각 지역 시계의 소수점 자리로 인코딩하면 두 지역 시계가 절대로 같은 시간을 보이지 않는다는 것을 알 수 있다.
 
 이 시점에서 우리 분산 시스템의 전역 역사(전역 시계 $C$로 설명되는 사건들의 순서)는 다음과 같을 것이다:
 $$\begin{array}{ll}
-& C(P_{1}\mbox{ start})=0.1 \\
-\rightarrow & C(P_{2}\mbox{ start})=0.2 \\
-\rightarrow & C(\mbox{event a in }P_{1})=1.1 \\
-\rightarrow & C(\mbox{event c in }P_{2})=1.2 \\
-\rightarrow & C(\mbox{event b in }P_{1})=2.1 \\
-\rightarrow & C(\mbox{event d in }P_{2})=2.2
+& C(P_{1}\text{ start})=0.1 \\
+\rightarrow & C(P_{2}\text{ start})=0.2 \\
+\rightarrow & C(\text{event a in }P_{1})=1.1 \\
+\rightarrow & C(\text{event c in }P_{2})=1.2 \\
+\rightarrow & C(\text{event b in }P_{1})=2.1 \\
+\rightarrow & C(\text{event d in }P_{2})=2.2
 \end{array}$$
 
 ### 시간 물어보기
@@ -88,7 +88,7 @@ $$\begin{array}{ll}
 
 프로세스가 메시지를 보낼 때, 예를 들어 $P_{2}$가 $P_{1}$에게 메시지를 보낼 때, 그것은 그 프로세스 $P_{2}$의 사건으로 간주된다. 따라서 $P_{2}$의 지역 시계는 1만큼 진행되고 보내진 메시지는 이 새로운 지역 시간으로 타임스탬프가 찍힌다. 그래서 우리가 중단한 지점에서 계속하면...
 $$
-P_{2}: C_{2}(\mbox{event d})=2.2 \rightarrow C_{2}(\mbox{send message to }P_{1})=3.2
+P_{2}: C_{2}(\text{event d})=2.2 \rightarrow C_{2}(\text{send message to }P_{1})=3.2
 $$
 그리고 $P_{1}$에게 보내진 메시지는 값 3.2로 타임스탬프가 찍힐 것이다.
 
@@ -102,19 +102,19 @@ $P_{1}$에서 중단한 지점에서 계속하면: 사건 $b$가 시간 $C_{1}=2
 
 따라서 프로세스 $P_{1}$의 지역 역사는 다음과 같이 계속될 것이다:
 $$
-P_{1}: C_{1}(\mbox{event b})=2.1 \rightarrow C_{1}(\mbox{receive message from }P_{2}\mbox{ timestamped }C=3.2)=4.1.
+P_{1}: C_{1}(\text{event b})=2.1 \rightarrow C_{1}(\text{receive message from }P_{2}\text{ timestamped }C=3.2)=4.1.
 $$
 
 그래서 우리 분산 시스템의 전체 전역 역사는 다음과 같을 것이다:
 $$\begin{array}{ll}
-& C(P_{1}\mbox{ start})=0.1 \\
-\rightarrow & C(P_{2}\mbox{ start})=0.2 \\
-\rightarrow & C(\mbox{event a in }P_{1})=1.1 \\
-\rightarrow & C(\mbox{event c in }P_{2})=1.2 \\
-\rightarrow & C(\mbox{event b in }P_{1})=2.1 \\
-\rightarrow & C(\mbox{event d in }P_{2})=2.2 \\
-\rightarrow & C(P_{2}\mbox{ sent message to }P_{1})=3.2 \\
-\rightarrow & C(P_{1}\mbox{ received message from }P_{2})=4.1
+& C(P_{1}\text{ start})=0.1 \\
+\rightarrow & C(P_{2}\text{ start})=0.2 \\
+\rightarrow & C(\text{event a in }P_{1})=1.1 \\
+\rightarrow & C(\text{event c in }P_{2})=1.2 \\
+\rightarrow & C(\text{event b in }P_{1})=2.1 \\
+\rightarrow & C(\text{event d in }P_{2})=2.2 \\
+\rightarrow & C(P_{2}\text{ sent message to }P_{1})=3.2 \\
+\rightarrow & C(P_{1}\text{ received message from }P_{2})=4.1
 \end{array}$$
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2017/lamport/process1_2_times.png)

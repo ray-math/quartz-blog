@@ -28,7 +28,7 @@ date: 2004-01-01
 
 이전 글에서 우리는 $f$의 변화를 $x$의 변화로 나눈 것을 고려하여 기울기를 계산했습니다. 즉, 
 \begin{equation}\label{eq:dd} 
-\frac{f(x+h)-f(x)}{h} \quad \mbox{(모든 $h\neq 0$에 대해)} 
+\frac{f(x+h)-f(x)}{h} \quad \text{(모든 $h\neq 0$에 대해)} 
 \end{equation}
 
 함수 $f(x)=x^{2}$에 대해 이 계산을 수행했을 때 우리는 다음을 얻었습니다:
@@ -98,7 +98,7 @@ $f(x)=x^{n}$일 때 식 (1)을 계산하기 위해 다음을 고려해야 합니
 
 이를 사용하면 다음을 얻습니다:
 \[ 
-\frac{(x+h)^{n} -x^{n}}{h} = \frac{(x^{n} + ^{n}C_{1} x^{n-1}h + ^{n}C_{2} x^{n-2}h^{2} + \ldots + h^{n}) - x^{n} }{h} = nx^{n-1} + h \times (\mbox{나머지 항들}). 
+\frac{(x+h)^{n} -x^{n}}{h} = \frac{(x^{n} + ^{n}C_{1} x^{n-1}h + ^{n}C_{2} x^{n-2}h^{2} + \ldots + h^{n}) - x^{n} }{h} = nx^{n-1} + h \times (\text{나머지 항들}). 
 \]
 
 이 경우 위 식에서 "나머지 항들"이 정확히 무엇인지 알 필요는 없습니다. 왜냐하면 그것들이 $h$와 곱해져 있고, $h$를 0으로 보내면 이 모든 항들이 사라지기 때문입니다. 남는 것은 함수 $nx^{n-1}$입니다. 따라서 우리는 이 결과를 다음과 같이 표현합니다:
@@ -136,7 +136,7 @@ f(x)=x^{0}=1.
 
 함수는 현대 수학의 근본이며 피할 수 없습니다. 함수의 개념은 **입력(inputs)**과 **출력(outputs)**으로 알려진 두 집합의 대상을 취하는 것입니다. 모든 입력에 대해 함수는 유일한 출력을 할당합니다:
 \[ 
-\mbox{입력} \quad \rightarrow \quad \fbox{함수} \quad \rightarrow \quad \mbox{출력.} 
+\text{입력} \quad \rightarrow \quad \fbox{함수} \quad \rightarrow \quad \text{출력.} 
 \]
 
 대부분의 경우 입력과 출력은 실수선과 같은 수의 집합입니다. 함수는 또한 대수적 표현의 형태로 공식을 사용하여 설명됩니다. 이것이 바로 우리가 지금까지 고려한 함수의 개념이지만, 명시적으로 말하지 않았습니다! 이것이 우리가 계속 함수에 대해 생각하는 방식이기도 합니다.
@@ -184,7 +184,7 @@ $f(x)$를 $x^{2}$에 $3-x^{2}$을 곱한 것으로 생각할 수 있습니다. �
 
 함수는 또한 순서대로, 하나씩 차례로 적용될 수 있습니다:
 \[ 
-\mbox{입력} \quad \rightarrow \quad \fbox{함수 1} \quad \rightarrow \quad \fbox{함수 2} \quad \rightarrow \quad \mbox{출력.} 
+\text{입력} \quad \rightarrow \quad \fbox{함수 1} \quad \rightarrow \quad \fbox{함수 2} \quad \rightarrow \quad \text{출력.} 
 \]
 
 따라서, 우리의 함수 (3)은 다음 함수를 적용하는 것으로 생각할 수 있습니다:
@@ -236,9 +236,9 @@ u(x)=x^{2}.
 
 예를 들어, (3)에 정의된 함수 $f$의 기울기를 계산하기 위해, 이것을 전개된 형태 $3x^{2}-x^{4}$로 쓰고 다음과 같이 규칙을 적용할 수 있습니다:
 \begin{eqnarray*} 
-\frac{d}{dx} \left(3x^{2}-x^{4}\right) & = & \frac{d}{dx} 3x^{2} + \frac{d}{dx} (-x^{4}) \quad\mbox{ (4)를 사용하여,} \\ 
-& = & 3\frac{d}{dx} x^{2} - \frac{d}{dx} x^{4} \quad\mbox{ (5)를 사용하여,} \\ 
-& = & 6x -4x^{3} \quad\mbox{ (2)를 두 번 사용하여.} 
+\frac{d}{dx} \left(3x^{2}-x^{4}\right) & = & \frac{d}{dx} 3x^{2} + \frac{d}{dx} (-x^{4}) \quad\text{ (4)를 사용하여,} \\ 
+& = & 3\frac{d}{dx} x^{2} - \frac{d}{dx} x^{4} \quad\text{ (5)를 사용하여,} \\ 
+& = & 6x -4x^{3} \quad\text{ (2)를 두 번 사용하여.} 
 \end{eqnarray*}
 
 미적분에 관한 모든 책에는 연습할 수 있는 유사한 예제와 연습 문제가 많이 포함되어 있습니다.
@@ -250,7 +250,7 @@ u(x)=x^{2}.
 
 Newton이 사용한 또 다른 표기법에는 두 가지 형태가 있습니다:
 \[ 
-f'(x) \mbox{ 또는 }\dot{f}(x). 
+f'(x) \text{ 또는 }\dot{f}(x). 
 \]
 
 어떤 상황에서는 더 간결하지만, 점이나 아포스트로피를 잘못 읽기 쉬우므로 주의가 필요합니다. 우리는 두 종류의 표기법을 모두 사용할 것입니다.
@@ -276,7 +276,7 @@ f'(x) \mbox{ 또는 }\dot{f}(x).
 
 $F(x)=x^{n}$으로 정의하고 이것을 다음과 같이 나누어봅시다:
 \[ 
-f(x) = x^{m} \quad \mbox{그리고}\quad g(x)=x^{n-m}, 
+f(x) = x^{m} \quad \text{그리고}\quad g(x)=x^{n-m}, 
 \]
 
 따라서
@@ -286,7 +286,7 @@ F(x)=f(x)\times g(x).
 
 (2)를 사용하면 다음을 알 수 있습니다:
 \[ 
-F'(x) = nx^{n-1}, \quad f'(x)=mx^{m-1}, \quad \mbox{그리고}\quad g'(x)=(n-m)x^{n-m-1}. 
+F'(x) = nx^{n-1}, \quad f'(x)=mx^{m-1}, \quad \text{그리고}\quad g'(x)=(n-m)x^{n-m-1}. 
 \]
 
 우리의 과제는 일반 규칙 (6)이 무엇인지에 대한 통찰을 얻기 위해 $F'(x)$를 $f'(x)$와 $g'(x)$로 표현하는 것입니다. 즉, 다음과 같이 씁니다:
@@ -318,12 +318,12 @@ F(x)=x^{nm}=(x^{n})^{m}
 
 그리고
 \[
-f(x)=x^{n}, \quad \mbox{그리고}\quad g(x)=x^{m},
+f(x)=x^{n}, \quad \text{그리고}\quad g(x)=x^{m},
 \]
 
 우리는 $F(x)=g(f(x))$를 얻습니다. 다시, (2)를 사용하면 다음을 알 수 있습니다:
 \[ 
-F'(x) = nmx^{nm-1}, \quad f'(x)=nx^{n-1}, \quad \mbox{그리고}\quad g'(x)=mx^{m-1}. 
+F'(x) = nmx^{nm-1}, \quad f'(x)=nx^{n-1}, \quad \text{그리고}\quad g'(x)=mx^{m-1}. 
 \]
 
 우리의 과제는 일반 규칙 (7)이 무엇인지에 대한 통찰을 얻기 위해 $F'(x)$를 $f'(x)$와 $g'(x)$로 표현하는 것입니다. 하지만:
@@ -365,7 +365,7 @@ F'(x) = f'(x) g'(f(x)).
 
 함수 $\sin(x^{2})$로 돌아가봅시다. $g(u)=\sin(u)$이고 $u=x^{2}$로 쓰면, 이미 다음을 알고 있습니다:
 \[ 
-\frac{d}{du} \sin(u)=\cos(u)\quad\mbox{그리고}\quad \frac{d}{dx} x^{2}=2x. 
+\frac{d}{du} \sin(u)=\cos(u)\quad\text{그리고}\quad \frac{d}{dx} x^{2}=2x. 
 \]
 
 이것들을 (10)에 대입하면:

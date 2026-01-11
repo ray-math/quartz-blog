@@ -97,7 +97,7 @@ $$
 우리의 두 표현식,
 
 $$
-\sqrt{r}e^{i\frac{\theta}{2}} \;\;\; \mbox{와}\;\;\; \sqrt{r}e^{i(\frac{\theta}{2}+\pi)}
+\sqrt{r}e^{i\frac{\theta}{2}} \;\;\; \text{와}\;\;\; \sqrt{r}e^{i(\frac{\theta}{2}+\pi)}
 $$
 
 은 제곱근의 두 **가지(branches)**라고 불립니다.
@@ -109,13 +109,13 @@ $$
 음이 아닌 실수 직선에서 제곱근 함수 $f(z)$를 정의하는 것부터 시작하겠습니다. 이 음이 아닌 실수 직선 위의 실수 $x$에 대해, 함수가 양의 제곱근 $\sqrt{x}$에 대응하도록 정의할 것입니다. 이는 위의 두 가지 중 첫 번째를 선택해야 한다는 것을 의미하므로
 
 $$
-f(re^{i\theta})=\sqrt{r}e^{i\frac{\theta}{2}} \;\;\;\mbox{if } \;\;\; \theta =0
+f(re^{i\theta})=\sqrt{r}e^{i\frac{\theta}{2}} \;\;\;\text{if } \;\;\; \theta =0
 $$
 
 입니다. 이 정의를 음이 아닌 실수 직선을 포함하는 복소평면의 작은 부채꼴로 확장하면 어떻게 되는지 봅시다. 예를 들어, 다음과 같이 정의합시다:
 
 $$
-f(re^{i\theta})=\sqrt{r}e^{i\frac{\theta}{2}} \;\;\;\mbox{if} -0.4 \leq \theta \leq 0.4
+f(re^{i\theta})=\sqrt{r}e^{i\frac{\theta}{2}} \;\;\;\text{if} -0.4 \leq \theta \leq 0.4
 $$
 
 아래의 Geogebra 애플릿은 이 정의에 문제가 없음을 보여줍니다. 이는 모호하지 않으며 또한 연속함수를 제공합니다: 슬라이더를 사용하여 $r$과 $\theta$를 변화시키면, $z$(파란색으로 표시)가 변할 때 $f(z)$(빨간색으로 표시)가 연속적으로 변하는 것을 볼 수 있습니다.

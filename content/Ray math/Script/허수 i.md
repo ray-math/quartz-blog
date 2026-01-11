@@ -375,7 +375,9 @@ Let $n$ denote the degree of $f$. Without losing generality, assume the leading 
 Define $R = 1 + \sum_{m=0}^{n-1} |c_m|$. By this choice of $R$, when $|z| > R$, $f(z) \neq 0$. Assuming $|z| \geq R$ and since $R \geq 1$, $|z^a| \leq |z^b|$ whenever $0 < a < b$.
 
 The chain of inequalities follows:
-$$ \left|\sum_{m=0}^{n-1} c_m z^m \right| \leq 1 + \sum_{m=0}^{n-1} |c_m||z^m| \leq |z^{n-1}| + \sum_{m=0}^{n-1} |c_m||z^{n-1}| \leq R|z^{n-1}| \leq |z^n| $$
+$$
+ \left|\sum_{m=0}^{n-1} c_m z^m \right| \leq 1 + \sum_{m=0}^{n-1} |c_m||z^m| \leq |z^{n-1}| + \sum_{m=0}^{n-1} |c_m||z^{n-1}| \leq R|z^{n-1}| \leq |z^n| 
+$$
 
 Polynomials in $z$ are entire, and hence, are analytic functions in the disk $|z| \leq R$. So, Rouché’s theorem can be applied here. Given that $\left|\sum_{m=0}^{n-1} c_m z^m \right| \leq |z^n|$ for $|z| \geq R$, Rouché’s theorem implies that $z^n$ and $f(z)$ have the same number of zeroes in the disk $|z| \leq R$.
 
