@@ -164,11 +164,13 @@ $$
 
 예를 들어, EAN-8 체계에서 1234567로 시작한다면, 체크 디지트는
 
-$$\begin{align}
+$$
+\begin{align}
 a_c &= - (1, 2, 3, 4, 5, 6, 7) \cdot (3, 1, 3, 1, 3, 1, 3) \pmod{10}\\
 &= - (1 \times 3 + 2 \times 1 + 3 \times 3 + 4 \times 1 + 5 \times 3 + 6 \times 1 + 7 \times 3) \pmod{10}\\
 &= -60 \pmod{10} = 0,
-\end{align}$$
+\end{align}
+$$
 
 이므로 전체 바코드 번호는 12345670이 된다.
 

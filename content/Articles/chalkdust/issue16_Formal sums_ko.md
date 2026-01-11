@@ -182,25 +182,31 @@ $$
 
 의 명시적 공식을 찾으려 할 때 나타난다. 반복된 부분적분을 수행하면 다음을 얻는다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \operatorname{Ei}(x) = \int_{-\infty}^{x}\frac{\mathrm{e}^{t}}{t}\,\mathrm{d}t &= \left[\frac{\mathrm{e}^{t}}{t}\right]_{-\infty}^{x} - \int_{-\infty}^{x}\mathrm{e}^{t}\frac{\mathrm{d}}{\mathrm{d}t}\left(\frac{1}{t}\right)\mathrm{d}t \\
 &= \left[\frac{\mathrm{e}^{x}}{x} - 0\right] + \int_{-\infty}^{x}\frac{\mathrm{e}^{t}}{t^{2}}\mathrm{d}t \\
 &= \cdots = \frac{\mathrm{e}^{x}}{x}\sum_{k=0}^{n-1}\frac{k!}{x^{k}} + O\left(\frac{\mathrm{e}^{x}}{x^{n+1}}\right)
-\end{align*}$$
+\end{align*}
+$$
 
 여기서 두 번째 줄에서 $x \to -\infty$일 때 $\mathrm{e}^{x}/x \to 0$이라고 말할 수 있었다. $\mathrm{e}^{x}$로 양변을 나누면, 다음을 말할 수 있다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \mathrm{e}^{-x}\operatorname{Ei}(x) &= \sum_{k=0}^{n-1}\frac{k!}{x^{k+1}} + O\left(\frac{1}{x^{n+1}}\right) \\
 &\sim \sum_{k=0}^{\infty}\frac{k!}{x^{k+1}}\text{ as }x\to\infty
-\end{align*}$$
+\end{align*}
+$$
 
 이제 이 방정식에서 $x$를 $-1/x$로 바꾸면:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \mathrm{e}^{1/x}\operatorname{Ei}(-1/x) &\sim \sum_{k=0}^{\infty}k!(-x)^{k+1}\text{ as }x\to 0 \\
 &= -x + x^{2} - 2x^{3} + 6x^{4} + \cdots
-\end{align*}$$
+\end{align*}
+$$
 
 > 부분적분(integration by parts)은 미적분학의 기본 기법 중 하나로, $\int u\,\mathrm{d}v = uv - \int v\,\mathrm{d}u$의 형태를 갖는다. 반복적으로 적용하면 점점 더 복잡한 적분을 생성할 수 있지만, 때로는 패턴이 나타나 급수 표현을 얻을 수 있다. 여기서 나타나는 계승 팩터 $k!$은 $\frac{\mathrm{d}^{k}}{\mathrm{d}t^{k}}(1/t)$을 계산할 때 자연스럽게 나타난다. 기호 $f(x) \sim g(x)$ as $x \to a$는 $\lim_{x\to a}\frac{f(x)}{g(x)} = 1$을 의미하며, $f$가 $g$에 점근적(asymptotic)이라고 말한다.
 
@@ -244,11 +250,13 @@ $$
 
 이렇게 하면, 다음을 얻는다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 -\frac{\mathrm{d}}{\mathrm{d}x}\left[\sum_{k=0}^{\infty}a_{k}x^{-k-1}\right] + \sum_{k=0}^{\infty}a_{k}x^{-k-1} &= \frac{1}{x} \\
 \implies \sum_{k=0}^{\infty}(k+1)a_{k}x^{-k-2} + \sum_{k=0}^{\infty}a_{k}x^{-k-1} &= \frac{1}{x} \\
 \implies a_{0}x^{-1} + \sum_{k=0}^{\infty}\big[(k+1)a_{k} + a_{k+1}\big]x^{-k-2} &= \frac{1}{x}
-\end{align*}$$
+\end{align*}
+$$
 
 그러면 미분방정식이 만족되려면 계수들이 다음을 만족해야 한다:
 
@@ -278,11 +286,13 @@ $$
 
 이것은 다음을 함의한다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 y(x) &= \sum_{k=0}^{\infty}(-1)^{k}k!x^{-k-1} \\
 &= \sum_{k=0}^{\infty}(-1)^{k}\int_{0}^{\infty}\mathrm{e}^{-xs}s^{k}\,\mathrm{d}s \\
 &= \int_{0}^{\infty}\mathrm{e}^{-xs}\sum_{k=0}^{\infty}(-1)^{k}s^{k}\,\mathrm{d}s
-\end{align*}$$
+\end{align*}
+$$
 
 이것이 어떻게 도움이 되는가? 글쎄, $s:|s| < 1$에 대해 우리는
 

@@ -73,14 +73,16 @@ $$
 각 프로세서의 위치를 각 지역 시계의 소수점 자리로 인코딩하면 두 지역 시계가 절대로 같은 시간을 보이지 않는다는 것을 알 수 있다.
 
 이 시점에서 우리 분산 시스템의 전역 역사(전역 시계 $C$로 설명되는 사건들의 순서)는 다음과 같을 것이다:
-$$\begin{array}{ll}
+$$
+\begin{array}{ll}
 & C(P_{1}\text{ start})=0.1 \\
 \rightarrow & C(P_{2}\text{ start})=0.2 \\
 \rightarrow & C(\text{event a in }P_{1})=1.1 \\
 \rightarrow & C(\text{event c in }P_{2})=1.2 \\
 \rightarrow & C(\text{event b in }P_{1})=2.1 \\
 \rightarrow & C(\text{event d in }P_{2})=2.2
-\end{array}$$
+\end{array}
+$$
 
 ### 시간 물어보기
 
@@ -106,7 +108,8 @@ P_{1}: C_{1}(\text{event b})=2.1 \rightarrow C_{1}(\text{receive message from }P
 $$
 
 그래서 우리 분산 시스템의 전체 전역 역사는 다음과 같을 것이다:
-$$\begin{array}{ll}
+$$
+\begin{array}{ll}
 & C(P_{1}\text{ start})=0.1 \\
 \rightarrow & C(P_{2}\text{ start})=0.2 \\
 \rightarrow & C(\text{event a in }P_{1})=1.1 \\
@@ -115,7 +118,8 @@ $$\begin{array}{ll}
 \rightarrow & C(\text{event d in }P_{2})=2.2 \\
 \rightarrow & C(P_{2}\text{ sent message to }P_{1})=3.2 \\
 \rightarrow & C(P_{1}\text{ received message from }P_{2})=4.1
-\end{array}$$
+\end{array}
+$$
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2017/lamport/process1_2_times.png)
 

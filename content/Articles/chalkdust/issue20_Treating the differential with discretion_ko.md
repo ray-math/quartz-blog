@@ -26,7 +26,7 @@ Morse 이론은 미분가능한 함수들이 다양체에 어떻게 작용하는
 
 ## 미분을 두 번 하기: 자명한 일이죠, 여러분
 
-이제 여러분은 Chalkdust 잡지를 응시하며 큰 소리로 "미분의 제곱이 사라진다는 게 무슨 말이죠‽"라고 물어볼지도 모른다. 우리 모두 함수의 이계 도함수를 계산하는 것에 익숙하다—결국 임계점의 성질을 분석하려면 어떻게 해야 하겠는가. 따라서 명백히 미분을 두 번 취하는 것이 항상 사라진다는 의미일 수는 없다. 여기서 미분의 제곱이라고 할 때는 벡터 미적분학에서 $\vec\nabla \cdot \left(\vec\nabla \times \vec{A}\right)=0$ 및 $\vec\nabla\times \left(\vec\nabla f\right)=\vec{0}$와 같은 항등식들과 더 유사한 표현을 의미한다. 즉, 회전(curl)의 발산(divergence)은 사라지고 기울기(gradient)의 회전은 사라진다. 벡터 미적분학 과정의 *즐거움*을 겪어본 사람이라면 누구나 알겠지만, 이 두 항등식 모두 편미분이 교환가능하다는 사실에 의존한다: $f(x,y)$에 대해,
+이제 여러분은 Chalkdust 잡지를 응시하며 큰 소리로 "미분의 제곱이 사라진다는 게 무슨 말이죠?"라고 물어볼지도 모른다. 우리 모두 함수의 이계 도함수를 계산하는 것에 익숙하다—결국 임계점의 성질을 분석하려면 어떻게 해야 하겠는가. 따라서 명백히 미분을 두 번 취하는 것이 항상 사라진다는 의미일 수는 없다. 여기서 미분의 제곱이라고 할 때는 벡터 미적분학에서 $\vec\nabla \cdot \left(\vec\nabla \times \vec{A}\right)=0$ 및 $\vec\nabla\times \left(\vec\nabla f\right)=\vec{0}$와 같은 항등식들과 더 유사한 표현을 의미한다. 즉, 회전(curl)의 발산(divergence)은 사라지고 기울기(gradient)의 회전은 사라진다. 벡터 미적분학 과정의 *즐거움*을 겪어본 사람이라면 누구나 알겠지만, 이 두 항등식 모두 편미분이 교환가능하다는 사실에 의존한다: $f(x,y)$에 대해,
 
 $$
 \frac{\partial}{\partial x}\left(\frac{\partial f}{\partial y}\right)=\frac{\partial}{\partial y}\left(\frac{\partial f}{\partial x}\right).

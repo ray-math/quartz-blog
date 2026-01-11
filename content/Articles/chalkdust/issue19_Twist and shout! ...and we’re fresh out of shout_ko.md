@@ -276,10 +276,12 @@ $$
 
 "그래서," D가 말했다, "우리의 관계는 결합을 고려하면 이렇게 보여:
 
-$$\begin{align*}
+$$
+\begin{align*}
 (1_A \otimes b_{B,C})(b_{A,C} \otimes 1_B)(1_C \otimes b_{A,B}) \\ 
 = (b_{A,B} \otimes 1_C)(1_B \otimes b_{A,C})(b_{B,C} \otimes 1_A).
-\end{align*}$$
+\end{align*}
+$$
 
 "그리고 그것은 이론 물리학의 *양-백스터 관계(Yang-Baxter relation)*에 불과해!" A가 덧붙였다.
 

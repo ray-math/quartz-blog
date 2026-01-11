@@ -53,17 +53,21 @@ v_1\cdot v_2 = \text{length of }v_1 \times \text{ length of }v_2 \times\cos\thet
 $$
 
 예를 들어, 하나는 $x$축에, 다른 하나는 $y$축에 있으며 둘 다 길이가 1인 두 벡터의 내적은: 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 & (1,0,0)\cdot(0,1,0) \\
 & = 1\times0 + 0\times1 + 0\times0 \\
 & =0.
-\end{eqnarray*}$$ 
+\end{eqnarray*}
+$$ 
 
 그리고 이 두 벡터는 서로 수직이므로(각 축에 하나씩), 이는 내적의 두 번째 정의와 일치한다: 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 & (1,0,0)\cdot(0,1,0) \\
 & =1\times1\times\cos(90^\circ)=0
-\end{eqnarray*}$$ 
+\end{eqnarray*}
+$$ 
 $\cos(90^\circ)=0$이기 때문이다.
 
 이 음영 처리는 Dench가 화면의 가상 공간에서 모델을 회전시키며 시연했을 때 컴퓨터에서 상당히 빠르게 진행되었지만, 모델에 삼각형이 많을수록 더 많은 시간이 걸린다. 이미지를 생성하는 이 수학적 방법은 우리 컴퓨터의 이미지 생성 방식에 매우 필수적이어서, 이제 컴퓨터 하드웨어가 이러한 계산을 수행하도록 설계되어 있다.

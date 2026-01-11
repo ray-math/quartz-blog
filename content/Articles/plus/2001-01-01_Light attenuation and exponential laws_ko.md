@@ -136,12 +136,14 @@ $$
 
 실제로, 우리는 위 미분방정식($\frac{dy}{dx} = cy$)을 양변을 $y$로 나누고 $x$에 대해 적분하여 다음과 같이 해를 찾을 수 있다:
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 \int \frac{1}{y}\frac{dy}{dx} dx & = & \int c \, dx \\
 \int \frac{1}{y} dy & = & \int c \, dx \\
 \ln y & = & c \times x + k \\
 y & = & e^{cx+k} = e^{cx}e^{k} = Ae^{cx}
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 예상대로이다.
 

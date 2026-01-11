@@ -87,12 +87,14 @@ $2(n-1)$번의 뒤집기라는 *상한*에 대한 최초의 중요한 개선은 
 
 불행하게도, 요리사가 훨씬 더 부주의해서 팬케이크의 한 면을 *태우고*, 웨이터가 타지 않은 면을 위로 해서 팬케이크를 제공해야 한다면, 그의 상황은 더욱 암울해집니다. 이것은 *부호 있는 순열(signed permutation)*로 모델링할 수 있는데, 항목에 위줄(overline)과 아래줄(underline)을 써서 탄 면을 나타냅니다. 예를 들어, 팬케이크가 웨이터에게 (위에서 아래로 읽어서) $4\ 1\ 2\ 3$으로 주어지고, 첫 번째와 마지막 팬케이크의 탄 면이 위를 향하고 다른 두 개는 탄 면이 아래를 향한다면, 우리는 이것을 부호 있는 순열 $\overline{4}\ \underline{1}\ \underline{2}\ \overline{3}$으로 씁니다. 웨이터의 목표는 $\overline{4}\ \underline{1}\ \underline{2}\ \overline{3}$을 $\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}$로 정렬하는 것인데, 다음과 같은 뒤집기 순서로 할 수 있습니다:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 &\overline{4}\ \underline{1}\ \underline{2}\ \overline{3} \quad \text{네 개 모두 뒤집기}\\
 &\underline{3}\ \overline{2}\ \overline{1}\ \underline{4} \quad \text{첫 번째 팬케이크 뒤집기}\\
 &\overline{3}\ \overline{2}\ \overline{1}\ \underline{4} \quad \text{처음 세 개 뒤집기}\\
 &\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}
-\end{aligned}$$
+\end{aligned}
+$$
 
 부호 있는 순열의 접두사를 뒤집을 때, 위줄은 아래줄이 되고 (*그 반대도*) 항목들이 이동한다는 것에 주목하세요. 1995년에 Daniel S. Cohen과 Manuel Blum은 모든 부호 있는 순열을 최대 $23n/14$번의 뒤집기로 정렬할 수 있다는 것을 증명했습니다.
 
@@ -136,12 +138,14 @@ $n$이 홀수이고 3보다 크면: $\underline{2}\ \underline{1}\ \underline{3}
 
 지금은 음식 주제를 계속 유지하면서, 두 가지 채소를 살펴봅시다. 외관상의 차이에도 불구하고, 양배추와 순무는 생각보다 더 유사합니다. 사실, 그들의 많은 유전자들은 내용상 99\% 동일하지만, 두 다른 채소에서 다른 순서로 나타납니다. 예를 들어, 순무와 양배추 사이에 공유되는 다섯 개 유전자의 한 서열을 보고, 순무에서 나타나는 순서대로 $\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}\ \underline{5}$로 라벨을 붙이면, 양배추 유전자는 $\underline{1}\ \overline{5}\ \underline{4}\ \overline{3}\ \underline{2}$입니다. 이 두 순열 사이의 차이를 살펴봄으로써, 양배추와 순무가 공통 조상으로부터 분기한 이후 발생한 뒤집기 횟수의 추정치를 얻을 수 있고, 이것은 다시 이 분기가 얼마나 오래 전에 발생했는지에 대한 대략적인 아이디어를 제공합니다. 이러한 유전자 서열 사이의 차이에 대한 우리의 개념은 정확히 웨이터의 팬케이크 정렬 난이도 개념입니다. 양배추/순무의 경우, 이 차이는 $3$입니다:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 &\underline{1}\ \overline{5}\ \underline{4}\ \overline{3}\ \underline{2} \quad \underline{1}\text{을 접시에 올리기; } \overline{5}\ \underline{4}\ \overline{3}\ \underline{2}\text{ 뒤집기}\\
 &\underline{1}\ \overline{2}\ \underline{3}\ \overline{4}\ \underline{5} \quad \underline{1}\text{을 접시에 올리기; } \overline{2}\text{ 뒤집기}\\
 &\underline{1}\ \underline{2}\ \underline{3}\ \overline{4}\ \underline{5} \quad \underline{1}\ \underline{2}\ \underline{3}\text{을 접시에 올리기; } \overline{4}\text{ 뒤집기}\\
 &\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}\ \underline{5}
-\end{aligned}$$
+\end{aligned}
+$$
 
 두 번째 예는 인간과 생쥐 사이의 X 염색체에서 공유되는 여덟 개 유전자의 경우에 발생합니다. 생쥐의 유전자를 $\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}\ \underline{5}\ \underline{6}\ \underline{7}\ \underline{8}$로 라벨을 붙이면, 이 유전자들은 인간 DNA에서 부호 있는 순열 $\overline{4}\ \overline{6}\ \underline{1}\ \underline{7}\ \overline{2}\ \overline{3}\ \underline{5}\ \underline{8}$로 나타납니다. 
 
@@ -149,7 +153,8 @@ $$\begin{aligned}
 
 인간 유전자를 정렬하는 가장 빠른 방법을 찾으면, 서열의 중간점이 인간과 생쥐가 분기한 공통 조상을 나타낼 가능성이 높습니다. 이 예에서, 인간을 생쥐로 변환하는 데는 단지 $6$번의 뒤집기만 필요합니다:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 &\overline{4}\ \overline{6}\ \underline{1}\ \underline{7}\ \overline{2}\ \overline{3}\ \underline{5}\ \underline{8} \quad \overline{4}\ \overline{6}\ \underline{1}\ \underline{7}\ \overline{2}\ \overline{3}\text{ 뒤집기}\\
 &\underline{3}\ \underline{2}\ \overline{7}\ \overline{1}\ \underline{6}\ \underline{4}\ \underline{5}\ \underline{8} \quad \underline{3}\ \underline{2}\ \overline{7}\ \overline{1}\text{ 뒤집기}\\
 &\underline{1}\ \underline{7}\ \overline{2}\ \overline{3}\ \underline{6}\ \underline{4}\ \underline{5}\ \underline{8} \quad \underline{1}\text{을 접시에 올리기; } \underline{7}\ \overline{2}\text{ 뒤집기}\\
@@ -157,7 +162,8 @@ $$\begin{aligned}
 &\underline{1}\ \underline{2}\ \overline{7}\ \overline{6}\ \underline{3}\ \underline{4}\ \underline{5}\ \underline{8} \quad \underline{1}\ \underline{2}\text{를 접시에 올리기; } \overline{7}\ \overline{6}\ \underline{3}\ \underline{4}\ \underline{5}\text{ 뒤집기}\\
 &\underline{1}\ \underline{2}\ \overline{5}\ \overline{4}\ \overline{3}\ \underline{6}\ \underline{7}\ \underline{8} \quad \underline{1}\ \underline{2}\text{를 접시에 올리기; } \overline{5}\ \overline{4}\ \overline{3}\text{ 뒤집기}\\
 &\underline{1}\ \underline{2}\ \underline{3}\ \underline{4}\ \underline{5}\ \underline{6}\ \underline{7}\ \underline{8}
-\end{aligned}$$
+\end{aligned}
+$$
 
 따라서 우리의 공통 조상은 이 서열의 세 번째 단계와 유사한 유전자 순서를 가졌을 가능성이 높습니다. 진화는 엉성한 요리사가 만든 팬케이크 더미를 다루는 웨이터가 우리의 유전자에 수행하는 것과 동일한 과정을 수행하며, 뒤집기에 의한 부호 있는 순열 정렬 연구를 통해 우리는 서로 다른 유기체 사이의 유전적 변이를 측정할 수 있습니다. 마크 트웨인의 말로 끝맺겠습니다:
 

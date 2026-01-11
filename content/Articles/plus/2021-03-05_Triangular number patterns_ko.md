@@ -82,13 +82,15 @@ date: 2021-03-05
 
 $k-1$개 행의 합들을 더하면:
 
-$$\begin{array}{cc} 
+$$
+\begin{array}{cc} 
 & 1 + 2 + 3 + \cdots + k-1 \\ 
 + & 2(1 + 2 + 3 + \cdots + k-1)\\ 
 + & 3(1 + 2 + 3 + \cdots + k-1)\\ 
 & \vdots\\ 
 + & (k-1)(1 + 2 + 3 + \cdots + k-1) 
-\end{array}$$
+\end{array}
+$$
 
 $1 + 2 + 3 + \cdots + k-1$을 인수로 빼내면, 합은 다음과 같이 됩니다:
 

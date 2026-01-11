@@ -94,10 +94,12 @@ $$
 
 이 급수를 재배열하여 $i$를 포함하는 모든 항을 함께 모을 수 있습니다:
 
-$$\begin{align}
+$$
+\begin{align}
 e^{i\theta} &= 1 - \frac{\theta^{2}}{2!} + \frac{\theta^{4}}{4!} - \frac{\theta^{6}}{6!} + \cdots \\
 &\quad + i\left(\theta - \frac{\theta^{3}}{3!} + \frac{\theta^{5}}{5!} - \frac{\theta^{7}}{7!} + \cdots\right)
-\end{align}$$
+\end{align}
+$$
 
 (여기서 급수의 항을 재배열할 수 있는 이유는 이 급수가 [절대수렴(absolutely convergent)](https://en.wikipedia.org/wiki/Absolute_convergence)하기 때문입니다. 이에 대한 증명은 여기서 다루지 않겠습니다.)
 

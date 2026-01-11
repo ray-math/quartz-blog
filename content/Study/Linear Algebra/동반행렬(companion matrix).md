@@ -10,19 +10,19 @@ $v$로 생성되는 부분공간 $\mathcal{K}_n(T,v)$를 생각해봅시다.
 
 $$
 \mathcal{K}_n(T,v) = \langle v, Tv, T^2v, \dots, T^{n-1}v \rangle
-  $$
+$$
 
 이때 $T^n v$는 $v, Tv, \dots, T^{n-1}v$의 선형결합으로 나타낼 수 있습니다.
 
 $$
-  T^n v = -a_{n-1} T^{n-1}v - \cdots - a_0 v
-  $$
+T^n v = -a_{n-1} T^{n-1}v - \cdots - a_0 v
+$$
 
 따라서 특성다항식 $p(t)$는 다음과 같이 정의할 수 있습니다.
 
 $$
-  p(t) = t^n + a_{n-1}t^{n-1} + \cdots + a_0
-  $$
+p(t) = t^n + a_{n-1}t^{n-1} + \cdots + a_0
+$$
 ## Companion matrix $C_p$ 정의
 
 $p(t)$에 대해 $T$가 $v, Tv, \cdots$ 위에서 어떻게 작동해야 할지를 행렬로 적으면 다음과 같습니다.

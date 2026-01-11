@@ -141,12 +141,14 @@ $$
 
 좀 더 자세한 내용에 관심이 있는 사람들을 위해, 세 집단의 인구 비율을 설명하는 수학 방정식은 다음과 같다.
 
-$$\begin{align}
+$$
+\begin{align}
 \frac{dS}{dt} &= B - \beta SI - dS;\\
 \frac{dI}{dt} &= \beta SI - gI - dI;\\
 \frac{dR}{dt} &= gI - dR;\\
 R_{0} &= \frac{\beta}{g}.
-\end{align}$$
+\end{align}
+$$
 
 여기서 $B$는 출생률, $d$는 사망률, $1/g$는 감염 기간, $\beta$는 접촉률이다. 대부분의 모델에서 출생률과 사망률은 같다고 가정하여 인구 크기가 일정하게 유지된다.
 

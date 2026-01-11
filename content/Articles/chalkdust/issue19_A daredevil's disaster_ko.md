@@ -58,42 +58,52 @@ $$
 
 $x$, $y$와 그 1계 및 2계 도함수의 초기값에 대한 이러한 사실들로 무장하여, 자유낙하 궤적의 방정식을 사용할 수 있습니다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 x(t) &= x(0) + v_{x}(0) t,\\
 y(t) &= y(0) + v_{y}(0) t + \frac{a_{y}t^{2}}{2},
-\end{align*}$$
+\end{align*}
+$$
 
 이는 다음을 제공합니다:
 
-$$\begin{equation}\label{para}\left.\begin{split}
+$$
+\begin{equation}\label{para}\left.\begin{split}
 x(t) &= r\cos\theta - vt\sin\theta,\\
 y(t) &= r\sin\theta + vt\cos\theta - \frac{gt^{2}}{2}.
 \end{split} \hspace{4mm} \right\} \hspace{-8mm} \tag{1}
-\end{equation}$$
+\end{equation}
+$$
 
 이 방정식들은 물체가 궤도를 떠난 후 $t$초가 지나면 좌표 $(x(t), y(t))$에 있을 것이라고 알려줍니다.
 
 불행한 (그리고 순전히 이론적인) 곡예사가 궤도에 다시 착지하는 위치와 시간에 대한 우리의 원래 질문으로 돌아가서, 방정식 $x^{2}(t) + y^{2}(t) = r^{2}$를 $t$에 대해 풀어야 합니다. 이는 단순히 점 $(x(t), y(t))$가 원점에서 거리 $r$에 있다는 제약을 부과하는 것으로, 원형 궤도와 다시 교차합니다. 이 방정식에서 매우 중요한 일이 일어납니다. 결국 두 항만 남게 됩니다: 하나는 $t^{4}$ 차수이고 하나는 $t^{3}$ 차수입니다. 실제로 다음으로 축약됩니다:
 
-$$\begin{equation}\label{time}
+$$
+\begin{equation}\label{time}
 t^{3}\left(t - \frac{4v}{g}\cos\theta\right) = 0,\tag{2}
-\end{equation}$$
+\end{equation}
+$$
 
 이는 궤도를 떠난 후 $(4v/g)\cos\theta$초가 지나면 물체가 궤도에 다시 충돌한다는 것을 즉시 알려줍니다. 이 단순함에는 매우 좋은 이유가 있으며, 이는 아래에서 탐구할 것입니다. 충돌이 *어디서* 일어났는지 알아봅시다.
 
 충돌 시간을 $x(t)$에 대입하면 다음을 얻습니다:
 
-$$\begin{split}
+$$
+\begin{split}
 x(t) &= r\cos\theta - v \left(\frac{4v}{g}\cos\theta \right)\sin\theta\\
 &= r\cos\theta - 4r\cos\theta \sin^{2}\theta\\
 &= r\left(4\cos^{3}\theta - 3\cos\theta\right).
-\end{split}$$
+\end{split}
+$$
 
 식 $4\cos^{3}\theta - 3\cos\theta$는 우연히도 코사인의 삼배각 공식의 한쪽입니다:
 
-$$\begin{equation}\nonumber
+$$
+\begin{equation}\nonumber
 \cos 3\theta \equiv 4\cos^{3}\theta - 3\cos\theta.
-\end{equation}$$
+\end{equation}
+$$
 
 충돌 지점에서 $x(t) = r\cos 3\theta$임을 발견했는데, 이는 $r\cos(-3\theta)$와 같습니다. $x^{2} + y^{2} = r^{2}$이므로 $y(t)$는 $\pm r\sin 3\theta$여야 합니다. 사실 부호는 음수로 밝혀집니다. 충돌 지점이 $x = r\cos(-3\theta)$, $y = r\sin(-3\theta)$임을 발견했습니다. 이는 반대 방향으로 측정한 이탈 각도의 3배입니다.
 
@@ -113,9 +123,11 @@ $$
 
 그런 다음 $y(t)$에 대한 방정식에서 $t$의 인스턴스를 이 식으로 대체합니다. 결과는 다음 포물선입니다:
 
-$$\begin{equation}\label{yofx}
+$$
+\begin{equation}\label{yofx}
 y(x) = r\sin\theta - \cot\theta \,(x - r\cos\theta) - \frac{(x - r\cos\theta)^{2}}{(2r\sin^{3}\theta)}. \tag{3}
-\end{equation}$$
+\end{equation}
+$$
 
 궤도 자체의 곡선 $x^{2} + y^{2} = r^{2}$도 $x$에 대해 이차입니다. 교점을 찾기 위해 포물선의 $y$를 이 방정식에 대입하면 $(x - \alpha)(x - \beta)(x - \gamma)(x - \delta) = 0$ 형태로 인수분해할 수 있는 4차 다항식이 됩니다. 따라서 네 개의 해가 있을 것이지만, 이들이 서로 다를 필요는 없습니다(심지어 실수일 필요도 없습니다). 사실, 곡선들이 접한다는 것을 요구하는 것은 $\alpha, \beta, \gamma, \delta$ 중 두 개가 같다는 것을 요구하는 것과 같습니다.
 
@@ -151,67 +163,83 @@ $$
 
 첫 번째 조건을 부과하는 것은 다음을 요구하는 것과 같습니다:
 
-$$\begin{equation}\label{point}
+$$
+\begin{equation}\label{point}
 A(r\cos\theta - a)^{2} + B(r\sin\theta - b)^{2} = 1. \tag{4}
-\end{equation}$$
+\end{equation}
+$$
 
 이를 더 구체적으로 만들기 위해, 식 \eqref{point}을 만족하는 $A$, $B$, $a$, $b$의 무작위로 선택된 값들로 $r = 1$, $\theta = \pi/4$에 대한 그림이 있습니다:
 
 이제 두 번째 조건을 부과하고 싶습니다. $C$에서 원의 1계 도함수는 무엇일까요?
 
-$$\begin{align*}
+$$
+\begin{align*}
 \frac{\mathrm{d}}{\mathrm{d}x}(x^{2} + y^{2}) &= 2x + 2y\frac{\mathrm{d}y}{\mathrm{d}x} = 0\\
 \implies \frac{\mathrm{d}y}{\mathrm{d}x} &= -\frac{x}{y} = -\cot\theta.
-\end{align*}$$
+\end{align*}
+$$
 
 $C$에서 원뿔곡선의 1계 도함수를 찾기 위해 같은 전략을 사용할 수 있습니다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \frac{\mathrm{d}}{\mathrm{d}x}\left[A(x - a)^{2} + B(y - b)^{2}\right] = 0\\
 \implies \frac{\mathrm{d}y}{\mathrm{d}x} = -\frac{A(x - a)}{B(y - b)},
-\end{align*}$$
+\end{align*}
+$$
 
 따라서 우리의 조건은:
 
-$$\begin{equation}\label{frst}
+$$
+\begin{equation}\label{frst}
 -\frac{A(r\cos\theta - a)}{B(r\sin\theta - b)} = -\cot\theta. \tag{5}
-\end{equation}$$
+\end{equation}
+$$
 
 다음은 이전 그림이지만, 이제 이 두 번째 조건이 $A$, $B$, $a$, $b$에 부과된 것입니다:
 
 마지막으로 2계 도함수의 일치를 부과하고 싶습니다. 원에 대해서는 다음과 같이 진행할 수 있습니다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \frac{\mathrm{d}^{2}y}{\mathrm{d}x^{2}} &= \frac{\mathrm{d}}{\mathrm{d}x}\left(-\frac{x}{y}\right)\\
 &= -\frac{1}{y} + \frac{xy'}{y^{2}}\\
 &= -\frac{y^{2} + x^{2}}{y^{3}} = -\frac{1}{r\sin^{3}\theta}.
-\end{align*}$$
+\end{align*}
+$$
 
 같은 전략을 원뿔곡선에 적용합니다:
 
-$$\begin{split}
+$$
+\begin{split}
 \frac{\mathrm{d}^{2}y}{\mathrm{d}x^{2}} &= \frac{\mathrm{d}}{\mathrm{d}x}\left[-\frac{A}{B}\frac{(x - a)}{(y - b)}\right]\\
 &= -\frac{A}{B(y - b)} + \frac{A(x - a)y'}{B(y - b)^{2}}\\
 &= -\frac{A}{B^{2}} \frac{B(y - b)^{2} + A(x - a)^{2}}{(y - b)^{3}}\\
 &= -\frac{A}{B^{2}(y - b)^{3}}\\
 &= -\frac{A}{B^{2}(r\sin\theta - b)^{3}}.
-\end{split}$$
+\end{split}
+$$
 
 따라서 다음이 필요합니다:
 
-$$\begin{equation}\label{sec}
+$$
+\begin{equation}\label{sec}
 -\frac{A}{B^{2}(r\sin\theta - b)^{3}} = -\frac{1}{r\sin^{3}\theta}, \tag{6}
-\end{equation}$$
+\end{equation}
+$$
 
 그리고 우리의 그림은 이제 다음과 같이 보입니다:
 
 식 \eqref{point}, \eqref{frst}, \eqref{sec}는 네 개의 상수 $a$, $b$, $A$, $B$를 제약하는 세 개의 방정식으로 구성된 시스템입니다. 해는 다음과 같이 표현될 수 있습니다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 a &= \frac{\lambda - 1}{\lambda}r\cos^{3}\theta,\quad b = (1 - \lambda)r\sin^{3}\theta,\\
 A &= \frac{\lambda^{2}}{r^{2}\left[(\lambda - 1)\sin^{2}\theta + 1\right]^{3}},\\
 B &= \frac{\lambda}{r^{2}\left[(\lambda - 1)\sin^{2}\theta + 1\right]^{3}},
-\end{align*}$$
+\end{align*}
+$$
 
 여기서 $\lambda$는 0이 아닌 자유 매개변수입니다. 따라서 다음으로 주어지는 $\lambda$로 매개변수화된 원뿔곡선의 족(family)이 있습니다:
 

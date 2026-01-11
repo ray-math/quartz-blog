@@ -26,12 +26,14 @@ date: 2016-10-12
 
 규칙을 삼중항 (새 기호, 이동 방향 L 또는 R, 새 카드)로 표현하면, 다음은 2개 카드 기계의 예입니다.
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{카드 1:} \quad & 0 \rightarrow 1,R,2 \\
 & 1 \rightarrow 1,L,2 \\
 \text{카드 2:} \quad & 0 \rightarrow 1,L,1 \\
 & 1 \rightarrow 1,R,\text{HALT}
-\end{aligned}$$
+\end{aligned}
+$$
 
 카드 1에서 시작하여 모든 위치에 0으로 초기화된 테이프에서 이 기계를 실행하면 다음 표와 같이 진행됩니다.
 

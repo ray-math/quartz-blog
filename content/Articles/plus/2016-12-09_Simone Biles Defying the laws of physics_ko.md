@@ -192,19 +192,23 @@ $$
 
 선운동에 대해 우리는 체조 선수를 선형 방정식을 위한 질점으로 단순화했다. 회전 방정식을 위해서도 체조 선수의 형태를 단순화할 것이다. 공중제비하는 체조 선수를 원기둥으로 표현하자. 왜냐하면 그것은 서 있는 인간을 근사하는 단순한 형태이기 때문이다. 시몬의 질량 $m$은 선운동 에너지에 대해 동일하지만, 그녀의 관성 모멘트는 공중제비와 비틀기에 대해 다를 것이다. 공중제비에 대한 그녀의 관성 모멘트 $I_{\text{somersault}}$는 식 8을 사용하여 계산되고 비틀기에 대해서는 $I_{\text{twist}}$를 식 9를 사용하여 계산된다. 따라서 그녀의 공중제비 에너지는 다음과 같다:
 
-$$\begin{eqnarray} 
+$$
+\begin{eqnarray} 
 E_{k \; \text{somersault}} & = & \frac{1}{2}I_{\text{somersault}}\omega_{\text{somersault}}^{2} \\ 
 & = & \frac{1}{2}\left(\frac{m(3r^{2} + l^{2})}{12}\right) \omega^{2}_{\text{somersault}} \\ 
 & = & \frac{1}{2}\frac{(3r^{2} + l^{2})m \omega^{2}_{\text{somersault}}}{12}.
-\end{eqnarray}$$
+\end{eqnarray}
+$$
 
 그리고 그녀의 비틀기 에너지는:
 
-$$\begin{eqnarray} 
+$$
+\begin{eqnarray} 
 E_{k \; \text{twist}} & = & \frac{1}{2}I_{\text{twist}}\omega_{\text{twist}}^{2} \\ 
 & = & \frac{1}{2}\left(\frac{mr^{2}}{2}\right) \omega^{2}_{\text{twist}} \\ 
 & = & \frac{1}{2}\frac{m r^{2} \omega^{2}_{\text{twist}}}{2}.
-\end{eqnarray}$$
+\end{eqnarray}
+$$
 
 이 식들을 총 에너지 식(식 6)에 대입하면:
 

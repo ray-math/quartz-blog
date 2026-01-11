@@ -64,21 +64,25 @@ M의 규칙에 따른 가능한 형제자매 집합(형제자매 집합은 수�
 
 주어진 수의 딸을 가진 어머니가 또 다른 자녀를 계속 가질 확률을 $p(1), p(2), \ldots, p(n)$으로 쓰고, $i$명의 딸을 둔 어머니가 또 다른 자녀를 가질 확률을 $g_{i}$로 쓴다. 그러면 $(1-g_{i})$는 $i$명의 딸을 둔 어머니가 자녀를 그만 가질 확률이다. 그러면
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 p(1) & = & p(\text{딸, 멈춤}) + p(\text{딸, 계속, 아들})\\
 & = & \frac{1}{2}(1-g_{1}) + \frac{1}{2} \times g_{1} \times \frac{1}{2} \\
 &= &\frac{1}{2}(1-g_{1}) + \frac{1}{4} g_{1}
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 > 이 첫 번째 계산을 자세히 분석해보자. $p(1)$은 한 명의 딸만 갖는 확률이다. 이는 두 가지 상호 배타적 경로로 일어날 수 있다: (1) 첫 아이가 딸이고 멈춘다, 또는 (2) 첫 아이가 딸이고, 계속하기로 결정하고, 두 번째 아이가 아들이다. 첫 번째 경로의 확률은 $\frac{1}{2} \cdot (1-g_{1})$이다: 딸을 낳을 확률 $\frac{1}{2}$에 멈출 확률 $(1-g_{1})$을 곱한 것. 두 번째 경로는 $\frac{1}{2} \cdot g_{1} \cdot \frac{1}{2}$이다: 딸, 계속 결정, 그리고 아들. 이 두 확률을 더하면 된다. 이는 확률의 덧셈 정리(상호 배타적 사건)와 곱셈 정리(독립 사건)의 직접적 적용이다.
 
 마찬가지로,
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 p(2) & = & p(\text{딸, 계속, 딸, 멈춤}) + p(\text{딸, 계속, 딸, 계속, 아들})\\
 & = & \frac{1}{2} \times g_{1} \times \frac{1}{2} \times (1-g_{2}) + \frac{1}{2} \times g_{1} \times \frac{1}{2} \times g_{2} \times \frac{1}{2} \\
 &= &\frac{1}{4}g_{1}(1-g_{2}) + \frac{1}{8} g_{1}g_{2}.
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 일반적으로, 여성이 $n$명의 딸을 가질 확률 $p(n)$은
 
@@ -88,20 +92,24 @@ $$
 
 이 합의 왼쪽 항은 $n$명의 딸을 갖고 멈추는 여성을 나타내고, 오른쪽 항은 $n$명의 딸을 갖고 이어서 아들을 갖는 여성을 나타낸다. 괄호를 전개하면
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 p(n) & =& \frac{1}{2^{n}} g_{1}g_{2} \cdots g_{n-1} - \frac{1}{2^{n}} g_{1}g_{2} \cdots g_{n-1}g_{n} + \frac{1}{2^{n+1}} g_{1}g_{2} \cdots g_{n-1}g_{n}\\
 &=&\frac{1}{2^{n}} g_{1}g_{2} \cdots g_{n-1} - \frac{1}{2^{n+1}} g_{1}g_{2} \cdots g_{n-1}g_{n}.
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 > 이 식의 단순화는 교묘하다. 처음에 세 항이 있지만, 두 번째와 세 번째 항을 결합할 수 있다: $-\frac{1}{2^{n}} + \frac{1}{2^{n+1}} = -\frac{2}{2^{n+1}} + \frac{1}{2^{n+1}} = -\frac{1}{2^{n+1}}$. 결과적으로 $p(n)$은 간단한 두 항의 차이로 표현된다. 이 형태는 나중에 텔레스코핑 급수(telescoping series)로 귀결될 것이다. 텔레스코핑 급수는 연속된 항들이 서로 상쇄되어 급수의 합이 극적으로 단순화되는 경우다. 이는 무한급수를 다룰 때 가장 우아한 기법 중 하나다.
 
 이제 남자아이로 넘어가자. 여성이 $n$명의 아들을 가질 확률을 $q(n)$으로 쓴다. 여성은 아들을 한 명 낳자마자 자녀를 그만 가져야 하므로, 모든 $n>1$에 대해 $q(n)=0$이다. 반면에, 한 명의 아들을 가질 확률 $q(1)$은 무한히 많은 항으로 구성된다:
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 q(1) &=& p(\text{아들}) + p(\text{딸, 계속, 아들}) + p(\text{딸, 계속, 딸, 계속, 아들}) + \cdots \\
 & = & \frac{1}{2} + \frac{1}{2} \times g_{1} \times \frac{1}{2} + \frac{1}{2} \times g_{1} \times \frac{1}{2} \times g_{2} \times \frac{1}{2} + \cdots \\
 & = & \frac{1}{2} + \frac{1}{4} g_{1} + \frac{1}{8}g_{1}g_{2} + \cdots
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 이 합의 $n$번째 항은 $\frac{1}{2^{n}}g_{1}g_{2} \cdots g_{n-1}$이다.
 
@@ -125,11 +133,13 @@ $$
 
 평균 딸 수 $d$는
 
-$$\begin{eqnarray*}
+$$
+\begin{eqnarray*}
 d &=& 1\times p(1) +2 \times p(2)+3 \times p(3)+ \cdots + n \times p(n) + \cdots \\
 & = &\left(\frac{1}{2}-\frac{1}{4}g_{1}\right) + 2\left(\frac{1}{4}g_{1} - \frac{1}{8}g_{1}g_{2}\right) +3\left( \frac{1}{8}g_{1}g_{2}-\frac{1}{16}g_{1}g_{2}g_{3}\right) + \cdots \\
 &&\quad\quad + n\left(\frac{1}{2^{n}}g_{1}g_{2}\cdots g_{n-1}-\frac{1}{2^{n+1}}g_{1}g_{2}\cdots g_{n-1}g_{n}\right)+\cdots
-\end{eqnarray*}$$
+\end{eqnarray*}
+$$
 
 약간의 생각으로, 이 합이 다음과 같이 단순화됨을 알 수 있다:
 

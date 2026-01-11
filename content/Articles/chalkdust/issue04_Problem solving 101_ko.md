@@ -176,11 +176,13 @@ $$
 
 $x$의 값을 계산하는 방법은 여러 가지가 있는데, 예를 들어 다음과 같이 분해할 수 있습니다.
 
-$$\begin{align*}
+$$
+\begin{align*}
 2x &= \frac{3}{2} + \frac{4}{4} + \frac{5}{8} + \frac{6}{16} + \cdots \\
 &= \frac{3}{2} + \left(\frac{3}{4} + \frac{4}{8} + \frac{5}{16} + \cdots\right) + \left(\frac{1}{4} + \frac{1}{8} + \frac{1}{16} + \cdots\right) \\
 &= \frac{3}{2} + x + \frac{1}{2}\left(\frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \cdots\right),
-\end{align*}$$
+\end{align*}
+$$
 
 그리고 공식
 

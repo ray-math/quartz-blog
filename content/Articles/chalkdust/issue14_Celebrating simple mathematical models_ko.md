@@ -56,10 +56,12 @@ $$
 
 변수 $P$를 토끼 개체군으로, $Q$를 스라소니 개체군으로 사용한다. 20세기 초의 **로트카-볼테라 모형(Lotka-Volterra model)**은 이들 개체군 크기가 어떻게 변하는지 다음과 같이 제시한다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \frac{\mathrm{d}P}{\mathrm{d}t} &= \alpha P - \beta PQ, \\
 \frac{\mathrm{d}Q}{\mathrm{d}t} &= \delta PQ - \gamma Q.
-\end{align*}$$
+\end{align*}
+$$
 
 실제 측정값에 맞추기 위해 양의 상수 $\alpha$, $\beta$, $\gamma$, $\delta$를 조정할 수 있다. 모형화에서 이것들을 매개변수(parameter)라고 부른다. ($\beta = \delta$가 반드시 필요하지 않은 이유는 무엇일까?)
 
@@ -97,11 +99,13 @@ $R_{0}$는 **감염병 확산에 관한 SIR 모형**에서 나온다. 이 모형
 
 전체 초기 감수성 인구 크기가 시간에 따라 변하지 않는다는 ($S + I + R = N$) 핵심 가정과 인구가 완전히 균질하다는 가정을 하면, 이는 직접적으로 비선형 상미분방정식 시스템으로 이어진다:
 
-$$\begin{align*}
+$$
+\begin{align*}
 \frac{\mathrm{d}S}{\mathrm{d}t} &= -\beta SI, \\
 \frac{\mathrm{d}I}{\mathrm{d}t} &= \beta SI - \gamma I, \\
 \frac{\mathrm{d}R}{\mathrm{d}t} &= \gamma I.
-\end{align*}$$
+\end{align*}
+$$
 
 감염률 $\beta$와 회복률 $\gamma$에 대한 매개변수를 갖는다. $R_{0}$는 2차 감염 사례가 생산되는 비율에 평균 감염 기간을 곱한 것이다:
 

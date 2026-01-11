@@ -82,7 +82,7 @@ date: 2007-03-01
 
 이 응용은 우리 일상생활에서 수학의 관련성을 강조하고, 특히 정보 산업에서 수학이 수행하는 중요한 역할을 보여줍니다. 하지만 이것은 역사상 가장 수익성 있는 수학 조각이기도 합니다. 왜냐하면 이 수학적 발전이 구글의 성공과 2006년의 30억 달러 이익에 직접적으로 책임이 있기 때문입니다.
 
-페이지랭크가 어떻게 작동하는지에 대한 더 자세한 내용은 [구글이 웹의 건초더미에서 바늘을 찾는 방법(How Google finds your needle in the web's haystack)](http://www.ams.org/featurecolumn/archive/pagerank.html), [250억 달러짜리 고유벡터: 구글 뒤의 선형대수학(The $25,000,000,000 eigenvector: The linear algebra behind Google)](http://www.rose-hulman.edu/~bryan/google.html), 그리고 구글 창립자인 브린과 페이지의 논문 [대규모 하이퍼텍스트 웹 검색 엔진의 구조(The anatomy of a large-scale hypertextual Web search engine)](http://infolab.stanford.edu/pub/papers/google.pdf)에서 읽을 수 있습니다.
+페이지랭크가 어떻게 작동하는지에 대한 더 자세한 내용은 [구글이 웹의 건초더미에서 바늘을 찾는 방법(How Google finds your needle in the web's haystack)](http://www.ams.org/featurecolumn/archive/pagerank.html), [250억 달러짜리 고유벡터: 구글 뒤의 선형대수학(The \$25,000,000,000 eigenvector: The linear algebra behind Google)](http://www.rose-hulman.edu/~bryan/google.html), 그리고 구글 창립자인 브린과 페이지의 논문 [대규모 하이퍼텍스트 웹 검색 엔진의 구조(The anatomy of a large-scale hypertextual Web search engine)](http://infolab.stanford.edu/pub/papers/google.pdf)에서 읽을 수 있습니다.
 
 ### 슈람-뢰브너 진화 - 그레고리 롤러(Gregory Lawler), 오데드 슈람(Oded Schramm), 벤들린 베르너(Wendelin Werner)
 

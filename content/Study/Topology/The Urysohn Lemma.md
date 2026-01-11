@@ -57,14 +57,14 @@ $$
 
 $$
 \overline{U_s} \subset \overline{U_p} \subset U_r
-  $$
+$$
 
 * 반대로 $s \ge q$이면,
 
 
 $$
-  \overline{U_r} \subset U_q \subset U_s
-  $$
+\overline{U_r} \subset U_q \subset U_s
+$$
 
 이로써 조건 $(\ast)$은 $P_{n+1}$의 모든 쌍에 대해 성립하게 된다.
 

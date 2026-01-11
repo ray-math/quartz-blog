@@ -154,8 +154,8 @@ $U\subset X$가 임의의 부분집합일 때, $U$의 성분이란 $U$ 안에서
 구체적으로, $x\in U$를 택하면
 
 $$
-    C_x \;=\;\bigcup\{\;A\subset U\mid A\text{는 연결이고 }x\in A\}
-  $$
+C_x \;=\;\bigcup\{\;A\subset U\mid A\text{는 연결이고 }x\in A\}
+$$
 
 로 두면, $C_x$는 $x$를 포함하는 최대 연결 부분집합—즉 $U$의 하나의 성분—이 됩니다. $U$의 각 성분들은 서로소(공통점이 없고)이며, 그 합집합이 $U$를 이루므로 $\{C_x:x\in U\}$가 $U$의 분할(partition) 을 이룹니다.
 
