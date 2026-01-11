@@ -1,5 +1,5 @@
 ---
-title: Oπnions: 장난감 모형을 옹호하며
+title: "Oπnions: 장난감 모형을 옹호하며"
 date: 2025-03-17
 ---
 

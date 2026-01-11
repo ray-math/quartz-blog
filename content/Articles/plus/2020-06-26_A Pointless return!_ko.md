@@ -1,5 +1,5 @@
 ---
-title: Pointless의 화려한 복귀!
+title: "Pointless의 화려한 복귀!"
 date: 2020-06-26
 ---
 

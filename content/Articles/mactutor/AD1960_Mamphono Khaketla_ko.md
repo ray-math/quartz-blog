@@ -1,5 +1,5 @@
 ---
-title: 'Mamphono Khaketla
+title: Mamphono Khaketla
 ---
 
 > [!NOTE]

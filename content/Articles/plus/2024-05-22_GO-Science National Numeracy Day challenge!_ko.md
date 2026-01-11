@@ -1,5 +1,5 @@
 ---
-title: GO-Science 국가 수리력의 날 챌린지!
+title: "GO-Science 국가 수리력의 날 챌린지!"
 date: 2024-05-22
 ---
 

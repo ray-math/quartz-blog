@@ -1,5 +1,5 @@
 ---
-title: 1분 수학: 분산(Dispersion)
+title: "1분 수학: 분산(Dispersion)"
 date: 2022-11-02
 ---
 
