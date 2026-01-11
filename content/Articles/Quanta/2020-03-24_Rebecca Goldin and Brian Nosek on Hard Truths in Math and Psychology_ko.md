@@ -1,9 +1,12 @@
 ---
 title: 레베카 골딘과 브라이언 노섹이 말하는 수학과 심리학의 불편한 진실
-description: 수학자 레베카 골딘과 심리학 연구자 브라이언 노섹이 호스트 스티븐 스트로가츠와 함께 불편한 진실을 전하는 이가 된다는 것이 어떤 것인지 이야기한다.
-url: www.quantamagazine.org/rebecca-goldin-and-brian-nosek-on-hard-truths-in-math-and-psychology-20200324/
 date: 2020-03-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/rebecca-goldin-and-brian-nosek-on-hard-truths-in-math-and-psychology-20200324/
+>
+> 수학자 레베카 골딘과 심리학 연구자 브라이언 노섹이 호스트 스티븐 스트로가츠와 함께 불편한 진실을 전하는 이가 된다는 것이 어떤 것인지 이야기한다.
 
 이번 주 호스트 스티븐 스트로가츠는 진실을 추구하다가 논쟁의 최전선에 서게 된 두 과학자와 대화를 나눈다. 조지 메이슨 대학교 수리과학 교수인 레베카 골딘은 모유 수유의 안전성 이점에 대해 통계적으로는 타당하지만 대중에게는 인기 없는 주장을 펼쳐 많은 사람들을 분노하게 만들었다. 버지니아 대학교 심리학 교수인 브라이언 노섹은 그의 학문 분야에서 소중히 여겨지던 많은 연구 결과들이 과학적으로 재현되지 않는다는 사실을 밝혀냈다. 이 에피소드는 카밀 피터슨이 제작했다. 자세한 내용은 [QuantaMagazine.org](http://quantamagazine.org/)에서 확인할 수 있다. Story Mechanics가 제작과 오리지널 음악을 담당했다.
 

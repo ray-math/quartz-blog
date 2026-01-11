@@ -1,9 +1,12 @@
 ---
 title: 당신의 직업이 달린 유리점 찾기
-description: 고등학교 대수와 기하만으로, 원이나 타원곡선 위의 단 하나의 유리점을 알면 무한히 많은 다른 유리점들을 찾을 수 있다.
-url: www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/
 date: 2021-07-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-simple-math-reveals-rational-points-on-curves-20210722/
+>
+> 고등학교 대수와 기하만으로, 원이나 타원곡선 위의 단 하나의 유리점을 알면 무한히 많은 다른 유리점들을 찾을 수 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/07/Slopes_2880_lede.jpg)
 

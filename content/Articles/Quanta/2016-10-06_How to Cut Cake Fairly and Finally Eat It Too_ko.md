@@ -1,9 +1,12 @@
 ---
 title: 케이크를 공정하게 나누고 드디어 먹는 방법
-url: www.quantamagazine.org/new-algorithm-solves-cake-cutting-problem-20161006/
-description: 컴퓨터 과학자들이 임의의 수의 사람들 사이에서 케이크를 공정하게 나눌 수 있는 유계 알고리즘을 개발했다.
 date: 2016-10-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-algorithm-solves-cake-cutting-problem-20161006/
+>
+> 컴퓨터 과학자들이 임의의 수의 사람들 사이에서 케이크를 공정하게 나눌 수 있는 유계 알고리즘을 개발했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/10/CAKE_1500.jpg)
 

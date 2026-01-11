@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 홀수 그래프에 관한 오래된 질문에 답하다
-description: 두 수학자가 그래프에서 홀수 개의 연결을 가진 꼭짓점들의 비율에 관한 전설적인 문제를 해결했다.
-url: www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/
 date: 2021-05-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/
+>
+> 두 수학자가 그래프에서 홀수 개의 연결을 가진 꼭짓점들의 비율에 관한 전설적인 문제를 해결했다.
 
 ![보라색 배경의 그래프 그림. 특정 꼭짓점과 간선이 주황색으로 강조되어 있다.](https://www.quantamagazine.org/wp-content/uploads/2021/05/Odd_graph_2880x1660_Lede.jpg)
 

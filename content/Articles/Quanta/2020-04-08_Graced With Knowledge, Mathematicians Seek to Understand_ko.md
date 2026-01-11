@@ -1,9 +1,12 @@
 ---
 title: 지식을 얻었으되 이해를 추구하는 수학자들
-url: www.quantamagazine.org/mathematicians-grapple-with-sudden-answer-to-connes-embedding-conjecture-20200408/
-description: 컴퓨터 과학의 획기적인 증명이 콘느 매장 추측이라는 중요한 수학 문제도 해결했다. 수학자들은 이를 이해하기 위해 애쓰고 있다.
 date: 2020-04-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-grapple-with-sudden-answer-to-connes-embedding-conjecture-20200408/
+>
+> 컴퓨터 과학의 획기적인 증명이 콘느 매장 추측이라는 중요한 수학 문제도 해결했다. 수학자들은 이를 이해하기 위해 애쓰고 있다.
 
 ## 서론
 

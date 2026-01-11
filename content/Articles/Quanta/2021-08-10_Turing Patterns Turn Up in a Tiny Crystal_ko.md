@@ -1,9 +1,12 @@
 ---
 title: 튜링 패턴이 작은 결정에서 발견되다
-description: 표범의 반점과 얼룩말의 줄무늬를 설명하는 메커니즘이 비스무트 결정의 패턴 성장도 설명하는 것으로 밝혀졌다. 앨런 튜링의 1952년 아이디어가 원자 스케일로 확장된 것이다.
-url: www.quantamagazine.org/physicists-spot-turing-patterns-in-a-tiny-crystal-20210810/
 date: 2021-08-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/physicists-spot-turing-patterns-in-a-tiny-crystal-20210810/
+>
+> 표범의 반점과 얼룩말의 줄무늬를 설명하는 메커니즘이 비스무트 결정의 패턴 성장도 설명하는 것으로 밝혀졌다. 앨런 튜링의 1952년 아이디어가 원자 스케일로 확장된 것이다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/08/TURING_2880x1620_Lede.jpg)
 

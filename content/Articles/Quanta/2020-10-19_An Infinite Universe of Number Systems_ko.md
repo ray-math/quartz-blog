@@ -1,9 +1,12 @@
 ---
 title: 무한한 수 체계의 우주
-url: www.quantamagazine.org/how-the-towering-p-adic-numbers-work-20201019/
-description: p진수는 소수를 기반으로 하는 무한한 수 체계의 모음이다. 현대 정수론의 핵심에 자리 잡고 있다.
 date: 2020-10-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-the-towering-p-adic-numbers-work-20201019/
+>
+> p진수는 소수를 기반으로 하는 무한한 수 체계의 모음이다. 현대 정수론의 핵심에 자리 잡고 있다.
 
 ![3진 수의 탑 구조를 시각화한 이미지](https://www.quantamagazine.org/wp-content/uploads/2020/10/P-Adic_2880x1620_Lede.jpg)
 

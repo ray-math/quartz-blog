@@ -1,9 +1,12 @@
 ---
 title: 수학과 시간을 잇는 정수론 연구자
-url: www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/
-description: 천재라는 고정관념과 싸워온 전직 신동, Akshay Venkatesh가 "수학의 놀라울 정도로 광범위한 분야에 대한 심오한 기여"로 필즈 메달을 수상했다.
 date: 2018-08-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/fields-medalist-akshay-venkatesh-bridges-math-and-time-20180801/
+>
+> 천재라는 고정관념과 싸워온 전직 신동, Akshay Venkatesh가 "수학의 놀라울 정도로 광범위한 분야에 대한 심오한 기여"로 필즈 메달을 수상했다.
 
 ![Photo of Akshay Venkatesh](https://www.quantamagazine.org/wp-content/uploads/2018/08/Akshay_2880x1620.jpg)
 

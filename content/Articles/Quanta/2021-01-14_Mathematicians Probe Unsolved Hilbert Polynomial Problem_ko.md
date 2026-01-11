@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 미해결 힐베르트 13번 문제를 다시 파헤치다
-description: 오랫동안 해결된 것으로 여겨진 7차 다항식에 관한 다비트 힐베르트의 질문이 연구자들을 수학적 연결망의 새로운 세계로 이끌고 있다.
-url: www.quantamagazine.org/mathematicians-resurrect-hilberts-13th-problem-20210114/
 date: 2021-01-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-resurrect-hilberts-13th-problem-20210114/
+>
+> 오랫동안 해결된 것으로 여겨진 7차 다항식에 관한 다비트 힐베르트의 질문이 연구자들을 수학적 연결망의 새로운 세계로 이끌고 있다.
 
 ![다항식으로 둘러싸인 동굴을 내려가는 수학자들을 묘사한 일러스트](https://www.quantamagazine.org/wp-content/uploads/2021/01/Hilberts_13th_2880_Lede.jpg)
 

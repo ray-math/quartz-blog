@@ -1,9 +1,12 @@
 ---
 title: 수학 마술사는 어떻게 당신의 숫자를 알아맞힐까?
-description: 수학적 마술은 마치 독심술처럼 보일 수 있다. 당신의 임무는 이 네 가지 트릭 뒤에 숨은 비밀을 밝히는 것이다.
-url: www.quantamagazine.org/how-do-math-magicians-know-your-number-20220504/
 date: 2022-05-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-do-math-magicians-know-your-number-20220504/
+>
+> 수학적 마술은 마치 독심술처럼 보일 수 있다. 당신의 임무는 이 네 가지 트릭 뒤에 숨은 비밀을 밝히는 것이다.
 
 ![보라색 정장을 입은 빨간 머리 남자가 밝은 청록색 배경 앞에서 흰 토끼와 함께 달리고 있다. 그의 실크해트에서 큰 흰색 숫자들이 쏟아져 나온다.](https://www.quantamagazine.org/wp-content/uploads/2022/05/Puzzle_May_2880x1620_Lede.jpg)
 

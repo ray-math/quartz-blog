@@ -1,9 +1,12 @@
 ---
 title: 수학적 사고는 당신이 생각하는 것과 다르다
-description: 수학자 데이비드 베시스는 모든 사람이 수학적 사고를 할 수 있으며, 그로부터 큰 유익을 얻을 수 있다고 주장한다.
-url: www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/
 date: 2024-11-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/
+>
+> 수학자 데이비드 베시스는 모든 사람이 수학적 사고를 할 수 있으며, 그로부터 큰 유익을 얻을 수 있다고 주장한다.
 
 ![파리의 야외 카페에 앉아 있는 베시스](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Lede-scaled.webp)
 

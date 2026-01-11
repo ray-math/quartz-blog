@@ -1,9 +1,12 @@
 ---
 title: 지독한 기하학이 수십 년 된 타일링 추측을 깨뜨리다
-url: www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/
-description: 수학자들은 도형이 공간을 타일링하는 방식에 충분한 제약을 가하면 주기적 패턴이 나타날 것이라고 예측했다. 하지만 그들은 틀렸다.
 date: 2022-12-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/
+>
+> 수학자들은 도형이 공간을 타일링하는 방식에 충분한 제약을 가하면 주기적 패턴이 나타날 것이라고 예측했다. 하지만 그들은 틀렸다.
 
 ## 서론
 

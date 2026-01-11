@@ -1,9 +1,12 @@
 ---
 title: 수학자의 예상치 못한 물리 세계 여행
-description: 로렌 윌리엄스는 양의 그라스만 다양체라는 근본적인 대상의 조각들로부터 모험적인 수학 경력을 개척해왔다.
-url: www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
 date: 2020-12-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-mathematicians-adventure-through-the-physical-world-20201216/
+>
+> 로렌 윌리엄스는 양의 그라스만 다양체라는 근본적인 대상의 조각들로부터 모험적인 수학 경력을 개척해왔다.
 
 ![수학이 적혀 있는 화이트보드 앞에 서 있는 수학자 로렌 윌리엄스](https://www.quantamagazine.org/wp-content/uploads/2020/12/Lauren-Williams_2600_Lede.jpg)
 

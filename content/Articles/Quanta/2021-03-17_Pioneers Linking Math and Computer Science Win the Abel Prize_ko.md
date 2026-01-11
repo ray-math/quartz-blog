@@ -1,9 +1,12 @@
 ---
 title: 수학과 컴퓨터 과학을 연결한 선구자들, 아벨상 수상
-description: 아비 위그더슨과 라슬로 로바스가 각각 복잡도 이론과 그래프 이론 발전에 기여하고 두 분야를 연결한 공로로 수상했다.
-url: www.quantamagazine.org/avi-wigderson-and-laszlo-lovasz-win-abel-prize-20210317/
 date: 2021-03-17
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/avi-wigderson-and-laszlo-lovasz-win-abel-prize-20210317/
+>
+> 아비 위그더슨과 라슬로 로바스가 각각 복잡도 이론과 그래프 이론 발전에 기여하고 두 분야를 연결한 공로로 수상했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/03/Abel_Lovasz-Wigderson_2560_Lede.jpg)
 

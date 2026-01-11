@@ -1,9 +1,12 @@
 ---
 title: 수학으로 세계의 난제를 해결하려는 계획
-url: www.quantamagazine.org/a-plan-to-address-the-worlds-challenges-with-math-20230511/
-description: 민형기 교수는 수학자들이 자신의 역량을 사회 문제 해결에 적용하도록 장려하는 인류를 위한 수학(Mathematics for Humanity)이라는 새로운 이니셔티브를 이끌고 있다.
 date: 2023-05-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-plan-to-address-the-worlds-challenges-with-math-20230511/
+>
+> 민형기 교수는 수학자들이 자신의 역량을 사회 문제 해결에 적용하도록 장려하는 인류를 위한 수학(Mathematics for Humanity)이라는 새로운 이니셔티브를 이끌고 있다.
 
 ![파란 재킷을 입은 남자가 계단에 서 있다.](https://www.quantamagazine.org/wp-content/uploads/2023/05/MinhyongKim-byPhilippAmmon-Lede-scaled.webp)
 

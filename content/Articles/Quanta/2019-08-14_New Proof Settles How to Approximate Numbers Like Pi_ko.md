@@ -1,9 +1,12 @@
 ---
 title: 파이 같은 수를 근사하는 방법에 대한 새로운 증명
-description: 고대 그리스인들은 무리수를 분수로 근사할 수 있는지 궁금해했다. 두 수학자가 오랜 미해결 문제인 더핀-셰퍼 추측을 증명함으로써 완전한 답을 제시했다.
-url: www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/
 date: 2019-08-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proof-settles-how-to-approximate-numbers-like-pi-20190814/
+>
+> 고대 그리스인들은 무리수를 분수로 근사할 수 있는지 궁금해했다. 두 수학자가 오랜 미해결 문제인 더핀-셰퍼 추측을 증명함으로써 완전한 답을 제시했다.
 
 ![중심에 파이가 있는 다트판](https://www.quantamagazine.org/wp-content/uploads/2019/08/Irrational-Approximation_2880x1620_Lede.jpg)
 

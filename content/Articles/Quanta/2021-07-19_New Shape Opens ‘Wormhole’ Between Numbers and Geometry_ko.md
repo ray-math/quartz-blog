@@ -1,9 +1,12 @@
 ---
 title: 수와 기하학을 연결하는 웜홀을 여는 새로운 도형
-url: www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/
-description: 로랑 파르그와 페터 숄체는 랑글랜즈 프로그램의 일환으로 수론과 기하학을 연결하는 새롭고 강력한 방법을 발견했다.
 date: 2021-07-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/
+>
+> 로랑 파르그와 페터 숄체는 랑글랜즈 프로그램의 일환으로 수론과 기하학을 연결하는 새롭고 강력한 방법을 발견했다.
 
 ![왼쪽의 기하학적 도형들이 웜홀을 통해 오른쪽의 수들과 연결되는 모습을 보여주는 삽화.](https://www.quantamagazine.org/wp-content/uploads/2021/07/Langlands_lede_2560.jpg)
 

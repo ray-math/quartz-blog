@@ -1,9 +1,12 @@
 ---
 title: 수학의 판도를 바꾼 우연한 활동가
-description: 60년 경력 동안 레노어 블룸은 논리학과 계산 이론에 새로운 관점을 제시하며 수학과 컴퓨터 과학 분야의 여성들을 위해 헌신해왔다. 이제 그녀의 관심은 의식으로 향한다.
-url: www.quantamagazine.org/the-accidental-activist-who-changed-the-face-of-mathematics-20240103/
 date: 2024-01-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-accidental-activist-who-changed-the-face-of-mathematics-20240103/
+>
+> 60년 경력 동안 레노어 블룸은 논리학과 계산 이론에 새로운 관점을 제시하며 수학과 컴퓨터 과학 분야의 여성들을 위해 헌신해왔다. 이제 그녀의 관심은 의식으로 향한다.
 
 ![검은색 스웨터를 입은 레노어 블룸이 『의식의 극장에서(In the Theater of Consciousness)』를 읽고 있다](https://www.quantamagazine.org/wp-content/uploads/2024/01/LenoreBlum-byRachelBujalski-Lede2-scaled.webp)
 

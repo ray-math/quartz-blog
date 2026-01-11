@@ -1,9 +1,12 @@
 ---
 title: 기하학과 해석학을 통합한 Karen Uhlenbeck, 아벨상 수상
-description: 지난 40년간 수학에서 가장 극적인 발전을 이끈 현대 기하해석학의 창시자 Uhlenbeck이 이 최고 영예를 받은 첫 여성이 되었다.
-url: www.quantamagazine.org/karen-uhlenbeck-uniter-of-geometry-and-analysis-wins-abel-prize-20190319/
 date: 2019-03-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/karen-uhlenbeck-uniter-of-geometry-and-analysis-wins-abel-prize-20190319/
+>
+> 지난 40년간 수학에서 가장 극적인 발전을 이끈 현대 기하해석학의 창시자 Uhlenbeck이 이 최고 영예를 받은 첫 여성이 되었다.
 
 ![Art for "Karen Uhlenbeck, Uniter of Geometry and Analysis, Wins Abel Prize"](https://www.quantamagazine.org/wp-content/uploads/2019/03/Uhlenbeck_2880x1620_Lede.jpg)
 

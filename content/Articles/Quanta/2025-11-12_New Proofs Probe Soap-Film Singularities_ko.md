@@ -1,9 +1,12 @@
 ---
 title: 비누막 특이점을 탐구하는 새로운 증명들
-description: 수학자들이 수학과 물리학 모두에서 중요한 역할을 하는 최소 곡면 연구에서 오랫동안 막혀 있던 장벽을 돌파했다.
-url: www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/
 date: 2025-11-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proofs-probe-soap-film-singularities-20251112/
+>
+> 수학자들이 수학과 물리학 모두에서 중요한 역할을 하는 최소 곡면 연구에서 오랫동안 막혀 있던 장벽을 돌파했다.
 
 ![복잡한 수세미 같은 곡면](https://www.quantamagazine.org/wp-content/uploads/2025/11/Gyroid-cr.Paul-Nylander-Lede-scaled.webp)
 

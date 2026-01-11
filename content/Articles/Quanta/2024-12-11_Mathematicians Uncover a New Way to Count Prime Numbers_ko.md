@@ -1,9 +1,12 @@
 ---
 title: 소수를 세는 완전히 새로운 방법의 발견
-description: 수론의 가장 근본적인 질문 중 하나에서 진전을 이루기 위해, 두 수학자는 예상치 못한 곳에서 해답을 찾았다.
-url: www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/
 date: 2024-12-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/
+>
+> 수론의 가장 근본적인 질문 중 하나에서 진전을 이루기 위해, 두 수학자는 예상치 못한 곳에서 해답을 찾았다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/12/PrimeCounts-cr.SamuelVelasco-Lede-scaled.webp)
 

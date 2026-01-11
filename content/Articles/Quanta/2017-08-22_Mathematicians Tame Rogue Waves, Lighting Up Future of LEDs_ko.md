@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 포획한 불량 파동, LED의 미래를 밝히다
-url: www.quantamagazine.org/mathematicians-tame-rogue-waves-lighting-up-future-of-leds-20170822/
-description: 수학자 스비틀라나 마이보로다와 공동 연구자들이 전자의 행동을 예측하는 방법을 알아냈다—즉각적인 실용적 효과를 가질 수 있는 수학적 발견이다.
 date: 2017-08-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-tame-rogue-waves-lighting-up-future-of-leds-20170822/
+>
+> 수학자 스비틀라나 마이보로다와 공동 연구자들이 전자의 행동을 예측하는 방법을 알아냈다—즉각적인 실용적 효과를 가질 수 있는 수학적 발견이다.
 
 ![Svitlana Mayboroda](https://www.quantamagazine.org/wp-content/uploads/2017/08/SvitlanaMayboroda_2600.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 8차원과 24차원에서 풀린 구 채우기 문제
-url: www.quantamagazine.org/sphere-packing-solved-in-higher-dimensions-20160330/
-description: 우크라이나 수학자 마리나 비아조프스카가 수 세기 동안 미해결로 남아있던 8차원과 24차원 구 채우기 문제를 해결했다.
 date: 2016-03-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/sphere-packing-solved-in-higher-dimensions-20160330/
+>
+> 우크라이나 수학자 마리나 비아조프스카가 수 세기 동안 미해결로 남아있던 8차원과 24차원 구 채우기 문제를 해결했다.
 
 이번 달 온라인에 게시된 두 편의 논문에서, 한 우크라이나 수학자가 수 세기 동안 미해결로 남아있던 "구 채우기(sphere packing)" 문제의 고차원 버전 두 가지를 해결했다. 그녀는 8차원과 24차원에서(후자는 다른 연구자들과의 공동 연구로), 두 개의 고도로 대칭적인 배열이 가능한 가장 빽빽한 방식으로 구들을 채운다는 것을 증명했다.
 

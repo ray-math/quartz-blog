@@ -1,9 +1,12 @@
 ---
 title: 예술, 음악, 문학에서 수학을 보는 이론가
-description: 수학, 음악, 예술 사이의 연결은 수천 년간 탐구되어 왔다. 사라 하트는 이제 문학에 수학적 시선을 돌리고 있다.
-url: www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/
 date: 2024-01-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/
+>
+> 수학, 음악, 예술 사이의 연결은 수천 년간 탐구되어 왔다. 사라 하트는 이제 문학에 수학적 시선을 돌리고 있다.
 
 ![수학자 사라 하트의 초상화.](https://www.quantamagazine.org/wp-content/uploads/2024/01/SarahHart-byPhilippAmmon-Lede-scaled.webp)
 

@@ -1,9 +1,12 @@
 ---
 title: 거대한 수학 증명, 삼중 비눗방울 문제와 그 이상을 해결하다
-description: 비눗방울 군집의 표면적을 최소화하는 최선의 방법에 관한 수십 년 된 설리번의 추측은 세 개 이상의 방울에 대해서는 도달 불가능하다고 여겨졌다—새로운 돌파구 결과가 나오기 전까지는.
-url: www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/
 date: 2022-10-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/
+>
+> 비눗방울 군집의 표면적을 최소화하는 최선의 방법에 관한 수십 년 된 설리번의 추측은 세 개 이상의 방울에 대해서는 도달 불가능하다고 여겨졌다—새로운 돌파구 결과가 나오기 전까지는.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/Multi-Bubble-Conjecture_2880x1620_Lede-scaled.webp)
 

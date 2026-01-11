@@ -1,9 +1,12 @@
 ---
 title: 워들을 (부정행위 없이) 완벽하게 공략하는 법
-url: www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/
-description: 이 퍼즐 문제들을 풀어보며 워들 실력을 한 단계 높여보자.
 date: 2022-10-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/
+>
+> 이 퍼즐 문제들을 풀어보며 워들 실력을 한 단계 높여보자.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/October_Puzzle_2880x1620_Lede-scaled.webp)
 

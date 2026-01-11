@@ -1,9 +1,12 @@
 ---
 title: 무질서의 경계를 탐구하는 물리학 영감의 새로운 증명
-url: www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/
-description: 수십 년 동안 수학자들은 반도체를 모델링하는 것과 같이 질서와 무작위성을 모두 반영하는 행렬을 이해하기 위해 고군분투해왔다. 새로운 방법이 이를 바꿀 수 있다.
 date: 2025-08-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/
+>
+> 수십 년 동안 수학자들은 반도체를 모델링하는 것과 같이 질서와 무작위성을 모두 반영하는 행렬을 이해하기 위해 고군분투해왔다. 새로운 방법이 이를 바꿀 수 있다.
 
 ## 들어가며
 

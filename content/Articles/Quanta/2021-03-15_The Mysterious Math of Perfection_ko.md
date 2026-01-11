@@ -1,9 +1,12 @@
 ---
 title: 완벽함의 신비로운 수학
-url: www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/
-description: 완전수의 세계로 들어가 수학자들이 수천 년 동안 풀려고 노력해온 수수께끼를 탐험해보자.
 date: 2021-03-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/
+>
+> 완전수의 세계로 들어가 수학자들이 수천 년 동안 풀려고 노력해온 수수께끼를 탐험해보자.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/03/Perfect-Number_2880_Lede.jpg)
 

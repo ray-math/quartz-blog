@@ -1,9 +1,12 @@
 ---
 title: 연결망의 최적 구조에 관한 수십 년 된 내기를 해결한 새로운 증명
-description: 수학계의 전설에 따르면 Peter Sarnak과 Noga Alon이 1980년대 후반 최적 그래프에 대해 내기를 했다. 이제 둘 다 틀렸음이 증명되었다.
 date: 2025-04-18
-url: www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/
+>
+> 수학계의 전설에 따르면 Peter Sarnak과 Noga Alon이 1980년대 후반 최적 그래프에 대해 내기를 했다. 이제 둘 다 틀렸음이 증명되었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/04/RamanujanGraphs-crMicheleSclafani-Lede-2.webp)
 

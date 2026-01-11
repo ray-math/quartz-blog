@@ -1,9 +1,12 @@
 ---
 title: 가장 느린 컴퓨터 프로그램이 수학의 근본적 한계를 밝히는 방법
-description: 비지 비버(busy beaver) 게임의 목표는 가장 오래 실행되는 컴퓨터 프로그램을 찾는 것이다. 이 탐구는 수학의 가장 심오한 질문과 개념들과 놀라운 연결을 가지고 있다.
-url: www.quantamagazine.org/how-the-slowest-computer-programs-illuminate-maths-fundamental-limits-20201210/
 date: 2020-12-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-the-slowest-computer-programs-illuminate-maths-fundamental-limits-20201210/
+>
+> 비지 비버(busy beaver) 게임의 목표는 가장 오래 실행되는 컴퓨터 프로그램을 찾는 것이다. 이 탐구는 수학의 가장 심오한 질문과 개념들과 놀라운 연결을 가지고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/12/Beaver_2880x1042_Lede-2.jpg)
 

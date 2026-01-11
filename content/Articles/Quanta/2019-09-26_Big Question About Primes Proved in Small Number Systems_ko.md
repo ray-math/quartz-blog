@@ -1,9 +1,12 @@
 ---
 title: 소수의 거대한 문제, 작은 수 체계에서 증명되다
-description: 쌍둥이 소수 추측은 수학에서 가장 중요하고 어려운 문제 중 하나다. 두 수학자가 작은 수 체계에서 이 문제의 평행 버전을 해결했다.
-url: www.quantamagazine.org/big-question-about-primes-proved-in-small-number-systems-20190926/
 date: 2019-09-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/big-question-about-primes-proved-in-small-number-systems-20190926/
+>
+> 쌍둥이 소수 추측은 수학에서 가장 중요하고 어려운 문제 중 하나다. 두 수학자가 작은 수 체계에서 이 문제의 평행 버전을 해결했다.
 
 ![쌍으로 배열된 색색의 구체들.](https://www.quantamagazine.org/wp-content/uploads/2019/09/TwinPrimes_2880x1620_Lede.jpg)
 

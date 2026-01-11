@@ -1,9 +1,12 @@
 ---
 title: 완벽한 무작위성을 찾는 수수께끼 같은 탐구
-description: 객관적이고 완벽한 무작위성이 존재하는가, 아니면 무작위성은 단지 우리의 무지의 산물일 뿐인가?
-url: www.quantamagazine.org/the-puzzling-search-for-perfect-randomness-20190820/
 date: 2019-08-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-puzzling-search-for-perfect-randomness-20190820/
+>
+> 객관적이고 완벽한 무작위성이 존재하는가, 아니면 무작위성은 단지 우리의 무지의 산물일 뿐인가?
 
 ![퍼즐로 변환된 일몰 해변 장면의 삽화.](https://www.quantamagazine.org/wp-content/uploads/2019/08/Hexagonal-Puzzle_2880x1655_Lede.jpg)
 

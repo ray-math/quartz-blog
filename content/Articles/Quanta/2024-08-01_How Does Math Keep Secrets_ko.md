@@ -1,9 +1,12 @@
 ---
 title: 수학은 어떻게 비밀을 지킬까?
-url: www.quantamagazine.org/how-does-math-keep-secrets-20240801/
-description: 암호학은 율리우스 카이사르, 제2차 세계대전, 양자 컴퓨팅을 연결하는 실이며, 이제 현대 생활의 거의 모든 부분에 깔려 있다. 이번 주 에피소드에서 컴퓨터 과학자 보아즈 바락과 공동 진행자 잔나 레빈이 비밀의 과거와 미래를 논의한다.
 date: 2024-08-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-does-math-keep-secrets-20240801/
+>
+> 암호학은 율리우스 카이사르, 제2차 세계대전, 양자 컴퓨팅을 연결하는 실이며, 이제 현대 생활의 거의 모든 부분에 깔려 있다. 이번 주 에피소드에서 컴퓨터 과학자 보아즈 바락과 공동 진행자 잔나 레빈이 비밀의 과거와 미래를 논의한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/07/0801_JOW-E14-Cryptography-crPeterGreenwood-Lede-LOGO-scaled.webp)
 

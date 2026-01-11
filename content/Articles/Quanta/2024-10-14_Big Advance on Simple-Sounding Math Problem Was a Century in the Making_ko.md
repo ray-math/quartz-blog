@@ -1,9 +1,12 @@
 ---
 title: 단순해 보이는 수학 문제의 큰 진전, 한 세기에 걸친 도전
-description: 소수에 관한 새로운 증명이 덧셈과 곱셈 사이의 미묘한 관계를 밝혀내고, 유명한 abc 추측의 진전에 대한 희망을 불러일으킨다.
-url: www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/
 date: 2024-10-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/
+>
+> 소수에 관한 새로운 증명이 덧셈과 곱셈 사이의 미묘한 관계를 밝혀내고, 유명한 abc 추측의 진전에 대한 희망을 불러일으킨다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/10/LargestPrimeFactor-cr.SamuelVelasco-LEDE-scaled.webp)
 

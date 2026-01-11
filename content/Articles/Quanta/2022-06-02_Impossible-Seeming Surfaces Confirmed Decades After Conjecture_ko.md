@@ -1,9 +1,12 @@
 ---
 title: 불가능해 보이는 곡면이 수십 년 후 증명되다
-description: 두 수학자가 그래프 이론에서 빌려온 아이디어를 이용해, 극도로 복잡한 곡면도 횡단하기 쉽다는 것을 보였다.
-url: www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/
 date: 2022-06-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/
+>
+> 두 수학자가 그래프 이론에서 빌려온 아이디어를 이용해, 극도로 복잡한 곡면도 횡단하기 쉽다는 것을 보였다.
 
 ![구멍이 많은 곡면 위를 걷는 사람의 그림](https://www.quantamagazine.org/wp-content/uploads/2022/06/Reimann_Surfaces_2880x1620_Lede.jpg)
 

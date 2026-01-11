@@ -1,9 +1,12 @@
 ---
 title: 더 큰 그래프에서도 무질서가 지속된다는 새로운 수학 증명
-description: 데이비드 콘론과 아사프 페르버가 다색 램지 수의 하한을 높였다. 램지 수는 패턴이 필연적으로 나타나기 전에 그래프가 얼마나 커질 수 있는지를 정량화한다.
-url: www.quantamagazine.org/new-math-proof-raises-lower-bounds-of-graph-randomness-20201104/
 date: 2020-11-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-math-proof-raises-lower-bounds-of-graph-randomness-20201104/
+>
+> 데이비드 콘론과 아사프 페르버가 다색 램지 수의 하한을 높였다. 램지 수는 패턴이 필연적으로 나타나기 전에 그래프가 얼마나 커질 수 있는지를 정량화한다.
 
 ## 소개
 

@@ -1,9 +1,12 @@
 ---
 title: 와타나베 다다유키가 구의 대칭성에 관한 주요 추측을 반증한 방법
-description: 와타나베는 구의 대칭성에 관한 위상수학의 핵심 질문인 스메일 추측의 마지막 미해결 경우를 해결하는 과정에서 도형을 구별하는 새로운 방법을 발명했다.
-url: www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/
 date: 2021-10-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/
+>
+> 와타나베는 구의 대칭성에 관한 위상수학의 핵심 질문인 스메일 추측의 마지막 미해결 경우를 해결하는 과정에서 도형을 구별하는 새로운 방법을 발명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/10/Spheres_2880x1620_Lede.jpg)
 

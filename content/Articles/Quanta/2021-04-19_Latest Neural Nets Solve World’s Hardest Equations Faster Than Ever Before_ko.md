@@ -1,9 +1,12 @@
 ---
 title: 최신 신경망, 세계에서 가장 어려운 방정식들을 전례 없는 속도로 해결하다
-url: www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419/
-description: 두 가지 새로운 접근법이 심층 신경망으로 편미분방정식군 전체를 풀 수 있게 만들어, 복잡한 시스템을 수 배 더 빠르게 모델링할 수 있게 되었다.
 date: 2021-04-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/latest-neural-nets-solve-worlds-hardest-equations-faster-than-ever-before-20210419/
+>
+> 두 가지 새로운 접근법이 심층 신경망으로 편미분방정식군 전체를 풀 수 있게 만들어, 복잡한 시스템을 수 배 더 빠르게 모델링할 수 있게 되었다.
 
 ## 서론
 

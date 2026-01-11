@@ -1,9 +1,12 @@
 ---
 title: 수학과 물리학을 이끄는 19명의 여성 과학자들
-url: www.quantamagazine.org/19-women-leaders-in-math-and-physics-20170308/
-description: 수학과 물리학 분야 최고의 여성 과학자들이 자신의 여정과 왜 더 많은 여성 과학자가 없는지에 대해 이야기한다.
 date: 2017-03-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/19-women-leaders-in-math-and-physics-20170308/
+>
+> 수학과 물리학 분야 최고의 여성 과학자들이 자신의 여정과 왜 더 많은 여성 과학자가 없는지에 대해 이야기한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/03/wd_v6_2000.jpg)
 

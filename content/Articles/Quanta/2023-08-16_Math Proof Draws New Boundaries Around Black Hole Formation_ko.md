@@ -1,9 +1,12 @@
 ---
 title: 수학적 증명이 블랙홀 형성의 새로운 경계를 그리다
-description: 반세기 동안 수학자들은 블랙홀이 필연적으로 존재하게 되는 정확한 조건을 정의하려 애써왔다. 새로운 증명은 큐브가 어떻게 이 질문에 답하는 데 도움이 될 수 있는지 보여준다.
-url: www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/
 date: 2023-08-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/
+>
+> 반세기 동안 수학자들은 블랙홀이 필연적으로 존재하게 되는 정확한 조건을 정의하려 애써왔다. 새로운 증명은 큐브가 어떻게 이 질문에 답하는 데 도움이 될 수 있는지 보여준다.
 
 ![농구공 골대를 통과하는 블랙홀](https://www.quantamagazine.org/wp-content/uploads/2023/08/HoopConjecture-byAllisonLi-Lede-scaled.webp)
 

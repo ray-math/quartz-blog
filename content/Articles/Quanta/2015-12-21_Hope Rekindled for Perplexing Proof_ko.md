@@ -1,9 +1,12 @@
 ---
 title: abc 추측 증명을 향한 희망의 재점화
-url: www.quantamagazine.org/hope-rekindled-for-abc-proof-20151221/
-description: 3년 전, 한 고독한 수학자가 유명한 abc 추측에 대한 난해한 증명을 발표했다. 최근 이 연구에 헌정된 학회에서 낙관론과 당혹감이 뒤섞였다.
 date: 2015-12-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/hope-rekindled-for-abc-proof-20151221/
+>
+> 3년 전, 한 고독한 수학자가 유명한 abc 추측에 대한 난해한 증명을 발표했다. 최근 이 연구에 헌정된 학회에서 낙관론과 당혹감이 뒤섞였다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/12/ABC_Mochizuki_Beckert.jpg)
 

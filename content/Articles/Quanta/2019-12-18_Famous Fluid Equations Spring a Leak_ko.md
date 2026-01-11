@@ -1,9 +1,12 @@
 ---
 title: 유명한 유체 방정식에서 발견된 균열
-url: www.quantamagazine.org/famous-fluid-equations-spring-a-leak-20191218/
-description: 연구자들은 수세기 동안 오일러 유체 방정식이 실패하는 시나리오를 찾아왔다. 이제 한 수학자가 마침내 그것을 발견했다.
 date: 2019-12-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/famous-fluid-equations-spring-a-leak-20191218/
+>
+> 연구자들은 수세기 동안 오일러 유체 방정식이 실패하는 시나리오를 찾아왔다. 이제 한 수학자가 마침내 그것을 발견했다.
 
 ## 서론
 

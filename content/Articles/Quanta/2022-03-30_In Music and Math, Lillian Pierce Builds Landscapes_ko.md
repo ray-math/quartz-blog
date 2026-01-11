@@ -1,9 +1,12 @@
 ---
 title: 음악과 수학에서 경관을 만드는 릴리언 피어스
-description: 릴리언 피어스는 수학 세계로의 접근을 변혁시키는 동시에, 이산과 연속을 연결하는 문제들에서 진전을 이루고자 한다.
-url: www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/
 date: 2022-03-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-music-and-math-lillian-pierce-builds-landscapes-20220330/
+>
+> 릴리언 피어스는 수학 세계로의 접근을 변혁시키는 동시에, 이산과 연속을 연결하는 문제들에서 진전을 이루고자 한다.
 
 ![Duke Gardens에 앉아 있는 수학자 릴리언 피어스](https://www.quantamagazine.org/wp-content/uploads/2022/03/Lillian-Pierce_2880x1620_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 유리수 수학으로 미끄러운 무리수를 잡아내는 방법
-url: www.quantamagazine.org/how-rational-math-catches-slippery-irrational-numbers-20200310/
-description: 영원히 파악하기 힘든 무리수를 근사하는 최선의 방법을 찾는 것은 무한히 큰 것과 무한히 작은 것 사이의 대결이다.
 date: 2020-03-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-rational-math-catches-slippery-irrational-numbers-20200310/
+>
+> 영원히 파악하기 힘든 무리수를 근사하는 최선의 방법을 찾는 것은 무한히 큰 것과 무한히 작은 것 사이의 대결이다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/03/Fishing-for-Irrationals_2880x1620.jpg)
 

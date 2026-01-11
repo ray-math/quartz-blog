@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 발견한 소수의 음모
-url: www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/
-description: 이전에 아무도 알아채지 못했던 소수의 성질이, 소수의 행동에 관한 오랜 가정을 위반하는 것으로 보인다.
 date: 2016-03-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-discover-prime-conspiracy-20160313/
+>
+> 이전에 아무도 알아채지 못했던 소수의 성질이, 소수의 행동에 관한 오랜 가정을 위반하는 것으로 보인다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/03/primefinal.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 미로 증명이 통계역학의 백본을 확립하다
-description: 네 명의 수학자가 무작위 미로에서 명확한 경로가 존재할 확률을 추정했다.
-url: www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/
 date: 2024-02-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/
+>
+> 네 명의 수학자가 무작위 미로에서 명확한 경로가 존재할 확률을 추정했다.
 
 ## 서론
 

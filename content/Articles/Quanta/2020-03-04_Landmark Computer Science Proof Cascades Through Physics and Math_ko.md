@@ -1,9 +1,12 @@
 ---
 title: 컴퓨터 과학의 획기적 증명이 물리학과 수학을 관통하다
-url: www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
-description: 컴퓨터 과학자들이 계산적으로 검증 가능한 지식의 새로운 경계를 확립했다. 그 과정에서 양자역학과 순수수학의 주요 미해결 문제들을 해결했다.
 date: 2020-03-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/
+>
+> 컴퓨터 과학자들이 계산적으로 검증 가능한 지식의 새로운 경계를 확립했다. 그 과정에서 양자역학과 순수수학의 주요 미해결 문제들을 해결했다.
 
 ## 서론
 

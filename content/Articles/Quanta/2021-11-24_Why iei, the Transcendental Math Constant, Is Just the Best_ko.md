@@ -1,9 +1,12 @@
 ---
 title: 초월수 <i>e</i>가 최고인 이유
-url: www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/
-description: 오일러 수에 관한 퍼즐의 해답은 최적성과 관련된 상황에서 e가 왜 등장하는지를 설명한다.
 date: 2021-11-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/
+>
+> 오일러 수에 관한 퍼즐의 해답은 최적성과 관련된 상황에서 e가 왜 등장하는지를 설명한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/10/octpuzzle_2880x1620_lede.jpg)
 

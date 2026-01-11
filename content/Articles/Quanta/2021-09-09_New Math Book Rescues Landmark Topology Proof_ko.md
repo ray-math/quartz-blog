@@ -1,9 +1,12 @@
 ---
 title: 사라질 뻔한 위상수학의 랜드마크 증명을 구출한 새 수학책
-description: 마이클 프리드먼의 획기적인 1981년 4차원 푸앵카레 추측 증명이 사라질 위기에 처했었다. 새 책의 편집자들이 이를 구하려 한다.
-url: www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/
 date: 2021-09-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/
+>
+> 마이클 프리드먼의 획기적인 1981년 4차원 푸앵카레 추측 증명이 사라질 위기에 처했었다. 새 책의 편집자들이 이를 구하려 한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/Freedman-Proof_2880_Lede.jpg)
 

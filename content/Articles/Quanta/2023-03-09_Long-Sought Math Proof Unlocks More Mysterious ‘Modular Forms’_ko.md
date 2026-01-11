@@ -1,9 +1,12 @@
 ---
 title: 50년간 미해결이었던 수학 증명이 더욱 신비로운 모듈러 형식의 문을 열다
-url: www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/
-description: 수학자들이 "신선할 정도로 고전적인" 도구를 사용하여 모듈러 형식이라는 중요한 함수를 분류하는 방법에 관한 50년 된 추측을 해결했으며, 이는 정수론과 이론물리학에 중대한 영향을 미친다.
 date: 2023-03-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/long-sought-math-proof-unlocks-more-mysterious-modular-forms-20230309/
+>
+> 수학자들이 "신선할 정도로 고전적인" 도구를 사용하여 모듈러 형식이라는 중요한 함수를 분류하는 방법에 관한 50년 된 추측을 해결했으며, 이는 정수론과 이론물리학에 중대한 영향을 미친다.
 
 ## 서론
 

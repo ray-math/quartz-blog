@@ -1,9 +1,12 @@
 ---
 title: 아인슈타인의 상대성 이론 문제를 해결한 기하학적 도구
-description: 텐서는 수학과 과학 전반에서 숨겨진 기하학적 진실을 드러내는 데 사용된다. 텐서란 무엇인가?
-url: www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/
 date: 2024-08-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/
+>
+> 텐서는 수학과 과학 전반에서 숨겨진 기하학적 진실을 드러내는 데 사용된다. 텐서란 무엇인가?
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/08/Tensors-crMicheleSclafani-Lede-v2-scaled.webp)
 

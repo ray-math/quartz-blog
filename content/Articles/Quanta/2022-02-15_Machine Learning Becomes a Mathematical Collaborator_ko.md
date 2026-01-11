@@ -1,9 +1,12 @@
 ---
 title: 기계 학습이 수학자의 협력자가 되다
-description: 수학자들과 DeepMind의 최근 두 협업 사례는 기계 학습이 새로운 수학적 추측을 생성하는 데 어떻게 기여할 수 있는지 보여준다.
-url: www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/
 date: 2022-02-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/
+>
+> 수학자들과 DeepMind의 최근 두 협업 사례는 기계 학습이 새로운 수학적 추측을 생성하는 데 어떻게 기여할 수 있는지 보여준다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/Deepmind_2880x1620_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 단순한 숫자들 사이의 숨겨진 연결을 드러내는 신비한 격자
-description: 한 대학원생이 덧셈과 곱셈 사이의 오랫동안 의심되어 온 연결을 밝히는 데 도움을 주었다.
-url: www.quantamagazine.org/the-sum-product-problem-shows-how-addition-and-multiplication-constrain-each-other-20190206/
 date: 2019-02-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-sum-product-problem-shows-how-addition-and-multiplication-constrain-each-other-20190206/
+>
+> 한 대학원생이 덧셈과 곱셈 사이의 오랫동안 의심되어 온 연결을 밝히는 데 도움을 주었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/02/Sum-Product-Problem_2880x1620.jpg)
 

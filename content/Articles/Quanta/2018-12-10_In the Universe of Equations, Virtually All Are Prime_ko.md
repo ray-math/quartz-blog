@@ -1,9 +1,12 @@
 ---
 title: 방정식의 우주에서, 사실상 모든 것은 소수다
-url: www.quantamagazine.org/in-the-universe-of-equations-virtually-all-are-prime-20181210/
-description: 숫자처럼 방정식도 항상 더 단순한 요소로 쪼갤 수 없다.
 date: 2018-12-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-the-universe-of-equations-virtually-all-are-prime-20181210/
+>
+> 숫자처럼 방정식도 항상 더 단순한 요소로 쪼갤 수 없다.
 
 ![Art for "In the Universe of Equations, Virtually All Are Prime"](https://www.quantamagazine.org/wp-content/uploads/2018/12/PrimePolynomials_2880x1620.jpg)
 

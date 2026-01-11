@@ -1,9 +1,12 @@
 ---
 title: 위상수학에서 두 도형이 같다는 것은 무엇을 의미하는가?
-url: www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/
-description: 위상수학자들이 도형을 분류하려는 노력의 핵심은 다양체를 어떻게 정의하고, 두 다양체가 동등하다는 것이 무엇을 의미하는지에 달려 있다.
 date: 2021-09-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/
+>
+> 위상수학자들이 도형을 분류하려는 노력의 핵심은 다양체를 어떻게 정의하고, 두 다양체가 동등하다는 것이 무엇을 의미하는지에 달려 있다.
 
 ![파란 배경 위에 노란색과 녹색 도형들을 보여주는 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2021/09/FREEDMAN_TAXONOMY_2880x1620_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 종이접기의 원자 이론
-url: www.quantamagazine.org/the-atomic-theory-of-origami-20171031/
-description: 종이접기의 접힘과 꺾임을 격자 안의 원자처럼 재해석함으로써, 연구자들은 단순한 구조 속에 숨겨진 놀라운 현상을 발견하고 있다.
 date: 2017-10-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-atomic-theory-of-origami-20171031/
+>
+> 종이접기의 접힘과 꺾임을 격자 안의 원자처럼 재해석함으로써, 연구자들은 단순한 구조 속에 숨겨진 놀라운 현상을 발견하고 있다.
 
 ![큰 베이지색 미우라오리 시트를 접고 있는 마이클 애시스](https://www.quantamagazine.org/wp-content/uploads/2017/10/MichaelAssis_2880x1700_03.jpg)
 

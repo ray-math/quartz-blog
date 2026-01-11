@@ -1,9 +1,12 @@
 ---
 title: 유명한 유체 방정식에서 발견된 주름
-description: 두 수학자가 특정 극한 조건에서 나비에-스토크스 방정식이 무의미한 결과를 출력한다는 것을 증명했다.
-url: www.quantamagazine.org/mathematicians-find-wrinkle-in-famed-fluid-equations-20171221/
 date: 2017-12-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-find-wrinkle-in-famed-fluid-equations-20171221/
+>
+> 두 수학자가 특정 극한 조건에서 나비에-스토크스 방정식이 무의미한 결과를 출력한다는 것을 증명했다.
 
 ![켈빈-헬름홀츠 불안정성 시뮬레이션](https://www.quantamagazine.org/wp-content/uploads/2017/12/KH_Instability_1920x928.gif)
 

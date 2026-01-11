@@ -1,9 +1,12 @@
 ---
 title: "웨이블릿,  데이터를 변환하고 이해하는 수학적 도구"
-description: 푸리에 변환을 기반으로 발전한 웨이블릿은 연속 신호를 전례 없는 정밀도로 분석하고 이해할 수 있게 해주는 수학적 도구다.
-url: www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/
 date: 2021-10-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/
+>
+> 푸리에 변환을 기반으로 발전한 웨이블릿은 연속 신호를 전례 없는 정밀도로 분석하고 이해할 수 있게 해주는 수학적 도구다.
 
 ## 서론
 

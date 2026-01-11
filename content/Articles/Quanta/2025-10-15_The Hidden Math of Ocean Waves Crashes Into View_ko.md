@@ -1,9 +1,12 @@
 ---
 title: 파도 속에 숨겨진 수학이 모습을 드러내다
-url: www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/
-description: 가장 단순한 바다 파도조차 수학적으로 악명 높게 다루기 어렵다. 이탈리아 수학자 팀이 이를 이해하기 위한 중요한 돌파구를 마련했다.
 date: 2025-10-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/
+>
+> 가장 단순한 바다 파도조차 수학적으로 악명 높게 다루기 어렵다. 이탈리아 수학자 팀이 이를 이해하기 위한 중요한 돌파구를 마련했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/10/WhatIsAWave-crKristinaArmitage_SomavarapuMadhavi_Shutterstock-Lede-scaled.webp)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 밝혀낸 상징적 도형들의 최적 버전
-url: www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/
-description: 연구자들이 가장 짧은 매듭과 가장 뚱뚱한 뫼비우스 띠를 비롯한 최적 도형들을 발견하고 있다.
 date: 2024-01-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/
+>
+> 연구자들이 가장 짧은 매듭과 가장 뚱뚱한 뫼비우스 띠를 비롯한 최적 도형들을 발견하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/01/OptimalShapes-bySamuelVelasco-Lede-scaled.webp)
 

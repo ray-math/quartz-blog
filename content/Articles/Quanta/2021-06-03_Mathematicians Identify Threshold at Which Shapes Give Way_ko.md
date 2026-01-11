@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 밝힌 도형이 무너지기 시작하는 임계점
-url: www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
-description: 새로운 증명이 도형이 너무 주름져서 압축될 수 있게 되는 정확한 경계를 확립했다.
 date: 2021-06-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
+>
+> 새로운 증명이 도형이 너무 주름져서 압축될 수 있게 되는 정확한 경계를 확립했다.
 
 ![구면 위의 곡선들에 점점 더 많은 꼬임이 추가되는 GIF](https://www.quantamagazine.org/wp-content/uploads/2021/06/Sphere-Twists_2880_Lede.gif)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 수십 년 된 분류 문제를 해결하다
-description: 한 쌍의 연구자가 비틀림 없는 아벨 군이라 불리는 수 집합을 분류하려는 시도가 가능한 한 가장 어렵다는 것을 보였다.
-url: www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/
 date: 2021-08-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/
+>
+> 한 쌍의 연구자가 비틀림 없는 아벨 군이라 불리는 수 집합을 분류하려는 시도가 가능한 한 가장 어렵다는 것을 보였다.
 
 ![사람들이 길을 따라 다채로운 수학적 나무들을 분류하는 그림](https://www.quantamagazine.org/wp-content/uploads/2021/08/Graph-Classification_2560_Lede.jpg)
 

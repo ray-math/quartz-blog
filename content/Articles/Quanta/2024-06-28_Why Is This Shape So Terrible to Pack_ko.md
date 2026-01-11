@@ -1,9 +1,12 @@
 ---
 title: 왜 이 도형은 채우기가 이토록 어려울까?
-url: www.quantamagazine.org/why-is-this-shape-so-terrible-to-pack-20240628/
-description: 두 수학자가 평면을 채우기에 가장 나쁜 도형을 찾는 여정의 중요한 단계인 오래된 추측을 증명했다.
 date: 2024-06-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/why-is-this-shape-so-terrible-to-pack-20240628/
+>
+> 두 수학자가 평면을 채우기에 가장 나쁜 도형을 찾는 여정의 중요한 단계인 오래된 추측을 증명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/06/TerriblePacking-crNicoRoper-Lede-1-scaled.webp)
 

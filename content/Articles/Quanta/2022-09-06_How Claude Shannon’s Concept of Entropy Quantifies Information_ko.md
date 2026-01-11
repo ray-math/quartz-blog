@@ -1,9 +1,12 @@
 ---
 title: 클로드 섀넌의 엔트로피 개념은 어떻게 정보를 정량화하는가
-url: www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/
-description: 메시지란 정말 무엇인가? 클로드 섀넌은 그 핵심 요소가 놀라움(surprise)임을 깨달았다.
 date: 2022-09-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-claude-shannons-concept-of-entropy-quantifies-information-20220906/
+>
+> 메시지란 정말 무엇인가? 클로드 섀넌은 그 핵심 요소가 놀라움(surprise)임을 깨달았다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/09/Shannon-Entropy_2880x1620_Lede-1.png)
 

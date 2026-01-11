@@ -1,9 +1,12 @@
 ---
 title: 모퉁이를 돌 수 있는 가장 큰 소파
-description: 수십 년 된 "소파 옮기기" 문제에 대한 새로운 증명이 답을 밝혀냈다. 가장 단순한 최적화 문제조차도 직관에 반하는 답을 가질 수 있음을 보여준다.
-url: www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/
 date: 2025-02-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/
+>
+> 수십 년 된 "소파 옮기기" 문제에 대한 새로운 증명이 답을 밝혀냈다. 가장 단순한 최적화 문제조차도 직관에 반하는 답을 가질 수 있음을 보여준다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/02/Moving-sofas_crTommy-Parker-Lede.webp)
 

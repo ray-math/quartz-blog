@@ -1,9 +1,13 @@
 ---
 title: 기묘하게 휘어진 도형이 50년 된 기하학 추측을 깨뜨리다
-url: www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/
-description: 수학자들이 곡률과 도형 사이의 관계에 관한 중요한 추측을 반증했다.
 date: 2024-05-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/
+>
+> 수학자들이 곡률과 도형 사이의 관계에 관한 중요한 추측을 반증했다.
+
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/05/MilnorConjecture-byTK-Lede-scaled.webp)
 
 ## 서론

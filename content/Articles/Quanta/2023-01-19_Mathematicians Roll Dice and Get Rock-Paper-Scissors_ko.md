@@ -1,9 +1,12 @@
 ---
 title: 주사위를 굴렸더니 가위바위보가 나왔다
-description: 수학자들이 무작위로 선택한 주사위에서 놀라울 만큼 풍부한 가위바위보 패턴을 발견했다.
-url: www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/
 date: 2023-01-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/
+>
+> 수학자들이 무작위로 선택한 주사위에서 놀라울 만큼 풍부한 가위바위보 패턴을 발견했다.
 
 ![서로 다른 숫자로 뒤덮인 초록색 6면체 주사위 4개와 그 주사위들을 연결하는 주황색 화살표를 그린 일러스트](https://www.quantamagazine.org/wp-content/uploads/2023/01/IntransitiveDice-byKristinaArmitage-Lede-scaled.webp)
 

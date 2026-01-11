@@ -1,9 +1,12 @@
 ---
 title: 아마추어 수학자가 찾아낸 가장 작은 보편 덮개
-url: www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/
-description: 정밀한 기하학적 계산을 통해 필립 깁스는 모든 가능한 도형을 덮을 수 있는 가장 작은 덮개를 발견했다.
 date: 2018-11-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/
+>
+> 정밀한 기하학적 계산을 통해 필립 깁스는 모든 가능한 도형을 덮을 수 있는 가장 작은 덮개를 발견했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/UniversalCoverings_2880x1220.gif)
 

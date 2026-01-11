@@ -1,9 +1,12 @@
 ---
 title: 바나흐-타르스키 역설과 무한 복제의 패러독스
-description: 수학에서 가장 기묘한 결과 중 하나는 하나의 구를 단순히 조각으로 재배열하여 두 개의 동일한 복사본으로 만드는 것이 어떻게 가능한지 설명한다.
-url: www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/
 date: 2021-08-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-a-mathematical-paradox-allows-infinite-cloning-20210826/
+>
+> 수학에서 가장 기묘한 결과 중 하나는 하나의 구를 단순히 조각으로 재배열하여 두 개의 동일한 복사본으로 만드는 것이 어떻게 가능한지 설명한다.
 
 ## 서론
 

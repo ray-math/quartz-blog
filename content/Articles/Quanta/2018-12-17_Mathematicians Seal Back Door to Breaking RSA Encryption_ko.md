@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 RSA 암호화 해독의 뒷문을 봉인하다
-description: 디지털 보안은 큰 수의 소인수분해 난이도에 의존한다. 새로운 증명은 디지털 암호화를 깨뜨리는 한 가지 방법이 왜 작동하지 않는지를 보여준다.
 date: 2018-12-17
-url: www.quantamagazine.org/mathematicians-seal-back-door-to-breaking-rsa-encryption-20181217/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-seal-back-door-to-breaking-rsa-encryption-20181217/
+>
+> 디지털 보안은 큰 수의 소인수분해 난이도에 의존한다. 새로운 증명은 디지털 암호화를 깨뜨리는 한 가지 방법이 왜 작동하지 않는지를 보여준다.
 
 ![다항식으로 둘러싸인 자물쇠 그림](https://www.quantamagazine.org/wp-content/uploads/2018/12/RSA-1300Lede.jpg)
 

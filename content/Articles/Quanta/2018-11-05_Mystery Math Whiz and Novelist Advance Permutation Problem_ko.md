@@ -1,9 +1,12 @@
 ---
 title: 수수께끼의 수학 천재와 소설가가 순열 문제를 진전시키다
-description: 호주 SF 작가 그렉 이건과 2011년 익명으로 온라인에 게시된 증명이 수학자들이 수십 년간 연구해온 퍼즐에 대한 중요한 진전으로 인정받고 있다.
-url: www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/
 date: 2018-11-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/
+>
+> 호주 SF 작가 그렉 이건과 2011년 익명으로 온라인에 게시된 증명이 수학자들이 수십 년간 연구해온 퍼즐에 대한 중요한 진전으로 인정받고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Superpermutation_2880x1620.jpg)
 

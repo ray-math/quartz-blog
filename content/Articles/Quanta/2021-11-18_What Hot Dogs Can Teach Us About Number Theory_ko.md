@@ -1,9 +1,12 @@
 ---
 title: 핫도그가 정수론에 대해 알려줄 수 있는 것
-url: www.quantamagazine.org/the-secret-math-of-hot-dogs-and-buns-20211118/
-description: 중국인의 나머지 정리는 최소공배수라는 단순한 수학을 강력하게 확장한 고대의 결과다.
 date: 2021-11-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-secret-math-of-hot-dogs-and-buns-20211118/
+>
+> 중국인의 나머지 정리는 최소공배수라는 단순한 수학을 강력하게 확장한 고대의 결과다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/11/Hotdogs_2600_Lede.jpg)
 

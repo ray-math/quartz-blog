@@ -1,9 +1,12 @@
 ---
 title: 한 세기 후, 새로운 수학이 일반상대성이론의 기하학을 매끄럽게 다듬다
-description: 수학자들이 극소량의 질량을 가진 우주의 기하학을 밝히는 정리를 증명했다.
-url: www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/
 date: 2023-11-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-century-later-new-math-smooths-out-general-relativity-20231130/
+>
+> 수학자들이 극소량의 질량을 가진 우주의 기하학을 밝히는 정리를 증명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/11/PositiveStability-byKristinaArmitage-Lede-scaled.webp)
 

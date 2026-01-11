@@ -1,9 +1,12 @@
 ---
 title: 하이퍼그래프가 50년 묵은 문제의 해답을 밝히다
-description: 1973년 폴 에르되시는 그래프 상의 세 점으로 이루어진 삼원조 집합들을 서로 양립 불가능해 보이는 두 규칙을 만족하도록 구성할 수 있는지 물었다. 새로운 증명은 이것이 항상 가능함을 보여준다.
-url: www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/
 date: 2022-07-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/hypergraphs-reveal-solution-to-50-year-old-problem-20220714/
+>
+> 1973년 폴 에르되시는 그래프 상의 세 점으로 이루어진 삼원조 집합들을 서로 양립 불가능해 보이는 두 규칙을 만족하도록 구성할 수 있는지 물었다. 새로운 증명은 이것이 항상 가능함을 보여준다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/07/Hypergraphs_2880x1620_Lede-scaled.jpg)
 

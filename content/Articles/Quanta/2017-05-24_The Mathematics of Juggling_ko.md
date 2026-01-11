@@ -1,9 +1,12 @@
 ---
 title: 저글링의 수학
-description: 저글링은 최근 수십 년간 엄청나게 발전했다. 그 배경에는 가능한 패턴들에 대한 수학적 연구가 자리하고 있다.
-url: www.quantamagazine.org/the-mathematics-of-juggling-20170524/
 date: 2017-05-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mathematics-of-juggling-20170524/
+>
+> 저글링은 최근 수십 년간 엄청나게 발전했다. 그 배경에는 가능한 패턴들에 대한 수학적 연구가 자리하고 있다.
 
 ## 소개
 

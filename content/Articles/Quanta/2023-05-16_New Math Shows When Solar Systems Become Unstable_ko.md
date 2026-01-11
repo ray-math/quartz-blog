@@ -1,9 +1,12 @@
 ---
 title: "태양계는 언제 불안정해지는가,  새로운 수학이 밝혀낸 진실"
-description: 수학자들이 역사상 처음으로 태양계의 행성 궤도가 필연적으로 불안정해진다는 것을 증명했다.
-url: www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/
 date: 2023-05-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/
+>
+> 수학자들이 역사상 처음으로 태양계의 행성 궤도가 필연적으로 불안정해진다는 것을 증명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/05/EllipseStability-byHarolBustos-Lede-scaled.webp)
 

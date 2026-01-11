@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 고대의 수 이론 문제에 새로운 돌파구를 열다
-description: 수천 년 동안 수학자들은 홀수 완전수가 존재하는지 궁금해했고, 그 과정에서 이 가상의 수가 만족해야 할 놀라운 제약 조건 목록을 만들어왔다. 이 문제에 대한 새로운 통찰이 등장했다.
-url: www.quantamagazine.org/mathematicians-open-a-new-front-on-an-ancient-number-problem-20200910/
 date: 2020-09-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-open-a-new-front-on-an-ancient-number-problem-20200910/
+>
+> 수천 년 동안 수학자들은 홀수 완전수가 존재하는지 궁금해했고, 그 과정에서 이 가상의 수가 만족해야 할 놀라운 제약 조건 목록을 만들어왔다. 이 문제에 대한 새로운 통찰이 등장했다.
 
 ![홀수 완전수에 대한 우스꽝스럽게 긴 "실종자 찾기" 포스터. 이 수가 만족해야 할 모든 제약 조건들을 보여준다.](https://www.quantamagazine.org/wp-content/uploads/2020/09/OPN_2880x1620_Lede.jpg)
 

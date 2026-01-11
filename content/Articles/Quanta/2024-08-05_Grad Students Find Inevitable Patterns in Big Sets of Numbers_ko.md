@@ -1,9 +1,12 @@
 ---
 title: 대학원생들이 거대한 수 집합에서 필연적으로 나타나는 패턴을 발견하다
-description: 새로운 증명이 무질서에서 질서가 어떻게 출현하는지에 관한 문제에서 수십 년 만에 첫 진전을 이루었다.
-url: www.quantamagazine.org/grad-students-find-inevitable-patterns-in-big-sets-of-numbers-20240805/
 date: 2024-08-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/grad-students-find-inevitable-patterns-in-big-sets-of-numbers-20240805/
+>
+> 새로운 증명이 무질서에서 질서가 어떻게 출현하는지에 관한 문제에서 수십 년 만에 첫 진전을 이루었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/08/SzemerediTheorem-crNicoRoper-Lede-scaled.webp)
 

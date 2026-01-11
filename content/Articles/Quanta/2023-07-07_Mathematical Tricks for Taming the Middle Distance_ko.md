@@ -1,9 +1,12 @@
 ---
 title: 중간 거리를 길들이는 수학적 기교들
-url: www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
-description: 수학자들은 종종 양이 무한히 커질 때 무슨 일이 일어나는지 알아낼 수 있다. 그렇다면 양이 그저 조금 클 때는 어떨까?
 date: 2023-07-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematical-tricks-for-taming-the-middle-distance-20230707/
+>
+> 수학자들은 종종 양이 무한히 커질 때 무슨 일이 일어나는지 알아낼 수 있다. 그렇다면 양이 그저 조금 클 때는 어떨까?
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/07/SmallNProgressions-byKristinaArmitage-Lede-scaled.webp)
 

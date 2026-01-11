@@ -1,9 +1,12 @@
 ---
 title: 세상을 더 밝게 만들겠다는 수학의 약속
-url: www.quantamagazine.org/the-math-that-promises-to-make-the-world-brighter-20170906/
-description: LED 조명의 색상은 투박한 과정으로 제어된다. 새로운 수학적 발견은 우리가 원하는 색조를 얻는 것을 더 쉽게 만들어줄 수 있다.
 date: 2017-09-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-math-that-promises-to-make-the-world-brighter-20170906/
+>
+> LED 조명의 색상은 투박한 과정으로 제어된다. 새로운 수학적 발견은 우리가 원하는 색조를 얻는 것을 더 쉽게 만들어줄 수 있다.
 
 ## 서론
 

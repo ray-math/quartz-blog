@@ -1,9 +1,12 @@
 ---
 title: 무작위성을 극복하여 이상적인 코드를 만들어낸 연구자들
-description: 다차원의 촘촘히 연결된 그래프를 정교하게 구축함으로써, 연구팀은 마침내 오랫동안 찾아왔던 국소적으로 검증 가능한 코드를 만들어냈다. 이 코드는 손상 여부를 즉시 드러낼 수 있다.
-url: www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/
 date: 2021-11-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/
+>
+> 다차원의 촘촘히 연결된 그래프를 정교하게 구축함으로써, 연구팀은 마침내 오랫동안 찾아왔던 국소적으로 검증 가능한 코드를 만들어냈다. 이 코드는 손상 여부를 즉시 드러낼 수 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/11/Expander-Graphs-Pages_2560_lede.jpg)
 

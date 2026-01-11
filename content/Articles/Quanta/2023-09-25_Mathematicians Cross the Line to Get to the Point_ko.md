@@ -1,9 +1,12 @@
 ---
 title: 선과 점을 넘나들며 경계를 돌파한 수학자들
-description: 새로운 논문이 선과 점의 집합이 겹치는 영역의 크기에 관한 오랜 추측의 한계를 확립했다.
-url: www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/
 date: 2023-09-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/
+>
+> 새로운 논문이 선과 점의 집합이 겹치는 영역의 크기에 관한 오랜 추측의 한계를 확립했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/09/LinesAndPoints-byKristinaArmitage-Lede-scaled.webp)
 

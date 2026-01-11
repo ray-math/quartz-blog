@@ -1,9 +1,12 @@
 ---
 title: 제자리에, 준비, 곱하기!
-description: 초등학교에서 배운 곱셈 방법도 맞지만, 컴퓨터는 훨씬 더 빠른 알고리즘을 사용한다.
-url: www.quantamagazine.org/the-math-behind-a-faster-multiplication-algorithm-20190923/
 date: 2019-09-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-math-behind-a-faster-multiplication-algorithm-20190923/
+>
+> 초등학교에서 배운 곱셈 방법도 맞지만, 컴퓨터는 훨씬 더 빠른 알고리즘을 사용한다.
 
 ![두 명의 경쟁자가 육상 트랙의 각자 레인에서 25 곱하기 63 문제를 푸는 경주를 벌이고 있다. 한 경쟁자는 표준 곱셈 알고리즘을 사용하고, 다른 경쟁자는 카라츠바 방법을 사용한다.](https://www.quantamagazine.org/wp-content/uploads/2019/09/Multiplication_2880x1620_Lede.jpg)
 

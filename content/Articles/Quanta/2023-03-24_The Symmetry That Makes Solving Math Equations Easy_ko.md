@@ -1,9 +1,12 @@
 ---
 title: 방정식을 쉽게 푸는 대칭성의 힘
-description: 이차방정식 공식이 왜 작동하는지, 그리고 이차방정식이 삼차방정식보다 훨씬 쉬운 이유를 알아본다.
-url: www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/
 date: 2023-03-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/
+>
+> 이차방정식 공식이 왜 작동하는지, 그리고 이차방정식이 삼차방정식보다 훨씬 쉬운 이유를 알아본다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/03/Academy-March2023-byRobertNeubecker-Lede-scaled.webp)
 

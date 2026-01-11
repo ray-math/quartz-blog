@@ -1,9 +1,12 @@
 ---
 title: 확장 그래프가 동기화된다는 새로운 증명
-description: 이 증명은 연결된 진동자들이 동시에 움직이게 만드는 새로운 조건을 확립한다.
-url: www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/
 date: 2023-07-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/
+>
+> 이 증명은 연결된 진동자들이 동시에 움직이게 만드는 새로운 조건을 확립한다.
 
 ## 서론
 

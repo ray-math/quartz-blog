@@ -1,9 +1,13 @@
 ---
 title: 마조리 라이스의 비밀 오각형들
-url: www.quantamagazine.org/marjorie-rices-secret-pentagons-20170711/
-description: 1970년대에 네 가지 새로운 테셀레이션 오각형을 발견한 캘리포니아 주부가 94세로 별세했다.
 date: 2017-07-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/marjorie-rices-secret-pentagons-20170711/
+>
+> 1970년대에 네 가지 새로운 테셀레이션 오각형을 발견한 캘리포니아 주부가 94세로 별세했다.
+
 ![Marjorie Rice](https://www.quantamagazine.org/wp-content/uploads/2017/07/Marjorie-Rice_InlineLede.jpg)
 
 1970년대 마조리 라이스의 모습을 담은 합성 사진.

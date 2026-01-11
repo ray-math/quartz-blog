@@ -1,9 +1,12 @@
 ---
 title: 수학자들, 2차원 양자 중력이 정말로 작동함을 증명하다
-description: 세 편의 기념비적 논문에서 수학자 팀이 리우빌 양자장론—2차원 양자 중력 모형—의 세부 사항을 완전히 해결했다.
-url: www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/
 date: 2021-06-17
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/
+>
+> 세 편의 기념비적 논문에서 수학자 팀이 리우빌 양자장론—2차원 양자 중력 모형—의 세부 사항을 완전히 해결했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/06/Quantum-Field-Theory_Liouville-Bridge_Lede.jpg)
 

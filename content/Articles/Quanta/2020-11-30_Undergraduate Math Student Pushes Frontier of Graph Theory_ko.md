@@ -1,9 +1,12 @@
 ---
 title: 학부생이 그래프 이론의 최전선을 밀어붙이다
-url: www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
-description: 21세의 애슈윈 사는 선배 수학자들이 말하기를, 대학생으로서는 거의 전례가 없는 연구 업적을 쌓아올렸다.
 date: 2020-11-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mit-undergraduate-math-student-pushes-frontier-of-graph-theory-20201130/
+>
+> 21세의 애슈윈 사는 선배 수학자들이 말하기를, 대학생으로서는 거의 전례가 없는 연구 업적을 쌓아올렸다.
 
 ![애슈윈 사가 공원의 조각상 앞에 서 있는 사진](https://www.quantamagazine.org/wp-content/uploads/2020/11/Ashwin-Sah_2880_Lede.jpg)
 

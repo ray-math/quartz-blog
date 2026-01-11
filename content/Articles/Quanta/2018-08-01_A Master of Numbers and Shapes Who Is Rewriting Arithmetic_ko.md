@@ -1,9 +1,12 @@
 ---
 title: 산술 기하학을 다시 쓰고 있는 숫자와 도형의 대가
-url: www.quantamagazine.org/peter-scholze-becomes-one-of-the-youngest-fields-medalists-ever-20180801/
-description: 30세의 수학 천재 페터 숄체는 "산술 기하학에서 일으킨 혁명"으로 역대 최연소 필즈상 수상자 중 한 명이 되었다.
 date: 2018-08-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/peter-scholze-becomes-one-of-the-youngest-fields-medalists-ever-20180801/
+>
+> 30세의 수학 천재 페터 숄체는 "산술 기하학에서 일으킨 혁명"으로 역대 최연소 필즈상 수상자 중 한 명이 되었다.
 
 ![페터 숄체 박사의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/08/Peter_2880x1620.jpg)
 

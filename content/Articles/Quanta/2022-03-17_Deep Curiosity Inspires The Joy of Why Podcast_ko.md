@@ -1,9 +1,12 @@
 ---
 title: 깊은 호기심이 만들어낸 팟캐스트 왜의 기쁨
-url: www.quantamagazine.org/deep-curiosity-inspires-the-joy-of-why-podcast-20220317/
-description: 저명한 수학자이자 작가인 스티븐 스트로가츠가 새로운 Quanta Magazine 팟캐스트에서 전문가들과 나눈 대화를 통해 영원한 미스터리에 대한 평생의 탐구를 어떻게 풀어가는지 설명한다.
 date: 2022-03-17
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/deep-curiosity-inspires-the-joy-of-why-podcast-20220317/
+>
+> 저명한 수학자이자 작가인 스티븐 스트로가츠가 새로운 Quanta Magazine 팟캐스트에서 전문가들과 나눈 대화를 통해 영원한 미스터리에 대한 평생의 탐구를 어떻게 풀어가는지 설명한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/03/Joy-of-Why-intro-illustration_2880x1620_Lede.jpg)
 

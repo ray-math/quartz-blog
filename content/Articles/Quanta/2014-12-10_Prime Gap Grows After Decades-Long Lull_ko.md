@@ -1,9 +1,12 @@
 ---
 title: 76년 만에 밝혀진 소수 간격의 비밀
-description: 소수 쌍이 얼마나 가까이 붙어 있을 수 있는지를 밝힌 지 1년 만에, 수학자들이 소수가 얼마나 멀리 떨어질 수 있는지에 관한 76년 만의 첫 번째 주요 진전을 이뤄냈다.
-url: www.quantamagazine.org/mathematicians-prove-conjecture-on-big-prime-number-gaps-20141210/
 date: 2014-12-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-prove-conjecture-on-big-prime-number-gaps-20141210/
+>
+> 소수 쌍이 얼마나 가까이 붙어 있을 수 있는지를 밝힌 지 1년 만에, 수학자들이 소수가 얼마나 멀리 떨어질 수 있는지에 관한 76년 만의 첫 번째 주요 진전을 이뤄냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2014/12/ErdosTao_Front1.jpg)
 

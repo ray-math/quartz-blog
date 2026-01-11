@@ -1,9 +1,12 @@
 ---
 title: 범주론으로 수학은 등호에서 벗어난다
-description: 두 편의 기념비적 저작이 많은 수학자들로 하여금 등호 사용을 피하게 만들었다. 그 과정이 항상 순탄했던 것은 아니다.
-url: www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/
 date: 2019-10-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/
+>
+> 두 편의 기념비적 저작이 많은 수학자들로 하여금 등호 사용을 피하게 만들었다. 그 과정이 항상 순탄했던 것은 아니다.
 
 ## 서론
 

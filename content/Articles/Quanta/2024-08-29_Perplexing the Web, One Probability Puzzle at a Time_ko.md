@@ -1,9 +1,12 @@
 ---
 title: 확률 퍼즐로 인터넷을 혼란에 빠뜨리다
-url: www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/
-description: 수학자 다니엘 리트가 단순해 보이지만 반직관적인 확률 퍼즐 시리즈로 소셜 미디어 사용자들을 혼란에 빠뜨렸다.
 date: 2024-08-29
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/perplexing-the-web-one-probability-puzzle-at-a-time-20240829/
+>
+> 수학자 다니엘 리트가 단순해 보이지만 반직관적인 확률 퍼즐 시리즈로 소셜 미디어 사용자들을 혼란에 빠뜨렸다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/08/Daniel_Litt-cr.MartaIwanek-Lede-scaled.webp)
 

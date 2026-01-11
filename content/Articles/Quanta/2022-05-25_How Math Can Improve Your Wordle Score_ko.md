@@ -1,9 +1,12 @@
 ---
 title: 수학으로 워들 점수를 향상시키는 법
-url: www.quantamagazine.org/how-math-can-improve-your-wordle-score-20220525/
-description: 정보 이론을 조금만 알아도 워들 게임을 분석하고 개선할 수 있다.
 date: 2022-05-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-math-can-improve-your-wordle-score-20220525/
+>
+> 정보 이론을 조금만 알아도 워들 게임을 분석하고 개선할 수 있다.
 
 ![갈색 침팬지가 노란색 스마트폰을 가지고 놀고 있다. 머리 위에는 'Bloat', 'Watch', 'Chimp'라고 적힌 세 개의 워들 블록이 있다](https://www.quantamagazine.org/wp-content/uploads/2022/05/Chimp_Wordle_2880x1620_Lede.jpg)
 

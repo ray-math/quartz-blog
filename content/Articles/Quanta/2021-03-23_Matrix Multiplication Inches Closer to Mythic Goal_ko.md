@@ -1,9 +1,12 @@
 ---
 title: 행렬 곱셈, 신화적 목표에 한 걸음 더 다가서다
-description: 최근 논문이 두 행렬을 곱하는 가장 빠른 기록을 세웠다. 그러나 이는 동시에 수십 년간 개선을 이끌어온 한 방법론의 한계를 의미한다.
-url: www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/
 date: 2021-03-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/
+>
+> 최근 논문이 두 행렬을 곱하는 가장 빠른 기록을 세웠다. 그러나 이는 동시에 수십 년간 개선을 이끌어온 한 방법론의 한계를 의미한다.
 
 ![행렬 곱셈 속도 개선을 보여주는 그래픽](https://www.quantamagazine.org/wp-content/uploads/2021/03/Matrix_multiplication_2880x1620_MOBILE_Lede.jpg)
 

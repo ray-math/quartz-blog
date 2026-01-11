@@ -1,9 +1,12 @@
 ---
 title: 기하학의 가장 오래된 문제들을 되살리는 새로운 수학
-description: 상대적으로 젊은 이론을 사용하여, 수학자들이 수학의 시작과 함께 제기된 질문들에 답하기 시작했다.
-url: www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/
 date: 2025-09-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/
+>
+> 상대적으로 젊은 이론을 사용하여, 수학자들이 수학의 시작과 함께 제기된 질문들에 답하기 시작했다.
 
 ![과거에 석판을 들고 있는 그리스인과 현재에 그 석판의 새 버전을 들고 있는 여성이 연결되어 있는 모습](https://www.quantamagazine.org/wp-content/uploads/2025/09/RicherGeometry-crKristinaArmitage-Lede-scaled.webp)
 

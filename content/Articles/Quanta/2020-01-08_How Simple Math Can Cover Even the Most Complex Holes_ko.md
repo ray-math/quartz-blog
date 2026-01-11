@@ -1,9 +1,12 @@
 ---
 title: 단순한 수학으로 가장 복잡한 구멍까지 덮는 방법
-description: 특정 너비의 모든 도형을 덮을 수 있는 가장 작은 도형이 무엇인지 아무도 모른다. 그러나 고등학교 기하학이 우리를 답에 더 가까이 데려가고 있다.
-url: www.quantamagazine.org/how-simple-math-can-cover-even-the-most-complex-holes-20200108/
 date: 2020-01-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-simple-math-can-cover-even-the-most-complex-holes-20200108/
+>
+> 특정 너비의 모든 도형을 덮을 수 있는 가장 작은 도형이 무엇인지 아무도 모른다. 그러나 고등학교 기하학이 우리를 답에 더 가까이 데려가고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/01/UniversalCover_2880x1620_Lede.jpg)
 

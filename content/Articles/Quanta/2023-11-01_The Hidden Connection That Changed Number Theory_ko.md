@@ -1,9 +1,12 @@
 ---
 title: 수론을 변화시킨 숨겨진 연결
-url: www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/
-description: 이차 상호법칙은 수학의 많은 영역에 숨어 있다. 이를 증명하면서 수론학자들은 자신들의 분야 전체를 다시 상상하게 되었다.
 date: 2023-11-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/
+>
+> 이차 상호법칙은 수학의 많은 영역에 숨어 있다. 이를 증명하면서 수론학자들은 자신들의 분야 전체를 다시 상상하게 되었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/11/QuadraticReciprocity-byKristinaArmitage-Lede-scaled.webp)
 

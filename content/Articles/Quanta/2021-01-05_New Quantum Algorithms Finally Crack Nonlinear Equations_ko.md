@@ -1,9 +1,12 @@
 ---
 title: 비선형 방정식을 드디어 풀어낸 새로운 양자 알고리즘
-description: 두 연구팀이 비선형 시스템을 먼저 선형 시스템으로 위장시켜 양자 컴퓨터로 처리하는 서로 다른 방법을 찾아냈다.
-url: www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/
 date: 2021-01-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/
+>
+> 두 연구팀이 비선형 시스템을 먼저 선형 시스템으로 위장시켜 양자 컴퓨터로 처리하는 서로 다른 방법을 찾아냈다.
 
 ## 서론
 

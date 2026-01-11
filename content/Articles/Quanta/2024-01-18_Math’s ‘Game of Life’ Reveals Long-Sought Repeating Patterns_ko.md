@@ -1,9 +1,12 @@
 ---
 title: 수학의 생명 게임에서 오랫동안 찾아 헤매던 반복 패턴이 모두 발견되다
-url: www.quantamagazine.org/maths-game-of-life-reveals-long-sought-repeating-patterns-20240118/
-description: 유명한 셀룰러 오토마타인 존 콘웨이의 생명 게임에서 모든 가능한 길이의 주기적 패턴이 존재함이 밝혀졌다.
 date: 2024-01-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/maths-game-of-life-reveals-long-sought-repeating-patterns-20240118/
+>
+> 유명한 셀룰러 오토마타인 존 콘웨이의 생명 게임에서 모든 가능한 길이의 주기적 패턴이 존재함이 밝혀졌다.
 
 ## 서론
 

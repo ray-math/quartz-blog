@@ -1,9 +1,12 @@
 ---
 title: 무작위 곡면을 위한 항공 교통 관제
-url: www.quantamagazine.org/air-traffic-control-for-random-surfaces-20160805/
-description: 수학자들은 대규모 무작위 도형 집단에서 공통점을 찾는 데 오랫동안 어려움을 겪어왔다—최근까지는 말이다.
 date: 2016-08-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/air-traffic-control-for-random-surfaces-20160805/
+>
+> 수학자들은 대규모 무작위 도형 집단에서 공통점을 찾는 데 오랫동안 어려움을 겪어왔다—최근까지는 말이다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/08/air_traffic_lead_2.jpg)
 

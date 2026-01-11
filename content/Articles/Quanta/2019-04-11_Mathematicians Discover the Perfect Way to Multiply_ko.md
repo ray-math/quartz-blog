@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 발견한 완벽한 곱셈 방법
-url: www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
-description: 큰 수를 작은 수로 쪼개는 기법을 통해, 연구자들이 수학의 기본적인 속도 한계를 다시 썼다.
 date: 2019-04-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/
+>
+> 큰 수를 작은 수로 쪼개는 기법을 통해, 연구자들이 수학의 기본적인 속도 한계를 다시 썼다.
 
 ![Art for "Mathematicians Discover the Perfect Way to Multiply"](https://www.quantamagazine.org/wp-content/uploads/2019/04/Multiplication_1620sq_Lede-Mobile.gif)
 

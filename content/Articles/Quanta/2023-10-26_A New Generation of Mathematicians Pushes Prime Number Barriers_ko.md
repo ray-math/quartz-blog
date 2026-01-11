@@ -1,9 +1,12 @@
 ---
 title: 소수 분포의 장벽을 뛰어넘는 새로운 세대의 수학자들
-description: 새로운 연구가 소수의 분포를 이해하는 데 오랫동안 가로막혔던 장벽을 공략하고 있다.
-url: www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/
 date: 2023-10-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/
+>
+> 새로운 연구가 소수의 분포를 이해하는 데 오랫동안 가로막혔던 장벽을 공략하고 있다.
 
 ## 서론
 

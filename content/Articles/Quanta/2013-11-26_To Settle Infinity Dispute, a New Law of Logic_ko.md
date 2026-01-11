@@ -1,9 +1,12 @@
 ---
 title: 무한의 본질을 결정할 새로운 논리 법칙
-url: www.quantamagazine.org/to-settle-infinity-question-a-new-law-of-mathematics-20131126/
-description: 무한의 본질을 결정하기 위해, 수학자들은 두 가지 새로운 논리 공리 중 하나를 선택해야 한다. 그들의 결정은 수학적 진리의 미래를 형성할 것이다.
 date: 2013-11-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/to-settle-infinity-question-a-new-law-of-mathematics-20131126/
+>
+> 무한의 본질을 결정하기 위해, 수학자들은 두 가지 새로운 논리 공리 중 하나를 선택해야 한다. 그들의 결정은 수학적 진리의 미래를 형성할 것이다.
 
 ![나선형 계단 이미지.](https://www.quantamagazine.org/wp-content/uploads/2013/11/infinite_stairwell_span02.jpg)
 

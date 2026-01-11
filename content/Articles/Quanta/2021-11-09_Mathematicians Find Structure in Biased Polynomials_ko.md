@@ -1,9 +1,12 @@
 ---
 title: 편향된 다항식에서 구조를 찾아낸 수학자들
-description: 새로운 연구가 다항식의 랭크와 특정 출력값을 선호하는 정도 사이의 더 긴밀한 연결을 확립했다.
-url: www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/
 date: 2021-11-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/
+>
+> 새로운 연구가 다항식의 랭크와 특정 출력값을 선호하는 정도 사이의 더 긴밀한 연결을 확립했다.
 
 ![다항식과 그 인수들을 레고 블록으로 표현한 이미지](https://www.quantamagazine.org/wp-content/uploads/2021/11/Polyniomials_2880x1620_Lede.v2.jpg)
 

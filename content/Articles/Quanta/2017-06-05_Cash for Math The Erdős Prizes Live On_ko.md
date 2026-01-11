@@ -1,9 +1,12 @@
 ---
 title: "수학 문제에 현상금을 걸다,  에르되시의 상금은 계속된다"
-description: 파울 에르되시는 수백 개의 미해결 수학 문제에 소액의 현상금을 걸었다. 지난 20년 동안 그중 극소수만이 해결되었다.
-url: www.quantamagazine.org/cash-for-math-the-erdos-prizes-live-on-20170605/
 date: 2017-06-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/cash-for-math-the-erdos-prizes-live-on-20170605/
+>
+> 파울 에르되시는 수백 개의 미해결 수학 문제에 소액의 현상금을 걸었다. 지난 20년 동안 그중 극소수만이 해결되었다.
 
 Archives of the Mathematisches Forschungsinstitut Oberwolfach ©Gabriella Bollobas![Paul Erdős](https://www.quantamagazine.org/wp-content/uploads/2017/06/Erdos_Lede560.jpg)
 

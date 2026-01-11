@@ -1,9 +1,12 @@
 ---
 title: 기하학의 황무지에서 수학자들이 구를 재정의하다
-description: 고차원 구는 수학자들이 생각했던 것보다 훨씬 더 다양한 구조를 가질 수 있다.
-url: www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/
 date: 2023-11-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-the-wild-west-of-geometry-mathematicians-redefine-the-sphere-20231107/
+>
+> 고차원 구는 수학자들이 생각했던 것보다 훨씬 더 다양한 구조를 가질 수 있다.
 
 ## 서론
 

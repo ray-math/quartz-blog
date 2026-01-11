@@ -1,9 +1,12 @@
 ---
 title: 박사 학위 없는 반항아
-description: 양자전기역학, 기후변화, 그리고 최신 연구 프로젝트에 관한 수리물리학자 프리먼 다이슨과의 대화.
-url: www.quantamagazine.org/a-math-puzzle-worthy-of-freeman-dyson-20140326/
 date: 2014-03-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-math-puzzle-worthy-of-freeman-dyson-20140326/
+>
+> 양자전기역학, 기후변화, 그리고 최신 연구 프로젝트에 관한 수리물리학자 프리먼 다이슨과의 대화.
 
 ## 서론
 

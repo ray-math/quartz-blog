@@ -1,9 +1,12 @@
 ---
 title: 새로운 보편 법칙의 극단에서
-description: 물리학과 수학 전반에 걸쳐 나타나는 신비로운 통계 법칙을 설명하는 강력한 이론이 등장했다.
-url: www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/
 date: 2014-10-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/
+>
+> 물리학과 수학 전반에 걸쳐 나타나는 신비로운 통계 법칙을 설명하는 강력한 이론이 등장했다.
 
 각 섬마다 한 종의 거북이가 살고 있고, 모든 섬이—예를 들어 표류하는 잔해 뗏목으로—연결되어 있는 군도를 상상해보자. 거북이들이 서로의 먹이 공급원을 드나들며 상호작용하면서 개체군은 변동한다.
 

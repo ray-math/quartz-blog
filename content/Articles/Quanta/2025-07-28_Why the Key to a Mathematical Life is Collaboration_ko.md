@@ -1,9 +1,12 @@
 ---
 title: 수학적 삶의 핵심이 협력인 이유
-description: 에르되시 수가 1인 펀 청이 인간적·수학적 연결의 중요성을 이야기한다.
-url: www.quantamagazine.org/why-the-key-to-a-mathematical-life-is-collaboration-20250728/
 date: 2025-07-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/why-the-key-to-a-mathematical-life-is-collaboration-20250728/
+>
+> 에르되시 수가 1인 펀 청이 인간적·수학적 연결의 중요성을 이야기한다.
 
 ![보라색 정장을 입고 야외에 서 있는 여성](https://www.quantamagazine.org/wp-content/uploads/2025/07/FanChungGraham-cr.PeggyPeattie-Lede-scaled.webp)
 

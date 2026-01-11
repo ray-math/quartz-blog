@@ -1,9 +1,12 @@
 ---
 title: 선(禪)과 퍼즐 풀이의 기술
-url: www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/
-description: 때로는 퍼즐을 푸는 행위 자체가 숨겨진 통찰을 드러낸다.
 date: 2021-02-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/zen-and-the-art-of-puzzle-solving-20210210/
+>
+> 때로는 퍼즐을 푸는 행위 자체가 숨겨진 통찰을 드러낸다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/02/Ants_2560_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 2020년 우리가 가장 좋아한 온라인 댓글들
-url: www.quantamagazine.org/our-favorite-comments-of-the-year-20201223/
-description: 온라인 댓글 플랫폼은 사람들의 최선과 최악을 모두 끌어낸다. 격동의 한 해가 끝나가는 시점에, Quanta의 편집자들이 여러분이 남긴 말 중 가장 인상 깊었던 것들을 소개한다.
 date: 2020-12-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/our-favorite-comments-of-the-year-20201223/
+>
+> 온라인 댓글 플랫폼은 사람들의 최선과 최악을 모두 끌어낸다. 격동의 한 해가 끝나가는 시점에, Quanta의 편집자들이 여러분이 남긴 말 중 가장 인상 깊었던 것들을 소개한다.
 
 ## 서론
 

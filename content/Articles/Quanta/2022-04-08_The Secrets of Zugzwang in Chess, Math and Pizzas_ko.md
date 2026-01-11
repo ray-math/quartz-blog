@@ -1,9 +1,12 @@
 ---
 title: 체스, 수학, 피자에 숨겨진 추크츠방의 비밀
-description: 상대가 먼저 가는데도 이기는 방법에 담긴 마법과 수학을 알아본다.
-url: www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/
 date: 2022-04-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/
+>
+> 상대가 먼저 가는데도 이기는 방법에 담긴 마법과 수학을 알아본다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/Zugzwang_2880_Lede.jpg)
 

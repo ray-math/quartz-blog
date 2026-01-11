@@ -1,9 +1,12 @@
 ---
 title: 존 어셜- NFL 선수에서 수학자로
-url: www.quantamagazine.org/john-urschel-from-nfl-player-to-mathematician-20200225/
-description: 볼티모어 레이븐스에서 프로 미식축구 선수 생활을 은퇴하고 수학자가 된 존 어셜이 진행자 스티븐 스트로가츠와 함께 자신을 그래프 이론의 세계로 끌어들인 매혹에 대해 이야기한다.
 date: 2020-02-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/john-urschel-from-nfl-player-to-mathematician-20200225/
+>
+> 볼티모어 레이븐스에서 프로 미식축구 선수 생활을 은퇴하고 수학자가 된 존 어셜이 진행자 스티븐 스트로가츠와 함께 자신을 그래프 이론의 세계로 끌어들인 매혹에 대해 이야기한다.
 
 존 어셜(John Urschel)은 매사추세츠 공과대학(MIT)에서 수학 박사 과정을 밟고 있는 학생으로, 이미 여러 편의 주목받는 논문을 발표했다. 더욱 놀라운 것은 박사 과정을 시작하기 전 그가 볼티모어 레이븐스에서 3시즌 동안 프로 미식축구 선수로 뛰었다는 사실이다. 어셜은 진행자 스티븐 스트로가츠와 함께 두 개의 고된 커리어를 병행했던 이야기, 미식축구를 그만두고 수학을 선택한 결정, 그리고 그를 매혹시키는 수학 문제들에 대해 이야기한다. 이 에피소드는 카밀 피터슨이 제작했다. [QuantaMagazine.org](http://quantamagazine.org/)에서 더 많은 내용을 읽을 수 있다. 제작 및 오리지널 음악은 Story Mechanics에서 담당했다.
 

@@ -1,9 +1,12 @@
 ---
 title: 수학의 가장 오래된 문제에 새로운 답이 나오다
-description: 새로운 증명이 정수를 단위분수의 합으로 표현하는 방법의 편재성에 관한 수십 년 된 결과를 크게 강화했다.
-url: www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/
 date: 2022-03-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/maths-oldest-problem-ever-gets-a-new-answer-20220309/
+>
+> 새로운 증명이 정수를 단위분수의 합으로 표현하는 방법의 편재성에 관한 수십 년 된 결과를 크게 강화했다.
 
 ![직사각형이 다섯 개의 분수로 나뉘어진 모습.](https://www.quantamagazine.org/wp-content/uploads/2022/03/One_2600_Lede_mobile.jpg)
 

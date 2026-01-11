@@ -1,9 +1,12 @@
 ---
 title: 평면에서 곡면을 창조하는 과학자들
-url: www.quantamagazine.org/with-kirigami-scientists-conjure-curves-from-flatness-20150106/
-description: 연구자들이 평면에 곡률을 부여하는 일련의 규칙을 발견했다. 이를 통해 사실상 무제한에 가까운 범위의 3차원 구조를 형성할 수 있게 되었다.
 date: 2015-01-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/with-kirigami-scientists-conjure-curves-from-flatness-20150106/
+>
+> 연구자들이 평면에 곡률을 부여하는 일련의 규칙을 발견했다. 이를 통해 사실상 무제한에 가까운 범위의 3차원 구조를 형성할 수 있게 되었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/01/Popupology_1.jpg)
 

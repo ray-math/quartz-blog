@@ -1,9 +1,12 @@
 ---
 title: 중간에서 수학 오케스트라를 지휘하다
-description: 에밀리 릴은 고차 범주론의 기초를 다시 쓰는 동시에 수학을 더 포용적으로 만들기 위해 노력하고 있다.
-url: www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/
 date: 2020-09-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/
+>
+> 에밀리 릴은 고차 범주론의 기초를 다시 쓰는 동시에 수학을 더 포용적으로 만들기 위해 노력하고 있다.
 
 ![야외에서 비올라를 연주하는 수학자 에밀리 릴](https://www.quantamagazine.org/wp-content/uploads/2020/09/Emily-Riehl_2880_Lede.jpg)
 

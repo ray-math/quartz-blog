@@ -1,9 +1,12 @@
 ---
 title: 네트워크 분석이 밝혀낸 말라리아의 치명적인 변신술
-description: 자연에서 가장 변이가 심한 유전자들 사이에 공유되는 영역을 조사함으로써, 말라리아 연구자들은 이 치명적인 기생충을 이해하는 퍼즐을 맞춰가고 있다.
-url: www.quantamagazine.org/networks-untangle-malarias-deadly-shuffle-20151015/
 date: 2015-10-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/networks-untangle-malarias-deadly-shuffle-20151015/
+>
+> 자연에서 가장 변이가 심한 유전자들 사이에 공유되는 영역을 조사함으로써, 말라리아 연구자들은 이 치명적인 기생충을 이해하는 퍼즐을 맞춰가고 있다.
 
 "카드 한 벌을 생각해보세요." [댄 라레모어(Dan Larremore)](http://danlarremore.com/)가 말했다. 이제 가위를 들고 52장의 카드를 조각조각 잘라보자. 공중으로 던지면 카드 조각들이 비처럼 쏟아져 내려오고, 조각들은 원래 있던 자리와는 전혀 다른 곳에 떨어진다. 이제 이 조각들을 테이프로 이어 붙여서 52장의 새로운 카드를 만든다. 각 카드는 원래 카드들의 모자이크가 된다. 48시간 후, 이 과정을 반복한다.
 

@@ -1,9 +1,12 @@
 ---
 title: 코리나 타르니타와 사회적 곤충의 심오한 수학
-url: www.quantamagazine.org/corina-tarnita-and-the-deep-mathematics-of-social-insects-20200218/
-description: 수리생물학자 코리나 타르니타가 정량적 모델링이 어떻게 나미비아 요정 원의 미스터리를 풀었는지 설명한다.
 date: 2020-02-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/corina-tarnita-and-the-deep-mathematics-of-social-insects-20200218/
+>
+> 수리생물학자 코리나 타르니타가 정량적 모델링이 어떻게 나미비아 요정 원의 미스터리를 풀었는지 설명한다.
 
 프린스턴 대학교의 생태학 및 이론생물학 교수인 코리나 타르니타(Corina Tarnita)는 수학적 모델링의 실증적 힘을 생물학 시스템 연구에 가져온다. 그녀는 진행자 스티븐 스트로가츠(Steven Strogatz)에게 이러한 접근이 흰개미와 같은 사회적 곤충의 행동을 어떻게 밝혀내는지, 그리고 나미비아의 요정 원(fairy circles) 미스터리를 어떻게 해결했는지 설명한다.
 

@@ -1,9 +1,12 @@
 ---
 title: "최적해 탐색의 한계,  놀라운 발견들"
-description: 최적화 문제의 해를 찾는 알고리즘은 기계 추론의 핵심이다. 새로운 연구 결과들이 이 알고리즘의 놀라운 한계를 밝혀냈다.
-url: www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/
 date: 2021-11-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/surprising-limits-discovered-in-quest-for-optimal-solutions-20211101/
+>
+> 최적화 문제의 해를 찾는 알고리즘은 기계 추론의 핵심이다. 새로운 연구 결과들이 이 알고리즘의 놀라운 한계를 밝혀냈다.
 
 ![항공 여행 네트워크를 보여주는 그래픽](https://www.quantamagazine.org/wp-content/uploads/2021/11/Local_Minima_2880x1620_Lede.jpg)
 

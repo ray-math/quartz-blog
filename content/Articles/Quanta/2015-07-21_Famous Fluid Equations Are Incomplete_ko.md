@@ -1,9 +1,12 @@
 ---
 title: 유명한 유체 방정식은 불완전하다
-description: 자연의 입자 묘사와 유체 묘사를 연결하려는 115년간의 노력이 수학자들을 예상치 못한 답으로 이끌었다.
-url: www.quantamagazine.org/famous-fluid-equations-are-incomplete-20150721/
 date: 2015-07-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/famous-fluid-equations-are-incomplete-20150721/
+>
+> 자연의 입자 묘사와 유체 묘사를 연결하려는 115년간의 노력이 수학자들을 예상치 못한 답으로 이끌었다.
 
 1900년, 위대한 수학자 다비트 힐베르트(David Hilbert)는 새로운 세기에 탐구할 가치가 있는 23개의 미해결 문제 목록을 제시했다. 이 목록은 수학계의 로드맵이 되어, 수학자들이 하나씩 문제를 해결해 나가며 수학적 우주의 미지 영역을 탐험하는 안내자 역할을 했다. 그러나 한 문제는 다른 것들과 달랐다. 그것은 수학적 우주와 현실 세계를 연결하도록 요구했다.
 

@@ -1,9 +1,12 @@
 ---
 title: 수학으로 복원하는 650년 전 걸작
-description: 새로운 수학적 기법들이 어떻게 650년 된 예술 작품을 되살리는 데 사용될 수 있는지를 보여준다.
-url: www.quantamagazine.org/using-mathematics-to-repair-a-masterpiece-20160929/
 date: 2016-09-29
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/using-mathematics-to-repair-a-masterpiece-20160929/
+>
+> 새로운 수학적 기법들이 어떻게 650년 된 예술 작품을 되살리는 데 사용될 수 있는지를 보여준다.
 
 수학은 어디에나 있다. 어디를 봐야 하는지 안다면 말이다.
 

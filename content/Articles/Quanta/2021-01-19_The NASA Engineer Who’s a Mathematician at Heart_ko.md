@@ -1,9 +1,12 @@
 ---
 title: 수학자의 마음을 가진 NASA 엔지니어
-description: 크리스틴 다든은 40년간 NASA에서 일하며 초음속 비행기를 더 조용하게 만드는 데 기여했고, 여성들이 따를 수 있는 길을 개척했다.
-url: www.quantamagazine.org/the-nasa-engineer-whos-a-mathematician-at-heart-20210119/
 date: 2021-01-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-nasa-engineer-whos-a-mathematician-at-heart-20210119/
+>
+> 크리스틴 다든은 40년간 NASA에서 일하며 초음속 비행기를 더 조용하게 만드는 데 기여했고, 여성들이 따를 수 있는 길을 개척했다.
 
 ![회색 정장을 입고 집에서 책을 읽고 있는 크리스틴 다든의 사진](https://www.quantamagazine.org/wp-content/uploads/2021/01/Christine-Darden_2600_Lede_01.jpg)
 

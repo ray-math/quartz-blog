@@ -1,9 +1,12 @@
 ---
 title: 수학자가 80년 된 대수학 추측을 반증하다
-description: 결정 구조의 대칭성 속에서, 한 박사후 연구원이 곱셈 역원에 관한 기본 추측의 반례를 발견했다.
-url: www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/
 date: 2021-04-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/
+>
+> 결정 구조의 대칭성 속에서, 한 박사후 연구원이 곱셈 역원에 관한 기본 추측의 반례를 발견했다.
 
 ## 서론
 

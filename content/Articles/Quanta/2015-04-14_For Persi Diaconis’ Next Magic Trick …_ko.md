@@ -1,9 +1,12 @@
 ---
 title: 퍼시 다이아코니스의 다음 마술은—카드를 쓸어섞기의 수학
-description: 수십 년간 카드 섞기를 분석해온 수학자가 마지막 숙적 쓰무싱(smooshing)에 도전한다.
-url: www.quantamagazine.org/persi-diaconis-mixes-math-and-magic-20150414/
 date: 2015-04-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/persi-diaconis-mixes-math-and-magic-20150414/
+>
+> 수십 년간 카드 섞기를 분석해온 수학자가 마지막 숙적 쓰무싱(smooshing)에 도전한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/04/PersiDiaconis.jpg)
 

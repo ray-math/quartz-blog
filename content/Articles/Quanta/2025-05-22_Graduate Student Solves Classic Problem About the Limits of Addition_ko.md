@@ -1,9 +1,12 @@
 ---
 title: 대학원생이 덧셈의 한계에 관한 고전적 문제를 해결하다
-description: 새로운 증명이 덧셈이 불가능해질 때 나타나는 숨겨진 패턴을 밝혀낸다.
-url: www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/
 date: 2025-05-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/
+>
+> 새로운 증명이 덧셈이 불가능해질 때 나타나는 숨겨진 패턴을 밝혀낸다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/05/Sum-Free-Sets_crNash-Weerasekera-Lede.webp)
 

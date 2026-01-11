@@ -1,9 +1,12 @@
 ---
 title: 알고리즘으로 사회 정의를 추구하는 레디엣 아베베
-url: www.quantamagazine.org/rediet-abebe-on-using-algorithms-for-social-justice-20210405/
-description: 컴퓨터 과학자 레디엣 아베베의 응용 수학에 대한 열정은 빈곤과 사회적 불평등 문제를 해결하려는 그녀의 열정과 긴밀히 연결되어 있다.
 date: 2021-04-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/rediet-abebe-on-using-algorithms-for-social-justice-20210405/
+>
+> 컴퓨터 과학자 레디엣 아베베의 응용 수학에 대한 열정은 빈곤과 사회적 불평등 문제를 해결하려는 그녀의 열정과 긴밀히 연결되어 있다.
 
 알고리즘이 사회를 더 공평하게 만들 수 있을까? 캘리포니아 대학교 버클리의 컴퓨터 과학자 레디엣 아베베(Rediet Abebe)는 데이터 기반 머신러닝이 사회적·경제적 전략의 결과를 최적화하는 데 도움이 될 수 있음을 보여주었다. 이번 주 에피소드에서 진행자 스티븐 스트로가츠(Steven Strogatz)는 아베베와 함께 에티오피아에서의 성장 경험이 어떻게 미국의 차별을 다른 시각으로 보게 했는지, 그리고 왜 그녀의 연구 관심사와 빈곤, 포용성, 다양성에 대한 관심이 분리될 수 없는지에 대해 이야기한다. 이 에피소드는 다나 비알렉(Dana Bialek)이 제작했다. 더 자세한 내용은 [Quantamagazine.org](http://quantamagazine.org/)에서 확인할 수 있다. 제작 및 오리지널 음악은 Story Mechanics가 맡았다.
 

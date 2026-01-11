@@ -1,9 +1,12 @@
 ---
 title: 컴퓨터 과학자들, 콜라츠 추측을 궁지로 몰아넣다
-description: SAT 솔빙이라는 강력한 기법이 악명 높은 콜라츠 추측에 통할 수 있을까? 하지만 성공 확률은 낮다.
-url: www.quantamagazine.org/computer-scientists-attempt-to-corner-the-collatz-conjecture-20200826/
 date: 2020-08-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/computer-scientists-attempt-to-corner-the-collatz-conjecture-20200826/
+>
+> SAT 솔빙이라는 강력한 기법이 악명 높은 콜라츠 추측에 통할 수 있을까? 하지만 성공 확률은 낮다.
 
 ![컴퓨터 프로세서들 사이를 걷고 있는 Marijn Heule의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/08/keller_2880x1620_Lede.jpg)
 

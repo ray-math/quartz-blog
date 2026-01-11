@@ -1,9 +1,12 @@
 ---
 title: 두 기하학적 세계를 연결하는 거울 대칭의 수학
-description: 물리학자들이 우연히 발견한 놀라운 수학적 일치로부터 수십 년이 지난 지금, 연구자들은 두 개의 전혀 다른 기하학적 우주 사이의 연결을 이해하는 데 가까워지고 있다.
-url: www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/
 date: 2018-04-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/
+>
+> 물리학자들이 우연히 발견한 놀라운 수학적 일치로부터 수십 년이 지난 지금, 연구자들은 두 개의 전혀 다른 기하학적 우주 사이의 연결을 이해하는 데 가까워지고 있다.
 
 ![Illustration for "Mathematicians Explore Mirror Link Between Two Geometric Worlds"](https://www.quantamagazine.org/wp-content/uploads/2018/04/Mirror_Symmetry_2880x1620.jpg)
 

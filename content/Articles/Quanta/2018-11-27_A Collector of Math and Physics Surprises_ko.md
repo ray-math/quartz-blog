@@ -1,9 +1,12 @@
 ---
 title: 수학과 물리학의 놀라움을 수집하는 사람
-url: www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/
-description: 도키에다 타다시는 어린아이의 눈으로 일상 세계를 바라봄으로써 새로운 물리 현상을 발견한다.
 date: 2018-11-27
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/
+>
+> 도키에다 타다시는 어린아이의 눈으로 일상 세계를 바라봄으로써 새로운 물리 현상을 발견한다.
 
 ![도키에다 타다시의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/11/Tokieda_2880x1620_Lede.jpg)
 

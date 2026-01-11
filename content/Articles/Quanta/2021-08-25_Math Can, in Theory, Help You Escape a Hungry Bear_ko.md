@@ -1,9 +1,12 @@
 ---
 title: 수학은 이론적으로 배고픈 곰으로부터 탈출하는 데 도움을 줄 수 있다
-description: 독자들이 기하학 실력을 활용해 위험한 퍼즐에서 살아남은 방법.
-url: www.quantamagazine.org/math-can-in-theory-help-you-escape-a-hungry-bear-20210825/
 date: 2021-08-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-can-in-theory-help-you-escape-a-hungry-bear-20210825/
+>
+> 독자들이 기하학 실력을 활용해 위험한 퍼즐에서 살아남은 방법.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/06/Puzzle-Lake_2880_Lede.jpg)
 

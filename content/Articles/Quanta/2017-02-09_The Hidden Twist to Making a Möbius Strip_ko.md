@@ -1,9 +1,12 @@
 ---
 title: 뫼비우스 띠를 만드는 데 숨겨진 비틀림
-url: www.quantamagazine.org/the-hidden-twist-to-making-a-mobius-strip-20170209/
-description: 단순해 보이는 뫼비우스 띠가 심플렉틱 기하학의 오랜 난제를 어떻게 보여주는지 알아본다.
 date: 2017-02-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-hidden-twist-to-making-a-mobius-strip-20170209/
+>
+> 단순해 보이는 뫼비우스 띠가 심플렉틱 기하학의 오랜 난제를 어떻게 보여주는지 알아본다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/02/SymGeo07_Lede.jpg)
 

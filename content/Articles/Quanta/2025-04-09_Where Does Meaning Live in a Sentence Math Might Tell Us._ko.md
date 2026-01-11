@@ -1,9 +1,12 @@
 ---
 title: 문장 속 의미는 어디에 존재하는가? 수학이 답을 줄 수 있을지도 모른다.
-description: 수학자 타이-대나 브래들리는 범주론을 사용하여 인간과 AI가 생성한 언어를 이해하려 시도하고 있다.
-url: www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/
 date: 2025-04-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/
+>
+> 수학자 타이-대나 브래들리는 범주론을 사용하여 인간과 AI가 생성한 언어를 이해하려 시도하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/04/Tai_Danei_Bradley-cr.MonicaAlmeida-Lede-scaled.webp)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학과 인생에서 복잡함을 직시하는 스베틀라나 지토미르스카야
-description: 우크라이나에서 태어난 스베틀라나 지토미르스카야는 성차별과 반유대주의를 피해 소련을 떠났다. 수리물리학 분야 최고 영예의 상을 받은 지금도, 그녀는 여전히 오래된 싸움을 계속하고 있다.
-url: www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/
 date: 2022-11-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/
+>
+> 우크라이나에서 태어난 스베틀라나 지토미르스카야는 성차별과 반유대주의를 피해 소련을 떠났다. 수리물리학 분야 최고 영예의 상을 받은 지금도, 그녀는 여전히 오래된 싸움을 계속하고 있다.
 
 ![파란 셔츠를 입고 손을 펼친 스베틀라나 지토미르스카야](https://www.quantamagazine.org/wp-content/uploads/2022/11/SvetlanaJitomirskaya-2880x1620_Lede-scaled.webp)
 

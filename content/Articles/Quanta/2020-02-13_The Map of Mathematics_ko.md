@@ -1,9 +1,12 @@
 ---
 title: 수학의 지도
-url: www.quantamagazine.org/the-map-of-mathematics-20200213/
-description: 놀라울 정도로 단순하면서도 터무니없이 야심차고, 필연적으로 불완전한 무한한 수학 우주로의 안내서를 탐험해보자.
 date: 2020-02-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-map-of-mathematics-20200213/
+>
+> 놀라울 정도로 단순하면서도 터무니없이 야심차고, 필연적으로 불완전한 무한한 수학 우주로의 안내서를 탐험해보자.
 
 Kevin Hartnett
 

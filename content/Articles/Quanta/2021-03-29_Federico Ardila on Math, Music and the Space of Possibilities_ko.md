@@ -1,9 +1,12 @@
 ---
 title: "페데리코 아르딜라,  수학, 음악, 그리고 가능성의 공간"
-url: www.quantamagazine.org/federico-ardila-on-math-music-and-the-space-of-possibilities-20210329/
-description: 수학자 페데리코 아르딜라는 상상할 수 없이 거대한 수의 가능성들 속에 숨어있는 유용한 답을 찾기 위해 창조적인 접근을 취한다.
 date: 2021-03-29
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/federico-ardila-on-math-music-and-the-space-of-possibilities-20210329/
+>
+> 수학자 페데리코 아르딜라는 상상할 수 없이 거대한 수의 가능성들 속에 숨어있는 유용한 답을 찾기 위해 창조적인 접근을 취한다.
 
 콜롬비아에서 태어나 현재 샌프란시스코 주립대학교 수학 교수인 페데리코 아르딜라는 [조합론 분야의 전문가](https://www.quantamagazine.org/mathematician-federico-ardila-dances-to-the-joys-and-sorrows-of-discovery-20171120/)이다. 조합론(combinatorics)은 유한 시스템의 모든 가능한 배치를 연구하는 학문이다. 이번 주, 아르딜라는 진행자 스티븐 스트로가츠와 함께 수학에서 감정의 중요성, 협업의 음악성, 고차원 공간의 상상, 그리고 "가능성의 공간"을 탐험하는 예술과 과학에 대해 이야기한다. 이 에피소드는 다나 비알렉이 제작했다. 더 많은 내용은 [Quantamagazine.org](http://quantamagazine.org/)에서 확인할 수 있다. 제작과 오리지널 음악은 Story Mechanics에서 담당했다.
 

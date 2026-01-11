@@ -1,9 +1,12 @@
 ---
 title: 과학자들이 발견한 동기화의 이국적인 새로운 패턴들
-description: 혼돈으로 가득 차 보이는 세계에서, 물리학자들은 새로운 형태의 동기화를 발견하고 이를 예측하고 제어하는 방법을 배우고 있다.
-url: www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/
 date: 2019-04-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/
+>
+> 혼돈으로 가득 차 보이는 세계에서, 물리학자들은 새로운 형태의 동기화를 발견하고 이를 예측하고 제어하는 방법을 배우고 있다.
 
 ## 서론
 

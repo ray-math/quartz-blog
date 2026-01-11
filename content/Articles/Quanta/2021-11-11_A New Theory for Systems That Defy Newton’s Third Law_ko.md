@@ -1,9 +1,12 @@
 ---
 title: 뉴턴의 제3법칙을 거스르는 계의 새로운 이론
-description: 뉴턴의 제3법칙이 무너지는 비상호적 계에서 예외점이 상전이와 다른 현상들을 이해하는 열쇠가 되고 있다.
-url: www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/
 date: 2021-11-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-theory-for-systems-that-defy-newtons-third-law-20211111/
+>
+> 뉴턴의 제3법칙이 무너지는 비상호적 계에서 예외점이 상전이와 다른 현상들을 이해하는 열쇠가 되고 있다.
 
 ![목재 테이블 위에 있는 자동 이륜 로봇의 클로즈업 사진](https://www.quantamagazine.org/wp-content/uploads/2021/11/NON_RECIP_2880x1620_Ledejpg.jpg)
 

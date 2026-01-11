@@ -1,9 +1,12 @@
 ---
 title: "작을수록 강하다,  유한 수 체계가 더 큰 힘을 발휘하는 이유"
-description: 합-곱 문제의 최근 진전은 소형 수 체계의 놀라운 힘을 밝힌 유명한 수학적 결과를 상기시킨다.
-url: www.quantamagazine.org/smaller-is-better-why-finite-number-systems-pack-more-punch-20190211/
 date: 2019-02-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/smaller-is-better-why-finite-number-systems-pack-more-punch-20190211/
+>
+> 합-곱 문제의 최근 진전은 소형 수 체계의 놀라운 힘을 밝힌 유명한 수학적 결과를 상기시킨다.
 
 ![Art for "Smaller Is Better: Why Finite Number Systems Pack More Punch"](https://www.quantamagazine.org/wp-content/uploads/2019/02/Spiral_fixed_Lede1300.jpg)
 

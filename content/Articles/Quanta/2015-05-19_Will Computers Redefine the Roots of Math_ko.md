@@ -1,9 +1,12 @@
 ---
 title: 컴퓨터가 수학의 기초를 재정의할 것인가?
-description: 필즈상 수상자 블라디미르 보에보드스키가 51세의 나이로 세상을 떠났다. 이 2015년 기사는 인간의 오류를 제거하고 모든 수학의 기초를 이루는 백 년 된 규칙을 다시 쓰려는 그의 컴퓨터 기반 탐구를 다룬다.
-url: www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/
 date: 2015-05-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/
+>
+> 필즈상 수상자 블라디미르 보에보드스키가 51세의 나이로 세상을 떠났다. 이 2015년 기사는 인간의 오류를 제거하고 모든 수학의 기초를 이루는 백 년 된 규칙을 다시 쓰려는 그의 컴퓨터 기반 탐구를 다룬다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/05/UnivalentFoundations_996.jpg)
 

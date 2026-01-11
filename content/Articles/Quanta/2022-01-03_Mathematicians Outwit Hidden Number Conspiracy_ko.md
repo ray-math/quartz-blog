@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 숨겨진 숫자 음모를 무력화하다
-description: 수십 년 전, 한 수학자가 소수에 관한 가장 어려운 질문들을 위한 준비 문제를 제시했다. 그런데 그 문제 자체가 똑같이 어려운 것으로 밝혀졌다. 지금까지는.
-url: www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/
 date: 2022-01-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-outwit-hidden-number-conspiracy-20220103/
+>
+> 수십 년 전, 한 수학자가 소수에 관한 가장 어려운 질문들을 위한 준비 문제를 제시했다. 그런데 그 문제 자체가 똑같이 어려운 것으로 밝혀졌다. 지금까지는.
 
 ![그래프와 숫자들을 비추는 손전등의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2022/01/Expander-Graph_2880_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 유한과 무한 사이의 다리를 놓다
-description: 놀라운 새 증명이 무한의 수학을 물리적 세계와 연결하는 데 도움을 주고 있다.
-url: www.quantamagazine.org/mathematicians-bridge-finite-infinite-divide-20160524/
 date: 2016-05-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-bridge-finite-infinite-divide-20160524/
+>
+> 놀라운 새 증명이 무한의 수학을 물리적 세계와 연결하는 데 도움을 주고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/WylieBeckert_RamseyTheory_1K.jpg)
 

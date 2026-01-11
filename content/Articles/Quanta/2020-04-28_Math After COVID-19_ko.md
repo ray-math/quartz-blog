@@ -1,9 +1,12 @@
 ---
 title: 코로나19 이후의 수학
-url: www.quantamagazine.org/how-has-coronavirus-affected-mathematics-20200428/
-description: 현대 수학은 협력과 여행에 의존한다. 코로나19가 이를 점점 더 어렵게 만들고 있다.
 date: 2020-04-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-has-coronavirus-affected-mathematics-20200428/
+>
+> 현대 수학은 협력과 여행에 의존한다. 코로나19가 이를 점점 더 어렵게 만들고 있다.
 
 ![독일 오버볼파흐 수학 연구소의 빈 나무 복도 사진](https://www.quantamagazine.org/wp-content/uploads/2020/04/Oberwolfach_2880x1620_Lede.jpg)
 

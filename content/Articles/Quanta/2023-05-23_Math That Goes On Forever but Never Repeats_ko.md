@@ -1,9 +1,12 @@
 ---
 title: 영원히 계속되지만 결코 반복되지 않는 수학
-description: 간단한 수학으로 최근 발견된 비주기적 단일 타일의 복잡성을 이해할 수 있다.
-url: www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/
 date: 2023-05-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/
+>
+> 간단한 수학으로 최근 발견된 비주기적 단일 타일의 복잡성을 이해할 수 있다.
 
 ![비주기적 모자 단일 타일의 테셀레이션을 보여주는 그림으로, 여러 사람들이 모자 타일의 일부를 착용하고 있다.](https://www.quantamagazine.org/wp-content/uploads/2023/05/MayAcademy-byRobertNeubecker-Lede-scaled.webp)
 

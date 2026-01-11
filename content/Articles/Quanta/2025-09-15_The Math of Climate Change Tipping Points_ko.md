@@ -1,9 +1,12 @@
 ---
 title: 기후변화 티핑 포인트의 수학
-url: www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/
-description: 기후 예측에서 티핑 포인트는 극적이면서도 극도로 불확실하다. 수학자들이 이를 유용하게 만들 수 있을까?
 date: 2025-09-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/
+>
+> 기후 예측에서 티핑 포인트는 극적이면서도 극도로 불확실하다. 수학자들이 이를 유용하게 만들 수 있을까?
 
 ![A model of earth with barren land and green oceans](https://www.quantamagazine.org/wp-content/uploads/2025/09/07-MATH-OF-CATASTROPHE-cr.Mark-Belan-Lede-1720x963.webp)
 

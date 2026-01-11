@@ -1,9 +1,12 @@
 ---
 title: 4차원에서도 구별되는 특별한 곡면들
-description: 수학자들이 수십 년간 찾아왔던, 4차원 공간에서도 서로 변환될 수 없는 특정한 곡면 쌍을 마침내 발견했다.
 date: 2022-06-16
-url: www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/
+>
+> 수학자들이 수십 년간 찾아왔던, 4차원 공간에서도 서로 변환될 수 없는 특정한 곡면 쌍을 마침내 발견했다.
 
 ![닫힌 고리로부터 형성된 자이페르트 곡면들](https://www.quantamagazine.org/wp-content/uploads/2022/06/Seifert_Surfaces_2880x1620_Lede.jpg)
 

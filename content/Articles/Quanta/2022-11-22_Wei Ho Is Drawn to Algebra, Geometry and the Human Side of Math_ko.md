@@ -1,9 +1,12 @@
 ---
 title: 대수, 기하, 그리고 수학의 인간적인 면에 이끌린 웨이 호
-description: 프린스턴 고등연구소 여성과 수학 프로그램의 초대 디렉터 웨이 호는 고대 곡선 연구에서 대수와 기하를 결합한다.
 date: 2022-11-22
-url: www.quantamagazine.org/wei-ho-is-drawn-to-algebra-geometry-and-the-human-side-of-math-20221122/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/wei-ho-is-drawn-to-algebra-geometry-and-the-human-side-of-math-20221122/
+>
+> 프린스턴 고등연구소 여성과 수학 프로그램의 초대 디렉터 웨이 호는 고대 곡선 연구에서 대수와 기하를 결합한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/WeiHo-cr.CarolineGutman-Lede-2-scaled.webp)
 

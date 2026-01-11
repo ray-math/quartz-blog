@@ -1,9 +1,12 @@
 ---
 title: 타원곡선이 새로운 수 체계에서 그 비밀을 드러내다
-description: 아나 카라이아니와 제임스 뉴턴이 정수론의 중요한 결과를 허수 영역으로 확장했다.
-url: www.quantamagazine.org/elliptic-curves-yield-their-secrets-in-a-new-number-system-20230706/
 date: 2023-07-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/elliptic-curves-yield-their-secrets-in-a-new-number-system-20230706/
+>
+> 아나 카라이아니와 제임스 뉴턴이 정수론의 중요한 결과를 허수 영역으로 확장했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/07/ImaginaryEllipticCurves_byGerhardVanWyk_Lede-scaled.webp)
 

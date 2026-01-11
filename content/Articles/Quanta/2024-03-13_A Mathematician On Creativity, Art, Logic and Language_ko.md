@@ -1,9 +1,12 @@
 ---
 title: 수학자가 말하는 창의성, 예술, 논리 그리고 언어
-url: www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/
-description: 2024년 크라포드 수학상 수상자가 예술로서의 수학, 언어로서의 수학, 추상적 사유로서의 수학에 관해 이야기한다.
 date: 2024-03-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/
+>
+> 2024년 크라포드 수학상 수상자가 예술로서의 수학, 언어로서의 수학, 추상적 사유로서의 수학에 관해 이야기한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/03/ClaireVoisin-byLaurenceGeai-Lede-scaled.webp)
 

@@ -1,9 +1,10 @@
 ---
 title: 오래된 추측의 붕괴, 구면을 훨씬 더 복잡하게 만들다
-description: 망원경 추측은 수학자들에게 한 구면을 다른 구면으로 대응하는 방법을 다루는 도구를 제공했다. 이제 그것이 반증되면서, 도형의 우주가 폭발적으로 확장되었다.
 date: 2023-08-22
 ---
 
+> [!NOTE]
+> 망원경 추측은 수학자들에게 한 구면을 다른 구면으로 대응하는 방법을 다루는 도구를 제공했다. 이제 그것이 반증되면서, 도형의 우주가 폭발적으로 확장되었다.
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/08/TelescopeConjecture-bySamuelVelasco-Lede-scaled.webp)
 
 ## 서론

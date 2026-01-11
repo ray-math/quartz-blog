@@ -1,9 +1,12 @@
 ---
 title: 리 군이란 무엇인가?
-url: www.quantamagazine.org/what-are-lie-groups-20251203/
-description: 마리우스 소푸스 리는 군의 언어를 기하학과 선형대수와 결합함으로써 수학에서 가장 강력한 도구 중 하나를 창조했다.
 date: 2025-12-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/what-are-lie-groups-20251203/
+>
+> 마리우스 소푸스 리는 군의 언어를 기하학과 선형대수와 결합함으로써 수학에서 가장 강력한 도구 중 하나를 창조했다.
 
 ## 서론
 

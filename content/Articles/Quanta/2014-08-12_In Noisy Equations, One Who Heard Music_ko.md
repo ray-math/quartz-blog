@@ -1,9 +1,12 @@
 ---
 title: 소음의 방정식에서 음악을 들은 사람
-description: 마틴 하이러가 확률적 분석 분야의 놀라운 걸작으로 2014년 필즈상을 수상했다. 동료들은 그가 "완전히 새로운 세계를 창조했다"고 평가한다.
-url: www.quantamagazine.org/in-noisy-equations-one-who-heard-music-20140812/
 date: 2014-08-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-noisy-equations-one-who-heard-music-20140812/
+>
+> 마틴 하이러가 확률적 분석 분야의 놀라운 걸작으로 2014년 필즈상을 수상했다. 동료들은 그가 "완전히 새로운 세계를 창조했다"고 평가한다.
 
 ## 서론
 

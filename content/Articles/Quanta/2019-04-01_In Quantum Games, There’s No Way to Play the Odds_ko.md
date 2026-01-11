@@ -1,9 +1,12 @@
 ---
 title: 양자 게임에서는 승률을 계산할 방법이 없다
-description: 이 게임들은 양자 얽힘, 무한, 그리고 계산 불가능한 승률을 결합한다. 그러나 연구자들이 이를 해결한다면, 깊은 수학적 비밀이 밝혀질 것이다.
-url: www.quantamagazine.org/in-quantum-games-theres-no-way-to-play-the-odds-20190401/
 date: 2019-04-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-quantum-games-theres-no-way-to-play-the-odds-20190401/
+>
+> 이 게임들은 양자 얽힘, 무한, 그리고 계산 불가능한 승률을 결합한다. 그러나 연구자들이 이를 해결한다면, 깊은 수학적 비밀이 밝혀질 것이다.
 
 ![Art for "In Quantum Games, There's No Way to Play the Odds"](https://www.quantamagazine.org/wp-content/uploads/2019/04/EntangledDice_1160Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 다항식으로 색칠하기
-url: www.quantamagazine.org/color-me-polynomial-20190813/
-description: 다항식은 단순한 추상적 연습이 아니다. 놀라운 곳에서 구조를 밝혀내는 데 탁월한 도구다.
 date: 2019-08-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/color-me-polynomial-20190813/
+>
+> 다항식은 단순한 추상적 연습이 아니다. 놀라운 곳에서 구조를 밝혀내는 데 탁월한 도구다.
 
 ![Art for "Color Me Polynomial"](https://www.quantamagazine.org/wp-content/uploads/2019/08/PolynomialAcademy-2880x1620_Lede.jpg)
 

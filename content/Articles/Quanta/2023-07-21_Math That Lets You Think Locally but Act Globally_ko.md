@@ -1,9 +1,12 @@
 ---
 title: 국소적으로 생각하고 전역적으로 행동하게 하는 수학
-description: 항공 노선도와 다른 네트워크의 국소적 연결에 대해 조금만 알아도 시스템의 전역 구조에 대해 많은 것을 밝혀낼 수 있다.
-url: www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/
 date: 2023-07-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-that-lets-you-think-locally-but-act-globally-20230721/
+>
+> 항공 노선도와 다른 네트워크의 국소적 연결에 대해 조금만 알아도 시스템의 전역 구조에 대해 많은 것을 밝혀낼 수 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/07/JulyAcademy-byRobertNeubecker-Lede-scaled.webp)
 

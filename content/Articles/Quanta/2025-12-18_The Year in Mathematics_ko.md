@@ -1,9 +1,12 @@
 ---
 title: 2025년, 수학의 해
-url: www.quantamagazine.org/the-year-in-mathematics-20251218/
-description: 자기 자신을 통과할 수 없는 도형, 10대 천재 수학자, 그리고 두 가지 새로운 무한의 발견을 탐구한다.
 date: 2025-12-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-year-in-mathematics-20251218/
+>
+> 자기 자신을 통과할 수 없는 도형, 10대 천재 수학자, 그리고 두 가지 새로운 무한의 발견을 탐구한다.
 
 ## 17세의 한나 카이로, 수학의 중요한 미스터리를 풀다
 

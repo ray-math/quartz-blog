@@ -1,9 +1,12 @@
 ---
 title: 니콜라 부르바키라는 이름의 비밀 수학 결사 내부
-description: 거의 한 세기 동안 니콜라 부르바키의 익명 회원들은 순수한 수학적 사고의 표현을 의도한 책들을 집필해왔다.
-url: www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/
 date: 2020-11-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/
+>
+> 거의 한 세기 동안 니콜라 부르바키의 익명 회원들은 순수한 수학적 사고의 표현을 의도한 책들을 집필해왔다.
 
 ![건물 앞에 선 8명의 남성이 찍힌 흑백 역사 사진. 앙리 카르탕, 앙드레 베유, 슐렘 망델브로트가 포함되어 있다.](https://www.quantamagazine.org/wp-content/uploads/2020/11/Bourbaki_2880x1620_Lede.jpg)
 

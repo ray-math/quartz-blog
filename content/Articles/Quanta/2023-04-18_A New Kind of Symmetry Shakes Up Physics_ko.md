@@ -1,9 +1,12 @@
 ---
 title: 물리학을 뒤흔드는 새로운 종류의 대칭성
-description: 고차 대칭(higher symmetries)은 입자 붕괴부터 복잡한 양자 시스템의 거동까지 모든 것을 새롭게 조명하고 있다.
-url: www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/
 date: 2023-04-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/
+>
+> 고차 대칭(higher symmetries)은 입자 붕괴부터 복잡한 양자 시스템의 거동까지 모든 것을 새롭게 조명하고 있다.
 
 ![두 개의 대칭적인 보라색 선](https://www.quantamagazine.org/wp-content/uploads/2023/04/HigherFormSymmetries-bySamuelVelasco-Lede-scaled.webp)
 

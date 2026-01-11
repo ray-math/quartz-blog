@@ -1,9 +1,12 @@
 ---
 title: 페르마의 마지막 정리를 넘어 확장되는 놀라운 수학의 다리
-description: 수학자들이 수학 세계의 두 대륙을 연결하는 신비로운 다리의 범위를 확장하는 방법을 알아냈다.
-url: www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
 date: 2020-04-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/
+>
+> 수학자들이 수학 세계의 두 대륙을 연결하는 신비로운 다리의 범위를 확장하는 방법을 알아냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/04/Langlands-Extension_2880x1620_Lede.jpg)
 

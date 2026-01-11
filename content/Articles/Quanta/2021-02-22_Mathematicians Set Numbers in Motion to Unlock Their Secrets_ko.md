@@ -1,9 +1,13 @@
 ---
 title: 수학자들, 수를 움직여 그 비밀을 밝히다
-url: www.quantamagazine.org/mathematicians-set-numbers-in-motion-to-unlock-their-secrets-20210222/
-description: 새로운 증명이 수론과 동역학계의 통찰을 결합한 신흥 분야인 산술 동역학의 힘을 보여준다.
 date: 2021-02-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-set-numbers-in-motion-to-unlock-their-secrets-20210222/
+>
+> 새로운 증명이 수론과 동역학계의 통찰을 결합한 신흥 분야인 산술 동역학의 힘을 보여준다.
+
 ![도넛 모양의 타원곡선과 줄리아 집합이 얽혀 있는 모습을 그린 일러스트레이션.](https://www.quantamagazine.org/wp-content/uploads/2021/02/Julia-Torus_2880_Lede.jpg)
 
 산술 동역학은 수론의 대상인 타원곡선과 동역학계의 대상인 줄리아 집합 사이의 유사성을 활용해 양쪽 모두에 대한 새로운 통찰을 만들어낸다.

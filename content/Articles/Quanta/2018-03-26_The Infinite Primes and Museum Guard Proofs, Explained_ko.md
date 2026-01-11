@@ -1,9 +1,12 @@
 ---
 title: 무한한 소수와 미술관 경비 증명, 차근차근 이해하기
-url: www.quantamagazine.org/the-infinite-primes-and-museum-guard-proofs-explained-20180326/
-description: 두 가지 "완벽한" 수학 증명을 단계별로 쉽게 풀어낸다.
 date: 2018-03-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-infinite-primes-and-museum-guard-proofs-explained-20180326/
+>
+> 두 가지 "완벽한" 수학 증명을 단계별로 쉽게 풀어낸다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/03/D_Lede_inline560.jpg)
 

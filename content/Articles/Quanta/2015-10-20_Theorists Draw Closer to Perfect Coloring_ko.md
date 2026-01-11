@@ -1,9 +1,12 @@
 ---
 title: 완벽한 채색을 향해 다가서는 이론가들
-url: www.quantamagazine.org/theorists-draw-closer-to-perfect-coloring-20151020/
-description: 광범위한 "완벽한" 수학적 네트워크 부류에 대한 채색 정리가 오랫동안 추구되어 온 일반적 채색 증명의 길을 열 수 있다.
 date: 2015-10-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/theorists-draw-closer-to-perfect-coloring-20151020/
+>
+> 광범위한 "완벽한" 수학적 네트워크 부류에 대한 채색 정리가 오랫동안 추구되어 온 일반적 채색 증명의 길을 열 수 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/10/Quanta_WhiteonBlack_v5_ALT.gif)
 

@@ -1,9 +1,12 @@
 ---
 title: 우크라이나 수학자 마리나 뱌조프스카, 필즈상 수상
-url: www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/
-description: 전쟁으로 조국이 위기에 처한 가운데, 구 채우기 문제를 연구하는 정수론 수학자 마리나 뱌조프스카가 86년 역사의 필즈상에서 두 번째 여성 수상자가 되었다.
 date: 2022-07-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/
+>
+> 전쟁으로 조국이 위기에 처한 가운데, 구 채우기 문제를 연구하는 정수론 수학자 마리나 뱌조프스카가 86년 역사의 필즈상에서 두 번째 여성 수상자가 되었다.
 
 ![스위스 로잔 연방공과대학의 원형극장 목재 계단에 앉아 있는 마리나 뱌조프스카](https://www.quantamagazine.org/wp-content/uploads/2022/06/MV_2880x1620_Lede-scaled.jpg)
 

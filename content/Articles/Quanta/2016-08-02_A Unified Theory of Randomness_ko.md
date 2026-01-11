@@ -1,9 +1,12 @@
 ---
 title: 무작위성의 통합 이론
-url: www.quantamagazine.org/a-unified-theory-of-randomness-20160802/
-description: 연구자들이 서로 다른 유형의 무작위 객체들 사이에서 깊은 연결 관계를 발견하며, 숨겨진 기하학적 구조를 밝혀냈다.
 date: 2016-08-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-unified-theory-of-randomness-20160802/
+>
+> 연구자들이 서로 다른 유형의 무작위 객체들 사이에서 깊은 연결 관계를 발견하며, 숨겨진 기하학적 구조를 밝혀냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/07/RandomShape_Lead04.gif)
 

@@ -1,9 +1,12 @@
 ---
 title: 세 세제곱수의 합은 왜 어려운 수학 문제인가
-description: 무한 공간에서 답을 찾기는 어렵다. 고등학교 수학이 탐색 범위를 좁히는 데 도움을 줄 수 있다.
-url: www.quantamagazine.org/why-the-sum-of-three-cubes-is-a-hard-math-problem-20191105/
 date: 2019-11-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/why-the-sum-of-three-cubes-is-a-hard-math-problem-20191105/
+>
+> 무한 공간에서 답을 찾기는 어렵다. 고등학교 수학이 탐색 범위를 좁히는 데 도움을 줄 수 있다.
 
 ![다양한 크기와 색깔의 무한히 쌓인 큐브들을 올려다보는 수학자의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2019/11/Cubes_2880x1620_Lede.jpg)
 

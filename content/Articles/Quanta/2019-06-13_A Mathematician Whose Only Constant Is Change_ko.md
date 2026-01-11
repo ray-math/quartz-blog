@@ -1,9 +1,12 @@
 ---
 title: 변화만이 유일한 상수인 수학자
-description: Amie Wilkinson은 변화를 기술하는 수학적 구조의 특이한 사례들을 탐구한다.
-url: www.quantamagazine.org/a-mathematician-whose-only-constant-is-change-20190613/
 date: 2019-06-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-mathematician-whose-only-constant-is-change-20190613/
+>
+> Amie Wilkinson은 변화를 기술하는 수학적 구조의 특이한 사례들을 탐구한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/06/AmieWilkinson_2880x1920_Lede.jpg)
 

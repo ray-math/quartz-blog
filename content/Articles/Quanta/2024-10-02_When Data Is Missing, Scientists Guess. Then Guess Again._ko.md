@@ -1,9 +1,12 @@
 ---
 title: 데이터가 없을 때, 과학자들은 추측한다. 그리고 또 추측한다.
-url: www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/
-description: 사회과학과 생물학 전반에 걸쳐, 통계학자들은 무작위성을 활용하여 미지의 것을 다루는 기법을 사용한다.
 date: 2024-10-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/
+>
+> 사회과학과 생물학 전반에 걸쳐, 통계학자들은 무작위성을 활용하여 미지의 것을 다루는 기법을 사용한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/10/MissingData-CrNicoRoper-Lede-scaled.webp)
 

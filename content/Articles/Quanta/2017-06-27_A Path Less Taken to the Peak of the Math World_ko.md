@@ -1,9 +1,12 @@
 ---
 title: 수학 세계의 정상으로 향한 덜 가본 길
-url: www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/
-description: 허준이는 전설적인 수학자와의 우연한 만남 전까지 자신에게 수학 재능이 없다고 생각했다. 10년 후, 수학적 사고에 대한 그의 비정통적 접근법은 중대한 돌파구로 이어졌다.
 date: 2017-06-27
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/
+>
+> 허준이는 전설적인 수학자와의 우연한 만남 전까지 자신에게 수학 재능이 없다고 생각했다. 10년 후, 수학적 사고에 대한 그의 비정통적 접근법은 중대한 돌파구로 이어졌다.
 
 ![프린스턴 고등연구소의 허준이](https://www.quantamagazine.org/wp-content/uploads/2017/06/JuneHuh_2880x1850.jpg)
 

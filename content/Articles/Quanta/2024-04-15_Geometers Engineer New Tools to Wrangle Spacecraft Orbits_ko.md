@@ -1,9 +1,12 @@
 ---
 title: 우주선 궤도를 다루는 새로운 도구를 개발한 기하학자들
-url: www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/
-description: 수학자들은 심플렉틱 기하학이라는 추상적 분야의 도구들이 먼 위성과 행성으로의 임무 계획에 도움이 될 수 있다고 생각한다.
 date: 2024-04-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/geometers-engineer-new-tools-to-wrangle-spacecraft-orbits-20240415/
+>
+> 수학자들은 심플렉틱 기하학이라는 추상적 분야의 도구들이 먼 위성과 행성으로의 임무 계획에 도움이 될 수 있다고 생각한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/04/SpaceTrajectories-crKristinaArmitage-Lede-scaled.webp)
 

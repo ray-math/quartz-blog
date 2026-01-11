@@ -1,9 +1,12 @@
 ---
 title: 신비로운 패턴 속에서 수학과 자연이 만나다
-description: 북극 융빙 연못부터 인터넷까지, 모든 복잡한 상관 시스템은 무작위 행렬과 동일한 수학 법칙을 따르는 것으로 보인다.
-url: www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/
 date: 2013-02-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/
+>
+> 북극 융빙 연못부터 인터넷까지, 모든 복잡한 상관 시스템은 무작위 행렬과 동일한 수학 법칙을 따르는 것으로 보인다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2013/02/Cuernavaca_Morelos_Mexico2.jpg)
 

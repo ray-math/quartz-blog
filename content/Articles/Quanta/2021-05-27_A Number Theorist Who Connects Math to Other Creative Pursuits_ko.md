@@ -1,9 +1,12 @@
 ---
 title: 수학을 다른 창조적 활동과 연결하는 정수론자
-url: www.quantamagazine.org/a-number-theorist-who-connects-math-to-other-creative-pursuits-20210527/
-description: 조던 엘렌버그는 일상적 현상 이면의 수학을 연구하고—또 그것에 대해 글을 쓰는 것을 즐긴다.
 date: 2021-05-27
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-number-theorist-who-connects-math-to-other-creative-pursuits-20210527/
+>
+> 조던 엘렌버그는 일상적 현상 이면의 수학을 연구하고—또 그것에 대해 글을 쓰는 것을 즐긴다.
 
 ![호숫가 석양을 배경으로 노트북 옆에 앉아 있는 조던 엘렌버그의 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/05/Jordan-Ellenberg_2880_Lede.jpg)
 

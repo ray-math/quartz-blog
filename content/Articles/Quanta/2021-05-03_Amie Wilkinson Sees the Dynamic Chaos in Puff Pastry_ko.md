@@ -1,9 +1,12 @@
 ---
 title: 아미 윌킨슨이 퍼프 페이스트리에서 발견한 동역학적 혼돈
-description: 동역학자 아미 윌킨슨에게 우주를 이해한다는 것은 모든 올바른 움직임을 아는 것이다.
-url: www.quantamagazine.org/amie-wilkinson-sees-the-dynamic-chaos-in-puff-pastry-20210503/
 date: 2021-05-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/amie-wilkinson-sees-the-dynamic-chaos-in-puff-pastry-20210503/
+>
+> 동역학자 아미 윌킨슨에게 우주를 이해한다는 것은 모든 올바른 움직임을 아는 것이다.
 
 시카고 대학교의 아미 윌킨슨(Amie Wilkinson)은 순수 동역학(pure dynamics)이라는 수학의 희귀한 영역에서 일한다. 그녀는 복잡한 시스템이 단순한 규칙의 영향 하에서 어떻게 변환되는지를 연구한다. 이번 에피소드에서 그녀는 같은 동역학자인 진행자 스티븐 스트로가츠(Steven Strogatz)와 함께, 여성으로서 수학계에서 자리를 찾는 데 따르는 도전, 군(group)을 움직임의 모음으로 이해하는 방법, 그리고 퍼프 페이스트리 조리법이 혼돈에 대해 무엇을 보여주는지에 대해 이야기한다.
 

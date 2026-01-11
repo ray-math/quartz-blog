@@ -1,9 +1,12 @@
 ---
 title: 반복되지 않는 타일이 양자 정보를 보호할 수 있다
-description: 두 연구자가 결코 반복되지 않는 유명한 패턴인 펜로즈 타일링이 일종의 양자 오류 정정과 수학적으로 동치임을 증명했다.
-url: www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
 date: 2024-02-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
+>
+> 두 연구자가 결코 반복되지 않는 유명한 패턴인 펜로즈 타일링이 일종의 양자 오류 정정과 수학적으로 동치임을 증명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/02/PenroseErrorCorrection-bySamuelVelasco-Lede-scaled.webp)
 

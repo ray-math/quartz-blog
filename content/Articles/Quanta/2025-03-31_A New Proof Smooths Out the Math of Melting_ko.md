@@ -1,9 +1,12 @@
 ---
 title: 녹는 현상의 수학을 매끄럽게 만든 새로운 증명
-description: 얼음이 녹는 현상과 같은 자연 현상을 모델링하는 강력한 수학적 기법이 있다. 그러나 이 기법은 오랫동안 특정한 악몽 시나리오로 인해 위험에 처해 있었다. 새로운 증명이 그 장애물을 제거했다.
-url: www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/
 date: 2025-03-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/
+>
+> 얼음이 녹는 현상과 같은 자연 현상을 모델링하는 강력한 수학적 기법이 있다. 그러나 이 기법은 오랫동안 특정한 악몽 시나리오로 인해 위험에 처해 있었다. 새로운 증명이 그 장애물을 제거했다.
 
 ## 서론
 

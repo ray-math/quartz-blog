@@ -1,9 +1,12 @@
 ---
 title: 대학원생의 사이드 프로젝트가 소수에 관한 오랜 추측을 증명하다
-description: 26세의 제러드 듀커 리히트만이 소수를 광범위한 "원시 집합" 클래스와 연결하는 오랜 추측을 증명했다. 그의 지도교수에게 이것은 "완전한 충격"으로 다가왔다.
-url: www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/
 date: 2022-06-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/
+>
+> 26세의 제러드 듀커 리히트만이 소수를 광범위한 "원시 집합" 클래스와 연결하는 오랜 추측을 증명했다. 그의 지도교수에게 이것은 "완전한 충격"으로 다가왔다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/06/Primitive-Sets_2880x1620_Lede.jpg)
 

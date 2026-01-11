@@ -1,9 +1,12 @@
 ---
 title: 십대 수학자들, 놀라운 프랙탈을 통해 매듭 이론을 증명하다
-description: 세 명의 고등학생과 그들의 멘토가 100년 된 정리를 재해석하여, 모든 매듭이 멩거 스펀지라는 프랙탈 안에서 발견될 수 있음을 증명했다.
-url: www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
 date: 2024-11-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
+>
+> 세 명의 고등학생과 그들의 멘토가 100년 된 정리를 재해석하여, 모든 매듭이 멩거 스펀지라는 프랙탈 안에서 발견될 수 있음을 증명했다.
 
 ## 서론
 

@@ -1,9 +1,12 @@
 ---
 title: "무질서는 얼마나 천천히 찾아오는가,  15 퍼즐로 밝힌 무작위성의 수학"
-description: 수학자들이 완벽하게 정렬된 15 퍼즐이 완전히 무작위 상태가 되기까지 정확히 몇 번의 움직임이 필요한지 계산해냈다.
-url: www.quantamagazine.org/mathematicians-calculate-how-randomness-creeps-in-20191112/
 date: 2019-11-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-calculate-how-randomness-creeps-in-20191112/
+>
+> 수학자들이 완벽하게 정렬된 15 퍼즐이 완전히 무작위 상태가 되기까지 정확히 몇 번의 움직임이 필요한지 계산해냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/11/15PuzzleProblem_FullWidthLede.jpg)
 

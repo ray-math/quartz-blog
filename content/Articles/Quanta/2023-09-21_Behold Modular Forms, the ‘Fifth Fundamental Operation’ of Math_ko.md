@@ -1,9 +1,12 @@
 ---
 title: 수학의 다섯 번째 기본 연산, 모듈러 형식을 만나다
-description: 모듈러 형식은 수학에서 가장 아름답고 신비로운 대상 중 하나다. 그것은 무엇인가?
-url: www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/
 date: 2023-09-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/
+>
+> 모듈러 형식은 수학에서 가장 아름답고 신비로운 대상 중 하나다. 그것은 무엇인가?
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2059/12/ModularForms-Courtesy-of-SamuelJinglianLi-Lede-1-scaled.webp)
 

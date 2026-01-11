@@ -1,9 +1,12 @@
 ---
 title: 기하학 기초를 바로잡기 위한 싸움
-url: www.quantamagazine.org/the-fight-to-fix-symplectic-geometry-20170209/
-description: 두 수학자가 아무도 제대로 이해하지 못했던 고전적 증명에 대해 날카로운 질문을 제기했을 때, 그들은 새로운 기하학 분야에서 무엇을 신뢰할 수 있는가에 대한 수년간의 논쟁을 촉발했다.
 date: 2017-02-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-fight-to-fix-symplectic-geometry-20170209/
+>
+> 두 수학자가 아무도 제대로 이해하지 못했던 고전적 증명에 대해 날카로운 질문을 제기했을 때, 그들은 새로운 기하학 분야에서 무엇을 신뢰할 수 있는가에 대한 수년간의 논쟁을 촉발했다.
 
 ![Pyramid of people](https://www.quantamagazine.org/wp-content/uploads/2017/02/symplectic-geometry-1K.jpg)
 

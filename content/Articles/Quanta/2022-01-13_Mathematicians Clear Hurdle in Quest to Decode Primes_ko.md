@@ -1,9 +1,12 @@
 ---
 title: 소수의 비밀을 풀기 위한 여정에서 수학자들이 중요한 장벽을 넘다
-url: www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/
-description: 폴 넬슨이 부분볼록성 문제를 해결하면서, 수학자들은 리만 가설과 소수의 분포를 이해하는 데 한 걸음 더 가까이 다가갔다.
 date: 2022-01-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/
+>
+> 폴 넬슨이 부분볼록성 문제를 해결하면서, 수학자들은 리만 가설과 소수의 분포를 이해하는 데 한 걸음 더 가까이 다가갔다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/01/L-Functions_2880_Lede.jpg)
 

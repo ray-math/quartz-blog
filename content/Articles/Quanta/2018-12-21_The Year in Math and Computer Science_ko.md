@@ -1,9 +1,12 @@
 ---
 title: 2018년 수학과 컴퓨터 과학의 한 해
-url: www.quantamagazine.org/quantas-year-in-math-and-computer-science-2018-20181221/
-description: 30세 미만의 여러 수학자들이 수학계 전반에 깊은 족적을 남겼고, 모든 연령대의 아마추어 문제 해결자들이 오랫동안 잠들어 있던 난제들에 중요한 공헌을 했다.
 date: 2018-12-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/quantas-year-in-math-and-computer-science-2018-20181221/
+>
+> 30세 미만의 여러 수학자들이 수학계 전반에 깊은 족적을 남겼고, 모든 연령대의 아마추어 문제 해결자들이 오랫동안 잠들어 있던 난제들에 중요한 공헌을 했다.
 
 ![Mathematics - abstract illustration](https://www.quantamagazine.org/wp-content/uploads/2018/12/Quanta_YearEnd_Math-1720x1147.jpg)
 

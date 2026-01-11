@@ -1,9 +1,12 @@
 ---
 title: 수학이 어떻게 게리맨더링의 형태를 바꾸었나
-url: www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/
-description: 새로운 수학적 도구들이 지도에 숨겨진 조작을 탐지할 수 있게 만들었다.
 date: 2023-06-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/
+>
+> 새로운 수학적 도구들이 지도에 숨겨진 조작을 탐지할 수 있게 만들었다.
 
 ## 서론
 

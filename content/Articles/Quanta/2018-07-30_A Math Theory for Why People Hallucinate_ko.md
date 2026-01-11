@@ -1,9 +1,12 @@
 ---
 title: "환각의 수학적 원리,  뇌가 기하학적 패턴을 만드는 이유"
-description: 환각제가 유발하는 특징적인 환각 패턴은 오랫동안 뇌 회로에 대한 단서를 제공해왔다. 거의 한 세기에 걸친 연구 끝에, 그 가능한 설명이 드러나고 있다.
-url: www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/
 date: 2018-07-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/
+>
+> 환각제가 유발하는 특징적인 환각 패턴은 오랫동안 뇌 회로에 대한 단서를 제공해왔다. 거의 한 세기에 걸친 연구 끝에, 그 가능한 설명이 드러나고 있다.
 
 ![Art for "A Math Theory for Why People Hallucinate"](https://www.quantamagazine.org/wp-content/uploads/2018/07/Hallucination_2880_v2.jpg)
 

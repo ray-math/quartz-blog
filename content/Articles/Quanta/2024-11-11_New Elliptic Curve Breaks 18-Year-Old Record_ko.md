@@ -1,9 +1,12 @@
 ---
 title: 18년 만에 깨진 타원곡선의 기록
-description: 두 수학자가 수학에서 가장 중요한 방정식들의 근본적인 본질에 대한 논쟁을 다시 불러일으켰다.
-url: www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/
 date: 2024-11-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/
+>
+> 두 수학자가 수학에서 가장 중요한 방정식들의 근본적인 본질에 대한 논쟁을 다시 불러일으켰다.
 
 ![망원경으로 수학적 곡선 모양의 별자리를 관찰하는 남자의 삽화](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Lede-scaled.webp)
 

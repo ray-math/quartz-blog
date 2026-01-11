@@ -1,9 +1,12 @@
 ---
 title: 126차원에 이상하게 뒤틀린 도형이 존재한다는 것을 수학자들이 증명하다
-description: 새로운 증명이 특수한 차원의 변칙적 도형에 관한 65년 된 이야기의 대단원을 장식했다.
-url: www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
 date: 2025-05-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
+>
+> 새로운 증명이 특수한 차원의 변칙적 도형에 관한 65년 된 이야기의 대단원을 장식했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/05/KervaireConjecture-crKristinaArmitage-Lede-scaled.webp)
 

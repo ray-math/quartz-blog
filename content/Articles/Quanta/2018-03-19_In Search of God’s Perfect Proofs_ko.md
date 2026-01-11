@@ -1,9 +1,12 @@
 ---
 title: 신의 완벽한 증명을 찾아서
-description: 수학자 귄터 치글러와 마르틴 아이그너는 지난 20년간 수학에서 가장 아름다운 증명들을 수집해왔다.
-url: www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/
 date: 2018-03-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/
+>
+> 수학자 귄터 치글러와 마르틴 아이그너는 지난 20년간 수학에서 가장 아름다운 증명들을 수집해왔다.
 
 ![Portrait of Mathematicians Prof. Günter M. Ziegler and Prof. Martin Aigner](https://www.quantamagazine.org/wp-content/uploads/2018/03/ZieglerAigner_2880x1920.jpg)
 

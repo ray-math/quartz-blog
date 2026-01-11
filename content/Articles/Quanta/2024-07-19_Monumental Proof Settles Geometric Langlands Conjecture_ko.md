@@ -1,9 +1,12 @@
 ---
 title: 기하학적 랭글랜즈 추측을 해결한 기념비적 증명
-description: 30년에 걸친 작업 끝에, 수학자들이 랭글랜즈 프로그램이라는 심오한 수학적 비전의 핵심 부분을 증명했다.
-url: www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/
 date: 2024-07-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/
+>
+> 30년에 걸친 작업 끝에, 수학자들이 랭글랜즈 프로그램이라는 심오한 수학적 비전의 핵심 부분을 증명했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/07/GeometricLanglands-crNanCao-Lede-scaled.webp)
 

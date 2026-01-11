@@ -1,9 +1,13 @@
 ---
 title: 선구적 수학자 블라디미르 보에보드스키, 51세로 별세
-url: www.quantamagazine.org/visionary-mathematician-vladimir-voevodsky-dies-at-51-20171011/
-description: 보에보드스키의 친구들은 그를 진리에 대한 타협을 본능적으로 거부했던 인물로 기억한다—이러한 특질이 20세기 가장 중요한 수학적 성취들을 낳았다.
 date: 2017-10-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/visionary-mathematician-vladimir-voevodsky-dies-at-51-20171011/
+>
+> 보에보드스키의 친구들은 그를 진리에 대한 타협을 본능적으로 거부했던 인물로 기억한다—이러한 특질이 20세기 가장 중요한 수학적 성취들을 낳았다.
+
 ![블라디미르 보에보드스키](https://www.quantamagazine.org/wp-content/uploads/2017/10/Voevodsky_lede_1300.jpg)
 
 2016년 프린스턴 고등연구소에서의 블라디미르 보에보드스키.

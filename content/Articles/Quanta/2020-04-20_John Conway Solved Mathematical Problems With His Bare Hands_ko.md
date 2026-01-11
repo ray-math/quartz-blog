@@ -1,9 +1,12 @@
 ---
 title: 존 콘웨이는 맨손으로 수학 문제를 해결했다
-description: 2020년 4월 11일 세상을 떠난 전설적인 수학자는 호기심 넘치고 독창적이며, 그 세대 최고의 문제 해결사 중 한 명이었다.
-url: www.quantamagazine.org/john-conway-solved-mathematical-problems-with-his-bare-hands-20200420/
 date: 2020-04-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/john-conway-solved-mathematical-problems-with-his-bare-hands-20200420/
+>
+> 2020년 4월 11일 세상을 떠난 전설적인 수학자는 호기심 넘치고 독창적이며, 그 세대 최고의 문제 해결사 중 한 명이었다.
 
 ![흑백 배경의 존 콘웨이 사진](https://www.quantamagazine.org/wp-content/uploads/2020/04/MarianaCook_JohnConway_1160Lede.jpg)
 

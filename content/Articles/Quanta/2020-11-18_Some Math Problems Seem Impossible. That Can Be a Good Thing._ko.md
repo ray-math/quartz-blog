@@ -1,9 +1,12 @@
 ---
 title: 어떤 수학 문제는 불가능해 보인다. 그게 오히려 좋을 수 있다.
-url: www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/
-description: 풀 수 없는 수학 문제와 씨름하는 과정이 실제로 풀 수 있는 문제들을 더 깊이 이해하도록 돕는다.
 date: 2020-11-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/some-math-problems-seem-impossible-that-can-be-a-good-thing-20201118/
+>
+> 풀 수 없는 수학 문제와 씨름하는 과정이 실제로 풀 수 있는 문제들을 더 깊이 이해하도록 돕는다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/11/Convex-Octagon_2880x1620_Lede.jpg)
 

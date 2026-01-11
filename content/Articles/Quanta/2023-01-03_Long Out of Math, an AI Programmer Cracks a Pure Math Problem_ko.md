@@ -1,9 +1,12 @@
 ---
 title: 수학을 떠난 AI 프로그래머가 순수 수학 난제를 해결하다
-description: 저녁과 주말 시간을 활용해, 저스틴 길머는 정보 이론의 도구로 순수 수학의 오래된 문제를 공략했다.
-url: www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
 date: 2023-01-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
+>
+> 저녁과 주말 시간을 활용해, 저스틴 길머는 정보 이론의 도구로 순수 수학의 오래된 문제를 공략했다.
 
 ![러시아 인형들이 더 큰 러시아 인형 안에 앉아있는 일러스트](https://www.quantamagazine.org/wp-content/uploads/2022/12/ClosedUnionConjecture-byKristinaArmitage-Lede-scaled.webp)
 

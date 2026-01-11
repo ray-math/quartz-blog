@@ -1,9 +1,12 @@
 ---
 title: 2024년 수학의 주요 성과
-url: www.quantamagazine.org/the-year-in-math-20241216/
-description: 기하학과 정수론의 획기적인 결과들이 수학계를 흥분시킨 한 해였으며, 동시에 인공지능의 발전이 수학의 미래를 변화시키기 시작했다.
 date: 2024-12-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-year-in-math-20241216/
+>
+> 기하학과 정수론의 획기적인 결과들이 수학계를 흥분시킨 한 해였으며, 동시에 인공지능의 발전이 수학의 미래를 변화시키기 시작했다.
 
 5월, 9명의 수학자로 구성된 팀이 중대한 돌파구를 발표했다. 그들은 [기하학적 랑글랜즈 추측(geometric Langlands conjecture)을 증명](https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/)했다—이는 수학의 "대통일 이론"을 구축하려는 더 광범위한 연구 프로그램의 핵심 구성 요소다. 총 800페이지가 넘는 이 증명은 30년간의 작업의 정점을 나타냈으며, 한 수학자의 표현에 따르면 "왕관과도 같은 업적"이었다.
 

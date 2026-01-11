@@ -1,9 +1,12 @@
 ---
 title: 구면 패킹의 새로운 기록, 예상치 못한 곳에서 나오다
-url: www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/
-description: 구면 패킹 분야에 처음 뛰어든 완전한 신입자가 단 몇 달의 연구 끝에 이 분야의 가장 큰 미해결 문제 중 하나를 해결했다.
 date: 2025-07-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/
+>
+> 구면 패킹 분야에 처음 뛰어든 완전한 신입자가 단 몇 달의 연구 끝에 이 분야의 가장 큰 미해결 문제 중 하나를 해결했다.
 
 ## 서론
 

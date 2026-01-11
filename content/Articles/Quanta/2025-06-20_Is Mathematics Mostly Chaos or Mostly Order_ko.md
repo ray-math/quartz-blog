@@ -1,9 +1,12 @@
 ---
 title: 수학은 대부분 혼돈인가, 아니면 질서인가?
-description: 두 가지 새로운 무한의 개념이 수학적 우주를 정의하려는 오랜 계획에 도전한다.
-url: www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/
 date: 2025-06-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/
+>
+> 두 가지 새로운 무한의 개념이 수학적 우주를 정의하려는 오랜 계획에 도전한다.
 
 ![무한 기호 모양의 울타리를 다듬는 사람의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2025/06/New-Infinities_crWei-AnJin-Lede.webp)
 

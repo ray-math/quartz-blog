@@ -1,9 +1,12 @@
 ---
 title: 음수 가중치 그래프에서 최단 경로를 찾는 빠른 알고리즘, 마침내 등장하다
-description: 연구자들이 일부 단계가 다른 단계를 상쇄할 수 있는 경우에도, 이론적으로 가능한 것과 거의 같은 속도로 네트워크를 통과하는 최단 경로를 찾는 방법을 발견했다.
-url: www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
 date: 2023-01-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
+>
+> 연구자들이 일부 단계가 다른 단계를 상쇄할 수 있는 경우에도, 이론적으로 가능한 것과 거의 같은 속도로 네트워크를 통과하는 최단 경로를 찾는 방법을 발견했다.
 
 ![여러 밝은 색상의 계단이 서로 얽히며 3차원으로 렌더링된 이미지, 추상적인 사람의 실루엣이 계단을 오르내리고 있다](https://www.quantamagazine.org/wp-content/uploads/2023/01/ShortestPaths-bySamuelVelasco-Lede3-scaled.webp)
 

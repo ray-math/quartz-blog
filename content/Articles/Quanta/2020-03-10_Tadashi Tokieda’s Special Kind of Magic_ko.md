@@ -1,9 +1,12 @@
 ---
 title: 타다시 토키에다의 특별한 마법
-url: www.quantamagazine.org/tadashi-tokiedas-special-kind-of-magic-20200310/
-description: 수학자 타다시 토키에다와 진행자 스티븐 스트로가츠가 놀라운 물리적·수학적 성질을 지닌 단순한 장난감들로부터 우리가 세상에 대해 무엇을 배울 수 있는지 탐구한다.
 date: 2020-03-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/tadashi-tokiedas-special-kind-of-magic-20200310/
+>
+> 수학자 타다시 토키에다와 진행자 스티븐 스트로가츠가 놀라운 물리적·수학적 성질을 지닌 단순한 장난감들로부터 우리가 세상에 대해 무엇을 배울 수 있는지 탐구한다.
 
 수학자 타다시 토키에다(Tadashi Tokieda)는 자신이 "장난감"이라 부르는 단순한 물체들의 특별한 수학적·물리적 성질을 탐구하는 것을 좋아한다. 그리고 이 장난감들이 세상에 대해 우리에게 무엇을 가르쳐 줄 수 있는지 공유하는 데 열정을 쏟는다. 이번 에피소드에서 그는 진행자 스티븐 스트로가츠(Steven Strogatz)를 대화 여행으로 초대해 자신의 장난감들이 선사하는 놀라움을 보여주고, 스탠퍼드 대학교 수학 교수가 되기 전 예술가이자 고전 문헌학자로 살았던 삶에 대해 이야기한다. 이 에피소드는 Dana Bialek이 제작했다. 더 많은 정보는 [QuantaMagazine.org](http://quantamagazine.org/)에서 확인할 수 있다. 제작과 오리지널 음악은 Story Mechanics가 담당했다.
 

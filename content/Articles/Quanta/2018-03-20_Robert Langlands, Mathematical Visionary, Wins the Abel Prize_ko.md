@@ -1,9 +1,12 @@
 ---
 title: 수학의 비전을 제시한 로버트 랭글랜즈, 아벨상 수상
-description: 여러 세대의 연구자들이 수학의 대통일 이론을 추구하는 그의 랭글랜즈 프로그램을 발전시켜 왔다.
-url: www.quantamagazine.org/robert-langlands-mathematical-visionary-wins-the-abel-prize-20180320/
 date: 2018-03-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/robert-langlands-mathematical-visionary-wins-the-abel-prize-20180320/
+>
+> 여러 세대의 연구자들이 수학의 대통일 이론을 추구하는 그의 랭글랜즈 프로그램을 발전시켜 왔다.
 
 ![Dan Komoda/Institute for Advanced Study](https://www.quantamagazine.org/wp-content/uploads/2018/03/RobertLanglands_2880x1920.jpg)
 

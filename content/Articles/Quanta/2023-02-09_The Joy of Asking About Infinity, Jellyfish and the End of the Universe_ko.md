@@ -1,9 +1,12 @@
 ---
 title: 무한, 해파리, 우주의 종말에 관해 질문하는 즐거움
-description: The Joy of Why 팟캐스트가 시즌 2로 돌아오면서, 프로듀서 폴리 스트라이커와 호스트 스티븐 스트로가츠가 청취자들을 초대해 뛰어난 새 게스트들과 함께 또 다른 발견의 여정을 떠난다.
-url: www.quantamagazine.org/the-joy-of-asking-about-infinity-jellyfish-and-the-end-of-the-universe-20230209/
 date: 2023-02-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-joy-of-asking-about-infinity-jellyfish-and-the-end-of-the-universe-20230209/
+>
+> The Joy of Why 팟캐스트가 시즌 2로 돌아오면서, 프로듀서 폴리 스트라이커와 호스트 스티븐 스트로가츠가 청취자들을 초대해 뛰어난 새 게스트들과 함께 또 다른 발견의 여정을 떠난다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/02/JoY-OpeningEssay-byPeterGreenwood-Lede-1-scaled.webp)
 

@@ -1,9 +1,12 @@
 ---
 title: 2021년 수학과 컴퓨터 과학의 한 해
-description: 수학자와 컴퓨터 과학자들이 위상수학, 집합론, 심지어 물리학의 주요 질문들에 답하며, 컴퓨터는 더욱 강력해지고 있다.
-url: www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/
 date: 2021-12-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/
+>
+> 수학자와 컴퓨터 과학자들이 위상수학, 집합론, 심지어 물리학의 주요 질문들에 답하며, 컴퓨터는 더욱 강력해지고 있다.
 
 ## 서론
 

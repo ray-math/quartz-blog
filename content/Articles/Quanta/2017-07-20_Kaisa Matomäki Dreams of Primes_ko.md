@@ -1,9 +1,12 @@
 ---
 title: 소수를 꿈꾸는 카이사 마토매키
-url: www.quantamagazine.org/kaisa-matomaki-dreams-of-primes-20170720/
-description: 카이사 마토매키는 긴 구간에서 성립하는 소수의 성질이 짧은 구간에서도 마찬가지로 성립함을 증명했다. 그녀가 사용한 기법은 이 난해한 수들의 연구를 완전히 변화시켰다.
 date: 2017-07-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/kaisa-matomaki-dreams-of-primes-20170720/
+>
+> 카이사 마토매키는 긴 구간에서 성립하는 소수의 성질이 짧은 구간에서도 마찬가지로 성립함을 증명했다. 그녀가 사용한 기법은 이 난해한 수들의 연구를 완전히 변화시켰다.
 
 ![Kaisa Matomäki](https://www.quantamagazine.org/wp-content/uploads/2017/07/KaisaMatomaki_2880x1680.jpg)
 

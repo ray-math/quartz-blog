@@ -1,9 +1,12 @@
 ---
 title: 유체 방정식의 연구, 물 흐르듯 진전되다
-description: 유체의 움직임에 대한 놀라운 실험적 발견이 중요한 수학적 증명들의 물결을 일으켰다.
-url: www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/
 date: 2020-01-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/for-fluid-equations-a-steady-flow-of-progress-20200113/
+>
+> 유체의 움직임에 대한 놀라운 실험적 발견이 중요한 수학적 증명들의 물결을 일으켰다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/01/EulerTea.gif)
 

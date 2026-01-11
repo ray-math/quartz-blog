@@ -1,9 +1,12 @@
 ---
 title: 양자물리학의 핵심에 자리한 보석
-url: www.quantamagazine.org/physicists-discover-geometry-underlying-particle-physics-20130917/
-description: 물리학자들이 시공간이 자연의 근본적 구성요소라는 개념에 도전하는 보석 모양의 기하학적 객체를 발견했다.
 date: 2013-09-17
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/physicists-discover-geometry-underlying-particle-physics-20130917/
+>
+> 물리학자들이 시공간이 자연의 근본적 구성요소라는 개념에 도전하는 보석 모양의 기하학적 객체를 발견했다.
 
 ![진폭면체의 그림](https://www.quantamagazine.org/wp-content/uploads/2013/09/amplutihedron_2000.jpg)
 

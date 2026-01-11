@@ -1,9 +1,12 @@
 ---
 title: 물리학을 수학으로 정초하려는 장대한 노력이 시간의 비밀을 열다
-description: 세 명의 수학자가 개별 분자가 어떻게 유체의 복잡한 운동을 만들어내는지 수학적으로 증명함으로써, 시간이 왜 역방향으로 흐를 수 없는지 밝혔다.
-url: www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/
 date: 2025-06-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/epic-effort-to-ground-physics-in-math-opens-up-the-secrets-of-time-20250611/
+>
+> 세 명의 수학자가 개별 분자가 어떻게 유체의 복잡한 운동을 만들어내는지 수학적으로 증명함으로써, 시간이 왜 역방향으로 흐를 수 없는지 밝혔다.
 
 ![원형 객체들로 이루어진 파도 위에서 서핑하는 여성](https://www.quantamagazine.org/wp-content/uploads/2025/06/Hilberts_Sixth_crWei-AnJin-Lede.webp)
 

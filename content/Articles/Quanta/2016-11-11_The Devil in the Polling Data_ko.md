@@ -1,9 +1,12 @@
 ---
 title: 여론조사 데이터에 숨어 있던 악마
-description: 2007년 금융위기를 초래한 바로 그 문제가 올해 대선의 여론조사 데이터도 무너뜨렸다.
-url: www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-part-2-20161111/
 date: 2016-11-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-part-2-20161111/
+>
+> 2007년 금융위기를 초래한 바로 그 문제가 올해 대선의 여론조사 데이터도 무너뜨렸다.
 
 이번 주 [선거 예측가들에게 망신을 안긴](https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/) 데이터 속 악마는 낯익은 이름을 가지고 있다. 바로 2007년 서브프라임 모기지를 금융한 은행들을 무너뜨리고 금융위기를 일으킨 바로 그 악당이다. 그 이름은 "상관 오차(correlated error)"다.
 

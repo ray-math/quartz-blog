@@ -1,9 +1,12 @@
 ---
 title: 순간의 통찰, 확률론과 정수론을 하나로 묶다
-description: 수학자들이 무작위 수를 연구하기 위해 개발한 아이디어를 광범위한 범주에 적용하고 있다.
-url: www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/
 date: 2023-01-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/
+>
+> 수학자들이 무작위 수를 연구하기 위해 개발한 아이디어를 광범위한 범주에 적용하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/01/ProbabilityTheory-byKristinaArmitage-Lede-scaled.webp)
 

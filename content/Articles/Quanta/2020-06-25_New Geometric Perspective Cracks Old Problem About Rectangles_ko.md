@@ -1,9 +1,12 @@
 ---
 title: 사각형에 관한 오래된 문제를 해결한 새로운 기하학적 관점
-description: 코로나19 봉쇄 기간 동안, 조슈아 그린과 앤드류 롭이 직사각형 못 박기 문제의 한 버전을 증명하는 방법을 알아냈다.
-url: www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/
 date: 2020-06-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-geometric-perspective-cracks-old-problem-about-rectangles-20200625/
+>
+> 코로나19 봉쇄 기간 동안, 조슈아 그린과 앤드류 롭이 직사각형 못 박기 문제의 한 버전을 증명하는 방법을 알아냈다.
 
 ![서로 다른 직사각형들이 형형색색 루프 위의 네 점을 연결하여 만들어지는 애니메이션](https://www.quantamagazine.org/wp-content/uploads/2020/06/Rectangular-Peg-Problem_2880x1620_Lede.gif)
 

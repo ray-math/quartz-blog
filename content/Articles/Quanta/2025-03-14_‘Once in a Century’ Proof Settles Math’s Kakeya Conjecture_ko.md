@@ -1,9 +1,12 @@
 ---
 title: 세기에 한 번 나올 증명이 수학의 카케야 추측을 해결하다
-description: 겉보기엔 단순해 보이는 카케야 추측이 50년간 수학자들을 괴롭혀왔다. 3차원에서 이 추측을 증명한 새로운 논문이 관련된 수많은 문제들을 조명한다.
-url: www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/
 date: 2025-03-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/
+>
+> 겉보기엔 단순해 보이는 카케야 추측이 50년간 수학자들을 괴롭혀왔다. 3차원에서 이 추측을 증명한 새로운 논문이 관련된 수많은 문제들을 조명한다.
 
 ## 서론
 

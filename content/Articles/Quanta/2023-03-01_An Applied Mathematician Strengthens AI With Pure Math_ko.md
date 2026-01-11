@@ -1,9 +1,12 @@
 ---
 title: 응용수학자가 순수수학으로 인공지능을 강화하다
-description: 렉헹 림은 대수학, 기하학, 위상수학의 도구들을 사용해 기계학습의 문제들을 해결한다.
-url: www.quantamagazine.org/an-applied-mathematician-strengthens-ai-with-pure-math-20230301/
 date: 2023-03-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/an-applied-mathematician-strengthens-ai-with-pure-math-20230301/
+>
+> 렉헹 림은 대수학, 기하학, 위상수학의 도구들을 사용해 기계학습의 문제들을 해결한다.
 
 ![시카고 대학교의 기둥 근처에 서 있는 수학자 렉헹 림](https://www.quantamagazine.org/wp-content/uploads/2023/02/Lek-Heng-Lim-byKristenNorman-Lede-scaled.webp)
 

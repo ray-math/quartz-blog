@@ -1,9 +1,12 @@
 ---
 title: 80년 된 난제에 대한 마법 같은 해답
-description: 테렌스 타오가 대중참여 수학과 전통적 연구를 결합해 전설적인 수학자 파울 에르되시가 제기한 오랜 문제를 해결했다.
-url: www.quantamagazine.org/a-magical-answer-to-an-80-year-old-puzzle-20151001/
 date: 2015-10-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-magical-answer-to-an-80-year-old-puzzle-20151001/
+>
+> 테렌스 타오가 대중참여 수학과 전통적 연구를 결합해 전설적인 수학자 파울 에르되시가 제기한 오랜 문제를 해결했다.
 
 캘리포니아 대학교 로스앤젤레스 캠퍼스(UCLA)의 수학자 테렌스 타오(Terence Tao)가 전설적인 헝가리 수학자 파울 에르되시(Paul Erdős)가 제기한 80년 된 정수론 문제에 대한 해답을 제시했다. 에르되시는 수천 개의 퍼즐을 만들어낸 것으로 유명한데, 이 중 많은 문제들이 놀랍도록 깊은 수학적 발견으로 이어졌다. 에르되시 불일치 문제(Erdős discrepancy problem)로 알려지게 된 이 특정 문제는 그가 가장 좋아했던 문제 중 하나였다고 옥스퍼드 대학교의 수학자 벤 그린(Ben Green)이 말했다. "그는 수년간, 특히 생애 말년에 이 문제를 여러 차례 언급했습니다."
 

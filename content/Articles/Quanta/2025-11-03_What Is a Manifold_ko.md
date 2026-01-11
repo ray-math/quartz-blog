@@ -1,9 +1,12 @@
 ---
 title: 다양체란 무엇인가?
-url: www.quantamagazine.org/what-is-a-manifold-20251103/
-description: 19세기 중반, 베른하르트 리만은 수학적 공간에 대한 새로운 사고방식을 제시하여 현대 기하학과 물리학의 토대를 마련했다.
 date: 2025-11-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/what-is-a-manifold-20251103/
+>
+> 19세기 중반, 베른하르트 리만은 수학적 공간에 대한 새로운 사고방식을 제시하여 현대 기하학과 물리학의 토대를 마련했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/11/What-is-a-Manifold-cr-Mark-Belan-Lede-2.webp)
 

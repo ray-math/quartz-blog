@@ -1,9 +1,12 @@
 ---
 title: 수학자 페데리코 아르딜라, 발견의 기쁨과 슬픔에 맞춰 춤추다
-description: 수학자, 교사, 콜롬비아 이민자, DJ이자 수학적 공간의 창조자로서 페데리코 아르딜라의 여정을 들어본다.
-url: www.quantamagazine.org/mathematician-federico-ardila-dances-to-the-joys-and-sorrows-of-discovery-20171120/
 date: 2017-11-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematician-federico-ardila-dances-to-the-joys-and-sorrows-of-discovery-20171120/
+>
+> 수학자, 교사, 콜롬비아 이민자, DJ이자 수학적 공간의 창조자로서 페데리코 아르딜라의 여정을 들어본다.
 
 ![Federico Ardila](https://www.quantamagazine.org/wp-content/uploads/2017/11/Federico_Ardila_2880x1620.jpg)
 

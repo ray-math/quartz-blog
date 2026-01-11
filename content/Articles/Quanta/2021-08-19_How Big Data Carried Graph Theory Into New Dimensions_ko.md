@@ -1,9 +1,12 @@
 ---
 title: 빅데이터가 그래프 이론을 더 높은 차원으로 끌어올린 방법
-description: 연구자들은 데이터 내의 복잡한 연결을 더 잘 모델링하기 위해 고차 상호작용의 수학으로 눈을 돌리고 있다.
-url: www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/
 date: 2021-08-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/
+>
+> 연구자들은 데이터 내의 복잡한 연결을 더 잘 모델링하기 위해 고차 상호작용의 수학으로 눈을 돌리고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/08/High-Order-Tools_2880_Lede.jpg)
 

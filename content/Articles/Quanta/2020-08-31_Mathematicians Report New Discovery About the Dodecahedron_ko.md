@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 정십이면체에 대한 새로운 발견을 보고하다
-description: 세 명의 수학자가 12면으로 이루어진 플라톤 다면체 위의 직선 경로에 관한 근본적인 질문을 해결했다.
-url: www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/
 date: 2020-08-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/
+>
+> 세 명의 수학자가 12면으로 이루어진 플라톤 다면체 위의 직선 경로에 관한 근본적인 질문을 해결했다.
 
 ![정십이면체 위를 직선으로 걷는 개미를 묘사한 그림.](https://www.quantamagazine.org/wp-content/uploads/2020/08/Dodecahedron_2880x1620_Lede.jpg)
 

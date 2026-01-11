@@ -1,9 +1,12 @@
 ---
 title: 빅데이터의 수학적 미스터리
-url: www.quantamagazine.org/big-datas-mathematical-mysteries-20151203/
-description: 머신러닝은 놀라울 정도로 잘 작동하지만, 수학자들은 그 이유를 완전히 이해하지 못하고 있다.
 date: 2015-12-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/big-datas-mathematical-mysteries-20151203/
+>
+> 머신러닝은 놀라울 정도로 잘 작동하지만, 수학자들은 그 이유를 완전히 이해하지 못하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/12/DaubechiesBigData_OBrien_1200.jpg)
 

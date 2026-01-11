@@ -1,9 +1,12 @@
 ---
 title: 매듭은 얼마나 복잡한가? 새로운 증명이 밝힌 작동하는 순서 체계
-url: www.quantamagazine.org/how-complex-is-a-knot-new-proof-reveals-ranking-system-that-works-20220518/
-description: 리본 콘코던스가 수학자들에게 4차원 공간을 통해 매듭들을 연결하여 비교하는 방법을 제공한다.
 date: 2022-05-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-complex-is-a-knot-new-proof-reveals-ranking-system-that-works-20220518/
+>
+> 리본 콘코던스가 수학자들에게 4차원 공간을 통해 매듭들을 연결하여 비교하는 방법을 제공한다.
 
 ![유령 같은 튜브로 연결된 두 개의 빨간 고리](https://www.quantamagazine.org/wp-content/uploads/2050/03/Ribbon_Concordance_2880x1620_Lede.jpg)
 

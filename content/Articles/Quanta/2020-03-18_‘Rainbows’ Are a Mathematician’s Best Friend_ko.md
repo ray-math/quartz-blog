@@ -1,9 +1,12 @@
 ---
 title: 무지개는 수학자의 가장 좋은 친구다
-url: www.quantamagazine.org/rainbows-are-a-mathematicians-best-friend-20200318/
-description: 무지개 색칠이 최근 새로운 증명으로 이어졌다. 이것이 유용하게 쓰인 것은 이번이 처음이 아니다.
 date: 2020-03-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/rainbows-are-a-mathematicians-best-friend-20200318/
+>
+> 무지개 색칠이 최근 새로운 증명으로 이어졌다. 이것이 유용하게 쓰인 것은 이번이 처음이 아니다.
 
 ## 서론
 

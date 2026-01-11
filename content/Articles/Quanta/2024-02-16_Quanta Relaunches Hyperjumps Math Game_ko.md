@@ -1,9 +1,12 @@
 ---
 title: Quanta가 수학 게임 Hyperjumps를 새롭게 출시하다
-url: www.quantamagazine.org/quanta-relaunches-hyperjumps-math-game-20240216/
-description: 숫자와 산술의 우주를 탐험하는 새롭고 개선된 인터랙티브 수학 게임 Hyperjumps를 만나보세요!
 date: 2024-02-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/quanta-relaunches-hyperjumps-math-game-20240216/
+>
+> 숫자와 산술의 우주를 탐험하는 새롭고 개선된 인터랙티브 수학 게임 Hyperjumps를 만나보세요!
 
 # Quanta가 수학 게임 Hyperjumps를 새롭게 출시하다
 

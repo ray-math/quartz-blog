@@ -1,9 +1,12 @@
 ---
 title: 무명의 수학자가 소수 간격의 난제를 돌파하다
-description: 거의 알려지지 않은 연구자가 수학의 가장 오래된 문제 중 하나인 쌍둥이 소수 추측에서 위대한 진전을 이루었다.
-url: www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/
 date: 2013-05-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/
+>
+> 거의 알려지지 않은 연구자가 수학의 가장 오래된 문제 중 하나인 쌍둥이 소수 추측에서 위대한 진전을 이루었다.
 
 4월 17일, 수학계의 가장 권위 있는 학술지 중 하나인 『Annals of Mathematics』의 편집자 이메일함에 한 편의 논문이 도착했다. 논문 저자는 해당 분야 전문가들에게 사실상 무명이었던 인물—뉴햄프셔 대학교의 50대 강사 장이탕(Yitang Zhang, 张益唐)—이었고, 논문은 수학의 가장 오래된 문제 중 하나인 쌍둥이 소수 추측(twin primes conjecture)을 이해하는 데 거대한 진전을 이루었다고 주장했다.
 

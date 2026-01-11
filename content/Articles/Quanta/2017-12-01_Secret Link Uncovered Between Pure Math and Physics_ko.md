@@ -1,9 +1,12 @@
 ---
 title: 순수 수학과 물리학 사이에서 발견된 비밀스러운 연결
-url: www.quantamagazine.org/secret-link-uncovered-between-pure-math-and-physics-20171201/
-description: 저명한 수학자가 수천 년 된 수학 문제에 대한 자신의 진전이 물리학에서 유래한 개념 덕분임을 밝혔다.
 date: 2017-12-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/secret-link-uncovered-between-pure-math-and-physics-20171201/
+>
+> 저명한 수학자가 수천 년 된 수학 문제에 대한 자신의 진전이 물리학에서 유래한 개념 덕분임을 밝혔다.
 
 ![화이트보드 앞의 김민형](https://www.quantamagazine.org/wp-content/uploads/2017/12/MHK_2880x1620.jpg)
 

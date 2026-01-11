@@ -1,9 +1,12 @@
 ---
 title: 수학자들, 착색 문제에서 한계를 돌파하다
-description: 새로운 결과는 정확히 1단위 떨어진 점들이 절대 같은 색이 되지 않도록 평면을 얼마나 칠할 수 있는지를 보여준다.
-url: www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/
 date: 2023-07-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/
+>
+> 새로운 결과는 정확히 1단위 떨어진 점들이 절대 같은 색이 되지 않도록 평면을 얼마나 칠할 수 있는지를 보여준다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/07/UnitDiskDensity-byAllisonLi-Lede-scaled.webp)
 

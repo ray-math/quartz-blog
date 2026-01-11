@@ -1,9 +1,12 @@
 ---
 title: 수학과 과학, 사랑하는가 혐오하는가?
-url: www.quantamagazine.org/survey-do-you-love-or-hate-math-and-science-20161020/
-description: Quanta Magazine가 독자들에게 초기 수학·과학 학습 경험을 공유하도록 초대하고, 대화형 설문조사 결과를 탐색할 수 있도록 한다.
 date: 2016-10-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/survey-do-you-love-or-hate-math-and-science-20161020/
+>
+> Quanta Magazine가 독자들에게 초기 수학·과학 학습 경험을 공유하도록 초대하고, 대화형 설문조사 결과를 탐색할 수 있도록 한다.
 
 [Emily Fuhrman](http://emilyfuhrman.co/) for Quanta Magazine
 

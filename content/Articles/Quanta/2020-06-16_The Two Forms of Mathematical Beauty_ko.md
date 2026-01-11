@@ -1,9 +1,12 @@
 ---
 title: 수학적 아름다움의 두 가지 형태
-url: www.quantamagazine.org/how-is-math-beautiful-20200616/
-description: 수학자들은 일반적으로 자신의 연구에서 보편적 아름다움 또는 예외적 아름다움을 추구하는데, 우주를 기술하는 데 더 유용한 것은 그중 한 가지다.
 date: 2020-06-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-is-math-beautiful-20200616/
+>
+> 수학자들은 일반적으로 자신의 연구에서 보편적 아름다움 또는 예외적 아름다움을 추구하는데, 우주를 기술하는 데 더 유용한 것은 그중 한 가지다.
 
 ![한쪽에는 간결한 수직선이, 다른 쪽에는 정십이면체, 천구의, 꽃과 식물을 포함한 다양하고 흥미로운 물체들이 있는 삽화](https://www.quantamagazine.org/wp-content/uploads/2020/06/Math-Beauty_2880x1220_Lede_HPA.jpg)
 

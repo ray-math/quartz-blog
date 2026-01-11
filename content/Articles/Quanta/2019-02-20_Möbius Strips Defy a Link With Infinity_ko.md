@@ -1,9 +1,12 @@
 ---
 title: 뫼비우스 띠가 무한과의 연결을 거부하다
-description: 새로운 증명이 밝혀낸 것,  왜 셀 수 없는 무한 개의 뫼비우스 띠는 결코 3차원 공간에 들어갈 수 없는가
 date: 2019-02-20
-url: www.quantamagazine.org/mobius-strips-defy-a-link-with-infinity-20190220/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mobius-strips-defy-a-link-with-infinity-20190220/
+>
+> 새로운 증명이 밝혀낸 것,  왜 셀 수 없는 무한 개의 뫼비우스 띠는 결코 3차원 공간에 들어갈 수 없는가
 
 ## 도입
 

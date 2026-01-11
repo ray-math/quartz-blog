@@ -1,9 +1,12 @@
 ---
 title: 에드워드 위튼, 실재의 본질을 사유하다
-url: www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/
-description: 에드워드 위튼이 물리학과 수학에서 이중성의 의미, 창발하는 시공간, 그리고 자연에 대한 완전한 기술을 추구하는 과정을 성찰한다.
 date: 2017-11-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/edward-witten-ponders-the-nature-of-reality-20171128/
+>
+> 에드워드 위튼이 물리학과 수학에서 이중성의 의미, 창발하는 시공간, 그리고 자연에 대한 완전한 기술을 추구하는 과정을 성찰한다.
 
 ![뉴저지주 프린스턴 고등연구소 사무실의 에드워드 위튼](https://www.quantamagazine.org/wp-content/uploads/2017/11/EdWitten_2880x1780_03.jpg)
 

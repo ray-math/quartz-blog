@@ -1,9 +1,12 @@
 ---
 title: 자연계의 안정성을 찾는 수학적 여행자
-url: www.quantamagazine.org/a-traveler-who-finds-stability-in-the-natural-world-20180801/
-description: 수학자 알레시오 피갈리는 한 곳에 오래 머물지 않는다. 그러나 그의 연구는 결정부터 기상 전선까지 모든 것의 안정성을 확립했다...
 date: 2018-08-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-traveler-who-finds-stability-in-the-natural-world-20180801/
+>
+> 수학자 알레시오 피갈리는 한 곳에 오래 머물지 않는다. 그러나 그의 연구는 결정부터 기상 전선까지 모든 것의 안정성을 확립했다...
 
 ![알레시오 피갈리 사진 일러스트](https://www.quantamagazine.org/wp-content/uploads/2018/08/Alessio_2880x1620.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학 4인방, 통일 이론에 힘을 합치다
-description: 수론과 기하학을 연결하는 새로운 돌파구는 긴밀히 협력하는 수학자 그룹의 최신 승리일 뿐이다.
-url: www.quantamagazine.org/math-quartet-joins-forces-on-unified-theory-20151208/
 date: 2015-12-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-quartet-joins-forces-on-unified-theory-20151208/
+>
+> 수론과 기하학을 연결하는 새로운 돌파구는 긴밀히 협력하는 수학자 그룹의 최신 승리일 뿐이다.
 
 위안 신이(Xinyi Yuan)와 장 웨이(Wei Zhang)가 처음으로 함께 수행한 협력 작업 중 하나는 사회보장국(Social Security office)으로의 여행이었다. 2004년 가을, 그들은 컬럼비아 대학교에서 수학을 전공하는 촉망받는 대학원생이었다. 동시에 그들은 베이징 대학교(Peking University)에서 함께 학부 시절을 보낸 친구였다. 위안은 장보다 1년 먼저 컬럼비아에 왔고, 이제 친구가 사회보장번호를 받을 수 있도록 돕고 있었다. 그 여행은 순조롭게 진행되지 않았다.
 

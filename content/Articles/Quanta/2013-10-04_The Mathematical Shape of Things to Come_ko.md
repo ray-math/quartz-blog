@@ -1,9 +1,12 @@
 ---
 title: 다가올 것들의 수학적 형태
-url: www.quantamagazine.org/the-mathematical-shape-of-big-science-data-20131004/
-description: 과학 데이터셋은 점점 더 동적이 되고 있으며, 미적분학의 발명에 필적하는 새로운 수학적 기법을 요구하고 있다.
 date: 2013-10-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mathematical-shape-of-big-science-data-20131004/
+>
+> 과학 데이터셋은 점점 더 동적이 되고 있으며, 미적분학의 발명에 필적하는 새로운 수학적 기법을 요구하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2013/09/Topological-Data-Illustration.jpg)
 

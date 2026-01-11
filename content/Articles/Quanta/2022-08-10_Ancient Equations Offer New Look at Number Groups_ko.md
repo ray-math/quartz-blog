@@ -1,9 +1,12 @@
 ---
 title: 고대 방정식이 수 체계의 새로운 면모를 드러내다
-description: 아르키메데스 이래로 수학자들은 제곱의 차를 포함하는 방정식에 매혹되어 왔다. 이제 두 수학자가 이러한 방정식이 얼마나 자주 해를 갖는지 증명하며, 수십 년간의 탐구를 마무리했다.
-url: www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
 date: 2022-08-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
+>
+> 아르키메데스 이래로 수학자들은 제곱의 차를 포함하는 방정식에 매혹되어 왔다. 이제 두 수학자가 이러한 방정식이 얼마나 자주 해를 갖는지 증명하며, 수십 년간의 탐구를 마무리했다.
 
 ![An illustration of a large, 3D equation that almost looks like a sculpture (that is being inspected by different people, and is surrounded by different numbers and measuring equipment such as rulers and protractors. The equation is x2 − dy2 = –1).](https://www.quantamagazine.org/wp-content/uploads/2022/08/Stevenhangens_2880x1620_Lede-scaled.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 단순한 문제들을 찬양하며
-url: www.quantamagazine.org/in-praise-of-simple-problems-20180109/
-description: 수학자 리처드 슈워츠는 단순한 수학 퍼즐 속에 숨어있는 깊이를 발견한다.
 date: 2018-01-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-praise-of-simple-problems-20180109/
+>
+> 수학자 리처드 슈워츠는 단순한 수학 퍼즐 속에 숨어있는 깊이를 발견한다.
 
 ![리처드 슈워츠의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/01/RichardSchwartz_2880x1620_01.jpg)
 

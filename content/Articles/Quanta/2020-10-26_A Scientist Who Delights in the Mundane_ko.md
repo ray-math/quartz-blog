@@ -1,9 +1,12 @@
 ---
 title: 평범함 속에서 기쁨을 찾는 과학자
-url: www.quantamagazine.org/l-mahadevan-finds-math-inspiration-in-the-mundane-20201026/
-description: 구겨진 종이부터 흰개미 집, 세 면이 있는 동전까지—L. 마하데반은 온 세상을 자신의 실험실로 만들었다.
 date: 2020-10-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/l-mahadevan-finds-math-inspiration-in-the-mundane-20201026/
+>
+> 구겨진 종이부터 흰개미 집, 세 면이 있는 동전까지—L. 마하데반은 온 세상을 자신의 실험실로 만들었다.
 
 ![Harvard professor L. Mahadevan stands in a slightly cluttered office, holding an apple and a jar containing a miniature brain](https://www.quantamagazine.org/wp-content/uploads/2020/10/L-Mahadevan_2880_Lede.jpg)
 

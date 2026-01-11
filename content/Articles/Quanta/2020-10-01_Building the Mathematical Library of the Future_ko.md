@@ -1,9 +1,12 @@
 ---
 title: 미래의 수학 도서관 건설하기
-description: 소규모 수학자 공동체가 Lean이라는 소프트웨어를 사용하여 새로운 디지털 저장소를 구축하고 있다. 그들은 이것이 수학 분야의 미래를 대표하기를 희망한다.
-url: www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
 date: 2020-10-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/
+>
+> 소규모 수학자 공동체가 Lean이라는 소프트웨어를 사용하여 새로운 디지털 저장소를 구축하고 있다. 그들은 이것이 수학 분야의 미래를 대표하기를 희망한다.
 
 ![연구자들이 디지털 도서관을 건설하고 작성하는 모습, 이는 인간형 로봇이 고급 수학을 수행하도록 돕는다](https://www.quantamagazine.org/wp-content/uploads/2020/10/Lean_2880x1500_Lede.jpg)
 

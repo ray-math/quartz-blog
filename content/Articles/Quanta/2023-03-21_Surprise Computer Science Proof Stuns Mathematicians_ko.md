@@ -1,9 +1,12 @@
 ---
 title: 컴퓨터 과학의 놀라운 증명이 수학자들을 경악시키다
-description: 수십 년 동안 수학자들은 어떤 집합이 등차수열을 포함하는지에 대한 문제를 조금씩 개선해왔다. 지난달, 두 컴퓨터 과학자가 이 모든 결과를 단번에 뛰어넘었다.
-url: www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/
 date: 2023-03-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/
+>
+> 수십 년 동안 수학자들은 어떤 집합이 등차수열을 포함하는지에 대한 문제를 조금씩 개선해왔다. 지난달, 두 컴퓨터 과학자가 이 모든 결과를 단번에 뛰어넘었다.
 
 ![1부터 40까지의 숫자 사이를 점프하는 파란색 계단으로 표현된, 등차수열을 회피하는 수열의 그림](https://www.quantamagazine.org/wp-content/uploads/2023/03/ArithmeticProgressions-bySamuelVelasco-Lede-scaled.webp)
 

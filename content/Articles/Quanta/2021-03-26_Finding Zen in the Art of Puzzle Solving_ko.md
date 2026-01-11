@@ -1,9 +1,12 @@
 ---
 title: 퍼즐 풀이의 예술에서 선(禪)을 찾다
-url: www.quantamagazine.org/finding-zen-in-the-art-of-puzzle-solving-20210326/
-description: 독자들이 선(禪)과 같은 퍼즐 풀이 기법을 통해 숨겨진 통찰을 발견했다.
 date: 2021-03-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/finding-zen-in-the-art-of-puzzle-solving-20210326/
+>
+> 독자들이 선(禪)과 같은 퍼즐 풀이 기법을 통해 숨겨진 통찰을 발견했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/02/Ants_2560_Lede.jpg)
 

@@ -1,9 +1,13 @@
 ---
 title: 수학과 과학을 가르치는 기술
-url: www.quantamagazine.org/math-and-science-teachers-pencils-down-20161011/
-description: 수학과 과학 교육의 막다른 길은 시험 점수나 최신 교육 이론보다 더 깊은 곳에 있다. 최전선의 최고 교사들로부터 우리는 무엇을 배울 수 있을까?
 date: 2016-10-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-and-science-teachers-pencils-down-20161011/
+>
+> 수학과 과학 교육의 막다른 길은 시험 점수나 최신 교육 이론보다 더 깊은 곳에 있다. 최전선의 최고 교사들로부터 우리는 무엇을 배울 수 있을까?
+
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/10/Edu_Group.jpg)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/10/Teachers_ZMMC_2K.jpg)

@@ -1,9 +1,12 @@
 ---
 title: 아홉 여학생 문제
-url: www.quantamagazine.org/the-nine-schoolgirls-challenge-20150609/
-description: 1850년 토머스 커크먼의 유명한 퍼즐의 변형 문제를 풀어보자. 여학생들을 산책 그룹으로 배치하되, 시간 제한이 있으니 빠르게 생각해야 한다.
 date: 2015-06-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-nine-schoolgirls-challenge-20150609/
+>
+> 1850년 토머스 커크먼의 유명한 퍼즐의 변형 문제를 풀어보자. 여학생들을 산책 그룹으로 배치하되, 시간 제한이 있으니 빠르게 생각해야 한다.
 
 토머스 커크먼(Thomas Kirkman)이 1850년에 제시한 [유명한 열다섯 여학생 문제](https://www.quantamagazine.org/20150609-a-design-dilemma-solved-minus-designs/)의 단순화된 변형으로, 한 학교의 아홉 명의 여학생이 나흘 동안 매일 3명씩 그룹을 이루어 산책을 한다. 당신은 교사로서 여학생들을 산책 그룹으로 배치해야 하는데, 어떤 두 여학생의 쌍도 같은 줄(3명으로 구성된 그룹)에서 두 번 이상 함께 걷지 않도록 해야 한다.
 

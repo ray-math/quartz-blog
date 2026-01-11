@@ -1,9 +1,12 @@
 ---
 title: 트라셰트 잭슨, 수학으로 암에 맞서다
-url: www.quantamagazine.org/trachette-jackson-fights-cancer-with-math-20210412/
-description: 수리생물학자 트라셰트 잭슨이 구축한 정량적 모델은 암 치료를 더 안전하고 효과적으로 만들 수 있다.
 date: 2021-04-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/trachette-jackson-fights-cancer-with-math-20210412/
+>
+> 수리생물학자 트라셰트 잭슨이 구축한 정량적 모델은 암 치료를 더 안전하고 효과적으로 만들 수 있다.
 
 "수리생물학(mathematical biology)"이라는 용어는 불과 수십 년 전만 해도 형용모순처럼 들렸을 것이다. 어떻게 수학이 주로 서술적인 생물학 분야를 풍부하게 만들 수 있단 말인가? 그러나 미시간 대학교의 트라셰트 잭슨(Trachette Jackson)은 이 분야의 선구자가 되었으며, 암 치료에 깊이 있는 수학적 통찰을 가져왔다. 이번 에피소드에서 잭슨은 진행자 스티브 스트로가츠(Steve Strogatz)에게 종양이 어떻게 연필 상자와 닮았는지, 그리고 자신이 어떻게 생물학적 미스터리를 꿰뚫는 데 수학의 유용성을 인식하게 되었는지를 이야기한다.
 

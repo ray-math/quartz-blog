@@ -1,9 +1,12 @@
 ---
 title: 단순한 양자 게임이 밝혀낸 우주의 궁극적 복잡성
-description: 두 명의 플레이어가 하는 게임이 우주가 무한한 복잡성을 가지고 있는지 여부를 밝힐 수 있다.
-url: www.quantamagazine.org/the-universes-ultimate-complexity-revealed-by-simple-quantum-games-20190305/
 date: 2019-03-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-universes-ultimate-complexity-revealed-by-simple-quantum-games-20190305/
+>
+> 두 명의 플레이어가 하는 게임이 우주가 무한한 복잡성을 가지고 있는지 여부를 밝힐 수 있다.
 
 ![Art for "The Universe's Ultimate Complexity Revealed by Simple Quantum Games"](https://www.quantamagazine.org/wp-content/uploads/2019/03/InfiniteEntanglement_2880x1620.jpg)
 

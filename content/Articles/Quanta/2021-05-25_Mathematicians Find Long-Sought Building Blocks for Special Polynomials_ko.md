@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 힐베르트가 찾던 특수 다항식의 기본 구성 요소를 발견하다
-url: www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525/
-description: 힐베르트의 12번째 문제는 특정 수 체계의 기본 구성 요소인 단위근의 새로운 유사체를 요구했다. 이제 100년 이상이 지나, 두 수학자가 마침내 그것을 만들어냈다.
 date: 2021-05-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525/
+>
+> 힐베르트의 12번째 문제는 특정 수 체계의 기본 구성 요소인 단위근의 새로운 유사체를 요구했다. 이제 100년 이상이 지나, 두 수학자가 마침내 그것을 만들어냈다.
 
 ![큰 구조물을 건설하는 인물들의 삽화, 최신 추가 부분에 새로운 재료가 사용되고 있다](https://www.quantamagazine.org/wp-content/uploads/2021/05/Hilberts-12th_2880_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 무한 곡선은 두 가지 유형으로 나뉜다는 새로운 증명
-url: www.quantamagazine.org/new-proof-shows-infinite-curves-come-in-two-types-20181107/
-description: 골드펠트 추측에 관한 알렉산더 스미스의 연구가 타원곡선의 근본적인 특성을 밝혀냈다.
 date: 2018-11-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proof-shows-infinite-curves-come-in-two-types-20181107/
+>
+> 골드펠트 추측에 관한 알렉산더 스미스의 연구가 타원곡선의 근본적인 특성을 밝혀냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Goldfeld-Lede_1300_small.jpg)
 

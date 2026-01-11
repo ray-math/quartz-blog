@@ -1,9 +1,12 @@
 ---
 title: 블랙홀을 흔들어 아인슈타인의 방정식을 시험하다
-description: 두 연구팀이 블랙홀 안정성 추측을 증명하는 데 중요한 진전을 이루었다. 이는 아인슈타인의 일반 상대성 이론에 대한 결정적인 수학적 검증이다.
-url: www.quantamagazine.org/to-test-einsteins-equations-poke-a-black-hole-20180308/
 date: 2018-03-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/to-test-einsteins-equations-poke-a-black-hole-20180308/
+>
+> 두 연구팀이 블랙홀 안정성 추측을 증명하는 데 중요한 진전을 이루었다. 이는 아인슈타인의 일반 상대성 이론에 대한 결정적인 수학적 검증이다.
 
 ![젤리 큐브 안의 블랙홀을 표현한 애니메이션](https://www.quantamagazine.org/wp-content/uploads/2018/03/BlackHoleJelly_Mobile.gif)
 

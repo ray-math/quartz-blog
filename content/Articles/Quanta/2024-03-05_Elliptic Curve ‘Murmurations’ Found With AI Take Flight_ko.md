@@ -1,9 +1,12 @@
 ---
 title: AI로 발견한 타원곡선의 군무 현상, 수학적 비상을 시작하다
-description: 인공지능을 통해 발견된 타원곡선의 이례적인 행동을 수학자들이 완전히 설명하려 노력하고 있다.
-url: www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/
 date: 2024-03-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/
+>
+> 인공지능을 통해 발견된 타원곡선의 이례적인 행동을 수학자들이 완전히 설명하려 노력하고 있다.
 
 ## 서론
 

@@ -1,9 +1,12 @@
 ---
 title: 종이접기 패턴이 물리학의 핵심 수수께끼를 풀다
-description: 입자물리학의 중심에 있는 기하학적 도형인 진폭면체(amplituhedron)가 종이접기 수학과 깊이 연결되어 있는 것으로 밝혀졌다.
-url: www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
 date: 2025-10-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/
+>
+> 입자물리학의 중심에 있는 기하학적 도형인 진폭면체(amplituhedron)가 종이접기 수학과 깊이 연결되어 있는 것으로 밝혀졌다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/10/Amplituhedron-cr.Ibrahim-Rayintakath-Lede-scaled.webp)
 

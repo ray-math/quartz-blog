@@ -1,9 +1,12 @@
 ---
 title: 64년 난제였던 완고한 숫자 33의 세 세제곱수 합 문제 해결
-url: www.quantamagazine.org/sum-of-three-cubes-problem-solved-for-stubborn-number-33-20190326/
-description: 프로그래밍에 능통한 정수론 학자가 64년간 미해결 상태였던 33 = x³ + y³ + z³ 방정식의 해를 발견했다.
 date: 2019-03-26
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/sum-of-three-cubes-problem-solved-for-stubborn-number-33-20190326/
+>
+> 프로그래밍에 능통한 정수론 학자가 64년간 미해결 상태였던 33 = x³ + y³ + z³ 방정식의 해를 발견했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/03/Cube33-2880x1220_HP.jpg)
 

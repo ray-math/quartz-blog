@@ -1,9 +1,12 @@
 ---
 title: 무한 그래프의 녹는점을 밝히는 국소적 관점
-description: 얼음이 물로 녹듯이, 그래프도 상전이를 겪는다. 두 수학자가 국소 구조만 관찰해도 이러한 전이점을 정확히 찾아낼 수 있음을 증명했다.
-url: www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/
 date: 2023-12-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-close-up-view-reveals-the-melting-point-of-an-infinite-graph-20231218/
+>
+> 얼음이 물로 녹듯이, 그래프도 상전이를 겪는다. 두 수학자가 국소 구조만 관찰해도 이러한 전이점을 정확히 찾아낼 수 있음을 증명했다.
 
 ## 들어가며
 

@@ -1,9 +1,12 @@
 ---
 title: 수학 분야의 성별 격차를 해소하기 위한 움직임
-url: www.quantamagazine.org/a-movement-to-close-the-gender-gap-in-mathematics-20190122/
-description: 스스로를 "약간의 무정부주의자"라고 부르는 브라질의 수학자 카롤리나 아라우주는 여성이 수학에서 직면하는 문제들을 연구하고 해결하기 위해 모임을 조직하고 지원 네트워크를 구축하고 있다.
 date: 2019-01-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-movement-to-close-the-gender-gap-in-mathematics-20190122/
+>
+> 스스로를 "약간의 무정부주의자"라고 부르는 브라질의 수학자 카롤리나 아라우주는 여성이 수학에서 직면하는 문제들을 연구하고 해결하기 위해 모임을 조직하고 지원 네트워크를 구축하고 있다.
 
 ![브라질 IMPA에 있는 카롤리나 아라우주](https://www.quantamagazine.org/wp-content/uploads/2019/01/CarolinaAraujo_2880x1750.jpg)
 

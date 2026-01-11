@@ -1,9 +1,12 @@
 ---
 title: AI는 예측 과학을 어떻게 변화시키고 있는가?
-url: www.quantamagazine.org/how-is-ai-changing-the-science-of-prediction-20241107/
-description: 대량의 데이터, 강력한 모델, 그리고 통계적 사고를 갖춘 과학자들은 온갖 복잡한 현상에 대한 예측을 할 수 있다. 오늘날 이러한 실천은 기계학습과 방대한 데이터셋의 힘을 활용하는 방향으로 진화하고 있다. 이번 에피소드에서 공동 진행자 Steven Strogatz는 통계학자 Emmanuel Candès와 함께 블랙박스, 불확실성, 그리고 귀납적 추론의 힘에 대해 이야기를 나눈다.
 date: 2024-11-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-is-ai-changing-the-science-of-prediction-20241107/
+>
+> 대량의 데이터, 강력한 모델, 그리고 통계적 사고를 갖춘 과학자들은 온갖 복잡한 현상에 대한 예측을 할 수 있다. 오늘날 이러한 실천은 기계학습과 방대한 데이터셋의 힘을 활용하는 방향으로 진화하고 있다. 이번 에피소드에서 공동 진행자 Steven Strogatz는 통계학자 Emmanuel Candès와 함께 블랙박스, 불확실성, 그리고 귀납적 추론의 힘에 대해 이야기를 나눈다.
 
 ![검은 상자에서 형태와 패턴이 나타난다](https://www.quantamagazine.org/wp-content/uploads/2024/11/JOW321_crPeterGreenwoodLede-LOGO-scaled.webp)
 

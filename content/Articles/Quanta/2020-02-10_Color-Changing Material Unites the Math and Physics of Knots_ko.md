@@ -1,9 +1,12 @@
 ---
 title: 색이 변하는 소재가 매듭의 수학과 물리학을 하나로 묶다
-description: 수학자들이 수세기 동안 매듭을 연구해왔지만, 새로운 소재가 어떤 매듭이 다른 매듭보다 더 나은지 그 이유를 밝혀내고 있다.
-url: www.quantamagazine.org/color-changing-material-unites-the-math-and-physics-of-knots-20200210/
 date: 2020-02-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/color-changing-material-unites-the-math-and-physics-of-knots-20200210/
+>
+> 수학자들이 수세기 동안 매듭을 연구해왔지만, 새로운 소재가 어떤 매듭이 다른 매듭보다 더 나은지 그 이유를 밝혀내고 있다.
 
 ![복잡한 매듭의 사진.](https://www.quantamagazine.org/wp-content/uploads/2020/02/Knotty_1300Lede.jpg)
 

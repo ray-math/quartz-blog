@@ -1,9 +1,12 @@
 ---
 title: 고양이와 우주를 보는 공통의 논리
-url: www.quantamagazine.org/a-common-logic-to-seeing-cats-and-cosmos-20141204/
-description: 새로운 연구는 물리학자, 컴퓨터, 그리고 뇌가 데이터에서 중요한 특징을 추출하기 위해 동일한 절차를 사용함을 시사한다.
 date: 2014-12-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-common-logic-to-seeing-cats-and-cosmos-20141204/
+>
+> 새로운 연구는 물리학자, 컴퓨터, 그리고 뇌가 데이터에서 중요한 특징을 추출하기 위해 동일한 절차를 사용함을 시사한다.
 
 2012년 컴퓨터가 유튜브 비디오에서 [고양이를 인식하는 법을 배웠고](http://arxiv.org/abs/1112.6209), 바로 지난달에는 또 다른 컴퓨터가 "프리스비 게임을 하는 젊은이들 그룹"이라는 사진에 정확하게 [설명을 붙였을](http://www.nytimes.com/2014/11/18/science/researchers-announce-breakthrough-in-content-recognition-software.html?_r=1) 때, 인공지능 연구자들은 "딥러닝(deep learning)"의 또 다른 승리를 선언했다. 딥러닝은 뇌가 단순히 노출을 통해 실제 세계의 특징들에 민감해지는 방식을 느슨하게 모델링한 매우 성공적인 알고리즘 집합이다.
 

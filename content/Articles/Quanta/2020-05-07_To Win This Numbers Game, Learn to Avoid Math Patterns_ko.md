@@ -1,9 +1,12 @@
 ---
 title: 이 숫자 게임에서 이기려면 수학적 패턴을 피하는 법을 배워라
-url: www.quantamagazine.org/to-win-this-numbers-game-learn-to-avoid-math-patterns-20200507/
-description: 패턴 없는 집합의 크기를 파악하는 것은 어려운 일이다. 그래서 수학자들은 단순한 한계값에 의존하여 답을 구한다.
 date: 2020-05-07
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/to-win-this-numbers-game-learn-to-avoid-math-patterns-20200507/
+>
+> 패턴 없는 집합의 크기를 파악하는 것은 어려운 일이다. 그래서 수학자들은 단순한 한계값에 의존하여 답을 구한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/05/Patterns_2880x1620_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 먼 진실을 밝혀내는 계산의 시인
-url: www.quantamagazine.org/a-poet-of-computation-who-uncovers-distant-truths-20180801/
-description: 이론 컴퓨터 과학자 콘스탄티노스 다스칼라키스가 게임 이론과 머신러닝의 핵심 질문들을 해명한 공로로 롤프 네반린나 상을 수상했다.
 date: 2018-08-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-poet-of-computation-who-uncovers-distant-truths-20180801/
+>
+> 이론 컴퓨터 과학자 콘스탄티노스 다스칼라키스가 게임 이론과 머신러닝의 핵심 질문들을 해명한 공로로 롤프 네반린나 상을 수상했다.
 
 ![콘스탄티노스 다스칼라키스의 사진 일러스트](https://www.quantamagazine.org/wp-content/uploads/2018/08/Costis_2880x1620.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학적 곡선이 암호학을 구동하는 방법
-description: 단순한 기하학적 아이디어가 정보 이론, 암호학, 그리고 블록체인 기술의 발전을 이끌고 있다.
-url: www.quantamagazine.org/how-mathematical-curves-power-cryptography-20220919/
 date: 2022-09-19
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-mathematical-curves-power-cryptography-20220919/
+>
+> 단순한 기하학적 아이디어가 정보 이론, 암호학, 그리고 블록체인 기술의 발전을 이끌고 있다.
 
 ![우주선, 노트북, QR 코드, CD](https://www.quantamagazine.org/wp-content/uploads/2050/09/Interpolation-Applications_2880x1620_Lede-scaled.jpg)
 

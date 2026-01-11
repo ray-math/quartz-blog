@@ -1,9 +1,12 @@
 ---
 title: 단순한 수학이 바늘을 움직이는 법
-description: 삼점 회전에 숨은 공간적 직관은 한 세기 전 기하학 문제로 들어가는 진입로를 제공한다.
-url: www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/
 date: 2023-09-29
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/
+>
+> 삼점 회전에 숨은 공간적 직관은 한 세기 전 기하학 문제로 들어가는 진입로를 제공한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/09/SeptAcademy-byRobertNeubecker-Lede-scaled.webp)
 

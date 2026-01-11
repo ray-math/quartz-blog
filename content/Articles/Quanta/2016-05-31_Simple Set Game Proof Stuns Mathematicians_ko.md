@@ -1,9 +1,12 @@
 ---
 title: 단순한 Set 게임 증명이 수학자들을 경악시키다
-description: 3장의 카드로 패턴을 찾는 인기 게임과 관련된 오래된 문제가 새로운 논문 시리즈로 해결되었다.
-url: www.quantamagazine.org/set-proof-stuns-mathematicians-20160531/
 date: 2016-05-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/set-proof-stuns-mathematicians-20160531/
+>
+> 3장의 카드로 패턴을 찾는 인기 게임과 관련된 오래된 문제가 새로운 논문 시리즈로 해결되었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/Alice_QoD_v1.jpg)
 

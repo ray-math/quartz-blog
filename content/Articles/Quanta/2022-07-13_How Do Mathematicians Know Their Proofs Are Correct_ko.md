@@ -1,9 +1,12 @@
 ---
 title: 수학자들은 자신의 증명이 옳다는 것을 어떻게 아는가?
-url: www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/
-description: 추측을 증명과 구별하는 것은 무엇인가? 추상적 수학의 영역에서 증거란 어떤 모습일까? 수학자 멜라니 매체트 우드가 확률이 어떻게 정수론 학자들을 확실성으로 인도하는지 설명한다.
 date: 2022-07-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/
+>
+> 추측을 증명과 구별하는 것은 무엇인가? 추상적 수학의 영역에서 증거란 어떤 모습일까? 수학자 멜라니 매체트 우드가 확률이 어떻게 정수론 학자들을 확실성으로 인도하는지 설명한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/07/JoW_Evidence-in-Math_2880x1620_Lede_LOGO-scaled.jpg)
 

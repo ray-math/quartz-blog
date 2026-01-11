@@ -1,9 +1,12 @@
 ---
 title: 수학적 증명과 컴퓨터 프로그램을 동일시하는 깊은 연결
-description: 수학적 논리와 컴퓨터 프로그램 코드는 정확한 의미에서 서로의 거울상이다.
-url: www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/
 date: 2023-10-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/
+>
+> 수학적 논리와 컴퓨터 프로그램 코드는 정확한 의미에서 서로의 거울상이다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/10/CurryHowardExplainer-byNashWeerasekera-Lede-scaled.webp)
 

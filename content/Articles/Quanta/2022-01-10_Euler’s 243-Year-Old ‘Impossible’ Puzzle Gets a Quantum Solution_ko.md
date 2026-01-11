@@ -1,9 +1,12 @@
 ---
 title: 오일러가 243년 전에 불가능하다고 선언한 퍼즐, 양자역학으로 해결되다
-description: 레온하르트 오일러의 유명한 36명의 장교 퍼즐에 대한 놀라운 새로운 해법이 양자 정보를 인코딩하는 새로운 방법을 제시한다.
-url: www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/
 date: 2022-01-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/
+>
+> 레온하르트 오일러의 유명한 36명의 장교 퍼즐에 대한 놀라운 새로운 해법이 양자 정보를 인코딩하는 새로운 방법을 제시한다.
 
 ![흐릿한 형태로 표현된 양자 장교들이 검은 배경의 격자 위에 배열되어 있다.](https://www.quantamagazine.org/wp-content/uploads/2022/01/Quantum-Latin-Squares_2560_Lede.jpg)
 

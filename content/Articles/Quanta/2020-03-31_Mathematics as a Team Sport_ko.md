@@ -1,9 +1,12 @@
 ---
 title: 팀 스포츠로서의 수학
-url: www.quantamagazine.org/mathematics-as-a-team-sport-20200331/
-description: 50명의 수학자가 숲속에서 일주일을 보낸다면 무슨 일이 벌어질까? 그 예측 불가능성이야말로 핵심이다.
 date: 2020-03-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematics-as-a-team-sport-20200331/
+>
+> 50명의 수학자가 숲속에서 일주일을 보낸다면 무슨 일이 벌어질까? 그 예측 불가능성이야말로 핵심이다.
 
 ![다양한 칠판 앞에 서 있거나 앉아 있는 수학자들의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2880x1700_Lede.jpg)
 

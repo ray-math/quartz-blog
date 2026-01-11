@@ -1,9 +1,12 @@
 ---
 title: 수학만이 풀 수 있는 물리학 중심의 미스터리
-url: www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/
-description: 양자장론의 수학을 이해하려는 가속화되는 노력은 수학과 물리학 모두에 심오한 결과를 가져올 것이다.
 date: 2021-06-10
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mystery-at-the-heart-of-physics-that-only-math-can-solve-20210610/
+>
+> 양자장론의 수학을 이해하려는 가속화되는 노력은 수학과 물리학 모두에 심오한 결과를 가져올 것이다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/06/Quantum-Field-Theory_Infinity-Bridge_Lede.jpg)
 

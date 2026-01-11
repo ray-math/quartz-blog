@@ -1,9 +1,12 @@
 ---
 title: 대칭이 존재할 수 없는 곳에 관한 증명
-url: www.quantamagazine.org/a-proof-about-where-symmetries-cant-exist-20181023/
-description: 주요 수학적 성과로, 소규모 연구팀이 짐머의 추측을 증명했다.
 date: 2018-10-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-proof-about-where-symmetries-cant-exist-20181023/
+>
+> 주요 수학적 성과로, 소규모 연구팀이 짐머의 추측을 증명했다.
 
 ![Art for "A Proof About Where Symmetries Can't Exist"](https://www.quantamagazine.org/wp-content/uploads/2018/10/Fold_2880x1620.jpg)
 

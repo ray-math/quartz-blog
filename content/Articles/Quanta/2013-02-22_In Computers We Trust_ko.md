@@ -1,9 +1,12 @@
 ---
 title: 컴퓨터를 믿어야 할까?
-url: www.quantamagazine.org/in-computers-we-trust-20130222/
-description: 순수 수학에서 컴퓨터의 역할이 커지면서, 연구자들은 컴퓨터의 신뢰성에 대해 논쟁하고 있다.
 date: 2013-02-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-computers-we-trust-20130222/
+>
+> 순수 수학에서 컴퓨터의 역할이 커지면서, 연구자들은 컴퓨터의 신뢰성에 대해 논쟁하고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2013/02/true_cropped.jpg)
 

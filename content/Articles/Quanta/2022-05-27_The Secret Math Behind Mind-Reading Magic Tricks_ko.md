@@ -1,9 +1,12 @@
 ---
 title: 마음을 읽는 마술의 숨은 수학
-description: 네 가지 퍼즐 해법이 불가능해 보이는 적은 정보로 숨겨진 숫자를 알아내는 다양한 방법을 보여준다.
-url: www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/
 date: 2022-05-27
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-secret-math-behind-mind-reading-magic-tricks-20220527/
+>
+> 네 가지 퍼즐 해법이 불가능해 보이는 적은 정보로 숨겨진 숫자를 알아내는 다양한 방법을 보여준다.
 
 ![보라색 정장을 입은 빨간 머리 남자가 밝은 청록색 배경에서 흰 토끼와 함께 달리고 있다. 그의 실크해트에서 큰 흰색 숫자들이 쏟아져 나오고 있다.](https://www.quantamagazine.org/wp-content/uploads/2022/05/Puzzle_May_2880x1620_Lede-1.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 가장 어려운 쉬운 문제를 푸는 정수론자
-description: 제임스 메이너드는 수세기 동안 수학자들을 난감하게 만든, 단순해 보이는 소수 문제들을 돌파하며 자신의 분야 정상에 빠르게 올랐다.
-url: www.quantamagazine.org/james-maynard-solves-the-hardest-easy-math-problems-20200701/
 date: 2020-07-01
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/james-maynard-solves-the-hardest-easy-math-problems-20200701/
+>
+> 제임스 메이너드는 수세기 동안 수학자들을 난감하게 만든, 단순해 보이는 소수 문제들을 돌파하며 자신의 분야 정상에 빠르게 올랐다.
 
 ![영국 옥스퍼드에 있는 집 밖의 수학자 제임스 메이너드 사진](https://www.quantamagazine.org/wp-content/uploads/2020/07/James-Maynard_2880_Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 수학의 경계를 초월한 이사도어 싱어
-description: 2월 11일 세상을 떠난 이사도어 싱어가 수학자, 물리학자, 그리고 다양한 분야 사이의 깊은 연결에 관심 있는 모든 이들을 어떻게 하나로 모았는지, 그의 제자가 회고한다.
-url: www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/
 date: 2021-03-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/isadore-singer-bridged-math-and-physics-20210304/
+>
+> 2월 11일 세상을 떠난 이사도어 싱어가 수학자, 물리학자, 그리고 다양한 분야 사이의 깊은 연결에 관심 있는 모든 이들을 어떻게 하나로 모았는지, 그의 제자가 회고한다.
 
 ![매사추세츠 공과대학교의 주로 흰색으로 꾸며진 사무실에서 체크무늬 스포츠 코트를 입고 앉아 있는 이사도어 싱어의 사진](https://www.quantamagazine.org/wp-content/uploads/2021/03/Singer_2K_Lede.jpg)
 

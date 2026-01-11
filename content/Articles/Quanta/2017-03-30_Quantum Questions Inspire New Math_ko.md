@@ -1,9 +1,12 @@
 ---
 title: 양자 이론이 새로운 수학을 탄생시키다
-description: 양자 세계를 완전히 이해하기 위해서는 완전히 새로운 수학 영역을 개발해야 할지도 모른다.
-url: www.quantamagazine.org/how-quantum-theory-is-inspiring-new-math-20170330/
 date: 2017-03-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-quantum-theory-is-inspiring-new-math-20170330/
+>
+> 양자 세계를 완전히 이해하기 위해서는 완전히 새로운 수학 영역을 개발해야 할지도 모른다.
 
 ![삽화: 새로운 수학을 찾는 다이버](https://www.quantamagazine.org/wp-content/uploads/2017/03/diver-math-1.jpg)
 

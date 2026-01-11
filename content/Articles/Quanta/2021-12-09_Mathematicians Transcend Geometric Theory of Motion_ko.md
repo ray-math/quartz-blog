@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 운동의 기하학 이론을 초월하다
-description: 30여 년 전 안드레아스 플로어가 기하학을 변화시켰다. 이제 두 수학자가 마침내 그의 혁명적 관점을 확장하는 방법을 알아냈다.
-url: www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/
 date: 2021-12-09
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/
+>
+> 30여 년 전 안드레아스 플로어가 기하학을 변화시켰다. 이제 두 수학자가 마침내 그의 혁명적 관점을 확장하는 방법을 알아냈다.
 
 ## 서론
 

@@ -1,9 +1,12 @@
 ---
 title: 끈 이론을 형성한 수학자
-description: 9월 25일 세상을 떠난 에우제니오 칼라비는 나중에 끈 이론의 근간이 되는 새로운 기하학적 대상을 구상했다.
-url: www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/
 date: 2023-10-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mathematician-who-shaped-string-theory-20231016/
+>
+> 9월 25일 세상을 떠난 에우제니오 칼라비는 나중에 끈 이론의 근간이 되는 새로운 기하학적 대상을 구상했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/10/CalabiObit-byKristinaArmitage-srcJeanFrancoisDars-MFO-LagunaDesign_ScienceSource-Lede-scaled.webp)
 

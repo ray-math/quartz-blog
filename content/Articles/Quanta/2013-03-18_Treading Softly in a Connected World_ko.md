@@ -1,9 +1,12 @@
 ---
 title: 연결된 세계에서 조심스럽게 걸어가기
-description: 점점 더 상호 연결되는 세계에서, 과학자들은 주식 시장 붕괴와 대규모 정전 같은 재앙적인 연쇄 실패를 막기 위한 안전장치를 찾고 있다.
-url: www.quantamagazine.org/math-models-seek-to-prevent-network-failures-20130318/
 date: 2013-03-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/math-models-seek-to-prevent-network-failures-20130318/
+>
+> 점점 더 상호 연결되는 세계에서, 과학자들은 주식 시장 붕괴와 대규모 정전 같은 재앙적인 연쇄 실패를 막기 위한 안전장치를 찾고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2013/03/earth-lights-nasa_cc_web.jpg)
 

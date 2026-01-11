@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 경탄하는 미친 4차원 절단면들
-description: 위상수학자들이 당혹스러울 정도로 어려운 4차원 도형 연구에 질서를 부여하는 두 가지 새로운 결과를 증명하다.
-url: www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/
 date: 2024-04-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-marvel-at-crazy-cuts-through-four-dimensions-20240422/
+>
+> 위상수학자들이 당혹스러울 정도로 어려운 4차원 도형 연구에 질서를 부여하는 두 가지 새로운 결과를 증명하다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/04/EmbeddedSurfaces-crKristinaArmitage-Lede-scaled.webp)
 

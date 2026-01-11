@@ -1,9 +1,12 @@
 ---
 title: 자연 법칙은 우아한 수학을 필요로 하는가?
-description: 많은 사람들이 수학의 아름다움에 이끌린다. 그러나 자연이 정말로 그런 방식으로 작동하는가?
-url: www.quantamagazine.org/does-natural-law-need-elegant-mathematics-20191205/
 date: 2019-12-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/does-natural-law-need-elegant-mathematics-20191205/
+>
+> 많은 사람들이 수학의 아름다움에 이끌린다. 그러나 자연이 정말로 그런 방식으로 작동하는가?
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/12/ElegantMath_2880x1500_Lede.jpg)
 

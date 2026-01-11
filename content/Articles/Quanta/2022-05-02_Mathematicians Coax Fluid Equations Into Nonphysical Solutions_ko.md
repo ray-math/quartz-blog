@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 유체 방정식에서 비물리적 해를 이끌어내다
-description: 유명한 나비에-스토크스 방정식은 둘 이상의 결과가 가능한 경우로 이어질 수 있지만, 극히 좁은 상황에서만 그렇다.
-url: www.quantamagazine.org/mathematicians-coax-fluid-equations-into-nonphysical-solutions-20220502/
 date: 2022-05-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-coax-fluid-equations-into-nonphysical-solutions-20220502/
+>
+> 유명한 나비에-스토크스 방정식은 둘 이상의 결과가 가능한 경우로 이어질 수 있지만, 극히 좁은 상황에서만 그렇다.
 
 ![파란 물속의 기포 고리](https://www.quantamagazine.org/wp-content/uploads/2022/04/Leray_2880x1620_Lede.jpg)
 

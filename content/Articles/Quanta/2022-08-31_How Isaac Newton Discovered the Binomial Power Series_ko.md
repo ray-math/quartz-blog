@@ -1,9 +1,12 @@
 ---
 title: 아이작 뉴턴이 이항 거듭제곱 급수를 발견한 방법
-description: 질문을 다시 생각하고 패턴을 추적하면서 뉴턴은 곡선과 무한 급수 사이의 연결을 발견했다.
-url: www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
 date: 2022-08-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
+>
+> 질문을 다시 생각하고 패턴을 추적하면서 뉴턴은 곡선과 무한 급수 사이의 연결을 발견했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Newton_2560_Lede.jpg)
 
@@ -168,15 +171,33 @@ $$
 ... 따라서 나는 급수들 사이에 급수를 끼워 넣는 이 규칙을 적용했고, 원에 대해서는 두 번째 항이 $\frac{1}{3}(\frac{1}{2}x^{3})$이었으므로, $m = \frac{1}{2}$로 놓았고, 나타난 항들은 다음과 같았다:
 
 $$
-\frac{1}{2} \times \frac{\frac{1}{2} - 1}{2}$$ 또는 $$-\frac{1}{8},
+\frac{1}{2} \times \frac{\frac{1}{2} - 1}{2}
+
+$$
+또는
+$$
+
+-\frac{1}{8},
 $$
 
 $$
--\frac{1}{8} \times \frac{\frac{1}{2} - 2}{3}$$ 또는 $$+\frac{1}{16},
+-\frac{1}{8} \times \frac{\frac{1}{2} - 2}{3}
+
+$$
+또는
+$$
+
++\frac{1}{16},
 $$
 
 $$
-\frac{1}{16} \times \frac{\frac{1}{2} - 3}{4}$$ 또는 $$-\frac{5}{128},
+\frac{1}{16} \times \frac{\frac{1}{2} - 3}{4}
+
+$$
+또는
+$$
+
+-\frac{5}{128},
 $$
 
 무한히 계속된다. 이로부터 나는 내가 원하던 원호 구간의 넓이가 다음과 같다는 것을 이해하게 되었다:

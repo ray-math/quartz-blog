@@ -1,9 +1,12 @@
 ---
 title: 3차 방정식 해법의 스캔들로 얽힌 역사
-description: 3차 방정식을 풀려는 탐구는 결투, 배신, 그리고 현대 수학의 탄생으로 이어졌다.
-url: www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/
 date: 2022-06-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-scandalous-history-of-the-cubic-formula-20220630/
+>
+> 3차 방정식을 풀려는 탐구는 결투, 배신, 그리고 현대 수학의 탄생으로 이어졌다.
 
 ![16세기 과학자 니콜로 폰타나 타르탈리아와 제롤라모 카르다노 사이에 그려진 3차 방정식 그래프](https://www.quantamagazine.org/wp-content/uploads/2022/06/Cubic-Equations_2880x1620_Lede-scaled.jpg)
 

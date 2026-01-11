@@ -1,9 +1,12 @@
 ---
 title: "먼저 두면 지는 게임들,  체스, 수학, 피자에서의 추크츠방"
-description: 두 번째로 가서 상대에게 좋은 선택지를 남기지 않음으로써 승리하는 방법
 date: 2022-02-22
-url: www.quantamagazine.org/zugzwang-in-chess-math-and-pizzas-20220222/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/zugzwang-in-chess-math-and-pizzas-20220222/
+>
+> 두 번째로 가서 상대에게 좋은 선택지를 남기지 않음으로써 승리하는 방법
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/Zugzwang_2880_Lede.jpg)
 

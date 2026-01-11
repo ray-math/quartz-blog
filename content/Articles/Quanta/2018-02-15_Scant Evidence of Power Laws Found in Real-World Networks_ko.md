@@ -1,9 +1,12 @@
 ---
 title: 실제 네트워크에서 멱함수 법칙의 증거는 거의 없다
-url: www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/
-description: 새로운 연구가 네트워크 과학에서 가장 유명하면서도 논쟁적인 아이디어 중 하나에 도전장을 내밀었다.
 date: 2018-02-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/
+>
+> 새로운 연구가 네트워크 과학에서 가장 유명하면서도 논쟁적인 아이디어 중 하나에 도전장을 내밀었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/02/Networks_2880x1620.jpg)
 

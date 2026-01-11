@@ -1,9 +1,12 @@
 ---
 title: 불가능의 영역을 탐구하는 거대한 비전
-url: www.quantamagazine.org/a-grand-vision-for-the-impossible-20140812/
-description: 서브하쉬 콧의 대담한 추측은 수학자들이 계산의 정확한 한계를 탐구하는 데 도움을 주고 있다.
 date: 2014-08-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-grand-vision-for-the-impossible-20140812/
+>
+> 서브하쉬 콧의 대담한 추측은 수학자들이 계산의 정확한 한계를 탐구하는 데 도움을 주고 있다.
 
 ## 서론
 

@@ -1,9 +1,12 @@
 ---
 title: 평범한 방정식에 숨겨진 구조를 밝힌 새로운 증명
-description: 판 데어 바르덴의 추측은 85년 동안 수학자들을 당혹스럽게 했다. 그 해답은 다항식의 근들이 서로 어떻게 관련되는지를 보여준다.
-url: www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/
 date: 2022-04-21
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/
+>
+> 판 데어 바르덴의 추측은 85년 동안 수학자들을 당혹스럽게 했다. 그 해답은 다항식의 근들이 서로 어떻게 관련되는지를 보여준다.
 
 ![수학적 그래프와 식물 뿌리가 결합된 이미지](https://www.quantamagazine.org/wp-content/uploads/2022/04/Van_der_Waerden_2880x1620_Lede.jpg)
 

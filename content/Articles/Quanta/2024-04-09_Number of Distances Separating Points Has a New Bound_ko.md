@@ -1,9 +1,12 @@
 ---
 title: 점들 사이 거리의 개수에 대한 새로운 한계
-description: 수학자들은 점들 사이 거리에 관한 단순하지만 심오한 가설인 팔코너 추측을 증명하기 위해 고군분투해왔다. 마침내 그들은 목표에 가까워지고 있다.
 date: 2024-04-09
-url: www.quantamagazine.org/number-of-distances-separating-points-has-a-new-bound-20240409/
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/number-of-distances-separating-points-has-a-new-bound-20240409/
+>
+> 수학자들은 점들 사이 거리에 관한 단순하지만 심오한 가설인 팔코너 추측을 증명하기 위해 고군분투해왔다. 마침내 그들은 목표에 가까워지고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/04/FalconerDistance-crNashWeerasekera-Lede-scaled.webp)
 

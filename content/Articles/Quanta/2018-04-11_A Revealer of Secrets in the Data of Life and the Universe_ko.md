@@ -1,9 +1,12 @@
 ---
 title: 삶과 우주의 데이터에 숨겨진 비밀을 밝히는 사람
-description: 통계학자 도널드 리처즈는 실제 데이터에 숨겨진 미묘한 패턴을 발견하는 데 평생을 바쳤다.
-url: www.quantamagazine.org/donald-richards-seeks-patterns-in-the-data-of-life-and-the-universe-20180411/
 date: 2018-04-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/donald-richards-seeks-patterns-in-the-data-of-life-and-the-universe-20180411/
+>
+> 통계학자 도널드 리처즈는 실제 데이터에 숨겨진 미묘한 패턴을 발견하는 데 평생을 바쳤다.
 
 ![펜실베이니아 주립대학교 교실에 앉아 있는 수학자 도널드 리처즈의 사진.](https://www.quantamagazine.org/wp-content/uploads/2018/04/DonaldRichards_2880x1920.jpg)
 

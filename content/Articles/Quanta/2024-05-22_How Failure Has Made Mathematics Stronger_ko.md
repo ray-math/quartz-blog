@@ -1,9 +1,12 @@
 ---
 title: 실패가 수학을 더 강하게 만드는 법
-url: www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/
-description: 위상수학자 대니 칼레가리가 수학에서 실망이 왜 불가피한지, 그리고 그로부터 무엇을 배울 수 있는지 이야기한다.
 date: 2024-05-22
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/
+>
+> 위상수학자 대니 칼레가리가 수학에서 실망이 왜 불가피한지, 그리고 그로부터 무엇을 배울 수 있는지 이야기한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/05/DannyCalegari-crKristenNorman-Lede-scaled.webp)
 

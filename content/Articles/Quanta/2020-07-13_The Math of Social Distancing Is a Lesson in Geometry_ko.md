@@ -1,9 +1,12 @@
 ---
 title: 사회적 거리두기의 수학은 기하학 교과서다
-url: www.quantamagazine.org/the-math-of-social-distancing-is-a-lesson-in-geometry-20200713/
-description: 사람들을 6피트 간격으로 유지하면서 사무실, 학교 및 기타 공공장소를 안전하게 재개방하는 방법은 수학자들이 수세기 동안 연구해 온 문제로 귀결된다.
 date: 2020-07-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-math-of-social-distancing-is-a-lesson-in-geometry-20200713/
+>
+> 사람들을 6피트 간격으로 유지하면서 사무실, 학교 및 기타 공공장소를 안전하게 재개방하는 방법은 수학자들이 수세기 동안 연구해 온 문제로 귀결된다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Social-Distancing_2880x1620_Lede.jpg)
 

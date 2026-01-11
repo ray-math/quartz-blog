@@ -1,9 +1,12 @@
 ---
 title: 곱셈에 대한 새로운 접근이 더 나은 양자 컴퓨터로 가는 문을 열다
-url: www.quantamagazine.org/a-new-approach-to-multiplication-opens-the-door-to-better-quantum-computers-20190424/
-description: 양자 컴퓨터는 정보를 선택적으로 삭제할 수 없다. 곱셈을 위한 새로운 알고리즘이 이 문제를 해결하는 방법을 보여준다.
 date: 2019-04-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-approach-to-multiplication-opens-the-door-to-better-quantum-computers-20190424/
+>
+> 양자 컴퓨터는 정보를 선택적으로 삭제할 수 없다. 곱셈을 위한 새로운 알고리즘이 이 문제를 해결하는 방법을 보여준다.
 
 ![Art for "A New Approach to Multiplication Opens the Door to Better Quantum Computers"](https://www.quantamagazine.org/wp-content/uploads/2019/04/QKaratsubaV2_2880x1620-Lede.jpg)
 

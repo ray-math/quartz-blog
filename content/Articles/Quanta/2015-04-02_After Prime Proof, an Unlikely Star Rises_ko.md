@@ -1,9 +1,12 @@
 ---
 title: 소수 증명 이후, 예상치 못한 스타의 탄생
-description: 2년 전만 해도 거의 무명이었던 장이탕은 정수론의 주요 난제를 풀어내며 수학계의 스타로 급부상했다. 그는 이제 어디로 향할 것인가?
-url: www.quantamagazine.org/yitang-zhang-and-the-mystery-of-numbers-20150402/
 date: 2015-04-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/yitang-zhang-and-the-mystery-of-numbers-20150402/
+>
+> 2년 전만 해도 거의 무명이었던 장이탕은 정수론의 주요 난제를 풀어내며 수학계의 스타로 급부상했다. 그는 이제 어디로 향할 것인가?
 
 중국 상하이에서 자란 소년 장이탕(张益唐, Yitang Zhang)은 언젠가 수학의 위대한 문제를 풀 것이라고 믿었다. 1964년, 아홉 살 무렵 그는 직각삼각형의 변의 길이 사이의 관계를 기술하는 피타고라스 정리의 증명을 스스로 찾아냈다. 열 살 때 그는 정수론의 두 유명한 문제인 [페르마의 마지막 정리(Fermat's last theorem)](http://www-history.mcs.st-and.ac.uk/HistTopics/Fermat's_last_theorem.html)와 [골드바흐 추측(Goldbach conjecture)](https://plus.maths.org/content/mathematical-mysteries-goldbach-conjecture)에 대해 처음 알게 되었다. 수 세기 동안 해결되지 않은 [쌍둥이 소수 추측(twin primes conjecture)](https://www.quantamagazine.org/tag/twin-primes-conjecture/)은 아직 알지 못했지만, 그는 이미 소수에 매료되어 있었다. 소수는 다른 모든 자연수를 구성하는 분할 불가능한 "원자"로 흔히 묘사된다.
 

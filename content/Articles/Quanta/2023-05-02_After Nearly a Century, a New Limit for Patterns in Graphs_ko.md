@@ -1,9 +1,12 @@
 ---
 title: 거의 한 세기 만에 발견된 그래프 패턴의 새로운 한계
-description: 네 명의 수학자들이 그래프에서 피할 수 없는 구조를 설명하는 핵심 성질인 램지 수의 새로운 상한을 발견했다.
-url: www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/
 date: 2023-05-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/
+>
+> 네 명의 수학자들이 그래프에서 피할 수 없는 구조를 설명하는 핵심 성질인 램지 수의 새로운 상한을 발견했다.
 
 ## 서론
 

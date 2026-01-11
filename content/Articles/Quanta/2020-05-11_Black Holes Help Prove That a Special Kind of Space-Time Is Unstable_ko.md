@@ -1,9 +1,12 @@
 ---
 title: 블랙홀이 증명하는 특수한 시공간의 불안정성
-description: 아인슈타인 방정식은 세 가지 표준 시공간 구조를 기술한다. 이제 이 셋 중 하나인 양자 중력 연구에 중요한 시공간이 본질적으로 불안정함이 증명되었다.
-url: www.quantamagazine.org/new-math-proves-that-a-special-kind-of-space-time-is-unstable-20200511/
 date: 2020-05-11
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/new-math-proves-that-a-special-kind-of-space-time-is-unstable-20200511/
+>
+> 아인슈타인 방정식은 세 가지 표준 시공간 구조를 기술한다. 이제 이 셋 중 하나인 양자 중력 연구에 중요한 시공간이 본질적으로 불안정함이 증명되었다.
 
 ## 도입
 

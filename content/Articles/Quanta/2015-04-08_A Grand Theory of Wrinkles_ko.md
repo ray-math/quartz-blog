@@ -1,9 +1,12 @@
 ---
 title: 주름의 대통일 이론
-url: www.quantamagazine.org/wrinkles-and-dimples-obey-simple-rules-20150408/
-description: 기계공학자들과 수학자들의 협업이 주름이 형성되는 방식을 지배하는 보편적 법칙을 밝혀냈다.
 date: 2015-04-08
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/wrinkles-and-dimples-obey-simple-rules-20150408/
+>
+> 기계공학자들과 수학자들의 협업이 주름이 형성되는 방식을 지배하는 보편적 법칙을 밝혀냈다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/04/WrinklingLead.jpg)
 

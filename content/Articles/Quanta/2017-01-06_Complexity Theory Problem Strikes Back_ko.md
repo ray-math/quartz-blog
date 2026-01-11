@@ -1,9 +1,12 @@
 ---
 title: 복잡도 이론의 난제가 반격하다
-description: 2015년 결과가 시사했던 것보다 전설적인 그래프 동형 문제가 더 어려울 수 있다.
-url: www.quantamagazine.org/graph-isomorphism-strikes-back-20170105/
 date: 2017-01-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/graph-isomorphism-strikes-back-20170105/
+>
+> 2015년 결과가 시사했던 것보다 전설적인 그래프 동형 문제가 더 어려울 수 있다.
 
 ![삽화: 권투 글러브와 그래프](https://www.quantamagazine.org/wp-content/uploads/2017/01/Punch_1000.png)
 

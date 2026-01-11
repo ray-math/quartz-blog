@@ -1,9 +1,12 @@
 ---
 title: 3차원 프랙탈이 복잡계 이해에 새로운 실마리를 제공하다
-description: 프랙탈을 3차원 물체로 접어올림으로써, 두 수학자는 단순한 방정식에 대한 새로운 통찰을 얻고자 한다.
-url: www.quantamagazine.org/3-d-fractals-offer-clues-to-complex-systems-20170103/
 date: 2017-01-03
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/3-d-fractals-offer-clues-to-complex-systems-20170103/
+>
+> 프랙탈을 3차원 물체로 접어올림으로써, 두 수학자는 단순한 방정식에 대한 새로운 통찰을 얻고자 한다.
 
 ![3D "Basilica" Julia set](https://www.quantamagazine.org/wp-content/uploads/2017/01/Basilica_1000x560.png)
 

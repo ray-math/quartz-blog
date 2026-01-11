@@ -1,9 +1,12 @@
 ---
 title: 고등학생이 풀어낸 소수 모방자에 관한 오랜 수수께끼
-description: 고등학교 3학년에 재학 중이던 다니엘 라슨은 카마이클 수에 관한 핵심 정리를 증명했다. 카마이클 수는 소수를 흉내 내는 기묘한 존재다. 한 수학자는 "어떤 수학자라도 이런 논문을 썼다면 정말 자랑스러워할 만하다"고 말했다.
-url: www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/
 date: 2022-10-13
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/
+>
+> 고등학교 3학년에 재학 중이던 다니엘 라슨은 카마이클 수에 관한 핵심 정리를 증명했다. 카마이클 수는 소수를 흉내 내는 기묘한 존재다. 한 수학자는 "어떤 수학자라도 이런 논문을 썼다면 정말 자랑스러워할 만하다"고 말했다.
 
 ![파란색 폴로 셔츠와 안경을 쓴 10대 소년](https://www.quantamagazine.org/wp-content/uploads/2022/10/WHIZ_Daniel_Larsen_2880x1620_Lede-scaled.webp)
 

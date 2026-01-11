@@ -1,9 +1,12 @@
 ---
 title: 신경망의 일반 이론을 위한 기초가 세워지다
-description: 신경망은 강력한 만큼이나 예측 불가능할 수 있다. 이제 수학자들이 신경망의 구조가 그 기능을 어떻게 결정하는지 밝히기 시작했다.
-url: www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/
 date: 2019-01-31
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/
+>
+> 신경망은 강력한 만큼이나 예측 불가능할 수 있다. 이제 수학자들이 신경망의 구조가 그 기능을 어떻게 결정하는지 밝히기 시작했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/01/Neural_Networks_2880x1620.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 과학은 어떻게 가능한가?
-url: www.quantamagazine.org/how-is-science-even-possible-20240620/
-description: 과학자들은 어떻게 자연과 생명의 근본적 질문들을 풀어낼 수 있을까? 수학은 복잡한 우주를 어떻게 이해 가능하게 만드는가? 이 에피소드에서 물리학자 나이젤 골든펠드와 공동 진행자 스티븐 스트로가츠가 과학적 과정의 깊은 기초를 탐구한다.
 date: 2024-06-20
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/how-is-science-even-possible-20240620/
+>
+> 과학자들은 어떻게 자연과 생명의 근본적 질문들을 풀어낼 수 있을까? 수학은 복잡한 우주를 어떻게 이해 가능하게 만드는가? 이 에피소드에서 물리학자 나이젤 골든펠드와 공동 진행자 스티븐 스트로가츠가 과학적 과정의 깊은 기초를 탐구한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2024/06/JoY-S3E11-SciencePossible-crPeterGreenwood-Lede-LOGO-scaled.webp)
 

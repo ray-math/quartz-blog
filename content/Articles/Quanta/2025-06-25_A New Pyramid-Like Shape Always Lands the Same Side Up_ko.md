@@ -1,9 +1,12 @@
 ---
 title: 항상 같은 면으로 착지하는 새로운 피라미드형 도형
-url: www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/
-description: 정사면체는 가장 단순한 플라톤 입체다. 수학자들이 이제 단 하나의 면에서만 안정적인 정사면체를 만들어내며, 수십 년 된 추측을 확인했다.
 date: 2025-06-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/
+>
+> 정사면체는 가장 단순한 플라톤 입체다. 수학자들이 이제 단 하나의 면에서만 안정적인 정사면체를 만들어내며, 수십 년 된 추측을 확인했다.
 
 ## 서론
 

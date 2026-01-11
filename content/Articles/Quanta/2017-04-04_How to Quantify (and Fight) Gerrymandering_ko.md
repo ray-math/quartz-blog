@@ -1,9 +1,12 @@
 ---
 title: 게리맨더링을 수치화하고 싸우는 방법
-url: www.quantamagazine.org/the-mathematics-behind-gerrymandering-20170404/
-description: 선거구 획정에서 당파적 편향에 맞서는 강력한 새로운 정량적 도구들이 이제 이용 가능하다.
 date: 2017-04-04
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-mathematics-behind-gerrymandering-20170404/
+>
+> 선거구 획정에서 당파적 편향에 맞서는 강력한 새로운 정량적 도구들이 이제 이용 가능하다.
 
 ![게리맨더링 도롱뇽 삽화](https://www.quantamagazine.org/wp-content/uploads/2017/04/Gerrymander_2K_2.jpg)
 

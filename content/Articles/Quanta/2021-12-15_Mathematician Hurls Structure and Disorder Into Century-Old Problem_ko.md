@@ -1,9 +1,12 @@
 ---
 title: 수학자가 구조와 무질서를 한 세기 묵은 문제에 던지다
-url: www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/
-description: 새로운 논문은 수학자들이 가능하다고 생각했던 것보다 훨씬 더 긴 무질서한 수열을 만드는 방법을 보여주며, 잘 알려진 최근의 추측이 "엄청나게 틀렸다"는 것을 증명한다.
 date: 2021-12-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/
+>
+> 새로운 논문은 수학자들이 가능하다고 생각했던 것보다 훨씬 더 긴 무질서한 수열을 만드는 방법을 보여주며, 잘 알려진 최근의 추측이 "엄청나게 틀렸다"는 것을 증명한다.
 
 ![빨간색과 파란색 타일로 장식된 배경에 사다리를 타고 빨간색과 파란색 구슬을 꿰는 수학자의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2021/12/BeadString_2880x1620_Lede.jpg)
 

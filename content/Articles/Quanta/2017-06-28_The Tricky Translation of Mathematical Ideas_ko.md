@@ -1,9 +1,12 @@
 ---
 title: 수학적 아이디어의 까다로운 번역
-url: www.quantamagazine.org/the-tricky-translation-of-mathematical-ideas-20170628/
-description: 수학의 큰 진전은 수학자들이 아이디어를 그것이 속하지 않을 것처럼 보이는 영역으로 옮길 때 일어날 수 있다.
 date: 2017-06-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-tricky-translation-of-mathematical-ideas-20170628/
+>
+> 수학의 큰 진전은 수학자들이 아이디어를 그것이 속하지 않을 것처럼 보이는 영역으로 옮길 때 일어날 수 있다.
 
 ![Graph](https://www.quantamagazine.org/wp-content/uploads/2017/06/Graphs_FIN_1300Lede.jpg)
 

@@ -1,9 +1,12 @@
 ---
 title: 증명, 증거, 그리고 상상력이 교차하는 곳
-url: www.quantamagazine.org/where-proof-evidence-and-imagination-intersect-in-math-20190314/
-description: 증명이 전부인 수학에서도 증거는 중요하다. 그러나 증거는 모델만큼만 좋을 뿐이고, 모델링은 위험한 작업이다. 그렇다면 얼마나 많은 증거면 충분한가?
 date: 2019-03-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/where-proof-evidence-and-imagination-intersect-in-math-20190314/
+>
+> 증명이 전부인 수학에서도 증거는 중요하다. 그러나 증거는 모델만큼만 좋을 뿐이고, 모델링은 위험한 작업이다. 그렇다면 얼마나 많은 증거면 충분한가?
 
 ![Art for "Where Proof, Evidence and Imagination Intersect"](https://www.quantamagazine.org/wp-content/uploads/2019/03/ProofEvidenceImagination_Lede_1300.jpg)
 

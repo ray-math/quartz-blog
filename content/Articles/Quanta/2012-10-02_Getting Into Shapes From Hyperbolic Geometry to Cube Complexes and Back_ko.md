@@ -1,9 +1,12 @@
 ---
 title: "도형의 세계로,  쌍곡기하학에서 정육면체 복체로, 그리고 다시 돌아오기"
-description: 윌리엄 서스턴이 장대한 수학적 비전을 제시한 지 30년 후, 이안 아골의 증명이 3차원 도형 연구의 한 시대를 마감했다.
-url: www.quantamagazine.org/getting-into-shapes-from-hyperbolic-geometry-to-cube-complexes-and-back-20121002/
 date: 2012-10-02
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/getting-into-shapes-from-hyperbolic-geometry-to-cube-complexes-and-back-20121002/
+>
+> 윌리엄 서스턴이 장대한 수학적 비전을 제시한 지 30년 후, 이안 아골의 증명이 3차원 도형 연구의 한 시대를 마감했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2012/10/Fish_Ft.jpg)
 

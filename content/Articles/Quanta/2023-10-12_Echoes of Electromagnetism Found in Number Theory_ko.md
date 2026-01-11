@@ -1,9 +1,12 @@
 ---
 title: 수론에서 발견된 전자기학의 메아리
-url: www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
-description: 새로운 역작은 전기와 자성 사이의 연결과 유사한, 숨겨진 수학적 연결의 존재를 제시한다.
 date: 2023-10-12
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
+>
+> 새로운 역작은 전기와 자성 사이의 연결과 유사한, 숨겨진 수학적 연결의 존재를 제시한다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/10/LanglandsPhysics-byAllisonLi-Lede-scaled.webp)
 

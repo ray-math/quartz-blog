@@ -1,9 +1,12 @@
 ---
 title: 수론학자 제임스 메이너드, 필즈상 수상
-description: 필즈상을 향한 여정에서 제임스 메이너드는 수세기 동안 수학자들을 좌절시킨 소수에 관한 간단해 보이는 질문들을 돌파했다.
-url: www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/
 date: 2022-07-05
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/
+>
+> 필즈상을 향한 여정에서 제임스 메이너드는 수세기 동안 수학자들을 좌절시킨 소수에 관한 간단해 보이는 질문들을 돌파했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/07/James-Maynard_2880x1620_Lede-scaled.jpg)
 

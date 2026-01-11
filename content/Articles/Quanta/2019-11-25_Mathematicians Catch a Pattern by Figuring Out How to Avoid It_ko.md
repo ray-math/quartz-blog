@@ -1,9 +1,12 @@
 ---
 title: 수학자들이 패턴을 피하는 방법을 알아내면서 패턴을 포착하다
-description: 우리는 마침내 어떤 숫자 집합이 "다항 등차수열"이라고 알려진 패턴을 반드시 포함하기 전에 얼마나 커질 수 있는지 알게 되었다.
-url: www.quantamagazine.org/mathematicians-catch-a-pattern-by-figuring-out-how-to-avoid-it-20191125/
 date: 2019-11-25
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/mathematicians-catch-a-pattern-by-figuring-out-how-to-avoid-it-20191125/
+>
+> 우리는 마침내 어떤 숫자 집합이 "다항 등차수열"이라고 알려진 패턴을 반드시 포함하기 전에 얼마나 커질 수 있는지 알게 되었다.
 
 ![들판에 앉아 꽃무늬를 수놓는 여성의 그림. 그녀 주변에는 무작위로 분포된 것처럼 보이지만 색깔이 숨겨진 패턴을 드러내는 야생화가 자라고 있다.](https://www.quantamagazine.org/wp-content/uploads/2019/11/Pattern_2880x1620_Lede.jpg)
 

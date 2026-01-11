@@ -1,9 +1,12 @@
 ---
 title: 게임 이론에서 균형에 이르는 명확한 경로는 없다
-description: 존 내시의 균형 개념은 경제 이론에서 보편적으로 사용되지만, 새로운 연구는 효율적으로 도달하는 것이 종종 불가능함을 보여준다.
-url: www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/
 date: 2017-07-18
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/in-game-theory-no-clear-path-to-equilibrium-20170718/
+>
+> 존 내시의 균형 개념은 경제 이론에서 보편적으로 사용되지만, 새로운 연구는 효율적으로 도달하는 것이 종종 불가능함을 보여준다.
 
 ![Nash equilibrium maze](https://www.quantamagazine.org/wp-content/uploads/2017/07/NashEquilibrium_2880x1620.jpg)
 

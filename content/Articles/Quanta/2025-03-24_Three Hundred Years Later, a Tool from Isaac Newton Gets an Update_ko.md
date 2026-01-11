@@ -1,9 +1,12 @@
 ---
 title: 아이작 뉴턴의 도구, 300년 만에 업데이트되다
-description: 간단하고 널리 사용되는 수학적 기법이 마침내 무한히 복잡한 문제에도 적용될 수 있게 되었다.
-url: www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/
 date: 2025-03-24
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/
+>
+> 간단하고 널리 사용되는 수학적 기법이 마침내 무한히 복잡한 문제에도 적용될 수 있게 되었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2025/03/Newtons-Method-cr.MicheleSclafani-Lede.webp)
 

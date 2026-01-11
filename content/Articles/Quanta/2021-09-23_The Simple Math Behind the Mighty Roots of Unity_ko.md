@@ -1,9 +1,12 @@
 ---
 title: 단위근의 강력한 힘 뒤에 숨은 단순한 수학
-url: www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/
-description: 가장 단순한 다항식 방정식의 해인 단위근은 수학자들이 현대 수학의 가장 큰 미해결 문제를 연구하는 데 여전히 사용하는 우아한 구조를 갖추고 있다.
 date: 2021-09-23
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/
+>
+> 가장 단순한 다항식 방정식의 해인 단위근은 수학자들이 현대 수학의 가장 큰 미해결 문제를 연구하는 데 여전히 사용하는 우아한 구조를 갖추고 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/Roots-of_Unity_2880_Lede.jpg)
 

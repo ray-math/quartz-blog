@@ -1,9 +1,12 @@
 ---
 title: 흐름 증명으로 혼돈 속 안정성을 찾아내다
-url: www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
-description: 일련의 새로운 논문들이 비교적 적은 데이터로 핵심 동역학계를 완전히 특성화하는 방법을 설명한다.
 date: 2023-06-15
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
+>
+> 일련의 새로운 논문들이 비교적 적은 데이터로 핵심 동역학계를 완전히 특성화하는 방법을 설명한다.
 
 ![아노소프 흐름에서의 수렴과 발산을 보여주는 개략도](https://www.quantamagazine.org/wp-content/uploads/2023/06/AsonovFlows-JosLeys_EtienneGhys_modifiedbyQuanta-Lede-scaled.webp)
 

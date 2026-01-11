@@ -1,9 +1,12 @@
 ---
 title: 미국 수학 올림피아드 팀을 정상으로 되돌린 코치
-description: 포션 로는 자신의 경쟁 본능과 파격적인 성향을 활용해 미국 수학 올림피아드 프로그램에 새 생명을 불어넣었다.
-url: www.quantamagazine.org/po-shen-loh-led-the-u-s-math-team-back-to-first-place-20210216/
 date: 2021-02-16
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/po-shen-loh-led-the-u-s-math-team-back-to-first-place-20210216/
+>
+> 포션 로는 자신의 경쟁 본능과 파격적인 성향을 활용해 미국 수학 올림피아드 프로그램에 새 생명을 불어넣었다.
 
 ![피츠버그 사무실 밖 계단에서 색깔 있는 벽 앞에 서 있는 포션 로](https://www.quantamagazine.org/wp-content/uploads/2021/02/Po-Shen-Loh_2880_Lede.jpg)
 

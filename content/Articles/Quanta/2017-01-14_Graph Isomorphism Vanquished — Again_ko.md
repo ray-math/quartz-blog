@@ -1,9 +1,12 @@
 ---
 title: 그래프 동형 문제, 다시 정복되다
-url: www.quantamagazine.org/graph-isomorphism-vanquished-again-20170114/
-description: 철회를 발표한 지 단 5일 만에, 라슬로 바바이는 자신의 획기적인 그래프 동형 알고리즘의 오류를 수정했다고 발표했다.
 date: 2017-01-14
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/graph-isomorphism-vanquished-again-20170114/
+>
+> 철회를 발표한 지 단 5일 만에, 라슬로 바바이는 자신의 획기적인 그래프 동형 알고리즘의 오류를 수정했다고 발표했다.
 
 ![Illustration: boxing gloves](https://www.quantamagazine.org/wp-content/uploads/2017/01/Knockout_rev_1000.png)
 

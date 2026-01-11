@@ -1,9 +1,12 @@
 ---
 title: 영리한 연결 퍼즐이 해피 엔딩에 가까워지다
-description: 해피 엔딩 문제를 고안한 세 젊은 친구들은 20세기 가장 영향력 있는 수학자가 되었지만, 자신들의 퍼즐을 끝내 풀지는 못했다.
-url: www.quantamagazine.org/a-puzzle-of-clever-connections-nears-a-happy-end-20170530/
 date: 2017-05-30
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/a-puzzle-of-clever-connections-nears-a-happy-end-20170530/
+>
+> 해피 엔딩 문제를 고안한 세 젊은 친구들은 20세기 가장 영향력 있는 수학자가 되었지만, 자신들의 퍼즐을 끝내 풀지는 못했다.
 
 ![조합론과 별자리](https://www.quantamagazine.org/wp-content/uploads/2017/05/CupsCapsConstellations_2880x1613_01.jpg)
 

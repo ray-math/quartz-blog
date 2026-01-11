@@ -1,9 +1,12 @@
 ---
 title: 2018년 필즈상 수상자 예측하기
-description: 페터 숄체는 정수론과 기하학 분야의 업적으로 수학계 최고 영예 중 하나를 수상할 유력 후보로 꼽힌다.
-url: www.quantamagazine.org/will-peter-scholze-win-the-fields-medal-in-2018-20160628/
 date: 2016-06-28
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/will-peter-scholze-win-the-fields-medal-in-2018-20160628/
+>
+> 페터 숄체는 정수론과 기하학 분야의 업적으로 수학계 최고 영예 중 하나를 수상할 유력 후보로 꼽힌다.
 
 2014년, 수학계의 노벨상으로 여겨지는 명망 높은 필즈상(Fields Medal)은 [아르투르 아빌라(Artur Avila)](https://www.quantamagazine.org/20140812-a-brazilian-wunderkind-who-calms-chaos/), [만줄 바르가바(Manjul Bhargava)](https://www.quantamagazine.org/20140812-the-musical-magical-number-theorist/), [마르틴 하이러(Martin Hairer)](https://www.quantamagazine.org/20140812-in-mathematical-noise-one-who-heard-music/), [마리암 미르자카니(Maryam Mirzakhani)](https://www.quantamagazine.org/20140812-a-tenacious-explorer-of-abstract-surfaces/)에게 수여되었다. [국제수학연맹(International Mathematical Union)](http://www.mathunion.org/)은 이 상을 4년마다 수여하며, 40세 미만의 수학자 최대 4명을 선정한다. 수상자 선정 기준은 초기 경력에서 이룬 주요 업적뿐만 아니라 미래의 성취 가능성, 즉 잠재력까지 포함한다. 바로 이 때문에 나이 제한이 존재하는 것이다.
 

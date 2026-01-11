@@ -1,9 +1,12 @@
 ---
 title: 물질이 전기를 전도하는 이유를 설명하는 보편적 패턴
-url: www.quantamagazine.org/universal-pattern-explains-why-materials-conduct-20190506/
-description: 수학자들이 전자가 보편적 수학 패턴을 따를 때 물질이 전기를 전도한다는 것을 발견했다.
 date: 2019-05-06
 ---
+
+> [!NOTE]
+> https://www.quantamagazine.org/universal-pattern-explains-why-materials-conduct-20190506/
+>
+> 수학자들이 전자가 보편적 수학 패턴을 따를 때 물질이 전기를 전도한다는 것을 발견했다.
 
 ![Art for "Universal Pattern Explains Why Materials Conduct"](https://www.quantamagazine.org/wp-content/uploads/2019/05/Conductivity_2880x1620_lede.jpg)
 
