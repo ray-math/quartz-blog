@@ -42,7 +42,7 @@ date: 2009-06-01
 
 > 클라인 병은 위상수학에서 가장 흥미로운 대상 중 하나다. 이를 구성하는 방법을 단계적으로 생각해보자. 먼저 직사각형을 생각하고, 위아래 가장자리를 (비틀지 않고) 붙여 원통을 만든다. 이제 이 원통의 양 끝을 붙이되, 한쪽 끝을 원통 표면을 통과시켜 다른 쪽 끝과 연결한다. 이 "통과"가 바로 3차원에서는 불가능한 자기 교차를 만든다. 4차원에서는 자기 교차 없이 클라인 병을 구성할 수 있다. 클라인 병의 놀라운 성질은 부피가 있는 것처럼 보이지만 실제로는 안과 밖의 구별이 없다는 것이다. 만약 클라인 병 표면에 페인트를 칠하기 시작하면, 병 안으로 들어가지 않고도 전체 표면을 칠할 수 있다.
 
-혼란스러운가? 클라인 병은 시각화하기 어렵지만 뜨개질 바늘로 생생하게 만들어질 수 있다. 뜨개질로 만든 클라인 병의 몇 가지 예가 아래 그림에 나와 있다. (Plus 기사 [Imaging maths — Inside the Klein bottle](https://plus.maths.org/content/os/issue26/features/mathart/index)에서 클라인 병에 대해 더 알아볼 수 있다.)
+혼란스러운가? 클라인 병은 시각화하기 어렵지만 뜨개질 바늘로 생생하게 만들어질 수 있다. 뜨개질로 만든 클라인 병의 몇 가지 예가 아래 그림에 나와 있다. (Plus 기사 [Imaging maths - Inside the Klein bottle](https://plus.maths.org/content/os/issue26/features/mathart/index)에서 클라인 병에 대해 더 알아볼 수 있다.)
 
 ![클라인 병](https://plus.maths.org/issue51/features/mathews/klein.jpg)
 

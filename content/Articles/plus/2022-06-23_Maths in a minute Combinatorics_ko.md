@@ -6,7 +6,7 @@ date: 2022-06-23
 > [!NOTE]
 > https://plus.maths.org/content/maths-minute-combinatorics
 >
-> 바이러스를 이해하고 싶든, 복권에 당첨되고 싶든, 루빅스 큐브를 풀고 싶든 – 조합론의 도움이 필요합니다.
+> 바이러스를 이해하고 싶든, 복권에 당첨되고 싶든, 루빅스 큐브를 풀고 싶든 - 조합론의 도움이 필요합니다.
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/lotter_front_icon.jpg?itok=sg50j8zs)
 

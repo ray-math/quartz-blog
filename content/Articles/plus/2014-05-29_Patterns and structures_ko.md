@@ -61,7 +61,7 @@ $$
 
 > 이 점화식(recurrence relation)은 $F_{n} = F_{n-1} + F_{n-2}$로 표현되며, 초기값 $F_{1} = 1, F_{2} = 1$과 함께 피보나치 수열을 완전히 정의한다. 이러한 형태의 관계는 동적 시스템을 모델링하는 데 매우 강력한 도구다. 현재 상태가 과거 상태들의 함수로 표현되는 이 구조는 컴퓨터 과학의 동적 프로그래밍, 경제학의 시계열 분석, 생물학의 개체군 모델 등 다양한 분야에서 나타난다. 피보나치 수열의 경우, 이 단순한 규칙이 황금비($\phi = \frac{1+\sqrt{5}}{2} \approx 1.618$)와 깊은 연결을 갖고 있으며, 자연계의 나선 패턴(해바라기 씨앗 배열, 앵무조개 껍질 등)에서도 발견된다는 점이 놀랍다.
 
-이 패턴을 발견함으로써 Fibonacci는 자신의 질문에 대한 답을 빠르게 계산할 수 있었다: 1년 후에는 144쌍의 토끼가 있을 것이다. 실제로 Fibonacci의 패턴은 수학적이든 자연적이든 엄청나게 많은 곳에서 나타났다 – 우리의 기사 [The life and numbers of Fibonacci](http://plus.maths.org/content/life-and-numbers-fibonacci)에서 훨씬 더 많은 것을 알아볼 수 있다.
+이 패턴을 발견함으로써 Fibonacci는 자신의 질문에 대한 답을 빠르게 계산할 수 있었다: 1년 후에는 144쌍의 토끼가 있을 것이다. 실제로 Fibonacci의 패턴은 수학적이든 자연적이든 엄청나게 많은 곳에서 나타났다 - 우리의 기사 [The life and numbers of Fibonacci](http://plus.maths.org/content/life-and-numbers-fibonacci)에서 훨씬 더 많은 것을 알아볼 수 있다.
 
 ### 패턴에서 구조로
 

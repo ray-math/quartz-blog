@@ -16,21 +16,21 @@ date: 2025-05-09
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/abstractpics/5/12_aug_2014_-_0143/f1_icon.jpg?itok=m1jqRqXn)
 
-[마리암 미르자카니: 곡선 세기(Maryam Mirzakhani: Counting curves)](https://plus.maths.org/content/mm) — 미르자카니의 연구에 대해 더 알고 싶다면 이 글을 읽어보세요. 우리는 그녀가 2014년 필즈상을 받았을 때 이 기사를 작성했습니다.
+[마리암 미르자카니: 곡선 세기(Maryam Mirzakhani: Counting curves)](https://plus.maths.org/content/mm) - 미르자카니의 연구에 대해 더 알고 싶다면 이 글을 읽어보세요. 우리는 그녀가 2014년 필즈상을 받았을 때 이 기사를 작성했습니다.
 
 > 미르자카니의 주요 업적 중 하나는 리만 곡면 위의 단순 폐곡선(simple closed curves)을 세는 문제와 관련이 있습니다. 이것은 순수하게 추상적인 문제처럼 보이지만, 사실 모듈라이 공간(moduli space)의 부피를 계산하는 것과 깊은 연관이 있습니다. 그녀는 이러한 곡선들이 특정 길이 제약 하에서 얼마나 많이 존재하는지를 밝혀내는 재귀적 공식을 발견했습니다. 이 연구는 기하학적 직관과 대칭 이론, 동역학적 시스템의 이해를 결합한 것으로, 여러 수학 분야를 연결하는 다리 역할을 합니다. 그녀의 접근법은 복잡한 기하학적 대상들을 더 단순한 조각들로 분해하고, 그들 사이의 관계를 이해함으로써 전체 구조를 파악하는 것이었습니다.
 
-현재 진행 중인 수학 연구를 보도하면서, 우리는 항상 여성 수학자들과 함께 작업하며 그들의 이야기와 놀라운 수학적 업적을 듣고 있습니다 — 많은 사례는 [여기](https://plus.maths.org/content/tags/women-mathematics)에서 확인할 수 있습니다. 올해 세계 여성 수학인의 날을 맞이하여, 우리는 수학 연구에서 뛰어난 동시에 더 넓은 대중에게 수학을 전달하는 데도 탁월한 네 명의 여성을 조명하기로 했습니다. 아래의 팟캐스트와 영상들을 즐겁게 감상하시기를 바랍니다!
+현재 진행 중인 수학 연구를 보도하면서, 우리는 항상 여성 수학자들과 함께 작업하며 그들의 이야기와 놀라운 수학적 업적을 듣고 있습니다 - 많은 사례는 [여기](https://plus.maths.org/content/tags/women-mathematics)에서 확인할 수 있습니다. 올해 세계 여성 수학인의 날을 맞이하여, 우리는 수학 연구에서 뛰어난 동시에 더 넓은 대중에게 수학을 전달하는 데도 탁월한 네 명의 여성을 조명하기로 했습니다. 아래의 팟캐스트와 영상들을 즐겁게 감상하시기를 바랍니다!
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/2024-11/024A7961_small.jpg?h=82f92a78&itok=0kf5VDE1)
 
-[해나 프라이: 대중을 위한 수학(Hannah Fry: Mathematics for the people)](https://plus.maths.org/content/hannah-fry-mathematics-people) — 해나가 케임브리지 대학교의 첫 번째 '수학 대중 이해 교수(Professor for the Public Understanding of Mathematics)'로 우리와 함께하게 되어 매우 기쁩니다! 이 팟캐스트에서 해나는 자신의 수학 연구, 수학자들이 대중과 소통할 의무가 있다고 생각하는 이유, 그리고 그녀가 가장 좋아하는 수학적 순간 중 하나를 공유합니다. 해나와의 인터뷰 기사 버전은 [여기](https://plus.maths.org/content/hannah-fry-will-join-us-cambridge)에서 볼 수 있습니다.
+[해나 프라이: 대중을 위한 수학(Hannah Fry: Mathematics for the people)](https://plus.maths.org/content/hannah-fry-mathematics-people) - 해나가 케임브리지 대학교의 첫 번째 '수학 대중 이해 교수(Professor for the Public Understanding of Mathematics)'로 우리와 함께하게 되어 매우 기쁩니다! 이 팟캐스트에서 해나는 자신의 수학 연구, 수학자들이 대중과 소통할 의무가 있다고 생각하는 이유, 그리고 그녀가 가장 좋아하는 수학적 순간 중 하나를 공유합니다. 해나와의 인터뷰 기사 버전은 [여기](https://plus.maths.org/content/hannah-fry-will-join-us-cambridge)에서 볼 수 있습니다.
 
 > 해나 프라이는 응용수학자로서 도시의 범죄 패턴 분석, 전염병 확산 모델링, 인간 행동의 수학적 패턴 등 다양한 현실 문제에 수학을 적용해왔습니다. 그녀의 연구는 복잡계(complex systems) 이론과 데이터 과학을 결합한 것으로, 수학이 단순히 추상적인 학문이 아니라 우리 삶의 실질적인 문제를 해결하는 도구임을 보여줍니다. '수학 대중 이해 교수'라는 직책은 과학 대중화의 중요성을 인식한 케임브리지 대학교가 새로 만든 것으로, 연구와 교육뿐만 아니라 대중과의 소통을 학술 활동의 중요한 축으로 인정한다는 의미를 담고 있습니다. 이는 수학이 상아탑 안에 머물지 않고 사회와 활발히 대화해야 한다는 철학을 반영합니다.
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/julia_small_frontpage.jpg?itok=6_Qe9-WO)
 
-[수학적 최전선에서: 줄리아 고그(On the mathematical frontline: Julia Gog)](https://plus.maths.org/content/mathematical-frontline-julia-gog) — 줄리아 고그는 코로나19에 대한 영국의 대응에 중요한 기여를 한 감염병 모델링 전문가입니다. 그녀는 또한 자신의 연구를 해당 분야 전문가가 아닌 청중에게 설명하는 데 놀라운 능력을 발휘합니다. 이 팟캐스트에서 그녀는 팬데믹을 거치며 겪은 여정과 수학적 최전선에 있다는 것이 어떤 의미인지를 들려줍니다.
+[수학적 최전선에서: 줄리아 고그(On the mathematical frontline: Julia Gog)](https://plus.maths.org/content/mathematical-frontline-julia-gog) - 줄리아 고그는 코로나19에 대한 영국의 대응에 중요한 기여를 한 감염병 모델링 전문가입니다. 그녀는 또한 자신의 연구를 해당 분야 전문가가 아닌 청중에게 설명하는 데 놀라운 능력을 발휘합니다. 이 팟캐스트에서 그녀는 팬데믹을 거치며 겪은 여정과 수학적 최전선에 있다는 것이 어떤 의미인지를 들려줍니다.
 
 > 감염병 모델링은 질병이 인구 내에서 어떻게 퍼지는지를 수학적으로 기술하고 예측하는 분야입니다. 가장 기본적인 모델은 SIR 모델(Susceptible-Infected-Recovered model)로, 인구를 감염 가능한 집단(S), 감염된 집단(I), 회복된 집단(R)으로 나누고 이들 사이의 전환율을 미분방정식으로 표현합니다. 그러나 실제 팬데믹 상황에서는 연령별 접촉 패턴, 지역적 이동, 정책 개입의 효과, 변이 바이러스의 출현 등 훨씬 복잡한 요소들을 고려해야 합니다. 줄리아 고그와 같은 수학자들은 불확실성 속에서도 최선의 결정을 내리기 위해 실시간으로 데이터를 분석하고 모델을 개선하며 정책 입안자들에게 과학적 근거를 제공했습니다. 이는 순수 수학적 이론과 실제 사회적 영향 사이의 긴장을 다루는, 응용수학의 가장 극적인 사례 중 하나입니다.
 
@@ -40,7 +40,7 @@ date: 2025-05-09
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/2024-11/Screenshot_2023-07-17_at_160755_augxjc.png?h=7b9cbdc9&itok=xzLXtHi0)
 
-**사라 하트: 수학, 문학, 그리고 삶(Sarah Hart: Maths, literature, and life)** — 우리는 훌륭한 수학자이자 저자이며 뛰어난 소통가인 사라 하트와의 두 가지 팟캐스트를 가지고 있어 매우 운이 좋습니다! [첫 번째 팟캐스트](https://plus.maths.org/content/sarah-hart-once-upon-prime)에서 그녀는 자신의 책 『원스 어폰 어 프라임(Once upon a prime)』에 대해 이야기하고 수학과 문학 사이의 흥미로운 연결고리들을 탐구합니다.
+**사라 하트: 수학, 문학, 그리고 삶(Sarah Hart: Maths, literature, and life)** - 우리는 훌륭한 수학자이자 저자이며 뛰어난 소통가인 사라 하트와의 두 가지 팟캐스트를 가지고 있어 매우 운이 좋습니다! [첫 번째 팟캐스트](https://plus.maths.org/content/sarah-hart-once-upon-prime)에서 그녀는 자신의 책 『원스 어폰 어 프라임(Once upon a prime)』에 대해 이야기하고 수학과 문학 사이의 흥미로운 연결고리들을 탐구합니다.
 
 > 수학과 문학의 관계는 생각보다 훨씬 풍부합니다. 예를 들어, 레이몽 크노(Raymond Queneau)의 『백억 개의 시(Cent Mille Milliards de Poèmes)』는 조합론적 구조를 가진 작품으로, 10개의 소네트가 각각 14행으로 구성되어 있어 독자가 행을 자유롭게 조합하면 총 $10^{14}$개의 서로 다른 시를 만들 수 있습니다. 조르주 페렉(Georges Perec)의 『실종(La Disparition)』은 프랑스어에서 가장 흔한 문자인 'e'를 단 한 번도 사용하지 않고 쓴 소설로, 제약 조건 하의 최적화 문제를 문학적으로 구현한 것입니다. 이터러티브 문학(Oulipo) 운동은 수학적 규칙과 제약을 창작의 도구로 사용했습니다. 더 나아가 소설의 구조 자체가 프랙털 패턴을 따르거나, 시의 운율이 수열의 패턴을 반영하는 등, 수학적 사고는 문학 창작의 근본적인 틀이 될 수 있습니다.
 
@@ -50,6 +50,6 @@ date: 2025-05-09
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/thumbnail/public/abstractpics/5/23_mar_2016_-_1617/katie_icon.png?itok=tF-LPPd0)
 
-[케이티 스테클스와 함께하는 수학적 순간들(Mathematical moments with Katie Steckles)](https://plus.maths.org/content/mathematical-moments-katie-steckles) — 케이티는 수학자이자 놀라운 소통가로, 학교와 대학, 과학 및 음악 페스티벌, BBC 라디오와 TV, 연극 공연, 책, 그리고 인터넷 등 다양한 장소에서 수학에 대해 이야기합니다. 이 2016년 영상에서 그녀는 자신이 가장 좋아하는 수학적 순간들과 수학에서 상상력이 전부인 이유에 대해 이야기합니다.
+[케이티 스테클스와 함께하는 수학적 순간들(Mathematical moments with Katie Steckles)](https://plus.maths.org/content/mathematical-moments-katie-steckles) - 케이티는 수학자이자 놀라운 소통가로, 학교와 대학, 과학 및 음악 페스티벌, BBC 라디오와 TV, 연극 공연, 책, 그리고 인터넷 등 다양한 장소에서 수학에 대해 이야기합니다. 이 2016년 영상에서 그녀는 자신이 가장 좋아하는 수학적 순간들과 수학에서 상상력이 전부인 이유에 대해 이야기합니다.
 
 > 수학에서 상상력의 역할은 종종 과소평가됩니다. 많은 사람들이 수학을 엄격한 논리와 계산의 학문으로만 생각하지만, 실제로 수학적 발견의 핵심은 새로운 개념을 상상하는 능력에 있습니다. 예를 들어, 음수(negative numbers)는 처음 제안되었을 때 "실제로 존재하지 않는" 추상적 개념으로 여겨졌습니다. 복소수(complex numbers)의 허수 단위 $i = \sqrt{-1}$는 "상상의 수(imaginary number)"라는 이름 자체가 그 추상성을 반영합니다. 4차원 이상의 고차원 공간, 무한대의 다양한 크기들(집합론에서의 기수), 곡률이 음수인 쌍곡기하학 등은 모두 순수한 상상력의 산물이었지만, 나중에 물리학, 컴퓨터 과학, 데이터 분석 등에서 실질적인 응용을 찾았습니다. 수학자는 아직 존재하지 않는 구조를 상상하고, 그것이 내적으로 일관성 있는지를 탐구하며, 그것이 이미 알려진 구조들과 어떻게 연결되는지를 밝혀냅니다. 이러한 창조적 과정은 예술가나 작가의 창작 과정과 본질적으로 다르지 않습니다.

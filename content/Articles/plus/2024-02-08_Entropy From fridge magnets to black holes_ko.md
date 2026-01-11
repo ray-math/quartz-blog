@@ -34,7 +34,7 @@ date: 2024-02-08
 
 ![냉장고 자석](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/BLH/magnets_0.png)
 
-엔트로피는 물리계의 질서 또는 무질서를 드러냅니다 (이미지: [Tweek](https://commons.wikimedia.org/wiki/File:Refrigerator_magnet_1.jpg) – [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))
+엔트로피는 물리계의 질서 또는 무질서를 드러냅니다 (이미지: [Tweek](https://commons.wikimedia.org/wiki/File:Refrigerator_magnet_1.jpg) - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))
 
 엔트로피를 이해하는 한 가지 방법은 계의 질서 또는 무질서의 척도로 간주하는 것입니다. 낮은 엔트로피를 가진 얼음 덩어리의 분자들이 높은 엔트로피를 가진 물 한 잔의 분자들보다 더 질서정연하다는 것은 명백합니다. 드 멜로 코흐는 "낮은 온도에서는 사물이 질서정연하고 높은 온도에서는 사물이 더 무질서하며 엔트로피 상태가 더 높다는 이 아이디어는 엄청난 설명력을 가지고 있습니다"라고 말했습니다.
 
@@ -42,7 +42,7 @@ date: 2024-02-08
 
 ![모두 위쪽을 가리키도록 정렬된 화살표 격자](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/BLH/Schmid_ordered_web.png)
 
-자석 내부 원자의 도식적 묘사. (이미지: [Michael Schmid](https://commons.wikimedia.org/wiki/File:Ferromagnetic_ordering.svg) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+자석 내부 원자의 도식적 묘사. (이미지: [Michael Schmid](https://commons.wikimedia.org/wiki/File:Ferromagnetic_ordering.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 막대자석을 가지고 놀아본 적이 있다면, 막대자석들이 정렬되기를 선호한다는 것을 기억할 것입니다. 서로 밀어내는 끝을 함께 잡고 있는 것이 같은 방향으로 정렬되고 가리키도록 뒤집히게 두는 것보다 훨씬 더 많은 노력이 듭니다. 따라서 냉장고 자석을 만드는 데 사용되는 강자성 물질의 경우, 원자들이 이런 방식으로 정렬되는 것이 훨씬 적은 에너지를 필요로 합니다.
 
@@ -58,7 +58,7 @@ date: 2024-02-08
 
 ![위쪽 또는 아래쪽을 무작위로 가리키는 화살표 격자](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/BLH/Schmid_disordered_web.png)
 
-무작위로 배향된 원자의 도식적 묘사. (이미지: [Michael Schmid](https://commons.wikimedia.org/wiki/File:Ferromagnetic_ordering.svg) 기반으로 수정 – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+무작위로 배향된 원자의 도식적 묘사. (이미지: [Michael Schmid](https://commons.wikimedia.org/wiki/File:Ferromagnetic_ordering.svg) 기반으로 수정 - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 가능한 최대 엔트로피는 계가 우리 입자들의 모든 배치가 가능한 거시상태에 있을 때일 것입니다. 격자의 각 입자는 위쪽 또는 아래쪽을 가리킬 수 있으므로, 첫 번째 입자에 대해 2개의 가능한 방향이 있고, 두 번째 입자에 대해 2개, 세 번째에 대해 2개 등등이 있습니다. 위의 예에서, 우리는 격자에 24개의 입자를 가지고 있으므로, 입자들의 방향에 대해 $2^{24}$개의 다른 선택이 있고, $2^{24}$개의 미시상태를 제공합니다. 위쪽 또는 아래쪽을 가리킬 수 있는 $n$개의 입자로 이루어진 격자가 있다면, $2^{n}$개의 미시상태를 가질 것입니다.
 

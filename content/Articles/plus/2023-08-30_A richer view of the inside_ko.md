@@ -76,7 +76,7 @@ INI의 강점 중 하나는 매우 다양한 수학 분야에서 사람들을 �
 
 ### 이 기사에 대하여
 
-이 기사는 부분적으로 아래의 인터뷰를 기반으로 했으며, INI의 Dan Aspel이 INI 프로그램 [풍부하고 비선형적인 단층촬영 – 다학제적 접근(Rich and Nonlinear Tomography – a multidisciplinary approach)](https://www.newton.ac.uk/event/rnt/)의 조직자들인 Bill Lionheart, Silvia Gazzola, Francis Watson, Romina Gaburro, Sean Holman과 제작했다. 이 INI 프로그램과 관련된 모든 우리의 콘텐츠를 보려면 여기를 클릭하세요.
+이 기사는 부분적으로 아래의 인터뷰를 기반으로 했으며, INI의 Dan Aspel이 INI 프로그램 [풍부하고 비선형적인 단층촬영 - 다학제적 접근(Rich and Nonlinear Tomography - a multidisciplinary approach)](https://www.newton.ac.uk/event/rnt/)의 조직자들인 Bill Lionheart, Silvia Gazzola, Francis Watson, Romina Gaburro, Sean Holman과 제작했다. 이 INI 프로그램과 관련된 모든 우리의 콘텐츠를 보려면 여기를 클릭하세요.
 
 *이 기사는 아이작 뉴턴 수학과학연구소(INI)와의 협업의 일환으로 제작되었습니다. 협업의 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 

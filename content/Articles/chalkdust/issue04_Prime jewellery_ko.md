@@ -52,4 +52,4 @@ date: 2016-10-03
 
 ---
 
-Pingback: The Big Internet Math-Off 2019, Group 3 – Vicky Neale vs Sophie Carr | The Aperiodical
+Pingback: The Big Internet Math-Off 2019, Group 3 - Vicky Neale vs Sophie Carr | The Aperiodical

@@ -12,11 +12,11 @@ date: 2016-08-09
 
 ![Tim Koslowski with Julian Barbour](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/blocktime/koslowski_barbour.jpg)
 
-프라하에서 열린 [아인�슈타인 이후 100년](http://ae100prg.mff.cuni.cz/) 학회에서 함께한 Tim Koslowski와 Julian Barbour. (사진: Jakub Haláček)
+프라하에서 열린 [아인슈타인 이후 100년](http://ae100prg.mff.cuni.cz/) 학회에서 함께한 Tim Koslowski와 Julian Barbour. (사진: Jakub Haláček)
 
 당신의 삶을 되감기로 볼 수 있다고 상상해보자. 매일 아침 알람 소리와 함께 침대로 미끄러져 들어갈 것이다. 저녁 잠자리에 들 때마다 부드럽게 잠에서 깰 것이다. 저녁에는 화요일 저녁의 스파게티를 "요리 해제"하여, 한 접시의 음식을 날것의 면발과 찬물로 되돌릴 것이다. 아침 커피는 조리대 위 머그잔에서 저절로 뜨거워지며, 공기 중에서 수증기를 끌어당겨 다시 컵 안으로 들어갈 것이다. 또 하루가 시작되고, 당신은 전날보다 더 젊어진다.
 
-두말할 것도 없이, 이런 일은 우리 우주에서 결코 일어나지 않는다. "시간의 화살(arrow of time)"은 오직 한 방향으로만 간다: 앞으로. 그러나 물리학의 근본 법칙들은 되감기 모드에서도 완벽하게 작동한다—미시적 과정들은 뒤로 가든 앞으로 가든 동일하게 일어날 수 있다. 따라서 이 문제에 무관심해 보이는 법칙들로부터 시간의 방향성이 어떻게 구체화되는지 이해하는 것은 물리학의 위대한 수수께끼 중 하나다. 이제 FQXi로부터 거의 14만 달러의 [연구비 지원](http://fqxi.org/grants/large/awardees/view/__details/2013/mercati)을 받아, 캐나다 온타리오주 워털루의 Perimeter Institute(PI)에 있는 [Flavio Mercati](http://perimeterinstitute.ca/people/flavio-mercati)와 캐나다 프레더릭턴의 University of New Brunswick에 있는 [Tim Koslowski](https://sites.google.com/site/timkoslowskishomepage/)가, 영국 옥스퍼드 대학의 공동 연구자 [Julian Barbour](http://www.platonia.com/)와 함께, 중력을 시간의 화살을 쏘는 주체로 보는 대안적 가설을 추구하고 있다.
+두말할 것도 없이, 이런 일은 우리 우주에서 결코 일어나지 않는다. "시간의 화살(arrow of time)"은 오직 한 방향으로만 간다: 앞으로. 그러나 물리학의 근본 법칙들은 되감기 모드에서도 완벽하게 작동한다-미시적 과정들은 뒤로 가든 앞으로 가든 동일하게 일어날 수 있다. 따라서 이 문제에 무관심해 보이는 법칙들로부터 시간의 방향성이 어떻게 구체화되는지 이해하는 것은 물리학의 위대한 수수께끼 중 하나다. 이제 FQXi로부터 거의 14만 달러의 [연구비 지원](http://fqxi.org/grants/large/awardees/view/__details/2013/mercati)을 받아, 캐나다 온타리오주 워털루의 Perimeter Institute(PI)에 있는 [Flavio Mercati](http://perimeterinstitute.ca/people/flavio-mercati)와 캐나다 프레더릭턴의 University of New Brunswick에 있는 [Tim Koslowski](https://sites.google.com/site/timkoslowskishomepage/)가, 영국 옥스퍼드 대학의 공동 연구자 [Julian Barbour](http://www.platonia.com/)와 함께, 중력을 시간의 화살을 쏘는 주체로 보는 대안적 가설을 추구하고 있다.
 
 > FQXi(Foundational Questions Institute)는 물리학과 우주론의 근본적 질문들을 탐구하는 연구에 자금을 지원하는 단체다. 시간의 본질, 양자역학의 해석, 우주의 기원과 같은 근원적 문제들에 관심을 갖는 이론물리학자들을 지원한다. 이 연구는 전통적인 학계의 주류 연구 방향과는 다소 거리가 있지만, 물리학의 개념적 토대를 재검토하는 중요한 역할을 한다.
 
@@ -24,7 +24,7 @@ date: 2016-08-09
 
 > 엔트로피를 이해하는 핵심은 "미시상태(microstate)"와 "거시상태(macrostate)"의 구별이다. 거시상태는 우리가 측정할 수 있는 온도, 압력, 부피 같은 거시적 성질들의 집합이다. 미시상태는 시스템을 구성하는 모든 입자의 정확한 위치와 운동량을 명시한 것이다. 엔트로피 $S$는 볼츠만(Boltzmann) 공식 $S = k_{B} \ln W$로 정의되는데, 여기서 $W$는 주어진 거시상태를 실현할 수 있는 미시상태의 개수다. 따라서 엔트로피가 높다는 것은 같은 거시적 외형을 갖는 미시적 배치가 많다는 의미다. 오믈렛은 계란보다 미시적으로 훨씬 많은 방식으로 배열될 수 있으므로 엔트로피가 높다. 열역학 제2법칙은 통계적 법칙이다: 시스템은 압도적으로 높은 확률로 미시상태 개수가 많은 방향으로, 즉 엔트로피가 증가하는 방향으로 진화한다.
 
-시스템 내의 국지적인 영역들은 시간이 지나면서 더 "질서정연하게" 성장할 수 있다—은하, 별, 행성들이 뭉치고, 세포 덩어리가 인간으로 성장한다—하지만 전체를 보면, 우주는 오직 더 무질서해질 수밖에 없다. 그러나 엔트로피를 시간의 화살을 이끄는 원동력으로 식별하는 데에는 문제가 있다. 이것이 사실이려면, 우주는 매우 낮은 엔트로피 상태로 시작했어야 한다. 수수께끼는 바로 이것이다: 왜? "매우 낮은 엔트로피 초기 조건으로 시작한 우주에 있다면, 엔트로피가 증가하는 선호되는 방향이 분명히 있을 것입니다," Koslowski는 말한다. "그런데 그 초기 조건은 어디서 왔습니까?"
+시스템 내의 국지적인 영역들은 시간이 지나면서 더 "질서정연하게" 성장할 수 있다-은하, 별, 행성들이 뭉치고, 세포 덩어리가 인간으로 성장한다-하지만 전체를 보면, 우주는 오직 더 무질서해질 수밖에 없다. 그러나 엔트로피를 시간의 화살을 이끄는 원동력으로 식별하는 데에는 문제가 있다. 이것이 사실이려면, 우주는 매우 낮은 엔트로피 상태로 시작했어야 한다. 수수께끼는 바로 이것이다: 왜? "매우 낮은 엔트로피 초기 조건으로 시작한 우주에 있다면, 엔트로피가 증가하는 선호되는 방향이 분명히 있을 것입니다," Koslowski는 말한다. "그런데 그 초기 조건은 어디서 왔습니까?"
 
 > 우주의 초기 조건 문제는 현대 우주론의 가장 깊은 미스터리 중 하나다. 빅뱅 직후 우주가 극도로 낮은 엔트로피 상태였다는 것은 관측 증거와 일치하지만, 왜 그랬는지는 설명되지 않는다. 만약 우주가 무작위 초기 조건에서 시작했다면, 통계적으로 높은 엔트로피(즉, 무질서한) 상태로 시작했을 가능성이 압도적으로 크다. 그런데 우주는 믿을 수 없을 정도로 "특별한" 낮은 엔트로피 초기 상태에서 시작했다. Roger Penrose는 이 초기 조건의 특수성을 정량화하여, 우주가 현재와 같이 진화하려면 초기 상태가 약 $10^{10^{123}}$ 개의 가능한 상태 중 하나여야 한다고 계산했다. 이는 상상을 초월하는 특수성이다.
 
@@ -50,9 +50,9 @@ Mercati와 Koslowski는 *형태 역학(shape dynamics)*이라는 접근법을 �
 
 ![Prague astronomical clock.](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/blocktime/320px-Schema_Orloj_pragueorlojhzenilc.jpg)
 
-중력이 시간을 창조하는가? (이미지 [Hzelnic](https://en.wikipedia.org/wiki/File:Schema_Orloj_pragueorlojhzenilc.jpg) – [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
+중력이 시간을 창조하는가? (이미지 [Hzelnic](https://en.wikipedia.org/wiki/File:Schema_Orloj_pragueorlojhzenilc.jpg) - [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
 
-Mercati와 Koslowski는 $n$-체 문제에 대한 잘 이해된 해석적 해(analytical solution)로 시작하여 그것을 형태 역학의 언어로 번역했고, 외부 척도에 기반한 측정에 대한 언급을 제거하고 관계적인 것으로 대체했다. 그들은 시스템이 입자들의 무작위 분포—Barbour가 "벌 떼(swarm of bees)"라고 묘사한 것—에서 구조화된 집단으로 불가피하게 진화한다는 것을 발견했다. 그렇게 진화하면서, 시스템의 복잡도(complexity, 시스템에 얼마나 많은 구조가 있는지를 정량화하는 수)는 항상 증가한다.
+Mercati와 Koslowski는 $n$-체 문제에 대한 잘 이해된 해석적 해(analytical solution)로 시작하여 그것을 형태 역학의 언어로 번역했고, 외부 척도에 기반한 측정에 대한 언급을 제거하고 관계적인 것으로 대체했다. 그들은 시스템이 입자들의 무작위 분포-Barbour가 "벌 떼(swarm of bees)"라고 묘사한 것-에서 구조화된 집단으로 불가피하게 진화한다는 것을 발견했다. 그렇게 진화하면서, 시스템의 복잡도(complexity, 시스템에 얼마나 많은 구조가 있는지를 정량화하는 수)는 항상 증가한다.
 
 > 여기서 "복잡도"는 새로운 개념이다. 엔트로피는 무질서도를 측정하지만, 복잡도는 시스템의 구조적 풍부함을 측정한다. 형태 역학에서 복잡도는 시스템 내 입자들의 배치가 얼마나 "비균질적(inhomogeneous)"인지, 즉 얼마나 뭉쳐 있는지를 포착한다. 수학적으로, 이는 질량 분포의 모멘트(moments), 특히 관성 모멘트(moment of inertia)를 통해 정의될 수 있다. 균일하게 분포된 입자들은 낮은 복잡도를 갖는다. 입자들이 여러 개의 뭉쳐진 군집을 형성하면 복잡도가 증가한다. 중요한 것은, 중력 상호작용 하에서 복잡도가 단조롭게(monotonically) 증가한다는 것이다. 이는 우주의 진화에 방향성을 부여한다.
 

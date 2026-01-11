@@ -52,7 +52,7 @@ date: 2024-12-06
 
 이 글은 Nicholas Mee의 글 [비밀스러운 대칭성과 힉스 보손(Secret symmetry and the Higgs boson)](https://plus.maths.org/content/secret-symmetry-and-higgs-boson-part-i)에서 발췌한 것입니다.
 
-*이 글은 **아이작 뉴턴 수학과학연구소(Isaac Newton Institute)** (INI)와의 협력의 일환입니다 – 이 협력의 모든 콘텐츠는 **여기**에서 찾을 수 있습니다.*
+*이 글은 **아이작 뉴턴 수학과학연구소(Isaac Newton Institute)** (INI)와의 협력의 일환입니다 - 이 협력의 모든 콘텐츠는 **여기**에서 찾을 수 있습니다.*
 
 *INI는 국제 연구센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 선도적인 수리과학자들을 유치하며, 모두에게 개방되어 있습니다. 더 자세한 정보는 **www.newton.ac.uk**를 방문하세요.*
 

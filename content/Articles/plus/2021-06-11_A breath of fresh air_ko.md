@@ -40,7 +40,7 @@ Catherine Noakes
 
 ![실험 설정](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/aerosols/ferrets_web.jpg)
 
-페럿에 대해 COVID-19의 공기 전파가 가능함을 보여주는 데 사용된 실험 설정 중 하나. 페럿은 코를 풀지 않는다. (이미지 출처: [Kutter et. al. 2021](https://www.nature.com/articles/s41467-021-21918-6) – [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+페럿에 대해 COVID-19의 공기 전파가 가능함을 보여주는 데 사용된 실험 설정 중 하나. 페럿은 코를 풀지 않는다. (이미지 출처: [Kutter et. al. 2021](https://www.nature.com/articles/s41467-021-21918-6) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 
 > 동물 모델 실험의 핵심은 감염원과 비감염 개체를 물리적으로 분리하되 공기 흐름은 공유하도록 설계하는 것이다. 위 이미지의 실험 설정에서는 케이지를 분리하여 직접 접촉이나 오염된 표면을 통한 전파를 차단하면서, 공기만 한쪽에서 다른 쪽으로 흐르게 했다. 이러한 조건에서 비감염 동물이 감염되었다면, 이는 공기를 통한 전파가 일어났다는 강력한 증거가 된다. 페럿은 호흡기 바이러스 연구에서 인간과 유사한 증상을 보이는 것으로 알려진 동물 모델이지만, Noakes가 지적한 것처럼 인간의 복잡한 호흡기 행동(기침, 재채기, 코 풀기 등)을 완전히 재현하지는 못한다.
 

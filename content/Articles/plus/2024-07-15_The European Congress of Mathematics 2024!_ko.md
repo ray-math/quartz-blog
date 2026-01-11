@@ -36,19 +36,19 @@ EMS 상을 포함하여 여기서 수여되는 다른 상들이 방금 발표되
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/ECM/Y_icon.png)
 
-[2024년 EMS 상: Tom Hutchcroft](https://plus.maths.org/content/ems-prizes-2024-y) — Hutchcroft는 상전이(phase transition)라는 흥미로운 현상을 설명하는 수학적 모델 연구로 EMS 상을 수상했습니다.
+[2024년 EMS 상: Tom Hutchcroft](https://plus.maths.org/content/ems-prizes-2024-y) - Hutchcroft는 상전이(phase transition)라는 흥미로운 현상을 설명하는 수학적 모델 연구로 EMS 상을 수상했습니다.
 
 > 상전이는 물리학에서 물질이 한 상태에서 다른 상태로 급격하게 변하는 현상을 말합니다. 예를 들어 물이 얼음으로 얼거나 물이 수증기로 끓는 것이 대표적입니다. 수학적으로 상전이는 어떤 매개변수(예: 온도)가 임계값을 지날 때 시스템의 성질이 급격하게 변하는 현상으로 모델링됩니다. Hutchcroft의 연구는 퍼콜레이션(percolation) 이론과 같은 확률적 모델에서 이러한 전이가 어떻게 일어나는지를 엄밀하게 분석합니다. 이는 순수수학적으로 흥미로울 뿐만 아니라, 전염병 확산, 산불의 전파, 인터넷 네트워크의 견고성 등 다양한 실제 현상을 이해하는 데 중요한 통찰을 제공합니다.
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/2024-07/Manners.png?h=e1cc8e47&itok=FrNWK7rz)
 
-[2024년 EMS 상: Frederick Manners](https://plus.maths.org/content/ems-prizes-2024-frederick-manners) — Manners는 무엇보다도 잠옷과 관련된 문제로 EMS 상을 수상했습니다.
+[2024년 EMS 상: Frederick Manners](https://plus.maths.org/content/ems-prizes-2024-frederick-manners) - Manners는 무엇보다도 잠옷과 관련된 문제로 EMS 상을 수상했습니다.
 
 > 수학에서 '잠옷 문제'는 겉보기에는 일상적이고 가벼워 보이지만 실제로는 깊은 수학적 구조를 담고 있는 문제의 전형입니다. 이러한 문제들은 종종 조합론, 정수론, 가법적 조합론(additive combinatorics) 같은 분야의 핵심 질문들과 연결됩니다. Manners의 연구는 이러한 겉보기 단순한 문제들이 실제로는 Gowers 노름(Gowers norm), Freiman의 정리, 그린-타오 정리(Green-Tao theorem) 같은 현대 수학의 강력한 도구들과 어떻게 연결되는지를 보여줍니다. 이는 수학의 아름다운 특성 중 하나입니다: 누구나 이해할 수 있는 질문이 최첨단 수학 연구로 이어질 수 있다는 것입니다.
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/ECM/X_icon.png)
 
-[2024년 EMS 상: Richard Montgomery](https://plus.maths.org/content/ems-prizes-2024-x) — Montgomery는 일상생활에서 너무나 흔해서 수학적 대상임을 잊기 쉬운 네트워크 연구로 EMS 상을 수상했습니다.
+[2024년 EMS 상: Richard Montgomery](https://plus.maths.org/content/ems-prizes-2024-x) - Montgomery는 일상생활에서 너무나 흔해서 수학적 대상임을 잊기 쉬운 네트워크 연구로 EMS 상을 수상했습니다.
 
 > 네트워크, 또는 수학적으로 그래프(graph)는 현대 수학의 가장 중요한 연구 대상 중 하나입니다. 그래프는 정점(vertex)과 그들을 연결하는 간선(edge)으로 구성된 추상적 구조로, 소셜 네트워크, 인터넷, 교통망, 생물학적 신경망, 화학 분자 구조 등 무수히 많은 실제 시스템을 모델링합니다. Montgomery의 연구는 그래프 이론의 근본적인 질문들, 특히 램지 이론(Ramsey theory)과 극값 조합론(extremal combinatorics)에 기여했습니다. 램지 이론은 "충분히 큰 구조에는 반드시 질서가 존재한다"는 철학을 담고 있으며, 극값 조합론은 "특정 성질을 가진 가장 큰(또는 가장 작은) 구조는 무엇인가?"라는 질문을 다룹니다. 이러한 연구는 알고리즘 설계, 암호학, 데이터 마이닝 등에 직접적인 응용을 가집니다.
 

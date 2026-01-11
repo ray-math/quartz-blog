@@ -88,7 +88,7 @@ $$
 D(x) = \sum_{n \leqslant x}\left(\frac{x}{n} + O(1)\right) = x\sum_{n \leqslant x}\frac{1}{n} + O(x).\tag{1}\label{D1}
 $$
 
-합 $\sum_{n \leq x}\frac{1}{n}$은 (상수를 제외하고) 구간 $[1, x]$에서 $\frac{1}{t}$의 적분과 같다. 이 적분은 $\log(x)$이다. 문제의 상수는 **오일러-마스케로니 상수(Euler–Mascheroni constant)** $\gamma \approx 0.57$에 $O\left(\frac{1}{x}\right)$의 속도로 접근한다. $x$가 커지면 이 오차는 사라지므로, 합 $\sum_{n \leqslant x}\frac{1}{n}$은 값이 $\log(x) + \gamma$에 가깝다. 이를 \eqref{D1}에 대입하면
+합 $\sum_{n \leq x}\frac{1}{n}$은 (상수를 제외하고) 구간 $[1, x]$에서 $\frac{1}{t}$의 적분과 같다. 이 적분은 $\log(x)$이다. 문제의 상수는 **오일러-마스케로니 상수(Euler-Mascheroni constant)** $\gamma \approx 0.57$에 $O\left(\frac{1}{x}\right)$의 속도로 접근한다. $x$가 커지면 이 오차는 사라지므로, 합 $\sum_{n \leqslant x}\frac{1}{n}$은 값이 $\log(x) + \gamma$에 가깝다. 이를 \eqref{D1}에 대입하면
 
 $$
 D(x) = x\left(\log x + \gamma\right) + O(x) = x\log x + O(x).

@@ -62,7 +62,7 @@ date: 2023-08-09
 
 ### 이 글에 대하여
 
-*이 글은 아이작 뉴턴 수학과학연구소(Isaac Newton Institute for Mathematical Sciences, INI)와의 협력의 일환으로 제작되었습니다 – 이 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
+*이 글은 아이작 뉴턴 수학과학연구소(Isaac Newton Institute for Mathematical Sciences, INI)와의 협력의 일환으로 제작되었습니다 - 이 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 
 *INI는 국제적인 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 저명한 수학자들을 끌어모으며, 모두에게 열려 있습니다. 자세한 내용은 www.newton.ac.uk를 방문하세요.*
 

@@ -60,6 +60,6 @@ date: 2022-11-08
 
 우리는 [2020년 가상 하이델베르크 수상자 포럼(virtual Heidelberg Laureate Forum 2020)](https://www.heidelberg-laureate-forum.org/forum/virtual-hlf-2020.html)에서 토신을 처음 만났습니다. 당시 우리가 진행한 [비디오 인터뷰](https://plus.maths.org/content/talking-young-researchers-tosin-babasola)를 시청할 수 있습니다. 우리는 2022년 [Black Heroes of Mathematics](https://www.icms.org.uk/events/2022/black-heroes-mathematics-conference-2022) 컨퍼런스에서 그의 [발표](https://media.ed.ac.uk/media/BHoM+2022+-+Tosin+Babasola/1_mab268fv)를 보고 다시 그를 인터뷰하기로 영감을 받았습니다.
 
-*이 기사는 아이작 뉴턴 수학 과학 연구소(Isaac Newton Institute for Mathematical Sciences, INI)와의 협력의 일환으로 제작되었습니다 – 우리의 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다. INI는 국제 연구 센터이며 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 주요 수학 과학자들을 끌어들이며 모두에게 개방되어 있습니다. 더 자세히 알아보려면 www.newton.ac.uk을 방문하세요.*
+*이 기사는 아이작 뉴턴 수학 과학 연구소(Isaac Newton Institute for Mathematical Sciences, INI)와의 협력의 일환으로 제작되었습니다 - 우리의 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다. INI는 국제 연구 센터이며 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 주요 수학 과학자들을 끌어들이며 모두에게 개방되어 있습니다. 더 자세히 알아보려면 www.newton.ac.uk을 방문하세요.*
 
 ![INI logo](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/representation/ini_logo_green.jpg)

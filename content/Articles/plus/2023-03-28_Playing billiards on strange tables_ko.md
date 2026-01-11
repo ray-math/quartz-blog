@@ -6,7 +6,7 @@ date: 2023-03-28
 > [!NOTE]
 > https://plus.maths.org/content/playing-billiards-strange-tables
 >
-> 당구대 위에서 공을 움직이게 하면 기묘하고 놀라운 일들이 벌어질 수 있다 — 그리고 수학적 당구 이론에서 최근 획기적인 발견이 있었다.
+> 당구대 위에서 공을 움직이게 하면 기묘하고 놀라운 일들이 벌어질 수 있다 - 그리고 수학적 당구 이론에서 최근 획기적인 발견이 있었다.
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/billiard_frontpage.jpg?itok=tHBKGQ5N)
 
@@ -74,19 +74,19 @@ date: 2023-03-28
 
 ### 새로운 결과
 
-그것이 바로 Bandtlow가 [Wolfram Just](https://www.qmul.ac.uk/maths/profiles/justw.html) 및 [Julia Slipantschuk](https://warwick.ac.uk/fac/sci/maths/people/staff/slipantschuk/)과 함께 답할 수 있었던 질문이다. 이 팀은 수학적 당구공이 비주기적 방식으로 움직이면서 동시에 테이블의 전체 조각을 빠뜨릴 수 있는 삼각형의 족(family)을 [발견했다](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/zemcon.pdf). 따라서 전부 아니면 전무 결과는 그런 삼각형에 대해 실패한다 — 이런 의미에서 삼각형은 여러 변을 가진 사촌들보다 더 특별하지 않다.
+그것이 바로 Bandtlow가 [Wolfram Just](https://www.qmul.ac.uk/maths/profiles/justw.html) 및 [Julia Slipantschuk](https://warwick.ac.uk/fac/sci/maths/people/staff/slipantschuk/)과 함께 답할 수 있었던 질문이다. 이 팀은 수학적 당구공이 비주기적 방식으로 움직이면서 동시에 테이블의 전체 조각을 빠뜨릴 수 있는 삼각형의 족(family)을 [발견했다](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/zemcon.pdf). 따라서 전부 아니면 전무 결과는 그런 삼각형에 대해 실패한다 - 이런 의미에서 삼각형은 여러 변을 가진 사촌들보다 더 특별하지 않다.
 
 예시가 아래 이미지에 나와 있다. 삼각형은 두 개의 같은 변을 가지고 있으며, 위쪽으로 기울어진 두 변으로 표시되어 있다. 삼각형의 밑변에 있는 두 각은 $\frac{\sqrt{3}}{6}\pi$이고, 꼭짓점의 각은 $\left(1-\frac{\sqrt{3}}{3}\right)\pi$이다. 그림에서 볼 수 있듯이, 이 경우 파란색으로 표시된 공의 궤적은 삼각형의 꼭짓점을 빠뜨린다.
 
 ![삼각형에서의 궤적](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2023/billiards/triangle.png)
 
-삼각형에서의 궤적 일부의 예. 삼각형 테이블의 측면에서 500번 튕긴 것을 포함한다. 궤적은 주기적이지 않고 삼각형의 큰 부분을 거의 채운다 — 그러나 꼭짓점은 빠뜨린다. 이미지 출처: [Non-periodic not everywhere dense trajectories in triangular billiards](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/zemcon.pdf), 허가를 받아 사용.
+삼각형에서의 궤적 일부의 예. 삼각형 테이블의 측면에서 500번 튕긴 것을 포함한다. 궤적은 주기적이지 않고 삼각형의 큰 부분을 거의 채운다 - 그러나 꼭짓점은 빠뜨린다. 이미지 출처: [Non-periodic not everywhere dense trajectories in triangular billiards](https://webspace.maths.qmul.ac.uk/o.bandtlow/publ/zemcon.pdf), 허가를 받아 사용.
 
 > 이 삼각형의 각도 선택은 매우 정교하다. 각도들이 $\pi$의 무리수 배수라는 점에 주목하자. $\frac{\sqrt{3}}{6}\pi \approx 0.289\pi$이고 상단 각은 $\left(1-\frac{\sqrt{3}}{3}\right)\pi \approx 0.423\pi$이다. 각도가 $\pi$의 유리수 배수인 경우(예: $\frac{1}{3}\pi$, $\frac{1}{4}\pi$ 등)에는 궤적이 더 "규칙적"인 경향이 있다. 무리수 배수를 사용함으로써 연구자들은 궤적이 주기적이 되는 것을 피했다. 이등변삼각형 구조는 분석을 단순화하면서도 충분히 일반적이다. 궤적이 꼭짓점을 피하는 것은 놀라운 현상인데, 이는 특정한 기하학적 구조가 공의 움직임을 "조직화"해서 테이블의 특정 영역을 체계적으로 회피하게 만든다는 것을 보여준다. 500번의 반사로도 꼭짓점에 도달하지 못한다는 것은, 이것이 우연이 아니라 구조적 성질임을 시사한다.
 
 이 결과는 Tokarsky의 Galperin 실수 증명이 열어놓았던 당구 이론의 공백을 메운다.
 
-"마침내 삼각형의 경우를 해결하게 되어 매우 기쁩니다"라고 Bandtlow는 말한다. "이제 우리와 다른 사람들이 개발한 도구들이 수학적 당구의 다른 미해결 질문들에 답할 수 있는지 알아볼 것입니다 — 그리고 여전히 많은 질문들이 남아 있습니다."
+"마침내 삼각형의 경우를 해결하게 되어 매우 기쁩니다"라고 Bandtlow는 말한다. "이제 우리와 다른 사람들이 개발한 도구들이 수학적 당구의 다른 미해결 질문들에 답할 수 있는지 알아볼 것입니다 - 그리고 여전히 많은 질문들이 남아 있습니다."
 
 > 이 결과의 의의는 단순히 하나의 미해결 문제를 푼 것 이상이다. 첫째, 삼각형이라는 가장 단순한 다각형조차도 예상과 다른 복잡한 동역학적 행동을 보일 수 있음을 입증했다. 둘째, 이는 수학적 당구에서 "전부 아니면 전무" 성질이 매우 특수한 경우에만 성립하는 예외적 현상임을 확인시켜준다. 셋째, 새로운 수학적 기법들이 개발되었고, 이들은 다른 문제에도 적용될 수 있을 것이다. 남아 있는 질문들로는: 어떤 기하학적 조건이 전부 아니면 전무 성질을 보장하는가? 비주기적이지만 조밀하지 않은 궤적의 "누락 집합"(missed set)의 구조는 무엇인가? 3차원 이상의 당구에서는 어떤 일이 일어나는가? 등이 있다.
 

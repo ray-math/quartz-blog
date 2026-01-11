@@ -74,7 +74,7 @@ COVID-19 팬데믹에 대한 우리의 모든 보도는 [여기](https://plus.ma
 
 > COPD는 여기서 구조적 불평등의 생물학적 각인(biological embodiment)을 보여주는 예다. COPD는 주로 장기간의 흡연, 직업적 먼지 노출, 대기 오염과 관련이 있는데, 이 모든 것이 사회경제적 지위와 강하게 연관되어 있다. 저소득층은 흡연율이 높고, 유해한 작업 환경에 노출될 가능성이 크며, 대기 오염이 심한 지역에 거주하는 경향이 있다. 따라서 COPD 유병률의 차이는 수십 년에 걸친 누적된 불평등의 결과다. COVID-19 팬데믹은 이러한 기존의 건강 불평등을 드러내고 악화시킨 것이다. 수학적으로 표현하면, 기저 질환이 있는 경우 중증 진행률과 사망률이 곱셈적으로(multiplicatively) 증가하므로, 불평등의 효과가 기하급수적으로 커진다.
 
-함께 고려하면, 이러한 요인들—직업, 생활 조건, 기저 건강 상태—은 위의 차트 중 일부에 대한 그럴듯한 설명을 제공한다. 다른 불평등은 설명하기 더 어렵다. 인종 집단 간 차이와 백신 접종률의 차이가 그중 하나다. 이들은 아마도 박탈부터 서비스와 의료에 접근하려 할 때 장벽을 만들 수 있는 문화적 차이에 이르기까지 복잡한 요인의 조합 때문일 것이다(예를 들어, 과학자문그룹이 발표한 인종 집단 간 사망률 차이에 관한 [이 문서](https://www.gov.uk/government/publications/covid-19-ethnicity-subgroup-interpreting-differential-health-outcomes-among-minority-ethnic-groups-in-wave-1-and-2-24-march-2021/covid-19-ethnicity-subgroup-interpreting-differential-health-outcomes-among-minority-ethnic-groups-in-wave-1-and-2-24-march-2021)를 참조하라).
+함께 고려하면, 이러한 요인들-직업, 생활 조건, 기저 건강 상태-은 위의 차트 중 일부에 대한 그럴듯한 설명을 제공한다. 다른 불평등은 설명하기 더 어렵다. 인종 집단 간 차이와 백신 접종률의 차이가 그중 하나다. 이들은 아마도 박탈부터 서비스와 의료에 접근하려 할 때 장벽을 만들 수 있는 문화적 차이에 이르기까지 복잡한 요인의 조합 때문일 것이다(예를 들어, 과학자문그룹이 발표한 인종 집단 간 사망률 차이에 관한 [이 문서](https://www.gov.uk/government/publications/covid-19-ethnicity-subgroup-interpreting-differential-health-outcomes-among-minority-ethnic-groups-in-wave-1-and-2-24-march-2021/covid-19-ethnicity-subgroup-interpreting-differential-health-outcomes-among-minority-ethnic-groups-in-wave-1-and-2-24-march-2021)를 참조하라).
 
 ### 신데믹 팬데믹
 

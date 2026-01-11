@@ -124,10 +124,10 @@ date: 2016-03-13
 
 #### 참고문헌 및 추가 자료
 
-[Arrow KJ (1950). A difficulty in the concept of social welfare.](https://www.stat.uchicago.edu/~lekheng/meetings/mathofranking/ref/arrow.pdf) *Journal of Political Economy* **58**(4) 328–346.
+[Arrow KJ (1950). A difficulty in the concept of social welfare.](https://www.stat.uchicago.edu/~lekheng/meetings/mathofranking/ref/arrow.pdf) *Journal of Political Economy* **58**(4) 328-346.
 
 [Johnson PE (2005). Voting Systems.](http://pj.freefaculty.org/Ukraine/PJ3_VotingSystemsEssay.pdf)
 
-[May KO (1952). A set of independent necessary and sufficient conditions for simple majority decision.](http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf) *Econometrica* **20**, 680–684.
+[May KO (1952). A set of independent necessary and sufficient conditions for simple majority decision.](http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf) *Econometrica* **20**, 680-684.
 
-[Woodall DR (1994). Properties of preferential election rules.](http://www.votingmatters.org.uk/ISSUE3/P5.HTM) *Voting matters* **3**, 8–15.
+[Woodall DR (1994). Properties of preferential election rules.](http://www.votingmatters.org.uk/ISSUE3/P5.HTM) *Voting matters* **3**, 8-15.

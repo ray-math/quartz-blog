@@ -112,4 +112,4 @@ Menace와 플레이할 때, Menace가 항상 먼저 시작한다. 그렇지 않�
 
 Pingback: Machine Learning for Kids event at Hursley « dale lane
 
-Pingback: How Algorithms Play Games – BogoBogoSort
+Pingback: How Algorithms Play Games - BogoBogoSort

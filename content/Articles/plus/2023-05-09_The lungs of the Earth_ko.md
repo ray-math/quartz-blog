@@ -34,7 +34,7 @@ Bennetts는 호주 애들레이드에 살고 있어 남극해가 바로 문 앞�
 
 ACC는 또한 남극 빙상(Antarctic ice sheet)을 따뜻한 물로부터 보호하는 장벽 역할을 한다. "[남극 빙상]은 지구상에서 단연 가장 큰 담수 저장고입니다." Bennetts가 말한다. 이것은 전 세계 해수면을 극적으로 상승시킬 잠재력을 가지고 있다.
 
-남극을 둘러싸고 있는 해수의 얼어붙은 표층인 해빙(sea ice)은 지구 기후의 또 다른 중요한 구성 요소다. "해빙은 태양 광선을 반사하여 남극해를 시원하게 유지합니다. 이것은 남극해 시스템의 정말로 중요한 구성 요소입니다. 계절에 따라 확장되고 수축하며, 겨울에는 남극 빙관의 크기를 두 배로 늘립니다." 실제로 해빙의 존재는 지구 전체의 온도를 낮게 유지하는 데 중요한 역할을 한다 — 이에 대한 흥미로운 설명은 [쉽게 만드는 기후 모델링(Climate modelling made easy)](https://plus.maths.org/content/climate-modelling-made-easy) 기사를 참조하라.
+남극을 둘러싸고 있는 해수의 얼어붙은 표층인 해빙(sea ice)은 지구 기후의 또 다른 중요한 구성 요소다. "해빙은 태양 광선을 반사하여 남극해를 시원하게 유지합니다. 이것은 남극해 시스템의 정말로 중요한 구성 요소입니다. 계절에 따라 확장되고 수축하며, 겨울에는 남극 빙관의 크기를 두 배로 늘립니다." 실제로 해빙의 존재는 지구 전체의 온도를 낮게 유지하는 데 중요한 역할을 한다 - 이에 대한 흥미로운 설명은 [쉽게 만드는 기후 모델링(Climate modelling made easy)](https://plus.maths.org/content/climate-modelling-made-easy) 기사를 참조하라.
 
 > 해빙의 알베도(albedo, 반사율) 효과는 기후 시스템에서 매우 중요한 양의 되먹임(positive feedback) 메커니즘이다. 신선한 눈으로 덮인 해빙은 태양 복사의 약 80-90%를 반사하는 반면, 개방된 바다는 약 6%만 반사한다. 따라서 해빙이 녹으면 더 많은 태양 에너지가 흡수되고, 이는 더 많은 온난화를 초래하며, 이것이 다시 더 많은 해빙 융해로 이어진다. 이러한 "얼음-알베도 되먹임(ice-albedo feedback)"은 극지방에서 온난화가 전 지구 평균보다 2-3배 빠르게 진행되는 "극 증폭(polar amplification)" 현상의 주요 원인 중 하나다. 수학적으로 이는 비선형 동역학 시스템의 불안정성으로 모델링되며, 임계점(tipping point)을 넘어서면 급격한 상태 변화가 일어날 수 있다.
 
@@ -52,7 +52,7 @@ ACC는 또한 남극 빙상(Antarctic ice sheet)을 따뜻한 물로부터 보�
 
 ### 수중 폭포
 
-Bennetts는 복잡한 남극해 시스템을 이해하기 위해 연구하는 수많은 과학자 중 한 명이다. 하지만 그는 해양학자도, 기후 과학자도 아니다 — 그는 수학자다. 그는 최근 미국산업응용수학회(Society for Industrial and Applied Mathematics)가 조직한 [학회](https://www.siam.org/conferences/cm/conference/cse23?_ga=2.161214013.1621048283.1681306550-663733086.1679498332)에서 남극해에 대해 [발표](https://meetings.siam.org/sess/dsp_talk.cfm?p=130242)했으며, 현재 케임브리지의 아이작 뉴턴 수학과학연구소(Isaac Newton Institute for Mathematical Sciences)에서 [연구 프로그램](https://www.newton.ac.uk/event/mws/)을 공동 주관하고 있는데, 우리는 거기서 그를 만났다. (이 연구 프로그램에 대해서는 [여기](https://plus.maths.org/content/multiple-wave-scattering)에서 더 알아볼 수 있다.)
+Bennetts는 복잡한 남극해 시스템을 이해하기 위해 연구하는 수많은 과학자 중 한 명이다. 하지만 그는 해양학자도, 기후 과학자도 아니다 - 그는 수학자다. 그는 최근 미국산업응용수학회(Society for Industrial and Applied Mathematics)가 조직한 [학회](https://www.siam.org/conferences/cm/conference/cse23?_ga=2.161214013.1621048283.1681306550-663733086.1679498332)에서 남극해에 대해 [발표](https://meetings.siam.org/sess/dsp_talk.cfm?p=130242)했으며, 현재 케임브리지의 아이작 뉴턴 수학과학연구소(Isaac Newton Institute for Mathematical Sciences)에서 [연구 프로그램](https://www.newton.ac.uk/event/mws/)을 공동 주관하고 있는데, 우리는 거기서 그를 만났다. (이 연구 프로그램에 대해서는 [여기](https://plus.maths.org/content/multiple-wave-scattering)에서 더 알아볼 수 있다.)
 
 Bennetts가 남극해 과학에 기여할 수 있는 이유는 수학이 세계를 이해하고 무엇이 일어날 수 있는지 예측하기 위해 우리가 가진 주요 도구들의 기반이 되기 때문이다. 이에 대한 극적인 예로, 아래 애니메이션을 보라:
 

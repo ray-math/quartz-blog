@@ -172,6 +172,6 @@ $$
 
 ## 더 읽을거리
 
-[Branko Grunbaum and Geoffrey C. Shephard, 1977, Tilings by Regular Polygons](https://www.tandfonline.com/doi/abs/10.1080/0025570X.1977.11976655), Mathematics Magazine, 5, 227–247을 참조하라.
+[Branko Grunbaum and Geoffrey C. Shephard, 1977, Tilings by Regular Polygons](https://www.tandfonline.com/doi/abs/10.1080/0025570X.1977.11976655), Mathematics Magazine, 5, 227-247을 참조하라.
 
 > Grunbaum과 Shephard의 1977년 논문은 정다각형 타일링 이론의 고전으로 간주된다. 이 논문은 유클리드 평면에서 정다각형들로 만들 수 있는 모든 타일링을 체계적으로 분류하고, $k$-균일 타일링의 개념을 엄밀하게 정의했다. 이후의 연구들은 이 논문의 결과를 쌍곡 평면과 구면으로 확장했으며, 현대 타일링 이론의 많은 부분이 이 선구적 연구에 기초하고 있다. 타일링에 관심이 있는 독자라면 반드시 읽어야 할 문헌이다.

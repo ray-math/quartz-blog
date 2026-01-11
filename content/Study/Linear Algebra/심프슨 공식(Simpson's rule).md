@@ -230,4 +230,4 @@ n & w_0 & w_1 & w_2 & w_3 & w_4 & w_5 & w_6 & w_7 & w_8 & w_9 & w_{10} \\
 \end{array}
 $$
 
-[^1]: Runge, C. (1901). "Über empirische Funktionen und die Interpolation zwischen äquidistanten Ordinaten". Zeitschrift für Mathematik und Physik. 46: 224–243.
+[^1]: Runge, C. (1901). "Über empirische Funktionen und die Interpolation zwischen äquidistanten Ordinaten". Zeitschrift für Mathematik und Physik. 46: 224-243.

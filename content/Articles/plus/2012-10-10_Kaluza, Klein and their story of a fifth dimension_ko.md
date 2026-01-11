@@ -18,7 +18,7 @@ date: 2012-10-10
 
 ![35th St and 10th Avenue](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2012/dimensions/10th_av_35.jpg)
 
-35번가와 10번 애비뉴 – 뉴욕에서의 2차원 주소.
+35번가와 10번 애비뉴 - 뉴욕에서의 2차원 주소.
 
 이것이 누군가에게 주소를 알려주는 것과 관련하여 무엇을 의미하는지 생각해봅시다. 2차원에서 당신의 위치를 명시할 수 있습니다. 예를 들어 뉴욕에서는 "35번가와 10번 애비뉴에서"라고 말할 것입니다. 이것은 남북 방향으로 몇 블록, 동서 방향으로 몇 블록 떨어져 있는지를 나타내는 간단한 2차원 주소입니다.
 
@@ -50,7 +50,7 @@ date: 2012-10-10
 
 ![Earth](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2012/nowak/nasa_earth_sm.jpg)
 
-우리는 이미 휘어진 차원에 익숙하다 – 지구의 2차원 표면은 주기적 좌표를 가지고 휘어져 있다.(이미지 출처: [NASA](http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a17_h_148_22727.html))
+우리는 이미 휘어진 차원에 익숙하다 - 지구의 2차원 표면은 주기적 좌표를 가지고 휘어져 있다.(이미지 출처: [NASA](http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a17_h_148_22727.html))
 
 이것은 다소 이상하게 들립니다: 로켓을 타고 특정한 방향으로 출발한 다음 시작한 곳으로 다시 도착할 수 있을까요? 마치 비행기로 지구를 한 바퀴 도는 것처럼 말이죠. 우리는 이러한 휘어진 차원들을 알아챌 수 있을까요?
 

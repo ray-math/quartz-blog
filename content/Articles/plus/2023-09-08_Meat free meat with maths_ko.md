@@ -12,7 +12,7 @@ date: 2023-09-08
 
 비건(완전 채식), 베지테리언(채식), 그리고 플렉시테리언(유연한 채식)이 급증하고 있습니다. 사람들이 육류와 유제품을 멀리하는 데는 세 가지 주요 이유가 있습니다: 자신의 건강에 대한 우려, 육류 및 유제품 산업이 환경에 미치는 영향에 대한 우려, 그리고 동물 학대에 대한 우려입니다.
 
-그러나 2020년 연구들은 식물 기반 대체품을 소비하는 사람의 수가 [지난 10년간 대략 두 배로 증가했음](https://www.lshtm.ac.uk/newsevents/news/2021/plant-based-alternative-food-consumption-may-have-doubled-uk-over-ten-years#:~:text=The%20proportion%20of%20UK%20people,Science%20of%20the%20Total%20Environment.)을 시사했지만, 최근 보고서들은 [영국에서 매출이 그 이후로 정체되었음](https://www.theguardian.com/food/2023/may/20/has-the-vegan-bubble-burst-sales-stagnate-in-uk-as-brands-withdraw-plant-based-products)을 보여줍니다. 생활비 위기가 이와 관련이 있을 수 있습니다 — 식물 기반 대체품은 비싼 경향이 있습니다 — 하지만 아마도 맛과도 관련이 있을 것입니다. 고기를 좋아한다면, 비건 버거와 소시지는 충분하지 않을 수 있습니다.
+그러나 2020년 연구들은 식물 기반 대체품을 소비하는 사람의 수가 [지난 10년간 대략 두 배로 증가했음](https://www.lshtm.ac.uk/newsevents/news/2021/plant-based-alternative-food-consumption-may-have-doubled-uk-over-ten-years#:~:text=The%20proportion%20of%20UK%20people,Science%20of%20the%20Total%20Environment.)을 시사했지만, 최근 보고서들은 [영국에서 매출이 그 이후로 정체되었음](https://www.theguardian.com/food/2023/may/20/has-the-vegan-bubble-burst-sales-stagnate-in-uk-as-brands-withdraw-plant-based-products)을 보여줍니다. 생활비 위기가 이와 관련이 있을 수 있습니다 - 식물 기반 대체품은 비싼 경향이 있습니다 - 하지만 아마도 맛과도 관련이 있을 것입니다. 고기를 좋아한다면, 비건 버거와 소시지는 충분하지 않을 수 있습니다.
 
 > 플렉시테리언은 주로 채식을 하지만 때때로 육류를 섭취하는 식습관을 가진 사람들을 의미합니다. 이는 완전한 채식주의와 잡식 사이의 중간 지점으로, 환경과 건강을 고려하면서도 실용적인 접근을 추구하는 현대적 식생활 트렌드입니다. 이러한 유연한 접근이 최근 몇 년간 빠르게 확산되었다는 점은 사람들이 완전한 채식보다는 점진적 변화를 선호한다는 것을 보여줍니다.
 
@@ -108,7 +108,7 @@ Hoxton Farms에게 수학적 세금 감면은 매우 유용했습니다. "그것
 
 *Plus*의 편집자 [Marianne Freiberger](https://plus.maths.org/content/people/index.html#marianne)가 2023년 7월 Ed Steele을 인터뷰했습니다.
 
-*이 기사는 Isaac Newton Institute for Mathematical Sciences (INI)와의 협력의 일환으로 제작되었습니다 — 협력의 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
+*이 기사는 Isaac Newton Institute for Mathematical Sciences (INI)와의 협력의 일환으로 제작되었습니다 - 협력의 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 
 *INI는 국제 연구 센터이자 Cambridge 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 선도적인 수학 과학자들을 유치하며, 모두에게 열려 있습니다. 자세한 내용은 www.newton.ac.uk를 방문하세요.*
 

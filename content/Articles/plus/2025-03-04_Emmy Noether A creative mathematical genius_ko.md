@@ -60,7 +60,7 @@ date: 2025-03-04
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/abstractpics/%5Buid%5D/%5Bsite-date%5D/noether_icon.png)
 
-[에미 뇌터와 대칭성의 힘](https://plus.maths.org/content/noether) — 에미 뇌터가 물리학을 대칭성과 어떻게 영원히 결합시켰는지 알아보세요.
+[에미 뇌터와 대칭성의 힘](https://plus.maths.org/content/noether) - 에미 뇌터가 물리학을 대칭성과 어떻게 영원히 결합시켰는지 알아보세요.
 
 ### 역경을 극복하며
 
@@ -80,7 +80,7 @@ date: 2025-03-04
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/styles/small_square/public/noether_frontpage.jpg)
 
-[에미 뇌터: 역경을 극복하며](https://plus.maths.org/content/against-odds) — 뇌터의 개인적인 삶과 여성이자 유대인 수학자로서 그녀가 직면한 도전들에 대해 더 알아보세요.
+[에미 뇌터: 역경을 극복하며](https://plus.maths.org/content/against-odds) - 뇌터의 개인적인 삶과 여성이자 유대인 수학자로서 그녀가 직면한 도전들에 대해 더 알아보세요.
 
 *이 글은 **아이작 뉴턴 수학과학 연구소**(Isaac Newton Institute for Mathematical Sciences, INI)와의 협력의 일환으로 제작되었습니다. INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 협력을 통한 모든 콘텐츠는 **여기**에서 찾을 수 있습니다.*
 

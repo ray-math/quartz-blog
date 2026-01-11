@@ -38,11 +38,11 @@ Angelica Aviles-Rivero와 Carola-Bibiane Schönlieb가 이끄는 수학자들로
 
 ![Graph](https://plus.maths.org/content/sites/plus.maths.org/files/articles/graph2.png)
 
-복잡하게 보이는 [그래프](https://plus.maths.org/content/maths-minute-graphs-and-handshaking-lemma)로, 각 간선은 정확히 두 개의 노드를 관계시킵니다 – 이 두 노드를 연결하는 선으로 표현됩니다.
+복잡하게 보이는 [그래프](https://plus.maths.org/content/maths-minute-graphs-and-handshaking-lemma)로, 각 간선은 정확히 두 개의 노드를 관계시킵니다 - 이 두 노드를 연결하는 선으로 표현됩니다.
 
 ![Hypergraph](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/alzheimers/Hypergraph-wikipedia.png)
 
-하이퍼간선이 임의의 수의 노드를 관계시킬 수 있는 하이퍼그래프의 예시입니다. 이제 하이퍼간선($e_{1}$, $e_{2}$, $e_{3}$, $e_{4}$)은 색으로 구분된 그룹으로 표현되며, 임의의 수의 노드를 연결할 수 있습니다. (이미지 출처: [Kilom691](https://commons.wikimedia.org/wiki/File:Hypergraph-wikipedia.svg) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+하이퍼간선이 임의의 수의 노드를 관계시킬 수 있는 하이퍼그래프의 예시입니다. 이제 하이퍼간선($e_{1}$, $e_{2}$, $e_{3}$, $e_{4}$)은 색으로 구분된 그룹으로 표현되며, 임의의 수의 노드를 연결할 수 있습니다. (이미지 출처: [Kilom691](https://commons.wikimedia.org/wiki/File:Hypergraph-wikipedia.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 > 하이퍼그래프가 일반 그래프보다 강력한 이유를 구체적으로 설명하겠습니다. 일반 그래프에서는 "환자 A와 환자 B가 유사하다", "환자 B와 환자 C가 유사하다"는 쌍별(pairwise) 관계만 표현할 수 있습니다. 하지만 실제로는 "환자 A, B, C가 모두 해마 위축이라는 특정 패턴을 공유한다"는 **고차 관계(higher-order relation)**가 존재합니다. 하이퍼간선은 이러한 집단적 패턴을 직접 표현할 수 있습니다. 수학적으로, 일반 그래프는 2원 관계(binary relation)만 다루지만, 하이퍼그래프는 $n$원 관계($n$-ary relation, $n \geq 2$)를 다룰 수 있습니다. 알츠하이머 진단에서는 여러 특징이 동시에 나타나는 패턴이 중요하므로, 하이퍼그래프가 이러한 복합적 패턴을 더 자연스럽게 포착할 수 있습니다. 예를 들어, "해마 위축 + 뇌실 확장 + 전두엽 대사 감소"라는 세 가지 특징이 동시에 나타나는 환자 그룹을 하나의 하이퍼간선으로 표현할 수 있습니다.
 
@@ -66,7 +66,7 @@ Angelica Aviles-Rivero와 Carola-Bibiane Schönlieb가 이끄는 수학자들로
 
 ![A visual overview of the framework](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/alzheimers/framework_web.jpg)
 
-기계학습 프레임워크의 시각적 개요. (이미지 출처: *Multi-Modal Hypergraph Diffusion Network with Dual Prior for Alzheimer Classification* 논문, [MICCAI 2022](https://conferences.miccai.org/2022/en/)에서 발표 예정 – 허가를 받아 사용.)
+기계학습 프레임워크의 시각적 개요. (이미지 출처: *Multi-Modal Hypergraph Diffusion Network with Dual Prior for Alzheimer Classification* 논문, [MICCAI 2022](https://conferences.miccai.org/2022/en/)에서 발표 예정 - 허가를 받아 사용.)
 
 픽셀 데이터나 이미지 방향의 약간의 변화는 이미지 전체의 의미를 크게 변화시키지 않습니다. 하지만 유전자 데이터의 약간의 변화는 그 데이터의 의미를 크게 변화시킬 수 있으므로, 비영상 데이터의 표현도 강건함을 보장하기 위해서는 프로세스에 대한 다른 적응이 필요합니다. 대신 Aviles-Rivero와 그녀의 동료들은 각각의 하이퍼그래프 자체에 작은 변화를 주는 결과를 테스트하고, 이러한 변경된 표현들이 여전히 데이터의 전체적인 구조와 의미를 유지하는지 확인합니다.
 
@@ -96,7 +96,7 @@ Angelica Aviles-Rivero와 Carola-Bibiane Schönlieb가 이끄는 수학자들로
 
 > 하이퍼그래프에서의 라벨 전파는 수학적으로 확산 방정식(diffusion equation)으로 모델링할 수 있습니다. 일반 그래프에서의 확산은 그래프 라플라시안 $\mathbf{L} = \mathbf{D} - \mathbf{A}$ (여기서 $\mathbf{D}$는 차수 행렬(degree matrix), $\mathbf{A}$는 인접 행렬(adjacency matrix))를 사용하여 $\frac{\partial \mathbf{f}}{\partial t} = -\mathbf{L}\mathbf{f}$로 표현됩니다. 여기서 $\mathbf{f}$는 노드들의 라벨 분포입니다. 하이퍼그래프의 경우, 하이퍼간선이 여러 노드를 동시에 연결하므로 더 복잡한 확산 연산자가 필요합니다. 연구자들이 개발한 새로운 확산 모델은 아마도 하이퍼그래프의 발생 행렬(incidence matrix) $\mathbf{H}$와 하이퍼간선의 가중치를 고려하여 $\frac{\partial \mathbf{f}}{\partial t} = -\mathbf{L}_{H}\mathbf{f}$의 형태를 가질 것입니다. 여기서 $\mathbf{L}_{H}$는 하이퍼그래프 라플라시안입니다. 확산의 평형 상태는 $\mathbf{L}_{H}\mathbf{f}^{*} = \mathbf{0}$을 만족하며, 이는 연결된 노드들 사이에서 라벨이 균형을 이루는 상태를 나타냅니다. 실제 구현에서는 $\mathbf{f}^{(t+1)} = \mathbf{f}^{(t)} - \alpha\mathbf{L}_{H}\mathbf{f}^{(t)}$ 형태의 반복 업데이트를 사용하며, 라벨이 있는 노드의 라벨은 고정됩니다.
 
-그들의 준지도 전략은 우리가 설명한 두 단계를 반복적으로 수행합니다 – 데이터로부터 하이퍼그래프를 구축하고, 하이퍼그래프를 통해 라벨을 확산시키는 것 – 각 단계가 다음 단계를 개선합니다. "이것은 하이브리드 모델입니다. 수학적 모델링과 [기계] 학습 기술의 장점을 활용합니다"라고 Aviles-Rivero는 말합니다. "양쪽 세계의 최선을 취합니다."
+그들의 준지도 전략은 우리가 설명한 두 단계를 반복적으로 수행합니다 - 데이터로부터 하이퍼그래프를 구축하고, 하이퍼그래프를 통해 라벨을 확산시키는 것 - 각 단계가 다음 단계를 개선합니다. "이것은 하이브리드 모델입니다. 수학적 모델링과 [기계] 학습 기술의 장점을 활용합니다"라고 Aviles-Rivero는 말합니다. "양쪽 세계의 최선을 취합니다."
 
 > 이 반복적 접근법은 기댓값 최대화(EM, Expectation-Maximization) 알고리즘과 유사한 철학을 가지고 있습니다. E-단계에서는 현재의 모델(하이퍼그래프 구조)을 기반으로 라벨이 없는 데이터의 라벨을 추정하고(라벨 전파), M-단계에서는 이렇게 얻은 소프트 라벨(soft labels)을 사용하여 모델을 개선합니다(하이퍼그래프 재구축). 이 과정을 반복하면서 모델의 확신도가 점차 높아집니다. 수학적 모델링(확산 방정식, 그래프 이론)과 기계학습(특징 추출, 표현 학습)의 결합은 각각의 강점을 활용합니다. 수학적 모델링은 해석 가능성(interpretability)과 이론적 보장을 제공하고, 기계학습은 복잡한 패턴을 자동으로 발견하는 능력을 제공합니다. 이러한 하이브리드 접근법은 순수한 기계학습 모델보다 더 강건하고 일반화 능력이 높은 경향이 있습니다.
 

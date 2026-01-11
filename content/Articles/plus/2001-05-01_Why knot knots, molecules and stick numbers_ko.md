@@ -12,7 +12,7 @@ date: 2001-05-01
 
 *돌아가기*
 
-[유전적 비밀을 풀다 패키지](https://plus.maths.org/content/do-you-know-whats-good-you-—-unravelling-genetic-secrets)로 돌아가기
+[유전적 비밀을 풀다 패키지](https://plus.maths.org/content/do-you-know-whats-good-you---unravelling-genetic-secrets)로 돌아가기
 
 [당신에게 좋은 것이 무엇인지 아십니까 패키지](https://plus.maths.org/content/do-you-know-whats-good-you-0)로 돌아가기
 

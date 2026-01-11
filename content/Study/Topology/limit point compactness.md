@@ -8,13 +8,13 @@ A space $X$ is said to be **limit point compact** if every inﬁnite subset of $
 
 ### Fréchet
 
-Maurice René Fréchet (1878–1973)는 프랑스의 수학자이며, 현대 위상수학과 함수해석학의 창시자 중 한 명입니다.
+Maurice René Fréchet (1878-1973)는 프랑스의 수학자이며, 현대 위상수학과 함수해석학의 창시자 중 한 명입니다.
 
 * “프레셰 공간(Fréchet space)”이라는 용어에서도 그의 이름을 본 적 있을 수 있습니다.
 * 그는 추상 위상 공간 개념을 정립했고, 함수의 수렴이나 극한 개념을 집합 위에서 일반화하려고 시도했습니다.
 * 그의 연구는 위상수학의 “초기 형식화”에 큰 영향을 주었습니다.
 
-### Bolzano–Weierstrass Property
+### Bolzano-Weierstrass Property
 
 > 유계이고 무한한 실수열은 수렴하는 부분수열을 갖는다.
 

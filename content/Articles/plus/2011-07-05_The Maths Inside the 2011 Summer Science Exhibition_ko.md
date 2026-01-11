@@ -22,7 +22,7 @@ date: 2011-07-05
 
 *이미지 출처: http://www.beautycheck.de/*
 
-[얼굴 대 얼굴(Face to face)](https://plus.maths.org/content/face-face) — 수학이 어떻게 당신의 성별을 바꿀 수 있을까?
+[얼굴 대 얼굴(Face to face)](https://plus.maths.org/content/face-face) - 수학이 어떻게 당신의 성별을 바꿀 수 있을까?
 
 거울을 들여다보았을 때 자신의 모습이 아니라 반대 성별로 변환된 자신의 얼굴을 본다면 어떤 기분이 들까요? [Queen Mary, University of London](http://www.qmul.ac.uk/)과 [University College London](http://www.ucl.ac.uk/)의 Peter McOwan과 그의 동료들은 수학적 마법을 사용하여 여러분 자신의 얼굴을 성별이 바뀐 이미지로 변환하는 기술을 개발하고 있습니다.
 
@@ -32,7 +32,7 @@ date: 2011-07-05
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/mathsinside2011/front2final-lowres_small.jpg)
 
-[삼각형이 폭탄을 찾는 데 도움이 될까](https://plus.maths.org/content/maths-inside-guns-knives) — 삼각형이 공항 보안 요원을 돕는 방법
+[삼각형이 폭탄을 찾는 데 도움이 될까](https://plus.maths.org/content/maths-inside-guns-knives) - 삼각형이 공항 보안 요원을 돕는 방법
 
 공항 보안 요원들은 막중한 임무를 안고 있습니다. 조바심 내며 기다리는 긴 줄의 승객들 앞에서, 그들은 잡다한 물건들로 가득 찬 가방의 X선 스캔 이미지를 보며 칼, 총, 폭탄 등 여러 위험 물품을 동시에 찾아내야 합니다. 어떻게 하면 이들의 작업을 쉽게 만들고 중요한 물품을 놓치지 않도록 보장할 수 있을까요? 이를 알아내기 위해 과학자들은 인간이 시각 정보를 어떻게 처리하는지를 이해하려 노력하고 있습니다. 그리고 그들이 수행하는 실험에서 소박한 삼각형이 결정적인 역할을 합니다.
 

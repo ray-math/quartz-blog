@@ -12,7 +12,7 @@ date: 2019-04-16
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2019/snooker/snooker.png)
 
-스누커에 걸린 상황... (사진: [Florian Albrecht](https://nl.wikipedia.org/wiki/Snooker_(spelsituatie)#/media/File:Snookered_on_two_reds.jpg) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))
+스누커에 걸린 상황... (사진: [Florian Albrecht](https://nl.wikipedia.org/wiki/Snooker_(spelsituatie)#/media/File:Snookered_on_two_reds.jpg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))
 
 *거듭제곱 법칙(power law)*이라고 알려진 특정한 수학적 관계는 일상의 많은 상황에서 관찰됩니다. 자연어에서 단어가 사용되는 빈도부터 페이스북 친구 관계 네트워크의 연결성 분포까지 말이죠. 하지만 놀랍게도 이러한 거듭제곱 법칙은 스누커 통계에서도 발견될 수 있습니다. 그리고 만약 놀라운 [Ronnie O'Sullivan](https://en.wikipedia.org/wiki/Ronnie_O%27Sullivan)이 같은 속도로 센추리를 계속 생산한다면, 수학적 대응은 더욱 정확해질 것입니다!
 

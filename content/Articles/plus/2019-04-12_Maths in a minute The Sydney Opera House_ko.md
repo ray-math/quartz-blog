@@ -70,7 +70,7 @@ date: 2019-04-12
 
 이 글은 *Plus* 편집자 [Rachel Thomas](https://plus.maths.org/content/people/index.html#rachel)와 [Marianne Freiberger](https://plus.maths.org/content/people/index.html#marianne)의 신간 *Understanding numbers*의 한 장을 기반으로 한다.
 
-*이 콘텐츠는 현재 Isaac Newton Institute for Mathematical Sciences(INI)와의 협력의 일부를 형성한다 — 우리의 협력에서 나온 모든 콘텐츠를 여기에서 찾을 수 있다.
+*이 콘텐츠는 현재 Isaac Newton Institute for Mathematical Sciences(INI)와의 협력의 일부를 형성한다 - 우리의 협력에서 나온 모든 콘텐츠를 여기에서 찾을 수 있다.
 INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃이다. 전 세계의 저명한 수학 과학자들을 유치하며, 모두에게 열려 있다. 더 자세한 내용은 www.newton.ac.uk를 방문하라.*
 
 ![INI 로고](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/representation/ini_logo_green.jpg)
@@ -79,4 +79,4 @@ INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 
 
 ## Andrew Irving
 
-정말 좋았습니다 — 너무나 영리한 해법이네요!
+정말 좋았습니다 - 너무나 영리한 해법이네요!

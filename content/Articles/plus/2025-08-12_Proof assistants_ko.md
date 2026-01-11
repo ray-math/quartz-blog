@@ -12,7 +12,7 @@ date: 2025-08-12
 
 ### 증명이란 무엇인가?
 
-*수학은 종이 위의 의미 없는 기호들을 가지고 특정한 단순 규칙에 따라 진행하는 게임이다* – [다비트 힐베르트(David Hilbert)](https://plus.maths.org/content/we-must-know-we-will-know), 다소 냉소적인 어조로.
+*수학은 종이 위의 의미 없는 기호들을 가지고 특정한 단순 규칙에 따라 진행하는 게임이다* - [다비트 힐베르트(David Hilbert)](https://plus.maths.org/content/we-must-know-we-will-know), 다소 냉소적인 어조로.
 
 수학은 과학과 다르다. 두 분야 사이에 깊은 상호작용이 있고 (어떤 이들은 수학을 과학의 언어로 본다), 그럼에도 이들은 완전히 다른 게임이다. 과학은 본질적으로 관찰과 경험주의의 게임이다. 과학에서 어떤 것이 사실이라는 것은 그것이 우리가 관찰하는 세계와 우주에 명백히 드러날 때만 성립한다. 반면 수학은 [공리(axioms)](https://plus.maths.org/content/origins-proof)의 게임이다.
 
@@ -70,7 +70,7 @@ date: 2025-08-12
 
 ![](https://plus.maths.org/sites/default/files/styles/large/public/2025-07/IMG_0718.jpeg?itok=6baDuN2n)
 
-*이 콘텐츠는 **아이작 뉴턴 수학과학연구소(Isaac Newton Institute, INI)**와의 협력의 일환입니다 – 협력의 모든 콘텐츠는 **여기**에서 찾을 수 있습니다.*
+*이 콘텐츠는 **아이작 뉴턴 수학과학연구소(Isaac Newton Institute, INI)**와의 협력의 일환입니다 - 협력의 모든 콘텐츠는 **여기**에서 찾을 수 있습니다.*
 
 *INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스의 우리 이웃입니다. 전 세계의 선도적인 수학 과학자들을 끌어들이며, 모두에게 개방되어 있습니다. **www.newton.ac.uk**를 방문하여 더 알아보세요.*
 

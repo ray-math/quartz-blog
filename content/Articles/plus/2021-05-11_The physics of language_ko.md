@@ -43,7 +43,7 @@ date: 2021-05-11
 
 ![Babies](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2015/population/babydog.jpg)
 
-"개"와 "아기" – 그들은 다른 것을 의미한다.
+"개"와 "아기" - 그들은 다른 것을 의미한다.
 
 매우 간단한 예를 생각해보자. 맥락 단어가 "애완동물"과 "먹이"라는 두 개만 있다고 가정하자. 그러면 "개"와 "고양이"라는 단어는 이 맥락 단어들과 자주 나타날 것이고, "개"와 "고양이"에 대해 얻는 벡터는 유사할 것이다.
 

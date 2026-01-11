@@ -42,7 +42,7 @@ Randal-Williams는 [위상수학](https://plus.maths.org/content/maths-minute-to
 
 ![The annular solar eclipse of 26 December 2019, as seen from Jaffna, Sri Lanka. Photo by Rehman Abubakr](https://plus.maths.org/content/sites/plus.maths.org/files/SolarEclipse_crop.png)
 
-태양을 직접 볼 수 없듯이! 연속 대칭성도 직접 생각할 수 없습니다! (2019년 금환일식 사진, [Rehman Abubakr](https://plus.maths.org/content/sites/plus.maths.org/files/2024-04/SolarEclipse_crop_1.png) 촬영 – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
+태양을 직접 볼 수 없듯이! 연속 대칭성도 직접 생각할 수 없습니다! (2019년 금환일식 사진, [Rehman Abubakr](https://plus.maths.org/content/sites/plus.maths.org/files/2024-04/SolarEclipse_crop_1.png) 촬영 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
 
 > 연속 대칭성과 매끄러운 대칭성의 차이를 이해하는 것이 이 연구의 핵심입니다. 수학적으로, **매끄러운 변환(diffeomorphism)**은 그 자체뿐만 아니라 모든 계수의 미분(도함수)도 연속인 변환입니다. 반면 **연속 변환(homeomorphism)**은 단지 연속이기만 하면 됩니다. 유명한 예로 **바이어슈트라스 함수(Weierstrass function)**가 있습니다. 이것은 모든 점에서 연속이지만 어디에서도 미분불가능한 함수입니다. 그래프가 모든 스케일에서 들쭉날쭉합니다. 이런 "병적인" 함수들도 연속 변환에 포함될 수 있습니다. 더 놀라운 것은, $\mathbb{R}^{n}$ ($n \geq 5$)에는 매끄러운 구조로 환원되지 않는 연속 대칭성들이 실제로 존재한다는 것입니다. 이것이 1970년대에 발견되었을 때 수학계에 큰 충격을 주었습니다. Randal-Williams가 이제야 이 문제에 답하려는 이유입니다.
 

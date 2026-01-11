@@ -6,7 +6,7 @@ date: 2013-11-29
 > [!NOTE]
 > https://plus.maths.org/content/struggling-chance
 >
-> 복권 당첨 확률 1400만 분의 1, 암 발병 위험 5%, 동전 던지기 50대 50 — 우리는 매일 확률을 접하지만, 이 숫자들이 정말 의미가 있을까? 확률의 철학을 탐구하고, 물리학의 확률과 일상의 확률이 어떻게 다른지 묻는다.
+> 복권 당첨 확률 1400만 분의 1, 암 발병 위험 5%, 동전 던지기 50대 50 - 우리는 매일 확률을 접하지만, 이 숫자들이 정말 의미가 있을까? 확률의 철학을 탐구하고, 물리학의 확률과 일상의 확률이 어떻게 다른지 묻는다.
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/abstractpics/5/28_nov_2013_-_1028/chance_icon.jpg?itok=_nnmRbRA)
 

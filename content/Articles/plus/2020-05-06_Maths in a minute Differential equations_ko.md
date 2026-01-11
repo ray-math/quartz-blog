@@ -6,7 +6,7 @@ date: 2020-05-06
 > [!NOTE]
 > https://plus.maths.org/content/maths-minute-differential-equations
 >
-> 변화는 우리 삶의 유일한 상수이다 — 그렇기에 미분방정식이 이토록 유용한 것이다.
+> 변화는 우리 삶의 유일한 상수이다 - 그렇기에 미분방정식이 이토록 유용한 것이다.
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/ferrari_frontpage.jpg?h=1c7b55f3&itok=kqtRlbCD)
 
@@ -32,7 +32,7 @@ date: 2020-05-06
 
 수학과 과학의 모든 분야에서 미분방정식이 쓰이는 경우는 셀 수 없이 많다. 광범위한 예시들을 보려면, [Plus 잡지의 이 기사 모음](https://plus.maths.org/content/teacher-package-differential-equations)을 참고하라. 미분방정식에 대한 더 형식적인 정의를 보려면, [위키피디아](https://en.wikipedia.org/wiki/Differential_equation)를 살펴보라.
 
-> 미분방정식 이론은 수학에서 가장 활발한 연구 분야 중 하나다. 기본적인 질문들—주어진 미분방정식이 해를 가지는가? 해가 유일한가? 해가 초기조건에 연속적으로 의존하는가?—조차도 일반적인 경우에는 답하기 어렵다. 20세기 수학의 위대한 성과 중 하나는 이러한 질문들에 대한 부분적 답을 제공한 존재성과 유일성 정리(existence and uniqueness theorems)들이다. 현대적 접근은 함수해석학(functional analysis), 위상수학(topology), 기하학(geometry) 등 순수수학의 다양한 도구들을 동원한다. 한편, 카오스 이론(chaos theory)의 발견은 간단해 보이는 비선형 미분방정식도 극도로 복잡한 행동을 보일 수 있음을 밝혔다. 이처럼 미분방정식은 응용수학의 도구일 뿐만 아니라, 그 자체로 깊이 있는 수학 이론의 대상이기도 하다.
+> 미분방정식 이론은 수학에서 가장 활발한 연구 분야 중 하나다. 기본적인 질문들-주어진 미분방정식이 해를 가지는가? 해가 유일한가? 해가 초기조건에 연속적으로 의존하는가?-조차도 일반적인 경우에는 답하기 어렵다. 20세기 수학의 위대한 성과 중 하나는 이러한 질문들에 대한 부분적 답을 제공한 존재성과 유일성 정리(existence and uniqueness theorems)들이다. 현대적 접근은 함수해석학(functional analysis), 위상수학(topology), 기하학(geometry) 등 순수수학의 다양한 도구들을 동원한다. 한편, 카오스 이론(chaos theory)의 발견은 간단해 보이는 비선형 미분방정식도 극도로 복잡한 행동을 보일 수 있음을 밝혔다. 이처럼 미분방정식은 응용수학의 도구일 뿐만 아니라, 그 자체로 깊이 있는 수학 이론의 대상이기도 하다.
 
 *이 글은 현재 **아이작 뉴턴 수리과학연구소(Isaac Newton Institute for Mathematical Sciences, INI)**와의 협력 프로젝트의 일부다. 우리 협력의 모든 콘텐츠는 **여기**에서 찾을 수 있다. INI는 국제적인 연구센터이자 케임브리지 대학교 수학 캠퍼스에서 우리의 이웃이다. 이 연구소는 전 세계의 저명한 수학자들을 끌어들이며, 모두에게 개방되어 있다. 더 자세한 정보는 **www.newton.ac.uk**를 방문하라.*
 

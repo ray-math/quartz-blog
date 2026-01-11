@@ -106,9 +106,9 @@ Chris Budd OBE는 University of Bath의 응용수학 교수이며, [수학 및 �
 
 그는 C. Sangwin과 함께 Oxford University Press에서 출판된 대중 수학 책 *Mathematics Galore!*를 공동 집필했으며, *[50 Visions of Mathematics](https://global.oup.com/academic/product/50-visions-of-mathematics-9780198701811?cc=gb&lang=en&)* (ed. Sam Parc) 책에도 등장합니다.
 
-*이것은 이 시리즈의 세 편의 글 중 첫 번째입니다 – part ii와 part iii에서 더 읽을 수 있습니다.*
+*이것은 이 시리즈의 세 편의 글 중 첫 번째입니다 - part ii와 part iii에서 더 읽을 수 있습니다.*
 
-*이 콘텐츠는 현재 Isaac Newton Institute for Mathematical Sciences (INI)와의 협력의 일부를 이루고 있습니다 – 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
+*이 콘텐츠는 현재 Isaac Newton Institute for Mathematical Sciences (INI)와의 협력의 일부를 이루고 있습니다 - 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 
 *INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 저명한 수학자들을 끌어들이며, 모두에게 열려 있습니다. 더 알아보려면 www.newton.ac.uk를 방문하세요.*
 

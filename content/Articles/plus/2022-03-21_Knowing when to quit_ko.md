@@ -22,7 +22,7 @@ date: 2022-03-21
 
 ![ladybird](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/mvt/ladybird_aphids_web.jpg)
 
-무당벌레는 다음 먹이를 찾기 위해 멀리 갈 필요가 없다 (이미지: [Greyson Orlando](https://en.m.wikipedia.org/wiki/File:Ladybug_aphids.JPG) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+무당벌레는 다음 먹이를 찾기 위해 멀리 갈 필요가 없다 (이미지: [Greyson Orlando](https://en.m.wikipedia.org/wiki/File:Ladybug_aphids.JPG) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 ### 사냥하는 무당벌레
 
@@ -111,7 +111,7 @@ date: 2022-03-21
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/mvt/Great_tit_web.jpg)
 
-(이미지: [resembler](https://de.m.wikipedia.org/wiki/Datei:Great_tit_in_front_of_its_breeding_cavity.jpg) – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de))
+(이미지: [resembler](https://de.m.wikipedia.org/wiki/Datei:Great_tit_in_front_of_its_breeding_cavity.jpg) - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de))
 
 애벌레가 풍부한 덤불을 찾는 데 시간을 보낸 박새(great tit)를 생각해보자. 덤불을 찾으면, 박새는 처음에는 분당 많은 수의 애벌레를 먹지만, 조금 후에는 사용 가능한 애벌레의 수가 감소하므로 분당 먹는 애벌레의 수가 줄어든다. 이러한 체감 보상을 고려할 때, 박새는 언제 이 덤불을 포기하고 다른 애벌레 덤불을 찾아야 할까?
 

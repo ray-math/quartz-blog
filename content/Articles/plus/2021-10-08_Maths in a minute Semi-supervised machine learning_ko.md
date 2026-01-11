@@ -28,7 +28,7 @@ date: 2021-10-08
 
 ![MNIST 데이터베이스의 손으로 그린 숫자 예시](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/integral/mnistexamples.png)
 
-MNIST 훈련 데이터셋의 손글씨 숫자 샘플 이미지들 (이미지 출처: [Josef Steppan](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png) – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))
+MNIST 훈련 데이터셋의 손글씨 숫자 샘플 이미지들 (이미지 출처: [Josef Steppan](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png) - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))
 
 [MNIST 데이터셋](http://yann.lecun.com/exdb/mnist/)과 같은 손글씨 숫자의 방대한 이미지 집합에서 시작하여, 학습 알고리즘은 어떤 이미지들이 같은 숫자를 나타내는지 식별하고 "0", "1", ..., "9"의 출력을 반환하려고 시도합니다. 그런 다음 [평균 제곱 오차(mean square error)](https://en.wikipedia.org/wiki/Mean_squared_error)와 같은 방법을 사용하여 자신의 출력을 훈련 데이터셋의 정답 레이블과 비교합니다. 그 후 [경사 하강 알고리즘(gradient descent algorithm)](https://plus.maths.org/content/maths-minute-gradient-descent-algorithms)과 같은 방법을 사용하여 전체 훈련 데이터셋에 대한 이 오차를 최소화하도록 네트워크를 훈련시킵니다. (이 접근법에 대한 더 자세한 내용은 [기계 학습이란 무엇인가?](https://plus.maths.org/content/what-machine-learning)를 읽어보세요.)
 

@@ -56,6 +56,6 @@ Aragón과 그의 팀이 반 고흐의 휘몰아치는 하늘과 풍경을 이 �
 
 수학과 예술에 관한 더 많은 *Plus* 기사는 우리의 [아카이브](https://plus.maths.org/content/taxonomy/term/338)에서 찾을 수 있다.
 
-*이 콘텐츠는 이제 Isaac Newton Institute for Mathematical Sciences(INI)와의 협업의 일부를 구성한다 – 우리 협업의 모든 콘텐츠는 여기에서 찾을 수 있다. INI는 국제 연구 센터이며 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃이다. 전 세계의 저명한 수학 과학자들을 유치하며 모두에게 개방되어 있다. 자세한 내용은 www.newton.ac.uk를 방문하라.*
+*이 콘텐츠는 이제 Isaac Newton Institute for Mathematical Sciences(INI)와의 협업의 일부를 구성한다 - 우리 협업의 모든 콘텐츠는 여기에서 찾을 수 있다. INI는 국제 연구 센터이며 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃이다. 전 세계의 저명한 수학 과학자들을 유치하며 모두에게 개방되어 있다. 자세한 내용은 www.newton.ac.uk를 방문하라.*
 
 ![INI logo](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/representation/ini_logo_green.jpg)

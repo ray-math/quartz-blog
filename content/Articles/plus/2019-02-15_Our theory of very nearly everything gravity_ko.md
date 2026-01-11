@@ -66,7 +66,7 @@ $$
 
 ![결승선](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2019/garding/finishstart_web.jpeg)
 
-(이미지: [Andrew Hurley](https://www.flickr.com/photos/andrewhurley/6254407253) – [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))
+(이미지: [Andrew Hurley](https://www.flickr.com/photos/andrewhurley/6254407253) - [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))
 
 여러분은 우리의 현재 지식의 경계에 도달했다. 우리는 쿼크보다 더 작은 것이나 양자장보다 더 근본적인 것을 발견하지 못했다. 표준 모형은 몇 가지 실험을 제외한 모든 것을 완벽하게 기술한다. 그러나 물리학자들은 "거의 모든 것"의 이론에 결코 만족하지 않는다.
 

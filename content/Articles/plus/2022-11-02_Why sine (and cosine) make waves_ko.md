@@ -24,7 +24,7 @@ $$
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/HYD2/1280px-Trigono_sine_en2.png)
 
-각 α에 대해, 사인은 대변의 길이와 빗변의 길이의 비를 나타냅니다. 코사인은 인접변의 길이와 빗변의 길이의 비를 나타냅니다. (이미지 출처: [Dnu72](https://en.wikipedia.org/wiki/Sine_and_cosine#/media/File:Trigono_sine_en2.svg) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))
+각 α에 대해, 사인은 대변의 길이와 빗변의 길이의 비를 나타냅니다. 코사인은 인접변의 길이와 빗변의 길이의 비를 나타냅니다. (이미지 출처: [Dnu72](https://en.wikipedia.org/wiki/Sine_and_cosine#/media/File:Trigono_sine_en2.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))
 
 > 사인과 코사인은 라틴어에서 유래한 용어입니다. '사인(sine)'은 아랍어 'jiba'(만 또는 주머니를 뜻함)를 번역하는 과정에서 라틴어 'sinus'(만곡, 굽은 부분)로 오역된 것이 어원이며, '코사인(cosine)'은 'complementi sinus'(여각의 사인)의 줄임말입니다. 이 함수들이 비율로 정의되는 이유는, 닮은 삼각형의 대응변의 비는 항상 같다는 유클리드 기하학의 기본 성질 때문입니다. 즉, 각도가 같으면 삼각형의 크기와 무관하게 변들의 비는 일정하므로, 각도 자체의 고유한 성질로서 사인과 코사인을 정의할 수 있습니다.
 

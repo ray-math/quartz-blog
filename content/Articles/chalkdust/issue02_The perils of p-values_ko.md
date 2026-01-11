@@ -96,7 +96,7 @@ $p$-값은 그것이 주장하는 바를 정확히 수행합니다. 만약 그�
 
 ![DiagramPvaluejpeg](https://i0.wp.com/chalkdustmagazine.com/wp-content/uploads/2015/10/DiagramPvaluejpeg-1024x463.jpg?resize=654%2C296)
 
-다시 우리는 답을 얻기 위해 세 가지가 필요합니다. 처음 두 가지는 쉽습니다. 효과가 없을 때 위양성을 얻을 확률은 단순히 유의수준(significance level)이며, 우리가 본 바와 같이 일반적으로 0.05로 설정됩니다. 이것은 선별 검사 예제에서 (1 – 특이도)와 같은 것입니다. 검정력(power)은 실제로 효과가 있을 때 그것을 감지할 확률입니다. 이것은 선별 검사의 민감도와 같은 것입니다. 이것은 변동성과 효과의 크기에 의존합니다. 표본 크기는 관습적으로 0.8의 검정력을 주도록 선택됩니다(그림 2에서와 같이). 하지만 표본 크기가 너무 작은 것이 매우 흔하므로, 많은 발표된 검정의 검정력은 실제로 0.2–0.5 범위에 있습니다.
+다시 우리는 답을 얻기 위해 세 가지가 필요합니다. 처음 두 가지는 쉽습니다. 효과가 없을 때 위양성을 얻을 확률은 단순히 유의수준(significance level)이며, 우리가 본 바와 같이 일반적으로 0.05로 설정됩니다. 이것은 선별 검사 예제에서 (1 - 특이도)와 같은 것입니다. 검정력(power)은 실제로 효과가 있을 때 그것을 감지할 확률입니다. 이것은 선별 검사의 민감도와 같은 것입니다. 이것은 변동성과 효과의 크기에 의존합니다. 표본 크기는 관습적으로 0.8의 검정력을 주도록 선택됩니다(그림 2에서와 같이). 하지만 표본 크기가 너무 작은 것이 매우 흔하므로, 많은 발표된 검정의 검정력은 실제로 0.2-0.5 범위에 있습니다.
 
 > 검정력(statistical power)은 효과가 실제로 존재할 때 그것을 통계적으로 유의하게 감지할 확률입니다. 수학적으로는 $1 - \beta$로 표현되며, 여기서 $\beta$는 Type II 오류(효과가 있는데 없다고 결론 내리는 오류)의 확률입니다. 검정력은 네 가지 요소에 의존합니다: (1) 유의수준 $\alpha$ (보통 0.05), (2) 표본 크기 $n$, (3) 효과 크기(effect size), (4) 변동성. 관습적으로 80% 검정력이 권장되지만, 실제 많은 연구들은 이보다 훨씬 낮은 검정력을 가집니다. Button et al. (2013)의 신경과학 연구에 대한 메타분석은 평균 검정력이 21%에 불과하다는 것을 발견했습니다. 낮은 검정력은 두 가지 문제를 야기합니다: (1) 실제 효과를 놓칠 가능성이 높고(위음성), (2) 역설적이게도, 유의한 결과를 얻었을 때 그것이 위양성일 가능성도 높아집니다(저자가 보여주려는 핵심 논점).
 
@@ -149,14 +149,14 @@ $p$-값은 그것이 주장하는 바를 정확히 수행합니다. 만약 그�
 
 [Colquhoun D (2014). 거짓 발견률과 p-값의 오해에 대한 조사(An investigation of the false discovery rate and the misinterpretation of p-values).](http://arxiv.org/abs/1407.5296) *R Soc Open Sci* **1**, 140216
 
-[Cushny AR & Peebles AR (1905). 광학 이성질체의 작용: II. 히오신(The action of optical isomers: II. Hyoscines).](http://drsmorey.org/bibtex/upload/Cushney:Peebles:1905.pdf) *J Physiol* **32**, 501–510
+[Cushny AR & Peebles AR (1905). 광학 이성질체의 작용: II. 히오신(The action of optical isomers: II. Hyoscines).](http://drsmorey.org/bibtex/upload/Cushney:Peebles:1905.pdf) *J Physiol* **32**, 501-510
 
-[Ioannidis J (2005). 왜 대부분의 발표된 연구 결과가 거짓인가(Why most published research findings are false).](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/pdf/pmed.0020124.pdf) *PLoS Med* **2**, 696–701
+[Ioannidis J (2005). 왜 대부분의 발표된 연구 결과가 거짓인가(Why most published research findings are false).](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/pdf/pmed.0020124.pdf) *PLoS Med* **2**, 696-701
 
-[Sellke et al. (2001). 정확한 귀무가설 검정을 위한 p-값의 보정(Calibration of p-values for testing precise null hypotheses).](http://www.dcscience.net/Sellke-Bayarri-Berger-calibration-of-P-2001.pdf) *The American Statistician* **55**, 52–71
+[Sellke et al. (2001). 정확한 귀무가설 검정을 위한 p-값의 보정(Calibration of p-values for testing precise null hypotheses).](http://www.dcscience.net/Sellke-Bayarri-Berger-calibration-of-P-2001.pdf) *The American Statistician* **55**, 52-71
 
-[Senn S & Richardson W (1994). 첫 번째 t-검정(The first t-test).](http://onlinelibrary.wiley.com/doi/10.1002/sim.4780130802/abstract) (£) *Stat Med* **13**, 785–803
+[Senn S & Richardson W (1994). 첫 번째 t-검정(The first t-test).](http://onlinelibrary.wiley.com/doi/10.1002/sim.4780130802/abstract) (£) *Stat Med* **13**, 785-803
 
-[Student (1908). 평균의 예상 오차에 관하여(On the probable error of a mean).](http://www.york.ac.uk/depts/maths/histstat/student.pdf) *Biometrika* **6**, 1–25
+[Student (1908). 평균의 예상 오차에 관하여(On the probable error of a mean).](http://www.york.ac.uk/depts/maths/histstat/student.pdf) *Biometrika* **6**, 1-25
 
 > 이 참고문헌 목록은 통계적 추론의 역사와 현재 논쟁을 이해하는 데 중요한 문헌들을 포함합니다. Student(1908)의 원본 논문은 소표본 통계학의 시작을 알렸고, Cushny & Peebles(1905)의 수면제 데이터는 통계학 교육에서 고전이 되었습니다. Ioannidis(2005)는 현대 과학에서 재현성 위기를 부각시켰고, Sellke et al.(2001)은 p-값이 제공하는 증거의 강도를 정량화하는 베이지안 관점을 제공했습니다. Colquhoun(2014)의 자신의 논문은 이 글을 더 기술적으로 확장한 것입니다. 관심 있는 독자라면 이 논문들을 읽으며 통계적 추론의 기초부터 현대적 논쟁까지 깊이 있게 탐구할 수 있습니다.

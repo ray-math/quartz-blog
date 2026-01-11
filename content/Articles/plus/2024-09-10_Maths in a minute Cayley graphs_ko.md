@@ -6,7 +6,7 @@ date: 2024-09-10
 > [!NOTE]
 > https://plus.maths.org/content/maths-minute-cayley-graphs
 >
-> 루빅스 큐브를 풀려고 고민 중인가요? 케일리 그래프는 이를 위한 로드맵을 제공합니다 — 그리고 다른 모든 수학적 군(group)을 다루는 데도 똑같이 유용합니다!
+> 루빅스 큐브를 풀려고 고민 중인가요? 케일리 그래프는 이를 위한 로드맵을 제공합니다 - 그리고 다른 모든 수학적 군(group)을 다루는 데도 똑같이 유용합니다!
 
 ![거리 표지판](https://plus.maths.org/content/sites/default/files/styles/small_square/public/2024-08/Street%20signs%20stock_0.jpg?h=5d923897&itok=KrYVSEUA)
 
@@ -52,4 +52,4 @@ date: 2024-09-10
 
 ![](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2014/LMSarticles/tile7.png)
 
-[Groups, geometry, and Gromov](https://plus.maths.org/content/groups-geometry-gromov) — 기하적 군론의 현대적 분야를 시작한 증명에 대해 알아보세요.
+[Groups, geometry, and Gromov](https://plus.maths.org/content/groups-geometry-gromov) - 기하적 군론의 현대적 분야를 시작한 증명에 대해 알아보세요.

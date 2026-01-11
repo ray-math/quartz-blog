@@ -10,7 +10,7 @@ date: 2016-12-22
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/spiral_frontpage.jpg?itok=km7SFQm_)
 
-나선(spiral)은 자연에서 흔히 볼 수 있다. 우리는 조개껍데기에서 나타나는 아름다운 나선을 감탄하며 바라보고, 식물에서도 나선을 발견하며, 심지어 은하의 팔이나 기상 패턴에서도 나선을 찾을 수 있다. 또한 나선이 느린 성장의 결과가 아니라 생물학적 또는 화학적 시스템에서 자발적으로 발생하는 상황도 있다. 화학에서 유명한 예는 [벨루소프-자보틴스키(Belousov-Zhabotinsky, BZ) 반응](https://en.wikipedia.org/wiki/Belousov–Zhabotinsky_reaction#History)이다: 여러 화학물질을 페트리 접시에 섞으면, 결과로 생성된 용액이 변화하는 나선 패턴을 형성한다. 다음 동영상에서 이를 확인할 수 있다:
+나선(spiral)은 자연에서 흔히 볼 수 있다. 우리는 조개껍데기에서 나타나는 아름다운 나선을 감탄하며 바라보고, 식물에서도 나선을 발견하며, 심지어 은하의 팔이나 기상 패턴에서도 나선을 찾을 수 있다. 또한 나선이 느린 성장의 결과가 아니라 생물학적 또는 화학적 시스템에서 자발적으로 발생하는 상황도 있다. 화학에서 유명한 예는 [벨루소프-자보틴스키(Belousov-Zhabotinsky, BZ) 반응](https://en.wikipedia.org/wiki/Belousov-Zhabotinsky_reaction#History)이다: 여러 화학물질을 페트리 접시에 섞으면, 결과로 생성된 용액이 변화하는 나선 패턴을 형성한다. 다음 동영상에서 이를 확인할 수 있다:
 
 > BZ 반응은 1950년대 소련의 생화학자 보리스 벨루소프(Boris Belousov)가 우연히 발견한 진동 화학 반응(oscillating chemical reaction)이다. 그는 구연산 순환(Krebs cycle)을 시험관 내에서 재현하려다 용액의 색깔이 주기적으로 변하는 현상을 관찰했다. 이 발견은 당시 화학 평형 이론에 도전하는 것이었기에 처음에는 학계에서 받아들여지지 않았다. 1960년대 아나톨리 자보틴스키(Anatol Zhabotinsky)가 이 반응을 개선하고 체계적으로 연구하면서 비로소 인정받게 되었다. 이 반응은 비평형 열역학(non-equilibrium thermodynamics)과 자기조직화(self-organization) 현상을 연구하는 중요한 모델 시스템이 되었다. 페트리 접시에서 관찰되는 나선 패턴은 반응-확산 시스템(reaction-diffusion system)의 전형적인 예로, 국소적 화학 반응과 확산만으로 거시적 패턴이 출현할 수 있음을 보여준다.
 
@@ -165,7 +165,7 @@ Wim Hordijk는 현재 오스트리아 클로스터노이부르크의 콘라트 �
 
 https://www.shadertoy.com/view/XtcGD2
 
-(또는 shadertoy Belousov–Zhabotinsky reaction으로 구글 검색),
+(또는 shadertoy Belousov-Zhabotinsky reaction으로 구글 검색),
 
 GPU에서 시뮬레이션됩니다.
 

@@ -10,7 +10,7 @@ date: 2015-06-26
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/front_icon_5.jpg?itok=GA-6Je7R)
 
-때로는 매우 구체적인 대상—머릿속으로 그려낼 수 있는 것—을 기술하는 수학을 연구하다가, 전혀 상상하지 못했던 수학을 우연히 발견하게 됩니다.
+때로는 매우 구체적인 대상-머릿속으로 그려낼 수 있는 것-을 기술하는 수학을 연구하다가, 전혀 상상하지 못했던 수학을 우연히 발견하게 됩니다.
 
 서기 1세기로 돌아가 보겠습니다. 그리스 수학자 [헤론(Heron)](http://www-history.mcs.st-and.ac.uk/Biographies/Heron.html)이 **각뿔대(frustum)**를 연구하고 있었습니다. 각뿔대란 정사각형 밑면을 가진 각뿔의 꼭대기를 잘라낸 입체도형입니다. 정사각형 밑면의 한 변의 길이가 $a$이고, 정사각형 윗면의 한 변의 길이가 $b$이며, 위에서 아래로 이어지는 비스듬한 모서리의 길이가 $c$일 때, 이 각뿔대의 높이는 얼마일까요?
 

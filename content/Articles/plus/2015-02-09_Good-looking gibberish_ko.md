@@ -32,13 +32,13 @@ OCRO HLI RGWR NMIELWIS EU LL NBNESEBYA TH EEI ALHENHTTPA OOBTTVA NAH BRL.
 
 > 이 단계에서는 1차 통계(first-order statistics), 즉 각 문자의 주변 확률(marginal probability)만을 고려한다. 영어에서 가장 흔한 문자는 E, T, A, O, I, N 순서이며, 가장 드문 문자는 Z, Q, X 등이다. 이러한 빈도를 반영하면 무작위 문자열보다는 훨씬 영어답게 보인다. 예를 들어 위 문자열에서 TH라는 조합이 나타나는 것을 볼 수 있다. 하지만 여전히 문자들 간의 의존성을 고려하지 않기 때문에 실제 단어는 거의 형성되지 않는다.
 
-더 나은 결과를 얻으려면, 어떤 기호가 나타날 확률을 이전 문자에 의존하도록 만들 수 있다. 이것은 특정 두 문자 조합—예를 들어 TH—이 다른 조합—예를 들어 BD—보다 훨씬 더 흔하다는 사실을 반영한다. 이 접근법을 사용하여 섀넌은 다음 문자열을 생성했다:
+더 나은 결과를 얻으려면, 어떤 기호가 나타날 확률을 이전 문자에 의존하도록 만들 수 있다. 이것은 특정 두 문자 조합-예를 들어 TH-이 다른 조합-예를 들어 BD-보다 훨씬 더 흔하다는 사실을 반영한다. 이 접근법을 사용하여 섀넌은 다음 문자열을 생성했다:
 
 ON IE ANTSOUTINYS ARE T INCTORE ST BE S DEAMY ACHIN D ILONASIVE TUCOOWE AT TEASONARE FUSO TIZIN ANDY TOBE SEACE CTISBE.
 
 > 여기서는 마르코프 체인(Markov chain)의 개념이 등장한다. 구체적으로 1차 마르코프 모델(first-order Markov model)이라고 부르는데, 현재 상태(문자)가 바로 이전 상태에만 의존한다는 가정이다. 수학적으로 표현하면 $P(x_{n} | x_{1}, x_{2}, \ldots, x_{n-1}) = P(x_{n} | x_{n-1})$이다. 영어에서 Q 다음에는 거의 항상 U가 오고, TH는 흔하지만 TQ는 거의 나타나지 않는다. 이러한 2차 통계(second-order statistics) 또는 바이그램(bigram) 정보를 활용하면 DEAMY, TOBE 같은 실제 단어들이 우연히 생성되기 시작한다.
 
-유사하게, 다양한 기호들을 치는 확률을 이전 문자 하나가 아니라 이전 $두$ 문자에 의존하도록 만들 수 있다:
+유사하게, 다양한 기호들을 치는 확률을 이전 문자 하나가 아니라 이전 두 문자에 의존하도록 만들 수 있다:
 
 IN NO IST LAT WHEY CRATICT FROURE BIRS GROCID PONDENOME OF DEMONSTURES OF THE REPTAGIN IS REGOACTIONA OF CRE.
 
@@ -64,7 +64,7 @@ THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH WRITER THAT THE CHARACTER OF THIS P
 
 > 섀넌의 1948년 논문은 20세기 가장 영향력 있는 과학 논문 중 하나로 꼽힌다. 이 논문에서 섀넌은 정보(information)를 수학적으로 정의하고 측정 가능한 양으로 만들었다. 핵심 개념은 정보 엔트로피(information entropy) $H = -\sum_{i} p_{i} \log_{2} p_{i}$로, 이것은 메시지의 불확실성 또는 놀라움의 정도를 측정한다. 균등분포일 때 엔트로피가 최대이고, 확률이 특정 값에 집중될수록 엔트로피가 감소한다. 섀넌은 또한 채널 용량(channel capacity) 개념을 도입하여 노이즈가 있는 통신 채널에서도 오류 없이 전송할 수 있는 최대 정보량을 계산하는 방법을 제시했다. 이러한 아이디어들은 디지털 통신, 데이터 압축, 암호학, 기계학습 등 현대 정보 기술의 거의 모든 분야에 필수적인 기초가 되었다.
 
-이와 관련되지만 다른 개념도 있다. 원숭이가 타자기를 무작위로 치되 각 키가 눌릴 확률이 동일한 경우인데—이것은 위의 첫 번째 예시에서 다룬 상황이다. 하지만 짧은 문자열 하나를 생성하는 대신, 원숭이에게 무한한 시간을 주고 타자를 치게 한다. 핵심 아이디어는 결국 원숭이가 셰익스피어의 전집 같은 의미 있는 것을 생성하게 된다는 것이다. 실제로 그것이 일어나기까지 얼마나 오래 기다려야 하는지 알고 싶다면, [무한 원숭이 사업(Infinite monkey business)](https://plus.maths.org/content/infinite-monkey-businesst)을 참조하라.
+이와 관련되지만 다른 개념도 있다. 원숭이가 타자기를 무작위로 치되 각 키가 눌릴 확률이 동일한 경우인데-이것은 위의 첫 번째 예시에서 다룬 상황이다. 하지만 짧은 문자열 하나를 생성하는 대신, 원숭이에게 무한한 시간을 주고 타자를 치게 한다. 핵심 아이디어는 결국 원숭이가 셰익스피어의 전집 같은 의미 있는 것을 생성하게 된다는 것이다. 실제로 그것이 일어나기까지 얼마나 오래 기다려야 하는지 알고 싶다면, [무한 원숭이 사업(Infinite monkey business)](https://plus.maths.org/content/infinite-monkey-businesst)을 참조하라.
 
 > 무한 원숭이 정리(infinite monkey theorem)는 확률론의 재미있는 사고 실험이다. 수학적으로 이것은 반복 시행의 결과에 관한 것이다. 특정 문자열(예: 셰익스피어의 햄릿)이 나올 확률이 0보다 크다면, 아무리 작아도 무한히 많은 시행을 하면 그 사건이 일어날 확률은 1에 수렴한다. 이것은 보렐-칸텔리 보조정리(Borel-Cantelli lemma)와 관련이 있다. 하지만 실제로 기다려야 하는 시간은 천문학적이다. 알파벳 26자와 공백만 고려해도, "HAMLET"이라는 6글자 단어가 나올 확률은 $\left(\frac{1}{27}\right)^{6} \approx 5 \times 10^{-9}$이다. 햄릿 전체(약 130,000자)가 나올 확률은 상상을 초월한다. 이 사고 실험은 무한과 확률의 관계, 그리고 "가능하다"와 "실질적으로 일어날 수 있다"의 차이를 보여주는 좋은 예시다.
 

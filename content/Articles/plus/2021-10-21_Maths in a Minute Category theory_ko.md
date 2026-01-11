@@ -24,7 +24,7 @@ Songa는 다양한 시스템들의 상호연결을 이해하려고 할 때 범�
 
 ![범주](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/BHOM/category.jpg)
 
-(이 다이어그램은 [kamusumeFan](https://en.wikipedia.org/wiki/Category_(mathematics)#/media/File:Category_SVG.svg)의 그림을 기반으로 함 – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))
+(이 다이어그램은 [kamusumeFan](https://en.wikipedia.org/wiki/Category_(mathematics)#/media/File:Category_SVG.svg)의 그림을 기반으로 함 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))
 
 항등 사상과 사상의 합성은 *단위 법칙(unit law)* 공리를 따라야 하는데, 이는 본질적으로 항등 사상이 다른 사상들과 합성될 때 예상대로 작동한다는 것을 말한다 (즉, $f: A \rightarrow B$이면 $f 1_{A} = f = 1_{B} f$). 사상의 합성은 또한 결합법칙을 만족해야 한다: 여러 사상을 합성할 때 괄호를 어디에 두든 상관없다 (즉, $(hg)f = h(gf)$).
 
@@ -70,7 +70,7 @@ Songa의 [강연](https://media.ed.ac.uk/media/BHoMA+Maurine+Atieno+Songa%2C+%28
 
 Songa는 콰줄루나탈 대학교 수학과의 박사 과정 학생이다. 그녀의 연구는 범주론의 실생활 상황에 대한 몇 가지 응용에 초점을 맞추고 있으며, 상호연결된 시스템 이론을 시공간, 화학 반응 네트워크, 기계에 적용한다. Songa는 또한 젊은 여성과 소녀들이 STEM 분야에 진출하도록 영감을 주고, 그들도 삶의 어려운 상황을 극복하고 일어설 수 있다는 것을 알리기 위한 두 권의 책을 출판했다.
 
-*이 글은 아이작 뉴턴 수리과학 연구소(INI)와의 협력의 일환으로 제작되었습니다 – 이 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
+*이 글은 아이작 뉴턴 수리과학 연구소(INI)와의 협력의 일환으로 제작되었습니다 - 이 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 
 *INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 선도적인 수리 과학자들을 끌어모으며, 모두에게 열려 있습니다. 자세한 내용은 www.newton.ac.uk를 방문하세요.*
 

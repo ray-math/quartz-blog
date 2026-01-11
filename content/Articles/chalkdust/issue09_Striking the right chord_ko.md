@@ -119,4 +119,4 @@ $$
 
 > 이 경연 문제들은 베르트랑의 역설을 더 깊이 탐구할 기회를 제공합니다. 첫 번째 문제는 무작위 현을 생성하는 새로운 방법을 창의적으로 생각해보도록 격려하며, 각 방법이 어떻게 다른 확률 분포를 유도하는지 이해하게 합니다. 두 번째 문제는 더 복잡한 기하학적 관계를 탐구합니다: 현이 직사각형의 한 변을 이룬다는 제약 조건은 흥미로운 기하학적 추론을 요구하며, 선택한 현 생성 방법에 따라 계산의 복잡도가 크게 달라질 것입니다. 내접 정삼각형의 넓이는 $3\sqrt{3}/4$임을 참고하세요.
 
-Pingback: Striking the right chord – Certain about uncertainty
+Pingback: Striking the right chord - Certain about uncertainty

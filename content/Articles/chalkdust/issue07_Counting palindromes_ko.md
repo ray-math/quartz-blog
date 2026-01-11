@@ -88,8 +88,10 @@ $$
 
 최종 형태는 다음과 같으며, $M(n,b)$는 $n$과 $b$에 대한 다항계수이다:
 
-$$M(n,b) = \begin{cases} \cfrac{M\left(\frac{n}{2},b\right)}{M(n,b)}, & \text{만약 }n\text{이 짝수이면,} \\[10pt]
-b \, \cfrac{M\left(\frac{n-1}{2},b\right)}{M(n,b)}, & \text{만약 }n\text{이 홀수이면.}\end{cases}$$
+$$
+M(n,b) = \begin{cases} \cfrac{M\left(\frac{n}{2},b\right)}{M(n,b)}, & \text{만약 }n\text{이 짝수이면,} \\[10pt]
+b \, \cfrac{M\left(\frac{n-1}{2},b\right)}{M(n,b)}, & \text{만약 }n\text{이 홀수이면.}\end{cases}
+$$
 
 > 이 공식은 회문적 집합의 비율(확률)을 계산한다. 분자는 회문적 집합의 개수이고, 분모 $M(n,b)$는 전체 다중집합의 개수이다. 짝수 경우는 앞서 설명한 "절반 크기로 축소" 원리를 사용하고, 홀수 경우는 여기에 가운데 원소 선택($b$배)을 추가한다. 이 닫힌 형태는 어떤 $n$과 $b$에 대해서도 회문 확률을 직접 계산할 수 있게 한다.
 

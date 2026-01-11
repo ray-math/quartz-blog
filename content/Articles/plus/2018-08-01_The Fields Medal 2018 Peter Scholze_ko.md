@@ -43,7 +43,7 @@ $$
 
 ![](https://plus.maths.org/sites/plus.maths.org/files/news/2018/ICM2018/240px-3-adic_integers_with_dual_colorings.svg.png)
 
-3진 정수의 표현 (이미지 출처: [Melchoir](https://commons.wikimedia.org/wiki/File:3-adic_integers_with_dual_colorings.svg) – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
+3진 정수의 표현 (이미지 출처: [Melchoir](https://commons.wikimedia.org/wiki/File:3-adic_integers_with_dual_colorings.svg) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))
 
 숄체는 서로 다른 체들을 포함하는 문제들을 연구했는데, 때로는 표수 $p$인 체(여기서 $p$는 소수)와 관련된 표수 0인 체를 동시에 다루기도 했습니다. 특히 숄체는 표수 0을 가진 **$p$진 산술($p$-adic arithmetic)**을 사용하는 체에서의 문제들을 해결하고 싶어 했습니다. 이 무한한 체들에서 $p$는 새로운 근접성(closeness) 척도를 정의하는 소수를 나타냅니다(예: 2진, 3진, 5진 산술 등). 이 새로운 근접성 척도에서, 두 숫자가 가깝다는 것은 그들의 값이 가까운 것이 아니라, 그들의 차이가 소수 $p$의 거듭제곱으로 나누어떨어진다는 의미입니다. 거듭제곱이 높을수록, 두 숫자는 더 가깝습니다.
 

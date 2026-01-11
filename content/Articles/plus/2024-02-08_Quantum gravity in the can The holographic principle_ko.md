@@ -91,7 +91,7 @@ date: 2024-02-08
 
 ![말다세나의 홀로그래픽 우주를 수프 캔으로 시각화할 수 있습니다](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2024/BLH/AdS3.png)
 
-이것은 말다세나의 홀로그래픽 우주일까요, 아니면 수프 캔일까요? (이미지는 [Maky](https://en.wikipedia.org/wiki/AdS/CFT_correspondence#/media/File:AdS3.svg target=)의 이미지를 수정함 – [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+이것은 말다세나의 홀로그래픽 우주일까요, 아니면 수프 캔일까요? (이미지는 [Maky](https://en.wikipedia.org/wiki/AdS/CFT_correspondence#/media/File:AdS3.svg target=)의 이미지를 수정함 - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
 > 이 비유를 더 자세히 풀어보겠습니다. 수프 캔의 세로 방향은 시간 축을 나타냅니다. 캔을 수평으로 자르면 특정 시간에서의 공간 단면을 얻습니다. 캔의 맨 아래 단면은 우주의 초기 상태(시간 $t=0$)를 나타내고, 맨 위 단면은 최종 상태를 나타냅니다. 캔의 내부는 3차원 공간(2차원 공간 + 1차원 시간 = 3차원 시공간)을 나타내며, 여기에는 중력이 존재합니다. 캔의 원통형 표면, 즉 라벨이 붙어 있는 곳은 2차원 공간(1차원 공간 + 1차원 시간 = 2차원 시공간)을 나타내며, 여기서는 중력이 없는 양자장 이론이 살고 있습니다. 말다세나의 AdS/CFT 대응성은 캔 내부의 모든 물리학(중력 포함)이 캔 표면의 물리학(중력 없음)으로 완전히 기술될 수 있다고 말합니다. 실제 말다세나의 이론에서는 내부가 5차원 시공간이고 경계가 4차원 시공간이지만, 드 멜로 코흐는 시각화를 위해 차원을 하나씩 낮춰서 설명하고 있습니다.
 

@@ -6,7 +6,7 @@ date: 2021-11-22
 > [!NOTE]
 > https://chalkdustmagazine.com/features/handbook-of-equations/
 >
-> 로그 그래프 그리는 법을 잊어버리셨나요? 당황하지 마세요 – 유용한 가이드를 준비했습니다!
+> 로그 그래프 그리는 법을 잊어버리셨나요? 당황하지 마세요 - 유용한 가이드를 준비했습니다!
 
 ![](https://chalkdustmagazine.com/wp-content/uploads/2021/11/tilly.jpg)
 
@@ -374,7 +374,7 @@ $$
 절댓값 함수는 다음과 같이 정의됩니다:
 
 $$
-y = |x| = \begin{cases} x & \text{if } x \geq 0 \\ -x & \text{if } x < 0 \end{cases}
+y = |x| =\begin{cases} x & x \geq 0 \\ -x & x < 0 \end{cases}
 $$
 
 **주요 특징:**

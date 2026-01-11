@@ -20,17 +20,17 @@ date: 2020-05-28
 
 연성 물질 그룹의 참여는 처음에는 놀라워 보일 수 있지만, 그룹이 평소에 하는 일과 팬데믹 모델링 사이에는 수학적 가교가 있습니다. 연성 물질 물리학은 분자들이 만나서 서로 반응하는 화학 과정을 모델링하는 것을 포함하고, 역학(epidemiology)은 사람들이 만나서 잠재적으로 서로를 감염시킬 때 무슨 일이 일어나는지를 모델링하는 것을 포함합니다. 비슷한 수학이 두 상황을 모델링하는 데 사용될 수 있기 때문에, 박사 과정 학생부터 교수까지 연성 물질 그룹의 모든 구성원이 지금 코로나19와의 싸움에 기여하느라 바쁩니다.
 
-> 역학(epidemiology)과 화학 반응 동역학(chemical kinetics) 사이의 수학적 유사성은 깊은 통찰을 제공합니다. 화학에서 분자 A와 B가 충돌하여 생성물 C를 만드는 반응 $A + B \rightarrow C$는 반응 속도 방정식 $\frac{d[C]}{dt} = k[A][B]$로 표현됩니다. 여기서 농도의 곱은 충돌 확률을 나타냅니다. 마찬가지로 역학에서 감염되기 쉬운 사람(S)과 감염자(I)가 만나 새로운 감염자를 만드는 과정도 $\frac{dI}{dt} = \beta SI$로 표현할 수 있습니다. 이러한 구조적 유사성 덕분에 화학 반응 네트워크 이론의 수학적 도구들—평형 분석, 안정성 이론, 확률적 시뮬레이션 기법—이 전염병 모델링에 직접 적용될 수 있습니다. 이것이 바로 연성 물질 물리학자들이 팬데믹 모델링에 신속하게 기여할 수 있었던 핵심 이유입니다.
+> 역학(epidemiology)과 화학 반응 동역학(chemical kinetics) 사이의 수학적 유사성은 깊은 통찰을 제공합니다. 화학에서 분자 A와 B가 충돌하여 생성물 C를 만드는 반응 $A + B \rightarrow C$는 반응 속도 방정식 $\frac{d[C]}{dt} = k[A][B]$로 표현됩니다. 여기서 농도의 곱은 충돌 확률을 나타냅니다. 마찬가지로 역학에서 감염되기 쉬운 사람(S)과 감염자(I)가 만나 새로운 감염자를 만드는 과정도 $\frac{dI}{dt} = \beta SI$로 표현할 수 있습니다. 이러한 구조적 유사성 덕분에 화학 반응 네트워크 이론의 수학적 도구들-평형 분석, 안정성 이론, 확률적 시뮬레이션 기법-이 전염병 모델링에 직접 적용될 수 있습니다. 이것이 바로 연성 물질 물리학자들이 팬데믹 모델링에 신속하게 기여할 수 있었던 핵심 이유입니다.
 
 그렇다면 그들은 무엇을 하고 있으며, 그들의 연구는 어떻게 사용되고 있을까요?
 
 ### 최적점 찾기
 
-질병이 어떻게 퍼질지를 모델링하는 한 가지 방법은 모델에서 인구의 모든 개인을 표현하고, 그다음 개인들이 만나서 잠재적으로 질병을 전파할 때 무슨 일이 일어나는지를 시뮬레이션하는 것입니다. 질병의 특정한 특성들—예를 들어 사람들이 얼마나 감염력이 있고 얼마나 오래 그런지, 그리고 회복하는 데 필요한 시간의 길이—은 수학적으로 표현되어 모델에 내장될 수 있습니다. 게다가 모델은 특정 인구의 인구통계학적 특성을 정확하게 반영해야 합니다. "모든 개인은 성별, 나이, 거주지, 직장이나 학교 위치 등과 같은 속성을 가지고 있습니다"라고 Adhikari는 설명합니다. "엄청난 양의 정보입니다."
+질병이 어떻게 퍼질지를 모델링하는 한 가지 방법은 모델에서 인구의 모든 개인을 표현하고, 그다음 개인들이 만나서 잠재적으로 질병을 전파할 때 무슨 일이 일어나는지를 시뮬레이션하는 것입니다. 질병의 특정한 특성들-예를 들어 사람들이 얼마나 감염력이 있고 얼마나 오래 그런지, 그리고 회복하는 데 필요한 시간의 길이-은 수학적으로 표현되어 모델에 내장될 수 있습니다. 게다가 모델은 특정 인구의 인구통계학적 특성을 정확하게 반영해야 합니다. "모든 개인은 성별, 나이, 거주지, 직장이나 학교 위치 등과 같은 속성을 가지고 있습니다"라고 Adhikari는 설명합니다. "엄청난 양의 정보입니다."
 
 ![시부야 횡단보도](content/sites/plus.maths.org/files/blog/042016/crowd.jpg)
 
-행위자 기반 모델은 생물학, 사회학, 경제학, 심지어 경영학에서 시스템을 시뮬레이션하는 데 널리 사용됩니다—사람들의 이동을 모델링하는 것도 포함합니다. 사진: [Andrew Eland](https://www.flickr.com/photos/andreweland/4087246655/in/photolist-7j9nJ1-gPGF9-88aReK-f4RHRA-88e77G-5XAduS-7ebd2V-wrQYr-FPicn-8ajFZe-osCa8-942vS5-pkcq5x-8m1Kzg-7Fw5L2-88aUsP-ePDBQs-DuPXcd-7MkYu3-6fckzt-9osr9d-7UNuXU-39KJPX-dTPwqZ-ossoh5-baviBe-dTtXZZ-97oAVg-5LxrNC-vhQ4q-7NjQ69-B9VgZH-9fBmg3-4FFohK-B7JhMQ-d1KxE-7wFsJj-Yx4jhJ-G7PvY-bavdcH-nWPuBT-76cZU3-7UNvaN-dW9kur-2DCzAJ-8anWdy-6fcm76-97oDBv-arD1BW-oUBSLq/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+행위자 기반 모델은 생물학, 사회학, 경제학, 심지어 경영학에서 시스템을 시뮬레이션하는 데 널리 사용됩니다-사람들의 이동을 모델링하는 것도 포함합니다. 사진: [Andrew Eland](https://www.flickr.com/photos/andreweland/4087246655/in/photolist-7j9nJ1-gPGF9-88aReK-f4RHRA-88e77G-5XAduS-7ebd2V-wrQYr-FPicn-8ajFZe-osCa8-942vS5-pkcq5x-8m1Kzg-7Fw5L2-88aUsP-ePDBQs-DuPXcd-7MkYu3-6fckzt-9osr9d-7UNuXU-39KJPX-dTPwqZ-ossoh5-baviBe-dTtXZZ-97oAVg-5LxrNC-vhQ4q-7NjQ69-B9VgZH-9fBmg3-4FFohK-B7JhMQ-d1KxE-7wFsJj-Yx4jhJ-G7PvY-bavdcH-nWPuBT-76cZU3-7UNvaN-dW9kur-2DCzAJ-8anWdy-6fcm76-97oDBv-arD1BW-oUBSLq/), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 
 이러한 *행위자 기반 모델(agent based models)*은 가능한 최고의 해상도를 제공하지만, 동시에 다루기 어렵습니다. 그들의 큰 크기 때문에 고전적인 펜과 종이 분석에 적합하지 않고, 대신 컴퓨터에서 시뮬레이션되어야 하며, 이는 그것들을 일종의 블랙박스로 만듭니다. "규칙을 입력하고, 코드로 작성한 다음 [출력을 얻습니다]"라고 Adhikari는 설명합니다. "이러한 모델들은 수학적으로 분석하기 어렵고 데이터에 대한 추론을 하기도 어렵습니다." (행위자 기반 모델에 대해 더 알아보려면 [여기](https://plus.maths.org/content/agm)를 참조하세요.)
 

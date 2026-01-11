@@ -38,7 +38,7 @@ date: 2022-11-30
 
 "자연의 파도는 반드시 단순하지 않습니다"라고 프로그램의 또 다른 조직자인 Gennady El은 *Open For Business* 행사의 도입부에서 말했습니다. "우리는 *괴물파(rogue waves)*와 같은 실제 파동 현상을 예측하기 위한 새로운 방법이 필요합니다."
 
-괴물파는 파괴적인 힘을 가진 거대한 단일 파도입니다. 그것들은 순간적으로만 존재하며 – 아무데서도 나타나지 않는 것처럼 보이고 빠르게 사라집니다. "대부분의 시간 동안 우리는 [괴물]파에 대한 어떤 증거도 가지고 있지 않습니다"라고 연사 중 한 명인 [유럽 중기 기상 예보 센터](https://www.ecmwf.int/)의 Peter Janssen은 말했습니다. "매우 변덕스러운 사건입니다." 그것들은 기껏해야 몇 초에서 몇 분 동안만 지속되어, 데이터를 포착할 수 있는 매우 짧은 시간을 주고 그 데이터도 제한적일 것입니다. "도전 과제는 이러한 사건의 발생에 대해 무언가를 말하는 것입니다."
+괴물파는 파괴적인 힘을 가진 거대한 단일 파도입니다. 그것들은 순간적으로만 존재하며 - 아무데서도 나타나지 않는 것처럼 보이고 빠르게 사라집니다. "대부분의 시간 동안 우리는 [괴물]파에 대한 어떤 증거도 가지고 있지 않습니다"라고 연사 중 한 명인 [유럽 중기 기상 예보 센터](https://www.ecmwf.int/)의 Peter Janssen은 말했습니다. "매우 변덕스러운 사건입니다." 그것들은 기껏해야 몇 초에서 몇 분 동안만 지속되어, 데이터를 포착할 수 있는 매우 짧은 시간을 주고 그 데이터도 제한적일 것입니다. "도전 과제는 이러한 사건의 발생에 대해 무언가를 말하는 것입니다."
 
 > 괴물파는 주변 파도 높이의 2배 이상, 유의파고(significant wave height, 가장 높은 1/3 파도들의 평균)의 2.2배 이상으로 정의됩니다. 해양학에서 유의파고는 파도의 통계적 성질을 나타내는 중요한 지표로, 일반적으로 4미터의 유의파고는 상당히 거친 바다를 의미합니다. 괴물파의 수수께끼는 단순히 크기만이 아니라 그 출현의 예측 불가능성에 있습니다. 전통적인 해양 모델은 파도 높이가 레일리 분포(Rayleigh distribution)를 따른다고 가정했는데, 이는 극단적으로 높은 파도의 확률을 심각하게 과소평가합니다. 괴물파는 이 분포의 '꼬리(tail)'를 훨씬 벗어나는 사건으로, 이는 비선형 효과가 중요함을 시사합니다.
 
@@ -54,7 +54,7 @@ Draupner 파도 데이터와 그 이후 수집된 다른 실제 데이터는 해
 
 ![실험에서 재현된 괴물파](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2022/HYD2/Rogue_waves_McAllister_2019_web.png)
 
-[2019년 Draupner 파도 시뮬레이션](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-recreation-of-the-draupner-wave-and-the-role-of-breaking-in-crossing-seas/65EA3294DAFD97A50C8046140B45F759)의 이미지들은 파도의 가파름이 어떻게 형성되는지 보여줍니다. (이미지: [McAllister et al 2019](https://commons.wikimedia.org/wiki/File:Rogue_waves_breaking_behavior_at_different_crossing_angles,_McAllister_2019.png) – [CC BY 4.0](https://creativecommons.org/licenses/by/4.0))
+[2019년 Draupner 파도 시뮬레이션](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-recreation-of-the-draupner-wave-and-the-role-of-breaking-in-crossing-seas/65EA3294DAFD97A50C8046140B45F759)의 이미지들은 파도의 가파름이 어떻게 형성되는지 보여줍니다. (이미지: [McAllister et al 2019](https://commons.wikimedia.org/wiki/File:Rogue_waves_breaking_behavior_at_different_crossing_angles,_McAllister_2019.png) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0))
 
 > 실험실에서 괴물파를 재현하는 것은 이론 검증의 핵심 단계입니다. 2019년 McAllister 등의 연구는 University of Oxford의 파동 수조에서 Draupner 파도를 성공적으로 재현했습니다. 이들은 파동 생성기를 사용하여 서로 다른 각도에서 교차하는 파도 군(wave trains)을 만들어냈고, 특정 각도와 위상 관계에서 실제 Draupner 파도와 유사한 형태의 극단적인 파도가 형성됨을 보였습니다. 중요한 발견은 파도의 깨짐(wave breaking)이 중요한 역할을 한다는 것입니다. 선형 이론은 무한히 높은 파도를 예측할 수 있지만, 실제로는 파도가 특정 가파름(steepness, $H/\lambda$ 비율)을 초과하면 깨지면서 에너지를 소산시킵니다. 이 실험들은 또한 위상 잠금(phase-locking) 현상을 관찰했는데, 이는 파동 성분들이 일시적으로 동기화되어 에너지를 한 곳에 집중시키는 메커니즘입니다.
 
@@ -64,7 +64,7 @@ Draupner 파도 데이터와 그 이후 수집된 다른 실제 데이터는 해
 
 ### 새로운 수학, 새로운 실험, 새로운 연구자
 
-이러한 학제간 교류는 INI 프로그램의 주요 기회 중 하나이며, 순수 및 응용 수학자들과 실험 물리학자들 간의 협력이 이루어진다고 El은 말합니다. "새로운 수학적 결과는 새로운 물리 실험을 제안합니다. 그리고 이것이 실제로 이 프로그램 동안 일어나고 있는 일입니다 – 새로운 협력이 이미 여기서 확립되고 있습니다."
+이러한 학제간 교류는 INI 프로그램의 주요 기회 중 하나이며, 순수 및 응용 수학자들과 실험 물리학자들 간의 협력이 이루어진다고 El은 말합니다. "새로운 수학적 결과는 새로운 물리 실험을 제안합니다. 그리고 이것이 실제로 이 프로그램 동안 일어나고 있는 일입니다 - 새로운 협력이 이미 여기서 확립되고 있습니다."
 
 유체역학적 분산은 비교적 새로운 분야이며, 프로그램의 핵심 측면은 또한 초기 경력 연구자들이 이 분야를 발전시킬 수 있도록 격려하고 지원하는 것입니다. "이 분야에서 떠오르는 스타들 간에 상호작용이 있습니다, 그들은 서로 대화하고 있으며 또한 선배들과도 대화하고 있습니다"라고 Shearer는 말합니다. "이것은 어떤 면에서 초기 단계에 있는 분야이지만 이에 대한 많은 흥분이 있으며, 따라서 [다음] 세대를 고무시킬 수 있다는 것은 훌륭합니다. 그들이 이 주제를 앞으로 나아가게 할 것입니다."
 
@@ -78,7 +78,7 @@ Draupner 파도 데이터와 그 이후 수집된 다른 실제 데이터는 해
 
 [Rachel Thomas](https://plus.maths.org/content/people/index.html#rachel)는 *Plus*의 편집자입니다.
 
-*이 글은 아이작 뉴턴 수학과학 연구소(INI)와의 협력의 일환으로 제작되었습니다 – 우리의 협력으로부터 나온 모든 콘텐츠를 여기에서 찾을 수 있습니다.
+*이 글은 아이작 뉴턴 수학과학 연구소(INI)와의 협력의 일환으로 제작되었습니다 - 우리의 협력으로부터 나온 모든 콘텐츠를 여기에서 찾을 수 있습니다.
 INI는 국제 연구 센터이며 케임브리지 대학교의 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 저명한 수학자들을 끌어모으며, 모두에게 열려 있습니다. 더 자세한 내용은 www.newton.ac.uk을 방문하세요.*
 
 ![INI 로고](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/representation/ini_logo_green.jpg)

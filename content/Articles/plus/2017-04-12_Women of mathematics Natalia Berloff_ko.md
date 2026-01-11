@@ -50,7 +50,7 @@ date: 2017-04-12
 
 **Plus:** 당신의 수학 분야를 설명해 주시겠어요?
 
-**나탈리아 벌로프:** 응용수학입니다. 그래서 저는 방정식을 쓰고 물리적 시스템을 이해하려고 노력합니다. 제 경우에는 [양자 유체(quantum fluids)](https://en.wikipedia.org/wiki/Quantum_fluid), [초유동성(superfluidity)](https://en.wikipedia.org/wiki/Superfluidity), [보즈-아인슈타인 응축(Bose-Einstein condensate)](https://en.wikipedia.org/wiki/Bose–Einstein_condensate)인데, 주어진 물리적 시스템에 대해 - 액체일 수도 있고, 기체일 수도 있고, 심지어 고체 상태일 수도 있는데 - 저는 운동을 기술하고, 관찰된 현상을 설명하는 방정식을 쓰려고 노력합니다.
+**나탈리아 벌로프:** 응용수학입니다. 그래서 저는 방정식을 쓰고 물리적 시스템을 이해하려고 노력합니다. 제 경우에는 [양자 유체(quantum fluids)](https://en.wikipedia.org/wiki/Quantum_fluid), [초유동성(superfluidity)](https://en.wikipedia.org/wiki/Superfluidity), [보즈-아인슈타인 응축(Bose-Einstein condensate)](https://en.wikipedia.org/wiki/Bose-Einstein_condensate)인데, 주어진 물리적 시스템에 대해 - 액체일 수도 있고, 기체일 수도 있고, 심지어 고체 상태일 수도 있는데 - 저는 운동을 기술하고, 관찰된 현상을 설명하는 방정식을 쓰려고 노력합니다.
 
 저는 실험물리학자들과 긴밀히 접촉하면서, 제 이론이 작동하는지 확인하고, 그들이 제시하는 것 중에 아직 모델에 맞지 않는 것이 무엇인지 보려고 합니다. 그래서 이론을 확장하고 새로운 것을 만들 수 있습니다.
 

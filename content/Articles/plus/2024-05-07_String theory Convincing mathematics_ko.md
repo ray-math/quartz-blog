@@ -30,7 +30,7 @@ date: 2024-05-07
 
 > 칸델라스의 돌파구는 거울 대칭(mirror symmetry)이라는 개념을 활용한 것이었습니다. 이는 서로 다른 두 칼라비-야우 다양체가 물리학적으로는 동일한 끈 이론을 기술할 수 있다는 놀라운 성질입니다. 한쪽 다양체에서는 계산하기 극도로 어려운 열거 문제가, 그것의 거울 짝(mirror partner)에서는 훨씬 쉬운 계산으로 변환됩니다. 이는 마치 어려운 문제를 다른 언어로 번역하면 갑자기 쉬워지는 것과 같습니다. 예를 들어, 5차 3차원 칼라비-야우 다양체에 들어있는 유리 곡선의 개수를 세는 문제는 고전적 방법으로는 거의 불가능했지만, 거울 대칭을 통해 간단한 미분방정식을 푸는 문제로 변환되었습니다.
 
-끈 이론과 수학 사이의 연결고리는 이제 완전한 원을 그렸습니다. 수학이 끈 이론에 칼라비-야우 다양체와 같은 환상적인 구조를 제공한 것만이 아니었습니다. 끈 이론은 수학 문제를 해결하는 데 필요한 도구를 제공함으로써 보답할 수 있었습니다. "다른 최첨단 물리학 이론 후보들 중에는 그런 것이 없었다고 생각합니다"라고 허는 말합니다. [루프 양자 중력(loop quantum gravity)](https://en.wikipedia.org/wiki/Loop_quantum_gravity)이나 [스핀 폼(spin foam)](https://en.wikipedia.org/wiki/Spin_foam)과 같은 다른 이론들은 기초적인 수학 문제를 해결하지 못했습니다. "그것들도 많은 고급 수학을 사용합니다 – 어떤 물리 이론이든 궁극적으로는 많은 고급 수학을 사용할 것입니다 – 하지만 이 끈 이론의 아이디어에 대해 매우 다른 점은 그것이 끊임없이 이런 미친 문제들을 해결한다는 것입니다!"
+끈 이론과 수학 사이의 연결고리는 이제 완전한 원을 그렸습니다. 수학이 끈 이론에 칼라비-야우 다양체와 같은 환상적인 구조를 제공한 것만이 아니었습니다. 끈 이론은 수학 문제를 해결하는 데 필요한 도구를 제공함으로써 보답할 수 있었습니다. "다른 최첨단 물리학 이론 후보들 중에는 그런 것이 없었다고 생각합니다"라고 허는 말합니다. [루프 양자 중력(loop quantum gravity)](https://en.wikipedia.org/wiki/Loop_quantum_gravity)이나 [스핀 폼(spin foam)](https://en.wikipedia.org/wiki/Spin_foam)과 같은 다른 이론들은 기초적인 수학 문제를 해결하지 못했습니다. "그것들도 많은 고급 수학을 사용합니다 - 어떤 물리 이론이든 궁극적으로는 많은 고급 수학을 사용할 것입니다 - 하지만 이 끈 이론의 아이디어에 대해 매우 다른 점은 그것이 끊임없이 이런 미친 문제들을 해결한다는 것입니다!"
 
 > 이것은 물리학 이론의 가치를 평가하는 흥미로운 기준을 제시합니다. 전통적으로 물리학 이론은 실험적 예측의 정확성으로 평가되었습니다. 하지만 끈 이론의 경우, 직접적인 실험적 검증이 현재 기술로는 거의 불가능한 상황에서, 그것이 순수 수학의 난제들을 해결하는 능력이 이론의 깊이를 입증하는 강력한 증거가 됩니다. 이는 마치 자연이 수학적으로 아름답고 일관성 있는 언어로 쓰여 있다는 믿음을 반영하는 것입니다.
 
@@ -80,7 +80,7 @@ $$
 
 > 라마누잔과 하디의 분배 함수는 생성함수(generating function)라는 형태를 취합니다. 이것은 각 항의 계수가 분할 수를 나타내는 무한 급수입니다: $\sum_{n=0}^{\infty} P(n)q^{n} = \prod_{k=1}^{\infty} \frac{1}{1-q^{k}}$. 이 간단해 보이는 식은 엄청난 정보를 담고 있습니다. 오른쪽의 무한곱은 각 자연수 $k$를 분할에 사용할 수 있음을 반영하며, 이를 전개하면 자연스럽게 왼쪽의 급수가 나옵니다. 더 놀라운 것은 라마누잔이 발견한 합동식(congruence)입니다. 예를 들어 $P(5n + 4)$는 항상 5로 나누어떨어집니다. 이러한 성질들은 분할 함수가 모듈 형식(modular form)과 깊은 연관이 있음을 보여줍니다.
 
-물리학에서 분배 함수는 물리 시스템, 예를 들어 특정 온도의 기체로 채워진 방을 연구할 때 나타납니다. 여기서 분배 함수는 [엔트로피(entropy)](https://plus.maths.org/content/maths-minute-entropy) – 질서의 양, 또는 동등하게 무질서의 양 – 를 측정하는 방법을 제공합니다. 이것 역시 계수 문제에 해당하는데, 이번에는 방 안의 기체 분자들의 서로 다른 가능한 배열 중 같은 온도를 만들어내는 것이 몇 개나 되는지를 세는 것입니다. (더 자세한 내용은 우리의 글 [*엔트로피: 냉장고 자석에서 블랙홀까지(Entropy: from fridge magnets to black holes)*](https://plus.maths.org/content/entropy-fridge-magnets-black-holes)에서 읽을 수 있습니다.)
+물리학에서 분배 함수는 물리 시스템, 예를 들어 특정 온도의 기체로 채워진 방을 연구할 때 나타납니다. 여기서 분배 함수는 [엔트로피(entropy)](https://plus.maths.org/content/maths-minute-entropy) - 질서의 양, 또는 동등하게 무질서의 양 - 를 측정하는 방법을 제공합니다. 이것 역시 계수 문제에 해당하는데, 이번에는 방 안의 기체 분자들의 서로 다른 가능한 배열 중 같은 온도를 만들어내는 것이 몇 개나 되는지를 세는 것입니다. (더 자세한 내용은 우리의 글 [*엔트로피: 냉장고 자석에서 블랙홀까지(Entropy: from fridge magnets to black holes)*](https://plus.maths.org/content/entropy-fridge-magnets-black-holes)에서 읽을 수 있습니다.)
 
 > 통계역학에서 분배 함수 $Z = \sum_{i} e^{-E_{i}/kT}$는 시스템의 모든 가능한 미시상태를 합산합니다. 여기서 $E_{i}$는 각 상태의 에너지, $T$는 온도, $k$는 볼츠만 상수입니다. 이 함수는 시스템의 모든 열역학적 성질을 담고 있습니다. 엔트로피는 $S = k \ln(Z) + \frac{E}{T}$로 계산되고, 자유 에너지는 $F = -kT \ln(Z)$가 됩니다. 수학적 분할 함수와 물리학적 분배 함수의 형태가 유사한 것은 우연이 아닙니다. 둘 다 본질적으로 "가능한 방법을 세고 조직화하는" 동일한 수학적 구조를 반영합니다.
 
@@ -108,7 +108,7 @@ $$
 
 홀로그래픽 원리는 중력이 양자 홀로그램에 의해 만들어진 환상임을 시사합니다.
 
-우리는 케임브리지의 [아이작 뉴턴 수리과학 연구소(Isaac Newton Institute for Mathematical Sciences)](https://www.newton.ac.uk/event/blh/)에서 허가 조직을 도운 최근 연구 프로그램인 *블랙홀: 정수론과 홀로그래픽 양자 정보 사이의 다리(Black holes: bridges between number theory and holographic quantum information)*에 대해 그와 이야기를 나누고 있었습니다. 우리는 이전에 [블랙홀(black holes)](https://plus.maths.org/content/maths-minute-black-holes)에 대해 글을 쓴 적이 있습니다 – 중력이 너무 강해서 빛조차 빠져나올 수 없는 우주의 신비로운 영역으로, 아인슈타인의 [일반 상대성 이론(general theory of relativity)](https://plus.maths.org/content/maths-minute-einsteins-general-theory-relativity)에서 나오는 극단적인 기하학의 결과입니다. 그리고 우리는 [홀로그래픽 원리(holographic principle)](https://plus.maths.org/content/holographic-principle)에 대해서도 글을 썼습니다 – 중력이 양자 홀로그램에 의해 만들어진 환상이라는 정신이 아찔해지는 개념입니다. 하지만 처음 이 프로그램에 대해 들었을 때, 정수론이 어떻게 이 흥미진진한 물리학 분야와 연결될 수 있는지 궁금했습니다.
+우리는 케임브리지의 [아이작 뉴턴 수리과학 연구소(Isaac Newton Institute for Mathematical Sciences)](https://www.newton.ac.uk/event/blh/)에서 허가 조직을 도운 최근 연구 프로그램인 *블랙홀: 정수론과 홀로그래픽 양자 정보 사이의 다리(Black holes: bridges between number theory and holographic quantum information)*에 대해 그와 이야기를 나누고 있었습니다. 우리는 이전에 [블랙홀(black holes)](https://plus.maths.org/content/maths-minute-black-holes)에 대해 글을 쓴 적이 있습니다 - 중력이 너무 강해서 빛조차 빠져나올 수 없는 우주의 신비로운 영역으로, 아인슈타인의 [일반 상대성 이론(general theory of relativity)](https://plus.maths.org/content/maths-minute-einsteins-general-theory-relativity)에서 나오는 극단적인 기하학의 결과입니다. 그리고 우리는 [홀로그래픽 원리(holographic principle)](https://plus.maths.org/content/holographic-principle)에 대해서도 글을 썼습니다 - 중력이 양자 홀로그램에 의해 만들어진 환상이라는 정신이 아찔해지는 개념입니다. 하지만 처음 이 프로그램에 대해 들었을 때, 정수론이 어떻게 이 흥미진진한 물리학 분야와 연결될 수 있는지 궁금했습니다.
 
 > 홀로그래픽 원리는 1990년대에 제라르두스 엇 호프트(Gerard 't Hooft)와 레오나르트 서스킨드(Leonard Susskind)가 제안한 것으로, 우주의 어떤 영역에 대한 모든 정보가 그 영역의 경계면에 인코딩될 수 있다는 놀라운 아이디어입니다. 마치 3차원 홀로그램이 2차원 표면에 저장되는 것처럼, 중력을 포함한 시공간 자체도 더 낮은 차원의 양자 이론의 "투영"일 수 있다는 것입니다. 이는 블랙홀 정보 역설(black hole information paradox)을 해결하려는 시도에서 나왔는데, 양자역학과 일반상대성이론의 근본적인 충돌을 다루는 문제입니다.
 
@@ -128,7 +128,7 @@ $$
 
 [레이첼 토머스(Rachel Thomas)](https://plus.maths.org/content/people/index.html#rachel)는 Plus의 편집자입니다.
 
-*이 콘텐츠는 아이작 뉴턴 수리과학연구소(INI)와의 협력의 일환으로 제작되었습니다 – 우리의 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.
+*이 콘텐츠는 아이작 뉴턴 수리과학연구소(INI)와의 협력의 일환으로 제작되었습니다 - 우리의 협력에서 나온 모든 콘텐츠는 여기에서 찾을 수 있습니다.
 INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 선도적인 수리과학자들을 끌어들이며, 모두에게 열려 있습니다. 더 자세한 정보는 www.newton.ac.uk를 방문하세요.*
 
 ![INI 로고](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2021/representation/ini_logo_green.jpg)

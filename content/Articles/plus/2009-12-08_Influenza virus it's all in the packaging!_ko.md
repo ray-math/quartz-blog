@@ -12,7 +12,7 @@ date: 2009-12-08
 
 *다음 패키지로 돌아가기:*
 
-[감염병의 수학 패키지로 돌아가기](https://plus.maths.org/content/do-you-know-whats-good-you-—-maths-infectious-diseases)
+[감염병의 수학 패키지로 돌아가기](https://plus.maths.org/content/do-you-know-whats-good-you---maths-infectious-diseases)
 
 [유전적 비밀 풀기 패키지로 돌아가기](https://plus.maths.org/content/do-you-know-whats-good-you-unravelling-genetic-secrets)
 
@@ -98,7 +98,7 @@ $$
 
 RNA 가닥: 코돈(뉴클레오티드 3개 조합)이 아미노산을 지정합니다
 
-인플루엔자 바이러스 게놈은 길이가 890개에서 2341개의 뉴클레오티드에 이르는 8개의 RNA 조각으로 이루어져 있습니다. 뉴클레오티드—아데닌(A), 우라실(U), 구아닌(G), 시토신(C)—는 RNA 가닥을 구성하는 분자입니다. RNA 가닥은 뉴클레오티드 3개 조합(*코돈(codons)*이라고 함)의 서열로 읽힙니다. 각 코돈은 [아미노산을 정의](http://en.wikipedia.org/wiki/Genetic_code#RNA_codon_table)하며, RNA가 지정하는 아미노산의 서열이 특정 단백질 분자를 구성합니다. (유전학에 대한 훌륭한 입문서는 [Virtual Genetics Education Centre](http://www.le.ac.uk/ge/genie/vgec/sc/expression.html)에서 읽을 수 있습니다.)
+인플루엔자 바이러스 게놈은 길이가 890개에서 2341개의 뉴클레오티드에 이르는 8개의 RNA 조각으로 이루어져 있습니다. 뉴클레오티드-아데닌(A), 우라실(U), 구아닌(G), 시토신(C)-는 RNA 가닥을 구성하는 분자입니다. RNA 가닥은 뉴클레오티드 3개 조합(*코돈(codons)*이라고 함)의 서열로 읽힙니다. 각 코돈은 [아미노산을 정의](http://en.wikipedia.org/wiki/Genetic_code#RNA_codon_table)하며, RNA가 지정하는 아미노산의 서열이 특정 단백질 분자를 구성합니다. (유전학에 대한 훌륭한 입문서는 [Virtual Genetics Education Centre](http://www.le.ac.uk/ge/genie/vgec/sc/expression.html)에서 읽을 수 있습니다.)
 
 > 유전 정보의 흐름은 "DNA → RNA → 단백질"이라는 중심 원리(central dogma)를 따릅니다. 인플루엔자는 RNA 바이러스이므로 DNA 단계를 건너뜁니다. RNA의 뉴클레오티드 서열이 3개씩 묶여 코돈을 형성하고, 각 코돈이 하나의 아미노산에 대응됩니다. 예를 들어 AUG는 항상 메티오닌을 암호화하며 번역의 시작 신호이기도 합니다. 총 64개의 가능한 코돈($4^{3} = 64$)이 20개의 표준 아미노산과 종결 신호를 암호화합니다. 이는 여러 코돈이 같은 아미노산을 암호화할 수 있음을 의미하며, 이를 "유전 암호의 중복성(redundancy)"이라고 합니다. 이 중복성이 바로 포장 신호를 찾는 데 핵심적인 역할을 합니다.
 

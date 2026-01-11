@@ -48,7 +48,7 @@ Benjamin은 "[새 나침반의] 두 전자는 서로 상관되어 있으며, 그
 
 ![bird](https://plus.maths.org/sites/plus.maths.org/files/news/2010/birds/nc60_web.jpg)
 
-질소 도핑된 C60 분자 — 탄소 케이지에 갇힌 질소 원자. 이미지 출처: [옥스퍼드 대학교 양자 스핀 역학 그룹](http://qsd.physics.ox.ac.uk/fullerene.php).
+질소 도핑된 C60 분자 - 탄소 케이지에 갇힌 질소 원자. 이미지 출처: [옥스퍼드 대학교 양자 스핀 역학 그룹](http://qsd.physics.ox.ac.uk/fullerene.php).
 
 > 위 이미지는 N@C60 분자를 보여줍니다. C60은 '버키볼(buckyball)'이라고도 불리며, 60개의 탄소 원자가 축구공 모양으로 배열된 구조입니다. 이 탄소 케이지 안에 질소 원자 하나를 가두면, 질소 원자의 전자 스핀이 외부 환경으로부터 매우 잘 보호됩니다. 탄소 케이지가 일종의 '양자 방패' 역할을 하는 것입니다. 이 구조는 현재까지 실험실에서 만들어진 가장 효율적인 스핀 보호 시스템 중 하나입니다. 그러나 이러한 분자를 합성하는 과정은 극도로 어렵습니다. 먼저 C60 분자를 만들고, 그것을 고온 고압 상태에서 질소 가스와 반응시켜 질소 원자가 케이지 안으로 들어가도록 해야 합니다. 성공률이 매우 낮고 정제 과정이 복잡하여, 그램당 수백만 파운드라는 천문학적 가격이 책정됩니다.
 
@@ -62,7 +62,7 @@ Benjamin과 Gauger가 깨달은 것은 새들에게도 같은 원리가 적용�
 
 Simon과 Erik과의 [인터뷰 팟캐스트](https://plus.maths.org/content/flying-home-quantum-physics)를 들을 수 있으며, [양자물리학과 실재의 본질](https://plus.maths.org/content/does-quantum-physics-really-describe-reality)에 관한 학회의 팟캐스트도 들을 수 있습니다. 또한 Simon의 양자 나노기술에 관한 오디오 및 비디오 팟캐스트 시리즈인 [슈뢰딩거의 고양이 가두기](http://itunes.apple.com/itunes-u/caging-schrodingers-cat-quantum/id381701668)에서 양자역학에 대해 더 자세히 배울 수 있습니다.
 
-*2011년 1월 업데이트* — Gauger, Benjamin 및 동료들의 이 연구에 관한 [논문](http://prl.aps.org/abstract/PRL/v106/i4/e040503)이 *Physical Review Letters*에 게재되었습니다. 그들의 연구는 최근 *New Scientist*에도 소개되었습니다.
+*2011년 1월 업데이트* - Gauger, Benjamin 및 동료들의 이 연구에 관한 [논문](http://prl.aps.org/abstract/PRL/v106/i4/e040503)이 *Physical Review Letters*에 게재되었습니다. 그들의 연구는 최근 *New Scientist*에도 소개되었습니다.
 
 > Physical Review Letters는 물리학 분야에서 가장 권위 있는 학술지 중 하나로, 짧지만 획기적인 연구 결과를 빠르게 출판합니다. 이 저널에 논문이 실렸다는 것은 해당 연구가 물리학 커뮤니티에서 높은 수준의 검증을 통과했음을 의미합니다. Benjamin과 Gauger의 연구가 여기에 게재된 것은 철새의 양자 나침반이 단순한 생물학적 호기심이 아니라 물리학적으로도 중요한 의미를 가지며, 양자 정보 과학에 실질적 기여를 할 수 있다는 인정을 받았음을 보여줍니다.
 

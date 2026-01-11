@@ -10,7 +10,7 @@ date: 2018-07-04
 
 ![](https://plus.maths.org/content/sites/default/files/styles/small_square/public/light_frontpage.jpg?h=1c7b55f3&itok=RYTV4loD)
 
-표준 수리논리학(mathematical logic)에서 모든 명제문(statement)—"고양이는 흰색이다", "개는 검은색이다", "나는 배고프다"—은 참(true) 또는 거짓(false) 둘 중 하나로 간주됩니다. 두 명제문 $P$와 $Q$가 주어졌을 때, AND나 OR 같은 논리 연결사(logical connectives)를 사용하여 더 복잡한 명제문을 만들 수 있습니다.
+표준 수리논리학(mathematical logic)에서 모든 명제문(statement)-"고양이는 흰색이다", "개는 검은색이다", "나는 배고프다"-은 참(true) 또는 거짓(false) 둘 중 하나로 간주됩니다. 두 명제문 $P$와 $Q$가 주어졌을 때, AND나 OR 같은 논리 연결사(logical connectives)를 사용하여 더 복잡한 명제문을 만들 수 있습니다.
 
 > 수리논리학은 19세기 중반 George Boole과 Gottlob Frege에 의해 본격적으로 발전하기 시작했습니다. 여기서 핵심 아이디어는 일상 언어의 애매함을 제거하고 추론을 기계적으로 검증할 수 있는 형식 체계(formal system)를 만드는 것입니다. 이를 위해 모든 명제를 참 또는 거짓이라는 두 가지 진리값(truth value)만으로 분류하는데, 이를 이가 원리(principle of bivalence)라고 합니다. 이는 직관적으로 명백해 보이지만, 실제로는 "이 문장은 거짓이다"와 같은 자기참조적 문장이나 미래 사건에 대한 명제("내일 비가 올 것이다") 등에서 철학적 논쟁을 불러일으킵니다. 표준 논리학은 이러한 복잡한 경우들을 제외하고, 명확하게 참이거나 거짓인 명제들만 다룹니다.
 

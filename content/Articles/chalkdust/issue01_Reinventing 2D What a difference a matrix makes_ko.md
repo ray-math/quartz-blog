@@ -95,13 +95,13 @@ $$
 다음으로 시작하면
 
 $$
-\int {e}^{x}\sin x \; dx = {e}^{x}\sin x – \int {e}^{x}\cos x \; dx
+\int {e}^{x}\sin x \; dx = {e}^{x}\sin x - \int {e}^{x}\cos x \; dx
 $$
 
 부분적분을 다시 사용하면,
 
 $$
-\int {e}^{x}\sin x \; dx = {e}^{x}\sin x – ({e}^{x}\cos x +\int {e}^{x}\sin x \; dx)
+\int {e}^{x}\sin x \; dx = {e}^{x}\sin x - ({e}^{x}\cos x +\int {e}^{x}\sin x \; dx)
 $$
 
 를 얻는다.
@@ -109,13 +109,13 @@ $$
 이것은 다음으로 이어진다:
 
 $$
-2 \int {e}^{x}\sin x \; dx = {e}^{x}\sin x – {e}^{x}\cos x
+2 \int {e}^{x}\sin x \; dx = {e}^{x}\sin x - {e}^{x}\cos x
 $$
 
 따라서
 
 $$
-\int {e}^{x}\sin x \; dx = \frac{1}{2} {e}^{x}\sin x – \frac{1}{2} {e}^{x}\cos x. \qquad (1)
+\int {e}^{x}\sin x \; dx = \frac{1}{2} {e}^{x}\sin x - \frac{1}{2} {e}^{x}\cos x. \qquad (1)
 $$
 
 마찬가지로 다음을 보일 수 있다:
@@ -127,7 +127,7 @@ $$
 (1)과 (2)를 사용하면,
 
 $$
-\int (a{e}^{x}\sin x + b {e}^{x}\cos x) dx = a \left( \frac{1}{2} {e}^{x}\sin x – \frac{1}{2} {e}^{x}\cos x \right) + b \left( \frac{1}{2} {e}^{x}\sin x + \frac{1}{2} {e}^{x}\cos x \right)
+\int (a{e}^{x}\sin x + b {e}^{x}\cos x) dx = a \left( \frac{1}{2} {e}^{x}\sin x - \frac{1}{2} {e}^{x}\cos x \right) + b \left( \frac{1}{2} {e}^{x}\sin x + \frac{1}{2} {e}^{x}\cos x \right)
 $$
 
 이고, 성분별로 재배열하면,
@@ -141,7 +141,7 @@ $$
 예상대로 우리의 함수 공간은 적분에 대해서도 닫혀있다. 미분과 마찬가지로 우리는 다음과 같이 적분 행렬을 만들 수 있다:
 
 $$
-\mathbf{M}_{\text{int}} = \left ( \begin{matrix} \frac{1}{2} & \frac{1}{2} \\ \\ – \frac{1}{2} & \frac{1}{2} \end{matrix} \right )
+\mathbf{M}_{\text{int}} = \left ( \begin{matrix} \frac{1}{2} & \frac{1}{2} \\ \\ - \frac{1}{2} & \frac{1}{2} \end{matrix} \right )
 $$
 
 이제 결정타가 온다. 그리고 이것은 정말로 나를 놀라게 하므로 당신도 같은 느낌을 받기를 바란다.

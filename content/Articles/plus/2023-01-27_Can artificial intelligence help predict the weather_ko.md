@@ -42,7 +42,7 @@ Google Research의 Jason Hickey가 [설명하듯이](https://ai.googleblog.com/2
 
 ![NWP versus ML forecast](https://plus.maths.org/content/sites/plus.maths.org/files/articles/2023/maths4dl/NOOA_GT_ML_0.gif)
 
-왼쪽: NOAA의 [NWP 예보](https://rapidrefresh.noaa.gov/hrrr/)를 사용한 1시간 예측(1시간이 이 시스템의 한계다). 중앙: 실제 관측값(ground truth), 즉 모델들이 예측하려고 했던 것. 오른쪽: Google Research 팀이 구축한 [기계 학습 모델](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)이 만든 예측. (이미지: [Jason Hickey, Google Research](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html) – 허가를 받아 사용)
+왼쪽: NOAA의 [NWP 예보](https://rapidrefresh.noaa.gov/hrrr/)를 사용한 1시간 예측(1시간이 이 시스템의 한계다). 중앙: 실제 관측값(ground truth), 즉 모델들이 예측하려고 했던 것. 오른쪽: Google Research 팀이 구축한 [기계 학습 모델](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)이 만든 예측. (이미지: [Jason Hickey, Google Research](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html) - 허가를 받아 사용)
 
 "기계 학습 솔루션이 [강우의 레이더 이미지] 표현에서 훨씬 더 현실적이라는 것을 볼 수 있습니다"라고 Dueben은 연구에 대해 말한다. 매우 짧은 시간 동안이기 때문에, 기계 학습 도구가 완벽하지 않더라도 여전히 좋은 예측을 생성할 것이다. 그리고 이러한 예측은 종종 전통적인 도구로는 단순히 불가능하다: "예보를 생성하는 데 말 그대로 몇 분밖에 없으며, 그것은 전통적인 도구로는 상당히 어렵습니다."
 
@@ -54,7 +54,7 @@ Google Research의 Jason Hickey가 [설명하듯이](https://ai.googleblog.com/2
 
 ### 곧?
 
-이러한 응용 분야는 매우 단기적으로, 미래 몇 시간 앞, 그리고 매우 장기적으로, 몇 달이나 몇 년에 걸쳐 예측하는 날씨 예측을 위해 기계 학습을 사용하는 유망한 후보들 중 두 가지일 뿐이다. 그렇다면 며칠 앞의 미래는 어떨까 – 날씨 예보의 중간 시간 규모는? 이러한 중기 예보는 Dueben과 ECMWF의 동료들이 관심을 갖고 있는 정확한 영역이다.
+이러한 응용 분야는 매우 단기적으로, 미래 몇 시간 앞, 그리고 매우 장기적으로, 몇 달이나 몇 년에 걸쳐 예측하는 날씨 예측을 위해 기계 학습을 사용하는 유망한 후보들 중 두 가지일 뿐이다. 그렇다면 며칠 앞의 미래는 어떨까 - 날씨 예보의 중간 시간 규모는? 이러한 중기 예보는 Dueben과 ECMWF의 동료들이 관심을 갖고 있는 정확한 영역이다.
 
 Dueben은 [지구 시스템 과학](https://www.ecmwf.int/en/about/media-centre/focus/2021/fact-sheet-earth-system-modelling-ecmwf)이라는 분야에서 일한다. 지구 시스템 모델은 현재 수치 날씨 예측을 사용하여 대기와 해양의 물리학을 모델링한다. 그러나 이 두 구성요소는 복잡한 방식으로 서로 상호작용하며, 지구 표면의 변화, 특히 지표 피복과 해빙의 변화에 영향을 미치고 반응한다. 날씨를 진정으로 이해하려면 이러한 서로 다른 구성요소들이 전체 지구에 걸쳐 어떻게 행동하고 상호작용하는지 이해해야 한다. 그래서 해양과 대기의 모델은 서로 그리고 해빙과 육지 표면 같은 다른 구성요소들의 수학적 기술과 긴밀하게 연결되어, 전체 지구 시스템 모델에서 상호작용을 포착한다.
 
@@ -86,7 +86,7 @@ Dueben은 [지구 시스템 과학](https://www.ecmwf.int/en/about/media-centre/
 
 새로운 심층 학습 날씨 예측 접근법에 대한 Dale Durran의 대담한 주장을 보여주는 [트윗](https://twitter.com/DJGagneDos/status/1486725485925044237).
 
-"이것은 상당히 대담한 진술입니다"라고 Dueben은 말한다. "역학 코어는 기본적으로 날씨 모델의 유체 역학 구성요소로, 정말로 모델의 핵심입니다." 하지만 Dale은 그냥 아무나가 아니다. 그는 말 그대로 수치 날씨 예측에 관한 책을 썼다 – [지구물리 유체역학의 파동 방정식을 위한 수치 방법](https://www.google.co.uk/books/edition/Numerical_Methods_for_Wave_Equations_in/JioBCAAAQBAJ?hl=en&gbpv=0) – 많은 연구자들이 원리적으로 역학 코어를 구축하는 방법을 배우기 위해 사용한 책이다. "그는 정말로 자신이 무슨 말을 하는지 아는 사람입니다."
+"이것은 상당히 대담한 진술입니다"라고 Dueben은 말한다. "역학 코어는 기본적으로 날씨 모델의 유체 역학 구성요소로, 정말로 모델의 핵심입니다." 하지만 Dale은 그냥 아무나가 아니다. 그는 말 그대로 수치 날씨 예측에 관한 책을 썼다 - [지구물리 유체역학의 파동 방정식을 위한 수치 방법](https://www.google.co.uk/books/edition/Numerical_Methods_for_Wave_Equations_in/JioBCAAAQBAJ?hl=en&gbpv=0) - 많은 연구자들이 원리적으로 역학 코어를 구축하는 방법을 배우기 위해 사용한 책이다. "그는 정말로 자신이 무슨 말을 하는지 아는 사람입니다."
 
 > 역학 코어(dynamical core)는 대기의 운동을 지배하는 기본 유체역학 방정식을 수치적으로 푸는 모델의 중심부다. 주로 원시 방정식(primitive equations)이라 불리는 시스템을 푼다: 운동 방정식(뉴턴 제2법칙) $\frac{D\mathbf{v}}{Dt} = -\frac{1}{\rho}\nabla p - 2\mathbf{\Omega} \times \mathbf{v} + \mathbf{g}$ (여기서 $\mathbf{v}$는 속도, $p$는 기압, $\rho$는 밀도, $\mathbf{\Omega}$는 지구 회전, $\mathbf{g}$는 중력), 연속 방정식(질량 보존) $\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho\mathbf{v}) = 0$, 열역학 방정식(에너지 보존), 이상 기체 상태방정식 $p = \rho R T$. 이 방정식들은 비선형 편미분방정식이며, 코리올리 힘, 압력 경도 힘, 중력의 복잡한 상호작용을 포함한다. 역학 코어는 이를 이산화하여(격자 또는 스펙트럼 방법) 시간 적분한다. 스펙트럼 방법은 장을 구면 조화 함수로 전개하고, 격자 방법은 유한 차분, 유한 체적, 또는 유한 요소를 사용한다. 수치 안정성, 정확도, 보존 법칙(에너지, 각운동량 등)의 이산 버전 유지가 핵심 도전 과제다. Dale Durran이 이 역학 코어를 제거하자고 제안한다는 것은, 150년 이상의 유체역학 이론과 70년 이상의 수치 기법 개발을 신경망으로 대체하자는 혁명적 제안이다.
 

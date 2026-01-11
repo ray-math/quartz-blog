@@ -64,7 +64,7 @@ date: 2023-08-11
 
 [마리안 프라이버거(Marianne Freiberger)](https://plus.maths.org/content/people/index.html#marianne)는 *Plus*의 편집자입니다. INI의 댄 아스펠(Dan Aspel)과 함께 2023년 7월에 한과 슐랑크를 인터뷰했습니다. 인터뷰를 담은 INI의 *Living Proof* 팟캐스트 [이 에피소드](https://www.newton.ac.uk/media/podcasts/post/53-disproving-ravenels-telescope-conjecture-an-interview-with-tomer-schlank-and-jeremy-hahn/)도 들어보시기 바랍니다.
 
-*이 글은 아이작 뉴턴 수학과학연구소(INI)와의 협력의 일환으로 제작되었습니다 – 협력의 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
+*이 글은 아이작 뉴턴 수학과학연구소(INI)와의 협력의 일환으로 제작되었습니다 - 협력의 모든 콘텐츠는 여기에서 찾을 수 있습니다.*
 
 *INI는 국제 연구 센터이자 케임브리지 대학교 수학 캠퍼스에 있는 우리의 이웃입니다. 전 세계의 저명한 수학 과학자들을 끌어들이며, 모두에게 열려 있습니다. 더 자세한 내용은 www.newton.ac.uk를 방문하세요.*
 
