@@ -1,6 +1,15 @@
 ---
 title: 위상수학으로 생명 이해하기
 date: 2025-10-01
+tags:
+  - Newton
+  - 데이터
+  - 위상
+  - TDA
+  - data
+  - 해링턴
+  - Gateway
+  - 주최
 ---
 
 > [!NOTE]

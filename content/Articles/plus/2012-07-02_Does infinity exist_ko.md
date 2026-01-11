@@ -1,6 +1,15 @@
 ---
 title: 무한은 존재하는가?
 date: 2012-07-02
+tags:
+  - 무한
+  - 수학
+  - 우주
+  - 특이점
+  - 논법
+  - argument
+  - diagonal
+  - singularity
 ---
 
 > [!NOTE]

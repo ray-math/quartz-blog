@@ -1,6 +1,15 @@
 ---
 title: 역대 가장 어려운 논리 퍼즐
 date: 2021-04-01
+tags:
+  - 신탁
+  - 거짓
+  - 질문
+  - DA
+  - 진실
+  - Raymond
+  - Smullyan
+  - John
 ---
 
 > [!NOTE]

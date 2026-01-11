@@ -1,6 +1,15 @@
 ---
 title: "외부공간: 관계에 대하여"
 date: 2004-03-01
+tags:
+  - 역설
+  - 관계
+  - 추이
+  - Reliant
+  - Robin
+  - BMW
+  - 사안
+  - Carla
 ---
 
 > [!NOTE]

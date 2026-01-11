@@ -1,6 +1,15 @@
 ---
 title: 라마누잔의 정신에서 영감을 받아
 date: 2018-12-20
+tags:
+  - 라마누잔
+  - 지원
+  - 프로젝트
+  - knew
+  - Spirit
+  - Ramanujan
+  - 정신
+  - Ono
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 양자 기하학
 date: 2007-06-01
+tags:
+  - 양자
+  - 공간
+  - 대수
+  - Mary
+  - Werner
+  - 마지드
+  - Shahn
+  - 플랑크
 ---
 
 > [!NOTE]

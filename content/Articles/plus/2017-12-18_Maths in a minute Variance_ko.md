@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 분산
 date: 2017-12-18
+tags:
+  - 분산
+  - 평균
+  - distribution
+  - sample
+  - 편차
+  - MAD
+  - probability
+  - variance
 ---
 
 > [!NOTE]

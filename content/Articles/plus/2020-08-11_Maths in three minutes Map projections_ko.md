@@ -1,6 +1,15 @@
 ---
 title: "3분 수학: 지도 투영법"
 date: 2020-08-11
+tags:
+  - 도법
+  - 지도
+  - projection
+  - Mercator
+  - 메르카토르
+  - 투영
+  - tripel
+  - 원기둥
 ---
 
 > [!NOTE]

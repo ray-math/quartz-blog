@@ -1,6 +1,15 @@
 ---
 title: 휴 에버렛 3세의 여러 삶들
 date: 2013-02-05
+tags:
+  - rangle
+  - 해석
+  - 세계
+  - 에버렛
+  - Byrne
+  - sqrt
+  - Fuchs
+  - frac
 ---
 
 > [!NOTE]

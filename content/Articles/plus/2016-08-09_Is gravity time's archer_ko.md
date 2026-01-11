@@ -1,6 +1,15 @@
 ---
 title: 중력이 시간의 화살을 쏘는가?
 date: 2016-08-09
+tags:
+  - 우주
+  - Koslowski
+  - 엔트로피
+  - Mercati
+  - Barbour
+  - 화살
+  - PI
+  - 중력
 ---
 
 > [!NOTE]

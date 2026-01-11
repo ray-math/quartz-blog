@@ -1,6 +1,15 @@
 ---
 title: 타일링 속의 유령들
 date: 2021-01-29
+tags:
+  - 곡선
+  - Tim
+  - 환영
+  - 도형
+  - 타일
+  - Lexen
+  - Aperiodical
+  - element
 ---
 
 > [!NOTE]

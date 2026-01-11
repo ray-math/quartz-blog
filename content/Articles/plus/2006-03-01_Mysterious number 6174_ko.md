@@ -1,6 +1,15 @@
 ---
 title: 신비한 수 6174
 date: 2006-03-01
+tags:
+  - 연산
+  - 카프리카
+  - 수학
+  - Yutaka
+  - Lines
+  - orbit
+  - Basic
+  - Visual
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "보였다 안 보였다: 투명 망토의 수학"
 date: 2006-01-02
+tags:
+  - 방정식
+  - 수학
+  - University
+  - 망토
+  - Rochester
+  - Duke
+  - 투명
+  - Greenleaf
 ---
 
 > [!NOTE]

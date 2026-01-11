@@ -1,6 +1,15 @@
 ---
 title: 수학의 뿌리(Roots)- 모든 것은 평등하다
 date: 2015-10-06
+tags:
+  - 수학
+  - 레코드
+  - Rights
+  - equal
+  - 등호
+  - Campaign
+  - 라틴어
+  - Human
 ---
 
 > [!NOTE]

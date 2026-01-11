@@ -1,3 +1,15 @@
+---
+tags:
+  - 곡면
+  - map
+  - is
+  - Compute
+  - 콤팩트
+  - 타원면
+  - 벡터
+  - 홀로노미
+---
+
 ### 11. Given a continuous map $f: \mathbb{R} \to \mathbb{R}$, show that the map $\Gamma_f: \mathbb{R} \to \mathbb{R}^2$ defined by $\Gamma_f(x)=(x, f(x))$ is continuous.
 #### Theorem
 **곱공간으로 가는 함수의 연속성 (Continuity of a Map into a Product Space)**

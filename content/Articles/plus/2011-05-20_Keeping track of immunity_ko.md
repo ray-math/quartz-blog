@@ -1,6 +1,15 @@
 ---
 title: 면역의 추적
 date: 2011-05-20
+tags:
+  - 모델
+  - 변종
+  - 감염
+  - 면역
+  - 유행병
+  - Galton
+  - branching
+  - local
 ---
 
 > [!NOTE]

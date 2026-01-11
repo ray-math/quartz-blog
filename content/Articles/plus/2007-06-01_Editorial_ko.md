@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2007-06-01
+tags:
+  - 수학
+  - 이론
+  - 컴퓨터
+  - MMG
+  - 카오스
+  - Alto
+  - quantum
+  - von
 ---
 
 > [!NOTE]

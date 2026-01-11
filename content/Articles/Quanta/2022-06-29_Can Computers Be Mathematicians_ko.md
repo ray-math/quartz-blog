@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터가 수학자가 될 수 있을까?
 date: 2022-06-29
+tags:
+  - 수학
+  - 증명
+  - Lean
+  - Scholze
+  - 전술
+  - Microsoft
+  - Buzzard
+  - Strogatz
 ---
 
 > [!NOTE]

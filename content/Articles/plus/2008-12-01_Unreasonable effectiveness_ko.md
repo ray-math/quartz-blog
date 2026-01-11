@@ -1,6 +1,15 @@
 ---
 title: 수학의 불합리한 효율성
 date: 2008-12-01
+tags:
+  - 매듭
+  - 수학
+  - 이론
+  - Ann
+  - Telescope
+  - created
+  - God
+  - Space
 ---
 
 > [!NOTE]

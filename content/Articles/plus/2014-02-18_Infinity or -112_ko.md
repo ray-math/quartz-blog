@@ -1,6 +1,15 @@
 ---
 title: 무한대인가, -1/12인가?
 date: 2014-02-18
+tags:
+  - 함수
+  - 수학
+  - 제타
+  - 카시미르
+  - Casimir
+  - zeta
+  - Hendrik
+  - 비디오
 ---
 
 > [!NOTE]

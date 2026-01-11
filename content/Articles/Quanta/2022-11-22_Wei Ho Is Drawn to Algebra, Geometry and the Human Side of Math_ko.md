@@ -1,6 +1,15 @@
 ---
 title: 대수, 기하, 그리고 수학의 인간적인 면에 이끌린 웨이 호
 date: 2022-11-22
+tags:
+  - 수학
+  - Stacks
+  - project
+  - Women
+  - geometry
+  - 타원
+  - 여성
+  - 태그
 ---
 
 > [!NOTE]

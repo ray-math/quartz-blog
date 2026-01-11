@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 이항분포
 date: 2022-01-07
+tags:
+  - 확률
+  - binomial
+  - 분포
+  - 이항
+  - coefficient
+  - 히스토그램
+  - 시행
+  - skewed
 ---
 
 > [!NOTE]

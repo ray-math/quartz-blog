@@ -1,6 +1,15 @@
 ---
 title: "외부 공간: 전술의 문제"
 date: 2010-09-03
+tags:
+  - 전략
+  - Nash
+  - 작위
+  - mixed
+  - strategy
+  - 내시
+  - 스퍼트
+  - 무작위
 ---
 
 > [!NOTE]

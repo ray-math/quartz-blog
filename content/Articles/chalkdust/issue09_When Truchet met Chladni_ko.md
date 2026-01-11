@@ -1,6 +1,15 @@
 ---
 title: 트뤼셰가 클라드니를 만났을 때
 date: 2019-03-14
+tags:
+  - 타일
+  - 침투
+  - 트뤼셰
+  - Chladni
+  - percolation
+  - 격자
+  - 임계
+  - 육각
 ---
 
 > [!NOTE]

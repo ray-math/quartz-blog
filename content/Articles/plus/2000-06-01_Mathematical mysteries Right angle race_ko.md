@@ -1,6 +1,15 @@
 ---
 title: 수학적 미스터리- 직각 경주
 date: 2000-06-01
+tags:
+  - 직각
+  - 컴퍼스
+  - Adam
+  - Ries
+  - 리스
+  - AB
+  - QS
+  - nach
 ---
 
 > [!NOTE]

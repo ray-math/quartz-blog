@@ -1,6 +1,15 @@
 ---
 title: "게임 이론으로 파이 데이를 축하하세요!"
 date: 2022-03-11
+tags:
+  - 게임
+  - 이론
+  - 전략
+  - 셸링
+  - equilibrium
+  - optimum
+  - 포커
+  - correlated
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: AI가 판사가 된다면 - 2부
 date: 2024-01-24
+tags:
+  - 알고리즘
+  - Kubiak
+  - AI
+  - SME
+  - 형량
+  - Tiarks
+  - garbage
+  - DIGITAL
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 정보는 복잡도다
 date: 2015-03-24
+tags:
+  - 문자열
+  - 정보
+  - 압축
+  - 러셀
+  - scottaar
+  - 아론
+  - http
+  - NCD
 ---
 
 > [!NOTE]

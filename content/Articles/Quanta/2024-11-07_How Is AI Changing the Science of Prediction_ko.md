@@ -1,6 +1,15 @@
 ---
 title: AI는 예측 과학을 어떻게 변화시키고 있는가?
 date: 2024-11-07
+tags:
+  - 당신
+  - 우리
+  - 예측
+  - Hochberg
+  - MacArthur
+  - Benjamini
+  - PRX
+  - Fellowship
 ---
 
 > [!NOTE]

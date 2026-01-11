@@ -1,6 +1,15 @@
 ---
 title: 사설, 수학 교육
 date: 2005-03-01
+tags:
+  - 수학
+  - 보고서
+  - 교육
+  - Lord
+  - Aiken
+  - Alto
+  - 다트
+  - Palo
 ---
 
 > [!NOTE]

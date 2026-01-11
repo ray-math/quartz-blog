@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 2005-05-01
+tags:
+  - 조사
+  - 여론
+  - 예측
+  - 노동당
+  - Vaughan
+  - sampling
+  - based
+  - Williams
 ---
 
 > [!NOTE]

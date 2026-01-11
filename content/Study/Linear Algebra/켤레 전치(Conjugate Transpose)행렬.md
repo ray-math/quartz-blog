@@ -2,6 +2,14 @@
 title: 켤레 전치(Conjugate Transpose, Hermitian Transpose) 행렬
 date: 2025-02-22
 tags:
+  - 전치
+  - 행렬식
+  - 켤레
+  - Transpose
+  - Conjugate
+  - Determinant
+  - 곱셈
+  - 덧셈
 ---
 ## 켤레 전치(Conjugate Transpose)의 정의
 행렬 $A$ 에 대해, 켤레 전치는 다음과 같이 정의된다.

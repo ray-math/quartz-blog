@@ -1,6 +1,15 @@
 ---
 title: 수학자 3인조, 수 세기 된 정수론 문제에서 획기적 진전을 이루다
 date: 2022-11-29
+tags:
+  - 정수
+  - Dyer
+  - 타원
+  - 바르가바
+  - Birch
+  - 알푀게
+  - Swinnerton
+  - converse
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "외부 공간: 독립 기념일"
 date: 2003-09-01
+tags:
+  - 독립
+  - 발견
+  - Petersen
+  - Lincoln
+  - Thisted
+  - Efron
+  - 위원
+  - 물고기
 ---
 
 > [!NOTE]

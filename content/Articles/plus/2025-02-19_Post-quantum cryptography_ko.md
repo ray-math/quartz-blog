@@ -1,6 +1,15 @@
 ---
 title: 포스트 양자 암호학
 date: 2025-02-19
+tags:
+  - 암호
+  - 양자
+  - Quantum
+  - Lozinski
+  - Wallden
+  - Zygmunt
+  - Challenges
+  - Applications
 ---
 
 > [!NOTE]

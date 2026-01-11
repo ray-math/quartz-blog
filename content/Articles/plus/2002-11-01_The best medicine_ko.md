@@ -1,6 +1,15 @@
 ---
 title: 최선의 치료법은?
 date: 2002-11-01
+tags:
+  - 연구
+  - 치료
+  - 통계
+  - clinical
+  - 환자
+  - Photo
+  - www
+  - survival
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 확산"
 date: 2024-12-12
+tags:
+  - 방정식
+  - 확산
+  - differential
+  - equations
+  - 온도
+  - 푸리에
+  - Fourier
+  - 금속
 ---
 
 > [!NOTE]

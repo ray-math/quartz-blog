@@ -1,6 +1,15 @@
 ---
 title: 단순히 시간의 문제가 아니다- 바쁜 비버
 date: 2016-10-12
+tags:
+  - 함수
+  - Turing
+  - 기계
+  - 비버
+  - 카드
+  - Church
+  - Ackermann
+  - 화살표
 ---
 
 > [!NOTE]

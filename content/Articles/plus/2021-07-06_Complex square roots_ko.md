@@ -1,6 +1,15 @@
 ---
 title: 복소수의 제곱근
 date: 2021-07-06
+tags:
+  - 함수
+  - 곡면
+  - 제곱
+  - valued
+  - 애플릿
+  - 절단
+  - multi
+  - Sabah
 ---
 
 > [!NOTE]

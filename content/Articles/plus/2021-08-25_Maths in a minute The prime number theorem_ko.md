@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 소수 정리"
 date: 2021-08-25
+tags:
+  - 소수
+  - 정리
+  - 적분
+  - logarithm
+  - 동치
+  - prime
+  - error
+  - 이하
 ---
 
 > [!NOTE]

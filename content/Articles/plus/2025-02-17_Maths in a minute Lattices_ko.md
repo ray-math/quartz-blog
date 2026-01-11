@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 격자"
 date: 2025-02-17
+tags:
+  - 격자
+  - 기저
+  - 벡터
+  - Gateway
+  - basis
+  - Lenstra
+  - 링크
+  - Vector
 ---
 
 > [!NOTE]

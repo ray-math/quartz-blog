@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 펭귄
 date: 2017-01-20
+tags:
+  - Transfer
+  - 수학
+  - 펭귄
+  - Knowledge
+  - 부화
+  - Network
+  - 유체
+  - 기업
 ---
 
 > [!NOTE]

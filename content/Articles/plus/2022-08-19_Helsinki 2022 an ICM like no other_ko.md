@@ -1,6 +1,15 @@
 ---
 title: "헬싱키 2022: 그 어느 때와도 달랐던 ICM"
 date: 2022-08-19
+tags:
+  - 수학
+  - ICM
+  - IMU
+  - 비아조브스카
+  - 러시아
+  - 행사
+  - International
+  - 개최
 ---
 
 > [!NOTE]

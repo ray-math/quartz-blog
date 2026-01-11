@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 무한 원숭이의 사업"
 date: 2010-03-01
+tags:
+  - 확률
+  - 원숭이
+  - 문자
+  - Zoo
+  - Understanding
+  - Owen
+  - 타이핑
+  - understandinguncert
 ---
 
 > [!NOTE]

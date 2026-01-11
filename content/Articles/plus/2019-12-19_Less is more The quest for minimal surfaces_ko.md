@@ -1,6 +1,15 @@
 ---
 title: "적을수록 더 많다: 극소곡면을 찾아서"
 date: 2019-12-19
+tags:
+  - 곡면
+  - 특이점
+  - surface
+  - Harold
+  - 비눗
+  - 체스터
+  - Chester
+  - 면적
 ---
 
 > [!NOTE]

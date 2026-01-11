@@ -1,6 +1,15 @@
 ---
 title: "백신 접종: 현재 우리는 어디에 있고, 어디로 가고 있는가?"
 date: 2021-04-01
+tags:
+  - 백신
+  - 접종
+  - 감염
+  - Louise
+  - Hill
+  - Tildesley
+  - Keeling
+  - 워릭
 ---
 
 > [!NOTE]

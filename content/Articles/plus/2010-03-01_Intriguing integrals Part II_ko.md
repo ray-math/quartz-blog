@@ -1,6 +1,15 @@
 ---
 title: 흥미로운 적분들 - 2부
 date: 2010-03-01
+tags:
+  - computer
+  - Crimes
+  - equation
+  - misdemeanors
+  - label
+  - 복리
+  - int
+  - Chris
 ---
 
 > [!NOTE]

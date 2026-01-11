@@ -1,6 +1,15 @@
 ---
 title: 인공지능이란 무엇인가?
 date: 2024-03-01
+tags:
+  - AI
+  - 수학
+  - Rachel
+  - Yury
+  - Intelligence
+  - Artificial
+  - DL
+  - Korolev
 ---
 
 > [!NOTE]

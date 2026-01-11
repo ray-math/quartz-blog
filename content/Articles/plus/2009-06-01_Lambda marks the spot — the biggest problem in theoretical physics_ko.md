@@ -1,6 +1,15 @@
 ---
 title: 람다가 표시하는 지점 - 이론물리학의 가장 큰 문제
 date: 2009-06-01
+tags:
+  - 우주
+  - 에너지
+  - 우리
+  - 모형
+  - 균질
+  - 보손
+  - Cosmology
+  - cosmological
 ---
 
 > [!NOTE]

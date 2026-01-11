@@ -1,6 +1,15 @@
 ---
 title: 스도쿠의 비밀을 풀다
 date: 2025-03-17
+tags:
+  - 기저
+  - 알고리즘
+  - 스도쿠
+  - 그뢰브너
+  - Maple
+  - Lex
+  - align
+  - gbasis
 ---
 
 > [!NOTE]

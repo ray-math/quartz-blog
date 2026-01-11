@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 연분수
 date: 2015-10-02
+tags:
+  - 연분수
+  - 근사
+  - 수렴
+  - fractions
+  - continued
+  - 무리수
+  - 수열
+  - Phi
 ---
 
 > [!NOTE]

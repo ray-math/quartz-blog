@@ -1,6 +1,15 @@
 ---
 title: 숫자의 소용돌이
 date: 2003-05-01
+tags:
+  - 소수
+  - 리만
+  - 수학
+  - Friedrich
+  - CD
+  - Kayal
+  - Bernhard
+  - 제출
 ---
 
 > [!NOTE]

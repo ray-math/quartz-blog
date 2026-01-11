@@ -1,6 +1,15 @@
 ---
 title: 사회적 거리두기의 수학은 기하학 교과서다
 date: 2020-07-13
+tags:
+  - 차원
+  - 배치
+  - cubic
+  - close
+  - packing
+  - 입방
+  - HCP
+  - 육각
 ---
 
 > [!NOTE]

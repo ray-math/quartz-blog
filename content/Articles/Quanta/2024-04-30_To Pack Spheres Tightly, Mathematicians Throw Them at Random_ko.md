@@ -1,6 +1,15 @@
 ---
 title: 구를 빽빽하게 채우려면, 수학자들은 구를 무작위로 던진다
 date: 2024-04-30
+tags:
+  - 차원
+  - 격자
+  - 그래프
+  - Jenssen
+  - Michelen
+  - Sahasrabudhe
+  - Campos
+  - 기준선
 ---
 
 > [!NOTE]

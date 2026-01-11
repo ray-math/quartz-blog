@@ -1,6 +1,15 @@
 ---
 title: 학생 인터뷰 - 마크 랭글리
 date: 1997-01-01
+tags:
+  - 레벨
+  - 마크
+  - 우리
+  - UCAS
+  - Sixth
+  - Leicester
+  - 식스
+  - Kent
 ---
 
 > [!NOTE]

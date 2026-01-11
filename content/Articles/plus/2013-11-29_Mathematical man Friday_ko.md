@@ -1,6 +1,15 @@
 ---
 title: 수학자 프라이데이
 date: 2013-11-29
+tags:
+  - 수학
+  - Peter
+  - 크루소
+  - tomorrow
+  - Robinson
+  - McLoughlin
+  - Crusoe
+  - Brothers
 ---
 
 > [!NOTE]

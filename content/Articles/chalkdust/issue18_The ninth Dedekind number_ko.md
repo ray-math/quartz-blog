@@ -1,6 +1,15 @@
 ---
 title: 아홉 번째 데데킨트 수
 date: 2023-12-06
+tags:
+  - 함수
+  - De
+  - 단조
+  - 반사슬
+  - exclusion
+  - 쌍방
+  - Leuven
+  - Wilhelm
 ---
 
 > [!NOTE]

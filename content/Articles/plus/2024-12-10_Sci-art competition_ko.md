@@ -1,6 +1,15 @@
 ---
 title: 수학-예술 융합 공모전
 date: 2024-12-10
+tags:
+  - 수학
+  - 확률
+  - 확산
+  - anomalous
+  - Minute
+  - Maths
+  - systems
+  - Stokes
 ---
 
 > [!NOTE]

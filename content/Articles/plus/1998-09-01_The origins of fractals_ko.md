@@ -1,6 +1,15 @@
 ---
 title: 프랙탈의 기원
 date: 1998-09-01
+tags:
+  - 함수
+  - Hilbert
+  - 곡선
+  - Weierstrass
+  - Benoit
+  - Fractal
+  - Karl
+  - 프랙탈
 ---
 
 > [!NOTE]

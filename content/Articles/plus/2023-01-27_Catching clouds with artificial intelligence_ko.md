@@ -1,6 +1,15 @@
 ---
 title: 인공지능으로 구름 포착하기
 date: 2023-01-27
+tags:
+  - 구름
+  - 기상
+  - 예보
+  - Coward
+  - Deveney
+  - cloud
+  - 러닝
+  - 머신
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "의미 구축하기: 개 아니면 타조?"
 date: 2020-07-28
+tags:
+  - 학습
+  - 기계
+  - 단어
+  - Adversarial
+  - Generative
+  - training
+  - Jay
+  - 벤지
 ---
 
 > [!NOTE]

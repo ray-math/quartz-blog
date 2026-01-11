@@ -1,6 +1,15 @@
 ---
 title: 에이다 분석하기
 date: 2015-12-17
+tags:
+  - 러브
+  - 그녀
+  - 과학
+  - 배비지
+  - 레이스
+  - Ada
+  - engine
+  - Babbage
 ---
 
 > [!NOTE]

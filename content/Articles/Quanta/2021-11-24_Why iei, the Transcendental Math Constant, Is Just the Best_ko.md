@@ -1,6 +1,15 @@
 ---
 title: 초월수 <i>e</i>가 최고인 이유
 date: 2021-11-24
+tags:
+  - 후보
+  - 이것
+  - form
+  - 점화식
+  - Ilic
+  - Michel
+  - 좌석
+  - common
 ---
 
 > [!NOTE]

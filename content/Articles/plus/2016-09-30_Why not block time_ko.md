@@ -1,6 +1,15 @@
 ---
 title: 왜 블록 시간이 아닌가?
 date: 2016-09-30
+tags:
+  - 시간
+  - 우주
+  - 이론
+  - 레이저
+  - 블록
+  - Marina
+  - 핸포드
+  - Observatory
 ---
 
 > [!NOTE]

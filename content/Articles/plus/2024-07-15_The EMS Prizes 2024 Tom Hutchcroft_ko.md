@@ -1,6 +1,15 @@
 ---
 title: 2024년 EMS 상 수상자 - 톰 허치크로프트
 date: 2024-07-15
+tags:
+  - 모델
+  - 연결
+  - 수학
+  - 허치크로프트
+  - Tom
+  - percolation
+  - 침투
+  - component
 ---
 
 > [!NOTE]

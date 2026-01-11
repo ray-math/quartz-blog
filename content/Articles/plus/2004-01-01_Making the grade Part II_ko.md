@@ -1,6 +1,15 @@
 ---
 title: "성적 매기기: 2부"
 date: 2004-01-01
+tags:
+  - 함수
+  - quad
+  - frac
+  - begin
+  - end
+  - equation
+  - Photo
+  - text
 ---
 
 > [!NOTE]

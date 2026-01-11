@@ -1,6 +1,15 @@
 ---
 title: 무지개에서 괴물파까지
 date: 2022-11-30
+tags:
+  - 파도
+  - 분산
+  - 조직
+  - Moro
+  - Gateway
+  - El
+  - Hoefer
+  - 행사
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 기하학의 가장 오래된 문제들을 되살리는 새로운 수학
 date: 2025-09-26
+tags:
+  - 문제
+  - 수학
+  - 열거
+  - Kass
+  - Wickelgren
+  - Levine
+  - Eisenbud
+  - motivic
 ---
 
 > [!NOTE]

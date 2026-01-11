@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 위험을 표현하는 다양한 방식"
 date: 2009-03-01
+tags:
+  - 위험
+  - risk
+  - 사람
+  - Uncertainty
+  - needed
+  - 베이컨
+  - 스피겔할터
+  - framing
 ---
 
 > [!NOTE]

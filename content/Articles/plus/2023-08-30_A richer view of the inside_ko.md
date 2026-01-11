@@ -1,6 +1,15 @@
 ---
 title: 내부를 보는 더 풍부한 시각
 date: 2023-08-30
+tags:
+  - 수학
+  - 문제
+  - 데이터
+  - Lionheart
+  - Gazzola
+  - 촬영
+  - Tomography
+  - Silvia
 ---
 
 > [!NOTE]

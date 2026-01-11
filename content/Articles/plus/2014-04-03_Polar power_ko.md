@@ -1,6 +1,15 @@
 ---
 title: 극좌표의 힘
 date: 2014-04-03
+tags:
+  - 나선
+  - 좌표
+  - 도형
+  - 아르키메데스
+  - 데카르트
+  - spiral
+  - 로그
+  - coordinates
 ---
 
 > [!NOTE]

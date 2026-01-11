@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 검사의 오류"
 date: 2016-10-11
+tags:
+  - doubt
+  - 확률
+  - reasonable
+  - 유죄
+  - DNA
+  - 검사
+  - 승산
+  - Bayes
 ---
 
 > [!NOTE]

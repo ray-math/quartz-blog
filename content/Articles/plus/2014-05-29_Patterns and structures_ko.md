@@ -1,6 +1,15 @@
 ---
 title: 패턴과 구조
 date: 2014-05-29
+tags:
+  - 소수
+  - 수학
+  - 패턴
+  - Yitang
+  - Zhang
+  - Riemann
+  - zeta
+  - prime
 ---
 
 > [!NOTE]

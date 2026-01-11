@@ -1,6 +1,15 @@
 ---
 title: 양자전기역학의 길들이기
 date: 2013-07-22
+tags:
+  - Schwinger
+  - 계산
+  - 입자
+  - Dyson
+  - Tomonaga
+  - itiro
+  - Lamb
+  - Rabi
 ---
 
 > [!NOTE]

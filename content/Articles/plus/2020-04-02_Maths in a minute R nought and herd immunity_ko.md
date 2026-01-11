@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: R₀와 집단 면역"
 date: 2020-04-02
+tags:
+  - 감염
+  - 면역
+  - 집단
+  - herd
+  - 감수
+  - Infectious
+  - Diseases
+  - 백신
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수학 마술사는 어떻게 당신의 숫자를 알아맞힐까?
 date: 2022-05-04
+tags:
+  - 수학
+  - 퍼즐
+  - Hans
+  - Carroll
+  - 마술
+  - Lewis
+  - Tao
+  - 카드
 ---
 
 > [!NOTE]

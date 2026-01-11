@@ -1,6 +1,15 @@
 ---
 title: 수학, 광기 그리고 영화
 date: 2008-06-16
+tags:
+  - 수학
+  - 영화
+  - 권리
+  - Janbaz
+  - Mulcare
+  - Charlotte
+  - Shahrooz
+  - 아우구스티누스
 ---
 
 > [!NOTE]

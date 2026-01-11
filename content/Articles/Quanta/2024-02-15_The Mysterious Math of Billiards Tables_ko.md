@@ -1,6 +1,15 @@
 ---
 title: 당구대의 신비로운 수학
 date: 2024-02-15
+tags:
+  - 궤도
+  - 당구
+  - 동역학
+  - assisted
+  - Aviv
+  - Tokarsky
+  - Tel
+  - 궤적
 ---
 
 > [!NOTE]

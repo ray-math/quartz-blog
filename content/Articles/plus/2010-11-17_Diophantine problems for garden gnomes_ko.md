@@ -1,6 +1,15 @@
 ---
 title: 정원 요정들을 위한 디오판토스 문제
 date: 2010-11-17
+tags:
+  - 방정식
+  - 디오판토스
+  - 알고리즘
+  - Diophantine
+  - 부부
+  - Euclidean
+  - algorithm
+  - 공약수
 ---
 
 > [!NOTE]

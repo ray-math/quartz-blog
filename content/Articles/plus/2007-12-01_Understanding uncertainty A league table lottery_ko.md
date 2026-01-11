@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 리그 테이블의 복권 같은 속성"
 date: 2007-12-01
+tags:
+  - 숫자
+  - 분포
+  - 복권
+  - squared
+  - 추첨
+  - distribution
+  - chi
+  - 간격
 ---
 
 > [!NOTE]

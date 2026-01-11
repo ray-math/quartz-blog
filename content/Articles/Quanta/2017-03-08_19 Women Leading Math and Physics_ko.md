@@ -1,6 +1,15 @@
 ---
 title: 수학과 물리학을 이끄는 19명의 여성 과학자들
 date: 2017-03-08
+tags:
+  - 여성
+  - 수학
+  - 그녀
+  - 세바스찬
+  - Suchitra
+  - 불임
+  - Maryam
+  - Sylvia
 ---
 
 > [!NOTE]

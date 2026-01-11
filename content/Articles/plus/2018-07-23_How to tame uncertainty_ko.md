@@ -1,6 +1,15 @@
 ---
 title: 불확실성을 길들이는 법
 date: 2018-07-23
+tags:
+  - 모형
+  - 정량
+  - Powell
+  - Dashti
+  - Masoumeh
+  - inverse
+  - Catherine
+  - numerical
 ---
 
 > [!NOTE]

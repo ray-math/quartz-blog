@@ -1,6 +1,15 @@
 ---
 title: 다항식 내부의 척력을 측정한 수학자
 date: 2020-05-14
+tags:
+  - 수학
+  - Hankel
+  - 정수
+  - 디미트로프
+  - Schinzel
+  - Zassenhaus
+  - 하우스
+  - 자세
 ---
 
 > [!NOTE]

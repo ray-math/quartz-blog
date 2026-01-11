@@ -1,6 +1,15 @@
 ---
 title: 틀린 것이 옳을 때
 date: 2023-01-16
+tags:
+  - 모델
+  - Pandemic
+  - Group
+  - Medley
+  - TMWIW
+  - Gog
+  - Influenza
+  - Angela
 ---
 
 > [!NOTE]

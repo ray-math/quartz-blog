@@ -1,6 +1,15 @@
 ---
 title: 튜링 패턴이 작은 결정에서 발견되다
 date: 2021-08-10
+tags:
+  - 패턴
+  - 튜링
+  - Aharon
+  - Yuki
+  - 비스무트
+  - Kapitulnik
+  - 줄무늬
+  - 모르포젠
 ---
 
 > [!NOTE]

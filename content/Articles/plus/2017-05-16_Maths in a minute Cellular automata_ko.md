@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 세포 자동자"
 date: 2017-05-16
+tags:
+  - 규칙
+  - 자동
+  - 세포
+  - cellular
+  - 울프
+  - universal
+  - automaton
+  - Turing
 ---
 
 > [!NOTE]

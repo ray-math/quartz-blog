@@ -1,6 +1,15 @@
 ---
 title: 수학의 가장 오래된 문제에 새로운 답이 나오다
 date: 2022-03-09
+tags:
+  - Croot
+  - 집합
+  - 문제
+  - Rhind
+  - Bloom
+  - 버킷
+  - smooth
+  - harmonic
 ---
 
 > [!NOTE]

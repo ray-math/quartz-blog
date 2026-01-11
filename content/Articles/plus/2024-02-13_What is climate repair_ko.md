@@ -1,6 +1,15 @@
 ---
 title: 기후 복원이란 무엇인가?
 date: 2024-02-13
+tags:
+  - 기후
+  - cloud
+  - 우리
+  - Fitzgerald
+  - Rebellion
+  - 빙하
+  - Grae
+  - Extinction
 ---
 
 > [!NOTE]

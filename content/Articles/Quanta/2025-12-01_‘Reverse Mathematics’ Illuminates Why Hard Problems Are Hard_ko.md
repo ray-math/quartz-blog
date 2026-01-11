@@ -1,6 +1,15 @@
 ---
 title: 역수학(Reverse Mathematics)이 밝혀낸 어려운 문제가 어려운 이유
 date: 2025-12-01
+tags:
+  - 증명
+  - 수학
+  - 문제
+  - Chen
+  - time
+  - PV
+  - Oliveira
+  - Li
 ---
 
 > [!NOTE]

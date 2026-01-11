@@ -1,6 +1,15 @@
 ---
 title: 지리적 프로파일링
 date: 2017-10-18
+tags:
+  - 모델
+  - 지리
+  - 범죄
+  - 프로파일링
+  - OpenStreetMap
+  - contribut
+  - 정박
+  - Dean
 ---
 
 > [!NOTE]

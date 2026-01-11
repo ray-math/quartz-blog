@@ -1,6 +1,15 @@
 ---
 title: "수학의 미스터리: 초월적 명상"
 date: 2002-09-01
+tags:
+  - 정리
+  - 유리수
+  - 수학자
+  - Schneider
+  - Gelfond
+  - 슈나이더
+  - 폰트
+  - numbers
 ---
 
 > [!NOTE]

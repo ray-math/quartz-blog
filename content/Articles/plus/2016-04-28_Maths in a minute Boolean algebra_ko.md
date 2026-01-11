@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 불 대수
 date: 2016-04-28
+tags:
+  - 명제
+  - 논리
+  - 대수
+  - False
+  - True
+  - 거짓
+  - 진리표
+  - Boolean
 ---
 
 > [!NOTE]

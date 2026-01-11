@@ -1,6 +1,15 @@
 ---
 title: 수학의 아름다움은 보는 이의 뇌 속에 있다
 date: 2017-05-30
+tags:
+  - 수학
+  - 영역
+  - 아름다움
+  - Alvarez
+  - 피질
+  - Josefina
+  - 제목
+  - left
 ---
 
 > [!NOTE]

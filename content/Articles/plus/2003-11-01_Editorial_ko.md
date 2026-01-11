@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2003-11-01
+tags:
+  - 수학
+  - Mathematics
+  - mathematical
+  - 포스터
+  - 문해
+  - fluency
+  - literacy
+  - Millennium
 ---
 
 > [!NOTE]

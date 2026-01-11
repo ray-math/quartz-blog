@@ -1,6 +1,15 @@
 ---
 title: 우사인 볼트의 구간 기록과 미적분의 힘
 date: 2019-04-03
+tags:
+  - 속도
+  - 우리
+  - 미터
+  - 볼트
+  - speed
+  - 미적분
+  - Nelson
+  - Margaret
 ---
 
 > [!NOTE]

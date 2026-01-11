@@ -1,6 +1,15 @@
 ---
 title: 무한은 자연에 존재하는가?
 date: 2013-09-26
+tags:
+  - 무한
+  - 우주
+  - 물리
+  - 급팽창
+  - cosmic
+  - CH
+  - Agui
+  - Ellis
 ---
 
 > [!NOTE]

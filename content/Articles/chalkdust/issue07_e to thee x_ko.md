@@ -1,6 +1,15 @@
 ---
 title: e에게 바치는 x
 date: 2018-03-12
+tags:
+  - 수학
+  - number
+  - 무리수
+  - queue
+  - 허수
+  - 시인
+  - 파이
+  - Pi
 ---
 
 > [!NOTE]

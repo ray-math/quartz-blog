@@ -1,6 +1,15 @@
 ---
 title: 소수 증명 이후, 예상치 못한 스타의 탄생
 date: 2015-04-02
+tags:
+  - 수학
+  - 소수
+  - Annals
+  - 서브웨이
+  - MAGAZINE
+  - QUANTA
+  - th
+  - gap
 ---
 
 > [!NOTE]

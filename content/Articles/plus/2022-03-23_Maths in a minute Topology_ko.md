@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 위상수학
 date: 2022-03-23
+tags:
+  - 곡면
+  - 차원
+  - 가능
+  - things
+  - come
+  - orientable
+  - shape
+  - 구멍
 ---
 
 > [!NOTE]

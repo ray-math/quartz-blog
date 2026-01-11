@@ -1,6 +1,15 @@
 ---
 title: 은밀한 대칭성과 힉스 보손 (제1부)
 date: 2012-07-03
+tags:
+  - 에너지
+  - 이론
+  - 힉스
+  - Landau
+  - Cooper
+  - symmetry
+  - breaking
+  - spontaneous
 ---
 
 > [!NOTE]

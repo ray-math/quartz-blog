@@ -1,6 +1,15 @@
 ---
 title: Plus 신진 작가상 2009
 date: 2009-08-25
+tags:
+  - 과학
+  - 수학
+  - 수상작
+  - Butchart
+  - Sophie
+  - 신진
+  - Havil
+  - Economist
 ---
 
 > [!NOTE]

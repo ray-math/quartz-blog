@@ -1,6 +1,15 @@
 ---
 title: "아이작 뉴턴 수학과학연구소 30주년을 축하합니다!"
 date: 2022-07-18
+tags:
+  - 수학
+  - Institute
+  - INI
+  - 크리스티
+  - Sciences
+  - Christie
+  - Research
+  - Tim
 ---
 
 > [!NOTE]

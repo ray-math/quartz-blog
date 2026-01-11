@@ -1,6 +1,15 @@
 ---
 title: "수의 나라의 카오스: 연분수의 비밀스러운 삶"
 date: 2000-06-01
+tags:
+  - 연분수
+  - 전개
+  - 근사
+  - Fractions
+  - Press
+  - Khinchin
+  - 무리수
+  - 황금비
 ---
 
 > [!NOTE]

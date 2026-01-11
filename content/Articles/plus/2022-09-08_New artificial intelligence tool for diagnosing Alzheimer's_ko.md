@@ -1,6 +1,15 @@
 ---
 title: 알츠하이머 진단을 위한 새로운 인공지능 도구
 date: 2022-09-08
+tags:
+  - 데이터
+  - 학습
+  - Aviles
+  - Rivero
+  - Alzheimer
+  - 하이퍼
+  - Modal
+  - 라벨
 ---
 
 > [!NOTE]

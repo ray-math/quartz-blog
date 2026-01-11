@@ -1,6 +1,15 @@
 ---
 title: 순간의 통찰, 확률론과 정수론을 하나로 묶다
 date: 2023-01-12
+tags:
+  - 멘트
+  - Cohen
+  - Lenstra
+  - Wood
+  - Sawin
+  - Wisconsin
+  - 휴리스틱
+  - Westerland
 ---
 
 > [!NOTE]

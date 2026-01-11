@@ -1,6 +1,15 @@
 ---
 title: "텐서 네트워크: 양자물리학의 복잡함을 풀어내다"
 date: 2025-04-24
+tags:
+  - 양자
+  - 텐서
+  - 시스템
+  - 페르스트라테
+  - Renormalization
+  - Frank
+  - BCS
+  - 전도체
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 주름의 대통일 이론
 date: 2015-04-08
+tags:
+  - 이론
+  - 주름
+  - 현상
+  - Reis
+  - 딤플
+  - 대류
+  - Dunkel
+  - Stoop
 ---
 
 > [!NOTE]

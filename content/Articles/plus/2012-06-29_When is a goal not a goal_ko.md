@@ -1,6 +1,15 @@
 ---
 title: 골이 골이 아닐 때는 언제인가?
 date: 2012-06-29
+tags:
+  - 충돌
+  - 회전
+  - 속도
+  - DLT
+  - Bath
+  - Linear
+  - 카메라
+  - Direct
 ---
 
 > [!NOTE]

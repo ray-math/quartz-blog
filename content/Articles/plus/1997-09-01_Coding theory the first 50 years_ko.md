@@ -1,6 +1,15 @@
 ---
 title: "부호 이론: 첫 50년"
 date: 1997-09-01
+tags:
+  - 부호
+  - 비트
+  - University
+  - Reed
+  - 전송
+  - Oxford
+  - coding
+  - 리빙
 ---
 
 > [!NOTE]

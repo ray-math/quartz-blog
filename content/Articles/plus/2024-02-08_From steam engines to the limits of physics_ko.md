@@ -1,6 +1,15 @@
 ---
 title: 증기기관에서 물리학의 한계까지
 date: 2024-02-08
+tags:
+  - 블랙홀
+  - quantum
+  - 이론
+  - between
+  - bridges
+  - 열역학
+  - holes
+  - 호킹
 ---
 
 > [!NOTE]

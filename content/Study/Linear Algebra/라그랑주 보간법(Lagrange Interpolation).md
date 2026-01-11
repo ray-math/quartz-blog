@@ -2,8 +2,14 @@
 title: 라그랑주 보간법(Lagrange Interpolation)
 date: 2025-02-08
 tags:
-  - 다항식
-  - 점
+  - 보간법
+  - Lagrange
+  - 함수
+  - Runge
+  - Interpolation
+  - 룽게
+  - interpolation
+  - 진동
 ---
 우리 주변에는 데이터를 이용해 미지의 값을 추정하거나, 연속적인 값을 예측해야 하는 상황이 많습니다. 이렇게 주어진 데이터 점들 사이의 값을 추정하는 과정을 수학에서는 **보간(interpolation)** 이라고 합니다.
 

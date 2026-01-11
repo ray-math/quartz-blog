@@ -1,6 +1,15 @@
 ---
 title: 인공지능은 날씨 예측에 도움이 될 수 있을까?
 date: 2023-01-27
+tags:
+  - 모델
+  - 학습
+  - 날씨
+  - Dueben
+  - Deep
+  - 예보
+  - Google
+  - Hickey
 ---
 
 > [!NOTE]

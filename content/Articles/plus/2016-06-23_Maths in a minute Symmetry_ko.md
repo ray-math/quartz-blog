@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 대칭
 date: 2016-06-23
+tags:
+  - 대칭
+  - 보존
+  - 이동
+  - even
+  - symmetry
+  - 얼굴
+  - 평행
+  - space
 ---
 
 > [!NOTE]

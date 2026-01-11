@@ -1,6 +1,15 @@
 ---
 title: 표지 이야기- 하이드로겔 접기, 수학 인코딩하기
 date: 2025-11-17
+tags:
+  - 하이드로겔
+  - 유닛
+  - 수학
+  - 종이접기
+  - Kat
+  - reservoir
+  - Tom
+  - Montenegro
 ---
 
 > [!NOTE]

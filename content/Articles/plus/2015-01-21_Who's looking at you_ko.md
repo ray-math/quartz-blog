@@ -1,6 +1,15 @@
 ---
 title: 당신을 바라보는 이는 누구인가?
 date: 2015-01-21
+tags:
+  - 관측
+  - 우리
+  - 우주
+  - 인칭
+  - 고양이
+  - Boltzmann
+  - 복사
+  - probability
 ---
 
 > [!NOTE]

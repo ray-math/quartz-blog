@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 수십 년 된 분류 문제를 해결하다
 date: 2021-08-05
+tags:
+  - 집합
+  - Shelah
+  - 구조
+  - Paolini
+  - Borel
+  - TFAB
+  - Stanley
+  - 보렐
 ---
 
 > [!NOTE]

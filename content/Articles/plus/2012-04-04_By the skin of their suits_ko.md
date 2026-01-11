@@ -1,6 +1,15 @@
 ---
 title: 수영복의 아슬아슬한 차이
 date: 2012-04-04
+tags:
+  - 수영
+  - 기록
+  - 선수
+  - LZR
+  - Thorpe
+  - den
+  - Racer
+  - 우레탄
 ---
 
 > [!NOTE]

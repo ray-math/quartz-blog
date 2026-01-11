@@ -1,6 +1,15 @@
 ---
 title: 대칭을 위한 아벨상
 date: 2008-03-28
+tags:
+  - Tits
+  - group
+  - 변환
+  - 단순군
+  - Thompson
+  - Griggs
+  - Feit
+  - 군론
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 36명의 장교 문제
 date: 2016-08-05
+tags:
+  - 방진
+  - 라틴
+  - 문제
+  - Parker
+  - Bose
+  - Tarry
+  - 오일러
+  - Latin
 ---
 
 > [!NOTE]

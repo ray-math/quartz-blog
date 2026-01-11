@@ -1,6 +1,15 @@
 ---
 title: 범주론으로의 초대
 date: 2018-10-18
+tags:
+  - 범주
+  - 수학
+  - group
+  - category
+  - 함자
+  - Eugenia
+  - Yoneda
+  - Cheng
 ---
 
 > [!NOTE]

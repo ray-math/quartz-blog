@@ -1,6 +1,15 @@
 ---
 title: 숫자로 색칠하기 - 코헨-스페커 정리
 date: 2017-03-21
+tags:
+  - 스핀
+  - 맥락
+  - 측정
+  - 코헨
+  - Jeremy
+  - Butterfield
+  - Specker
+  - Kochen
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 소음의 방정식에서 음악을 들은 사람
 date: 2014-08-12
+tags:
+  - 방정식
+  - 수학
+  - 하이러
+  - SPDEs
+  - 노이즈
+  - differential
+  - regularity
+  - structures
 ---
 
 > [!NOTE]

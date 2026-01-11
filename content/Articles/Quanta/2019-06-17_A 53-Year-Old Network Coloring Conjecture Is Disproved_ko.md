@@ -1,6 +1,15 @@
 ---
 title: 53년 된 네트워크 색칠 추측이 반증되다
 date: 2019-06-17
+tags:
+  - 그래프
+  - 추측
+  - 색칠
+  - 노드
+  - Hedetniemi
+  - chromatic
+  - Shitov
+  - graph
 ---
 
 > [!NOTE]

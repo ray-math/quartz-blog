@@ -1,6 +1,15 @@
 ---
 title: 창간사
 date: 1997-01-01
+tags:
+  - 대학
+  - 온라인
+  - 수학
+  - kbps
+  - 매거진
+  - PASS
+  - Maths
+  - 자료
 ---
 
 > [!NOTE]

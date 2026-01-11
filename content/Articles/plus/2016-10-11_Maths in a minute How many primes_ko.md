@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 소수는 몇 개나 있을까?
 date: 2016-10-11
+tags:
+  - 소수
+  - 증명
+  - taxonomy
+  - content
+  - term
+  - 귀류법
+  - 목록
+  - 고대
 ---
 
 > [!NOTE]

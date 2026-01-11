@@ -1,6 +1,15 @@
 ---
 title: 양자 게임에서는 승률을 계산할 방법이 없다
 date: 2019-04-01
+tags:
+  - 게임
+  - 모델
+  - embedding
+  - Connes
+  - 승률
+  - 연산자
+  - 교환
+  - field
 ---
 
 > [!NOTE]

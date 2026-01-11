@@ -1,6 +1,15 @@
 ---
 title: 시계 속 수학 이야기
 date: 2018-11-06
+tags:
+  - 시계
+  - 사용
+  - 숫자
+  - Remainder
+  - Chinese
+  - highly
+  - composite
+  - pdf
 ---
 
 > [!NOTE]

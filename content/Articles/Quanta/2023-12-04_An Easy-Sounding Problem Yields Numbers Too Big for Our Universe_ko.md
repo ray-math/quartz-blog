@@ -1,6 +1,15 @@
 ---
 title: 간단해 보이는 문제가 우주보다 큰 숫자를 만들어낸다
 date: 2023-12-04
+tags:
+  - 가능
+  - 문제
+  - 벡터
+  - 르루
+  - VAS
+  - addition
+  - Ackermann
+  - Wojciech
 ---
 
 > [!NOTE]

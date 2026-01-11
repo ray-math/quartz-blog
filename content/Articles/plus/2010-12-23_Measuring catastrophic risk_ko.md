@@ -1,6 +1,15 @@
 ---
 title: 재난 위험 측정하기
 date: 2010-12-23
+tags:
+  - 위험
+  - 손실
+  - 모델
+  - TVaR
+  - VaR
+  - 재난
+  - risk
+  - Shane
 ---
 
 > [!NOTE]

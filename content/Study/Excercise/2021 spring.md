@@ -1,3 +1,15 @@
+---
+tags:
+  - 공간
+  - 집합
+  - 곡면
+  - Hausdorff
+  - product
+  - spaces
+  - 사상
+  - be
+---
+
 ### 10. (10 pts.) Let $A \subset \mathbb{R}^d$ be a non-empty set. For $x \in \mathbb{R}^d$, we define
 $d(x,A) = \inf_{y \in A} ||x-y||$
 where $||\cdot||$ denotes the usual Euclidean norm in $\mathbb{R}^d$. Prove or disprove the following identity:

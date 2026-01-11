@@ -1,6 +1,15 @@
 ---
 title: COVID-19의 성장률
 date: 2020-06-11
+tags:
+  - 성장
+  - 감염
+  - 시간
+  - JUNIPER
+  - 전염병
+  - Pandemic
+  - reproduction
+  - COVID
 ---
 
 > [!NOTE]

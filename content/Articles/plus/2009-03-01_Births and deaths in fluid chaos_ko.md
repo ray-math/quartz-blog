@@ -1,6 +1,15 @@
 ---
 title: 유체 혼돈에서의 생성과 소멸
 date: 2009-03-01
+tags:
+  - 유체
+  - 혼돈
+  - 방정식
+  - 골럽
+  - Jerry
+  - transition
+  - Gollub
+  - dimension
 ---
 
 > [!NOTE]

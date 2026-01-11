@@ -1,6 +1,15 @@
 ---
 title: 단순한 수학 퍼즐이 어떻게 발견을 이끄는가
 date: 2021-05-28
+tags:
+  - 자릿수
+  - 숫자
+  - 수학
+  - 카프레
+  - Wolfram
+  - Feigenbaum
+  - Mitchell
+  - Python
 ---
 
 > [!NOTE]

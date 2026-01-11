@@ -1,6 +1,15 @@
 ---
 title: 뮤즈들의 심포지엄
 date: 2015-03-24
+tags:
+  - 예술
+  - 이론
+  - 추구
+  - Venus
+  - Anthony
+  - Riemannian
+  - 작품
+  - LED
 ---
 
 > [!NOTE]

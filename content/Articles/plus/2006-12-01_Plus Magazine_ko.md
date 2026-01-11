@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2006-12-01
+tags:
+  - 다리
+  - bridge
+  - 현수교
+  - suspension
+  - 케이블
+  - Outer
+  - 클리프
+  - 포물선
 ---
 
 > [!NOTE]

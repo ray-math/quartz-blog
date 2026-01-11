@@ -1,6 +1,15 @@
 ---
 title: 눈에 보이지 않는 것을 보다
 date: 2016-04-22
+tags:
+  - 이미지
+  - 문제
+  - 영상
+  - hyperspectral
+  - 나무
+  - Carola
+  - 라이다
+  - Bibiane
 ---
 
 > [!NOTE]

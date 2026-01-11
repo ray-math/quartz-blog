@@ -1,6 +1,15 @@
 ---
 title: 초콜릿으로 증명하기
 date: 2023-02-24
+tags:
+  - 급수
+  - 무한
+  - 수학
+  - Acheson
+  - 쿠폰
+  - Oxford
+  - OUP
+  - David
 ---
 
 > [!NOTE]

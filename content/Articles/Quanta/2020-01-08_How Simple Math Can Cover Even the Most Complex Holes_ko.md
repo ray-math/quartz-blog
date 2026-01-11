@@ -1,6 +1,15 @@
 ---
 title: 단순한 수학으로 가장 복잡한 구멍까지 덮는 방법
 date: 2020-01-08
+tags:
+  - 삼각
+  - 도형
+  - 덮개
+  - width
+  - cover
+  - 지름
+  - Gibbs
+  - Brass
 ---
 
 > [!NOTE]

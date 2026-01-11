@@ -1,6 +1,15 @@
 ---
 title: "두 교육과정 이야기: 오일러의 대수학 교과서"
 date: 2007-12-01
+tags:
+  - 오일러
+  - 수학
+  - 제곱
+  - Translated
+  - Blanton
+  - Springer
+  - Foundations
+  - Differential
 ---
 
 > [!NOTE]

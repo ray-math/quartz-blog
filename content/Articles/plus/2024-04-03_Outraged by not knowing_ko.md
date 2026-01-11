@@ -1,6 +1,15 @@
 ---
 title: 모르는 것에 대한 분노
 date: 2024-04-03
+tags:
+  - 공간
+  - Randal
+  - Williams
+  - 복합체
+  - Kupers
+  - Manuel
+  - Krannich
+  - Oscar
 ---
 
 > [!NOTE]

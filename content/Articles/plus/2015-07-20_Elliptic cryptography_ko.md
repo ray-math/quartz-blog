@@ -1,6 +1,15 @@
 ---
 title: 타원 곡선 암호
 date: 2015-07-20
+tags:
+  - 타원
+  - 암호
+  - 곡선
+  - key
+  - RSA
+  - NSA
+  - ibmathsreso
+  - 특이점
 ---
 
 > [!NOTE]

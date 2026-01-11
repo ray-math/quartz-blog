@@ -1,6 +1,15 @@
 ---
 title: 수학적 미스터리를 직접 만들어보기
 date: 2011-02-10
+tags:
+  - 수학
+  - 소수
+  - 이것
+  - Humble
+  - 험블
+  - Dr
+  - Steve
+  - Prime
 ---
 
 > [!NOTE]

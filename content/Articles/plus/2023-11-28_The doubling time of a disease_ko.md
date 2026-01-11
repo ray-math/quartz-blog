@@ -1,6 +1,15 @@
 ---
 title: 질병의 배가 시간
 date: 2023-11-28
+tags:
+  - 증가
+  - 시간
+  - Pandemic
+  - 배가
+  - Scientific
+  - 감염
+  - JUNIPER
+  - 질병
 ---
 
 > [!NOTE]

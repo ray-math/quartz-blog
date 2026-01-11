@@ -1,6 +1,15 @@
 ---
 title: 존 밀너- 수학계의 전설과의 대화
 date: 2014-08-26
+tags:
+  - 수학
+  - Congress
+  - 발견
+  - 밀너
+  - Mathematicians
+  - 동역학계
+  - Red
+  - International
 ---
 
 > [!NOTE]

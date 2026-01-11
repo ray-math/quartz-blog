@@ -1,6 +1,15 @@
 ---
 title: 마음을 읽는 마술의 숨은 수학
 date: 2022-05-27
+tags:
+  - 퍼즐
+  - 수학
+  - 이것
+  - Friedli
+  - 마술
+  - Fabien
+  - Rob
+  - Corlett
 ---
 
 > [!NOTE]

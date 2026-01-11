@@ -1,6 +1,15 @@
 ---
 title: 오각형의 (수학적) 문제
 date: 2017-12-11
+tags:
+  - 타일
+  - 오각
+  - 다각형
+  - Rice
+  - polygon
+  - Mann
+  - 사각
+  - ein
 ---
 
 > [!NOTE]

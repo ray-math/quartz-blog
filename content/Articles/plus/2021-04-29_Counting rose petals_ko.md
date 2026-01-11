@@ -1,6 +1,15 @@
 ---
 title: 장미 곡선의 꽃잎 개수 세기
 date: 2021-04-29
+tags:
+  - 곡선
+  - 장미
+  - 좌표
+  - Guido
+  - 꽃잎
+  - Eckhart
+  - Lee
+  - Grandi
 ---
 
 > [!NOTE]

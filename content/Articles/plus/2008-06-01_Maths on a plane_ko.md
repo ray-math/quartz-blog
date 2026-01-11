@@ -1,6 +1,15 @@
 ---
 title: 비행기에서의 수학
 date: 2008-06-01
+tags:
+  - 수학
+  - 그녀
+  - 비행
+  - 양력
+  - 주코프
+  - Stokes
+  - Trinh
+  - Phil
 ---
 
 > [!NOTE]

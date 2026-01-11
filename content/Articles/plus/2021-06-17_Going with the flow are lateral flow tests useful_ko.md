@@ -1,6 +1,15 @@
 ---
 title: "흐름을 따라가기: 측방유동검사는 유용한가?"
 date: 2021-06-17
+tags:
+  - 검사
+  - 격리
+  - 감염
+  - Fearon
+  - LFD
+  - Fyles
+  - Tropical
+  - Deirdre
 ---
 
 > [!NOTE]

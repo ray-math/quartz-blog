@@ -1,6 +1,15 @@
 ---
 title: AI를 활용한 산림 생물다양성 이해하기
 date: 2022-02-25
+tags:
+  - 데이터
+  - 학습
+  - learning
+  - Debmita
+  - Saurabh
+  - Pandey
+  - Bandyopadhyay
+  - 산림
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 결정 대칭성의 파괴
 date: 2011-10-13
+tags:
+  - 타일
+  - 결정
+  - 대칭
+  - Penrose
+  - Mackay
+  - Shechtman
+  - 회절
+  - 준결정
 ---
 
 > [!NOTE]

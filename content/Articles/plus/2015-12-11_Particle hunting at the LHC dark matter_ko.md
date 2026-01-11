@@ -1,6 +1,15 @@
 ---
 title: "LHC에서의 입자 사냥: 암흑 물질"
 date: 2015-12-11
+tags:
+  - 물질
+  - 입자
+  - LHC
+  - missing
+  - 운동량
+  - 암흑
+  - 충돌
+  - momentum
 ---
 
 > [!NOTE]

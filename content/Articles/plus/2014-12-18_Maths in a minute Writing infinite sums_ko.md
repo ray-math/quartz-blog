@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 무한합 표기하기
 date: 2014-12-18
+tags:
+  - 급수
+  - 수렴
+  - 변수
+  - dummy
+  - variable
+  - 인덱스
+  - harmonic
+  - 더미
 ---
 
 > [!NOTE]

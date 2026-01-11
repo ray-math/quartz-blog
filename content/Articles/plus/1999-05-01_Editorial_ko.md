@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 1999-05-01
+tags:
+  - level
+  - Term
+  - 학생
+  - IB
+  - Examination
+  - Baccalaureate
+  - Papers
+  - International
 ---
 
 > [!NOTE]

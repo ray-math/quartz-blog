@@ -1,6 +1,15 @@
 ---
 title: 마크 브레이버만의 연구에 관한 짧은 소개
 date: 2022-07-05
+tags:
+  - 이론
+  - 계산
+  - 정보
+  - 브레이버
+  - complexity
+  - Maynard
+  - information
+  - 통신
 ---
 
 > [!NOTE]

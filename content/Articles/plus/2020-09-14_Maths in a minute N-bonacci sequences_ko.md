@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- N-보나치 수열
 date: 2020-09-14
+tags:
+  - 수열
+  - sequence
+  - 보나
+  - bonacci
+  - infinacci
+  - 필터
+  - 황금
+  - 토끼
 ---
 
 > [!NOTE]

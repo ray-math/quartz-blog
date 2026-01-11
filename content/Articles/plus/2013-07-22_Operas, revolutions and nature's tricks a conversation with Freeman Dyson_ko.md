@@ -1,6 +1,15 @@
 ---
 title: 오페라, 혁명, 그리고 자연의 묘수 - 프리먼 다이슨과의 대화
 date: 2013-07-22
+tags:
+  - Feynman
+  - 수학
+  - 물리학
+  - 다이슨
+  - Schwinger
+  - Dyson
+  - Dirac
+  - Lamb
 ---
 
 > [!NOTE]

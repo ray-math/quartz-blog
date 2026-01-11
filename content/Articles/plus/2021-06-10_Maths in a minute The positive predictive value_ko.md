@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 양성 예측도"
 date: 2021-06-10
+tags:
+  - 검사
+  - 양성
+  - 질병
+  - 유병
+  - Ian
+  - predictive
+  - Mike
+  - positive
 ---
 
 > [!NOTE]

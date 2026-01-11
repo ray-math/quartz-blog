@@ -1,6 +1,15 @@
 ---
 title: 정보 - 첫걸음
 date: 2015-03-25
+tags:
+  - 정보
+  - Hartley
+  - 문자
+  - Shannon
+  - 척도
+  - 기호
+  - 엔트로피
+  - Ralph
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: Quanta 팟캐스트를 소개합니다
 date: 2025-04-30
+tags:
+  - 우리
+  - 과학
+  - Quanta
+  - Hopfield
+  - Hinton
+  - PATEL
+  - AI
+  - is
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 자발적 나선
 date: 2016-12-22
+tags:
+  - 나선
+  - 시스템
+  - 셀룰러
+  - Belousov
+  - 오토마타
+  - Zhabotinsky
+  - BZ
+  - ECA
 ---
 
 > [!NOTE]

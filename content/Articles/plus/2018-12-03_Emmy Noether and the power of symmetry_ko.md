@@ -1,6 +1,15 @@
 ---
 title: 에미 뇌터와 대칭의 힘
 date: 2018-12-03
+tags:
+  - 이론
+  - 대칭
+  - 보존
+  - 뇌터
+  - symmetry
+  - 운동량
+  - angular
+  - general
 ---
 
 > [!NOTE]

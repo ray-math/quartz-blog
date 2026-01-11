@@ -1,6 +1,15 @@
 ---
 title: 도박꾼의 파산
 date: 2023-03-17
+tags:
+  - 확률
+  - 파산
+  - 방정식
+  - absorbing
+  - 재산
+  - almost
+  - surely
+  - walk
 ---
 
 > [!NOTE]

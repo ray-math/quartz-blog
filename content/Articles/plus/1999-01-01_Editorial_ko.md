@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 1999-01-01
+tags:
+  - PASS
+  - 수학
+  - Maths
+  - Kona
+  - Bridge
+  - Studies
+  - Hunt
+  - Mike
 ---
 
 > [!NOTE]

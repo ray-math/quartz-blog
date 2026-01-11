@@ -1,6 +1,15 @@
 ---
 title: 다빈치 코드 해독하기- 금융, 함수 그리고 예술
 date: 2011-11-03
+tags:
+  - 수학
+  - 아름다움
+  - 비율
+  - beauty
+  - algorithmic
+  - 연분수
+  - 파치올리
+  - fraction
 ---
 
 > [!NOTE]

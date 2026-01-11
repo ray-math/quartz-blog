@@ -1,6 +1,15 @@
 ---
 title: 완벽하게 짝수인
 date: 2020-02-05
+tags:
+  - 완전수
+  - 소수
+  - textbf
+  - times
+  - 메르센
+  - 짝수
+  - eqnarray
+  - 약수
 ---
 
 > [!NOTE]

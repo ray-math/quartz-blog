@@ -2,6 +2,14 @@
 title: 선형 연산자(Linear operator)
 date: 2025-02-21
 tags:
+  - 급수
+  - 선형
+  - 변환
+  - 벡터
+  - 덧셈
+  - 행렬
+  - 절대
+  - 연산
 ---
 벡터 공간에서의 ==선형 변환(Linear transformation)==은 다음과 같이 정의한다. 
  $$

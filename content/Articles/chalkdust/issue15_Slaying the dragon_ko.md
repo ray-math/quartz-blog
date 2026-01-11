@@ -1,6 +1,15 @@
 ---
 title: 드래곤 처치하기
 date: 2022-05-25
+tags:
+  - 유리
+  - 확률
+  - 등급
+  - DnD
+  - 텔레스코핑
+  - class
+  - 드래곤
+  - difficulty
 ---
 
 > [!NOTE]

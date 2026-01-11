@@ -1,6 +1,15 @@
 ---
 title: 수학 모델의 공동 생산
 date: 2025-07-03
+tags:
+  - 모델
+  - 수학
+  - 우리
+  - Fearon
+  - mpox
+  - College
+  - CO
+  - 생산
 ---
 
 > [!NOTE]

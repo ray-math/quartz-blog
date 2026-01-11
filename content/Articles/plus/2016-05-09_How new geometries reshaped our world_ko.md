@@ -1,6 +1,15 @@
 ---
 title: 새로운 기하학이 우리의 세계를 어떻게 재편했는가
 date: 2016-05-09
+tags:
+  - 기하학
+  - 공간
+  - 유클리드
+  - priori
+  - Lovelace
+  - 그래비너
+  - Ada
+  - Symposium
 ---
 
 > [!NOTE]

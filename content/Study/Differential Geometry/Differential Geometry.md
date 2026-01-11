@@ -1,3 +1,15 @@
+---
+tags:
+  - Curves
+  - Surfaces
+  - Gauss
+  - Area
+  - Map
+  - Appen
+  - Properties
+  - Its
+---
+
 ## Curves
 - [[1-2. Parametrized Curves]]
 - [[1-3. Regular Curves; Arc Length]]

@@ -1,6 +1,15 @@
 ---
 title: "에볼라: 수치가 보여주는 증거"
 date: 2014-11-18
+tags:
+  - 감염
+  - 지수
+  - 중요
+  - Tropical
+  - 에볼라
+  - uncertainty
+  - School
+  - confidence
 ---
 
 > [!NOTE]

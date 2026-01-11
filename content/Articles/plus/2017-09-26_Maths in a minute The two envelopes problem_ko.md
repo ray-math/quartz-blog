@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 두 봉투 문제
 date: 2017-09-26
+tags:
+  - 봉투
+  - 수상자
+  - 하이델베르크
+  - Hai
+  - Kreutzer
+  - Martin
+  - 금액
+  - 포럼
 ---
 
 > [!NOTE]

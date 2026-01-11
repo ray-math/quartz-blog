@@ -1,6 +1,15 @@
 ---
 title: "성간 여행: 웜홀의 수학"
 date: 2015-03-24
+tags:
+  - 웜홀
+  - 이론
+  - 조건
+  - energy
+  - Commons
+  - Wikimedia
+  - 텐서
+  - tensor
 ---
 
 > [!NOTE]

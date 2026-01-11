@@ -1,6 +1,15 @@
 ---
 title: 크리스토퍼 릴리크랩과의 대화
 date: 2025-11-17
+tags:
+  - 교육
+  - 크리스
+  - Secondary
+  - El
+  - 어린이
+  - CSE
+  - 릴리
+  - Business
 ---
 
 > [!NOTE]

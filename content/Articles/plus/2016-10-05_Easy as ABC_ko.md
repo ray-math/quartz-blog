@@ -1,6 +1,15 @@
 ---
 title: ABC만큼 쉬울까?
 date: 2016-10-05
+tags:
+  - ABC
+  - 추측
+  - 증명
+  - 근기
+  - Shinichi
+  - 모치즈키
+  - Mochizuki
+  - Quanta
 ---
 
 > [!NOTE]

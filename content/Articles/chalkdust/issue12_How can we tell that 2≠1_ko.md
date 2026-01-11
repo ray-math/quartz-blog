@@ -1,6 +1,15 @@
 ---
 title: 우리는 어떻게 2≠1임을 알 수 있을까?
 date: 2020-10-30
+tags:
+  - 우리
+  - 논리
+  - 수학
+  - logic
+  - elimination
+  - introduction
+  - implication
+  - middle
 ---
 
 > [!NOTE]

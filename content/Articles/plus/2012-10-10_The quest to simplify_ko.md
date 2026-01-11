@@ -1,6 +1,15 @@
 ---
 title: 단순함을 향한 탐구
 date: 2012-10-10
+tags:
+  - 이론
+  - 차원
+  - 스타
+  - 실버
+  - Questions
+  - Foundational
+  - 모형
+  - 스탠퍼드
 ---
 
 > [!NOTE]

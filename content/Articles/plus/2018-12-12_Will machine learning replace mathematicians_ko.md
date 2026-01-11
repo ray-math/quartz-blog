@@ -1,6 +1,15 @@
 ---
 title: 기계 학습이 수학자를 대체할 것인가?
 date: 2018-12-12
+tags:
+  - 수학
+  - 문제
+  - Budd
+  - Gresham
+  - TSP
+  - 로봇
+  - 강연
+  - Hilbert
 ---
 
 > [!NOTE]

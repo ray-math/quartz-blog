@@ -1,6 +1,15 @@
 ---
 title: 수학으로 세계의 난제를 해결하려는 계획
 date: 2023-05-11
+tags:
+  - 수학
+  - Mathematics
+  - 우리
+  - 퓨처스
+  - Angels
+  - Our
+  - Humanity
+  - Center
 ---
 
 > [!NOTE]

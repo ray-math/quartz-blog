@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 최적화"
 date: 2023-05-09
+tags:
+  - 문제
+  - 선형
+  - 최적
+  - linear
+  - 렉스
+  - 작물
+  - 비용
+  - programming
 ---
 
 > [!NOTE]

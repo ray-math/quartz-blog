@@ -1,7 +1,15 @@
 ---
 title: 
 date: 2025-06-09
-tags: 
+tags:
+  - 유한
+  - 집합
+  - open
+  - locally
+  - Locally
+  - 세분
+  - 기저
+  - finite
 ---
 ## 국소 유한 (Locally Finite)
 

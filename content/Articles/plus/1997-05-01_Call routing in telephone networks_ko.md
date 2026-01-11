@@ -1,6 +1,15 @@
 ---
 title: 전화망에서의 통화 경로 설정
 date: 1997-05-01
+tags:
+  - 네트워크
+  - 통화
+  - 최적
+  - 라우팅
+  - 회선
+  - Telecommunications
+  - 트래픽
+  - Routing
 ---
 
 > [!NOTE]

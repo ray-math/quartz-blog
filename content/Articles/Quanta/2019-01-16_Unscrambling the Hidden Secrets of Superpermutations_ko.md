@@ -1,6 +1,15 @@
 ---
 title: 슈퍼순열의 숨겨진 비밀을 풀어내다
 date: 2019-01-16
+tags:
+  - 순열
+  - 문제
+  - ABC
+  - salesman
+  - BCA
+  - 슈퍼
+  - ACB
+  - CAB
 ---
 
 > [!NOTE]

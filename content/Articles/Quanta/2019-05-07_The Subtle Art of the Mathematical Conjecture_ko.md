@@ -1,6 +1,15 @@
 ---
 title: 수학적 추측의 미묘한 예술
 date: 2019-05-07
+tags:
+  - 추측
+  - 수학
+  - 기하학
+  - Pyrrhic
+  - victory
+  - con
+  - 안장점
+  - saddle
 ---
 
 > [!NOTE]

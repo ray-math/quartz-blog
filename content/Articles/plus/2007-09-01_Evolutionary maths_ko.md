@@ -1,6 +1,15 @@
 ---
 title: 수학의 진화
 date: 2007-09-01
+tags:
+  - 수학
+  - 언어
+  - 능력
+  - Varley
+  - 실어증
+  - 불능증
+  - 인지
+  - Sheffield
 ---
 
 > [!NOTE]

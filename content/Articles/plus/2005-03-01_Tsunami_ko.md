@@ -1,6 +1,15 @@
 ---
 title: 쓰나미
 date: 2005-03-01
+tags:
+  - 파동
+  - 쓰나미
+  - 속도
+  - 맨틀
+  - McIntyre
+  - Pacific
+  - Tsunami
+  - 지진
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "블랙홀: 되살아난 역설"
 date: 2014-11-03
+tags:
+  - 정보
+  - 블랙홀
+  - 양자
+  - Peskin
+  - Banks
+  - Susskind
+  - 호킹
+  - 시공간
 ---
 
 > [!NOTE]

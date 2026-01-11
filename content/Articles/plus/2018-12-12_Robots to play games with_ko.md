@@ -1,6 +1,15 @@
 ---
 title: 게임을 두는 로봇들
 date: 2018-12-12
+tags:
+  - 컴퓨터
+  - 학습
+  - 사용
+  - Integrator
+  - ELO
+  - MANIAC
+  - Turing
+  - Stockfish
 ---
 
 > [!NOTE]

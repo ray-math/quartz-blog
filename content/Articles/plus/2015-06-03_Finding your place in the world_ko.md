@@ -1,6 +1,15 @@
 ---
 title: 세계에서 나의 위치 찾기
 date: 2015-06-03
+tags:
+  - 지구
+  - 자오선
+  - 구면
+  - 그리니치
+  - spherical
+  - 위도
+  - 경도
+  - coordinates
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 이안 스튜어트와의 대화
 date: 2016-03-13
+tags:
+  - 수학
+  - 이론
+  - 스튜어트
+  - Discworld
+  - 프래쳇
+  - Prize
+  - Christmas
+  - driven
 ---
 
 > [!NOTE]

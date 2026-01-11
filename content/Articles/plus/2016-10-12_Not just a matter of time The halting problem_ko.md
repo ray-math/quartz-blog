@@ -1,6 +1,15 @@
 ---
 title: 단순히 시간의 문제가 아니다- 정지 문제
 date: 2016-10-12
+tags:
+  - 프로그램
+  - 계산
+  - 가능
+  - 정지
+  - 레벨
+  - OPPOSITE
+  - HALT
+  - Ackermann
 ---
 
 > [!NOTE]

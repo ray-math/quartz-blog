@@ -1,6 +1,15 @@
 ---
 title: 삶은 무한한가?
 date: 2020-06-30
+tags:
+  - 게임
+  - 이론
+  - 가능
+  - 유계
+  - making
+  - thinking
+  - 소렌슨
+  - backward
 ---
 
 > [!NOTE]

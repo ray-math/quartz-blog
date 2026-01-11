@@ -1,7 +1,14 @@
 ---
-tags:
-  - 기하
 description:
+tags:
+  - 삼각
+  - 이등변
+  - 문제
+  - 단서
+  - 풀이
+  - 글리
+  - 내각
+  - 보조
 ---
 랭글리 삼각형 문제는 삼각형에서 주어진 각도들로부터 다른 각도를 추론하는 문제로, 1922년 에드워드 맨 랭글리(Edward Mann Langley)에 의해 'The Mathematical Gazette'에 처음 제시된 문제 입니다.
 

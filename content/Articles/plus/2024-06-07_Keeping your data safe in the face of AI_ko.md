@@ -1,6 +1,15 @@
 ---
 title: AI 시대, 데이터 프라이버시를 지키는 법
 date: 2024-06-07
+tags:
+  - 데이터
+  - 모델
+  - Newton
+  - 프라이버시
+  - tails
+  - privacy
+  - Gateway
+  - ATI
 ---
 
 > [!NOTE]

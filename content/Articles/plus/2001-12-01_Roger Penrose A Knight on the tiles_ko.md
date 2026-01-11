@@ -1,6 +1,15 @@
 ---
 title: "로저 펜로즈: 타일 위의 기사"
 date: 2001-12-01
+tags:
+  - 수학
+  - 문제
+  - 펜로즈
+  - 타일
+  - Ascending
+  - 의식
+  - Descending
+  - 로저
 ---
 
 > [!NOTE]

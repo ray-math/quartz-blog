@@ -1,6 +1,15 @@
 ---
 title: R값으로 계산하기 - 가을과 겨울에 무슨 일이 일어날까?
 date: 2021-11-09
+tags:
+  - 접촉
+  - 감염
+  - 추정
+  - 레커너
+  - Leon
+  - Brooks
+  - Warwick
+  - Pollock
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수정 구슬
 date: 2003-05-01
+tags:
+  - 연금
+  - 모델
+  - 사람
+  - pension
+  - 보험
+  - Photo
+  - DHD
+  - 근로
 ---
 
 > [!NOTE]

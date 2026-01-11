@@ -1,6 +1,15 @@
 ---
 title: 소수의 거대한 문제, 작은 수 체계에서 증명되다
 date: 2019-09-26
+tags:
+  - 소수
+  - 유한체
+  - Sawin
+  - Shusterman
+  - 특이점
+  - Weil
+  - Hardy
+  - 다항식
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 아그네르 크라루프 에를랑 (1878 - 1929)
 date: 1997-05-01
+tags:
+  - Telephone
+  - Probabilities
+  - Theory
+  - Copenhagen
+  - Automatic
+  - 에르
+  - Significance
+  - 전화
 ---
 
 > [!NOTE]

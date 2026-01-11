@@ -1,6 +1,15 @@
 ---
 title: 타일로 수학하기
 date: 2017-12-08
+tags:
+  - 타일
+  - 수학
+  - tiling
+  - 베키
+  - monohedral
+  - 오각
+  - tessella
+  - 사이트
 ---
 
 > [!NOTE]

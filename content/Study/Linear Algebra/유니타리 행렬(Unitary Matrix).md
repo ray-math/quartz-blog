@@ -2,6 +2,14 @@
 title: "유니타리 행렬(Unitary Matrix)"
 date: "2025-02-18"
 tags:
+  - 행렬
+  - 유니타리
+  - transpose
+  - 전치
+  - conjugate
+  - Unitary
+  - Matrix
+  - 켤레
 ---
 ## 유니타리 행렬(Unitary Matrix)
 유니타리 행렬 $U$은 다음 조건을 만족하는 정사각 행렬이다.

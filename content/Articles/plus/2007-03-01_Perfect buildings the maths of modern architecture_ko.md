@@ -1,6 +1,15 @@
 ---
 title: "완벽한 건물: 현대 건축의 수학"
 date: 2007-03-01
+tags:
+  - 수학
+  - 건물
+  - 문제
+  - Partn
+  - 건축
+  - 거킨
+  - SMG
+  - Specialist
 ---
 
 > [!NOTE]

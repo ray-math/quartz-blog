@@ -1,6 +1,15 @@
 ---
 title: 2023년 수학계의 가장 큰 발견들
 date: 2023-12-23
+tags:
+  - 수학
+  - 이것
+  - 이론
+  - Quantized
+  - co
+  - 타일
+  - 길머
+  - Steven
 ---
 
 > [!NOTE]

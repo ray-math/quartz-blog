@@ -1,6 +1,15 @@
 ---
 title: 곡선에 입맞추기
 date: 2014-07-24
+tags:
+  - 곡률
+  - 곡선
+  - 방향
+  - 접선
+  - Theorema
+  - Egregium
+  - 포물선
+  - 곡면
 ---
 
 > [!NOTE]

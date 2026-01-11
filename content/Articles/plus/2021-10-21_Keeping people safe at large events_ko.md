@@ -1,6 +1,15 @@
 ---
 title: 대규모 행사에서 사람들을 안전하게 지키기
 date: 2021-10-21
+tags:
+  - 모델
+  - 사람
+  - 감염
+  - VSG
+  - 프린지
+  - Fringe
+  - Gateway
+  - Rugby
 ---
 
 > [!NOTE]

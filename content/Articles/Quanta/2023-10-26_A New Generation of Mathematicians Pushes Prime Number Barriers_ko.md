@@ -1,6 +1,15 @@
 ---
 title: 소수 분포의 장벽을 뛰어넘는 새로운 세대의 수학자들
 date: 2023-10-26
+tags:
+  - 소수
+  - 정리
+  - 형식
+  - Vinogradov
+  - Goldbach
+  - Halberstam
+  - 봄비
+  - 매스
 ---
 
 > [!NOTE]

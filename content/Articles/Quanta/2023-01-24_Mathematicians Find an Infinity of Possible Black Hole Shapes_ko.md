@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 발견한 무한히 많은 블랙홀 형태의 가능성
 date: 2023-01-24
+tags:
+  - 차원
+  - 블랙홀
+  - Khuri
+  - Kunduri
+  - Rainone
+  - Lucietti
+  - Reall
+  - Galloway
 ---
 
 > [!NOTE]

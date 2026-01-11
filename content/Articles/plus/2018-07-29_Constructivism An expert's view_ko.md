@@ -1,6 +1,15 @@
 ---
 title: "구성주의: 전문가의 관점"
 date: 2018-07-29
+tags:
+  - 수학
+  - 구성
+  - 증명
+  - Harvey
+  - constructive
+  - 오하이오
+  - 주의
+  - logic
 ---
 
 > [!NOTE]

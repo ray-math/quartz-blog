@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 대수다양체
 date: 2024-02-28
+tags:
+  - 대수
+  - algebraic
+  - 방정식
+  - variety
+  - 좌표계
+  - family
+  - 스킴
+  - 데카르트
 ---
 
 > [!NOTE]

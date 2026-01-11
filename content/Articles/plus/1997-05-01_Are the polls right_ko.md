@@ -1,6 +1,15 @@
 ---
 title: 여론조사는 정확한가?
 date: 1997-05-01
+tags:
+  - 오차
+  - 조사
+  - 정당
+  - Sunday
+  - 여론
+  - 표본
+  - Independent
+  - Pollsters
 ---
 
 > [!NOTE]

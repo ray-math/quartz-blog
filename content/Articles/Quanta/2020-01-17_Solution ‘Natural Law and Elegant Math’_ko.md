@@ -1,6 +1,15 @@
 ---
 title: 자연 법칙과 우아한 수학 - 퍼즐 해답
 date: 2020-01-17
+tags:
+  - 수학
+  - 시간
+  - 가능
+  - Vercruysse
+  - 과속
+  - Ty
+  - Lincoln
+  - 구역
 ---
 
 > [!NOTE]

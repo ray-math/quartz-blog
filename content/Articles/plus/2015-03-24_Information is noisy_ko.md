@@ -1,6 +1,15 @@
 ---
 title: 정보는 노이즈를 동반한다
 date: 2015-03-24
+tags:
+  - 부호
+  - 오류
+  - Institute
+  - bit
+  - Massachusetts
+  - scottaar
+  - Technology
+  - 채널
 ---
 
 > [!NOTE]

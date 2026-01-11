@@ -1,6 +1,15 @@
 ---
 title: 수학적 모델링과 정책 사이의 다리 놓기
 date: 2025-12-02
+tags:
+  - 연구
+  - 모델
+  - 정책
+  - Hadley
+  - 워크샵
+  - Boulder
+  - Cambridge
+  - 자금
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 2009-09-01
+tags:
+  - 과학
+  - bogus
+  - Singh
+  - promoting
+  - happily
+  - BCA
+  - medicine
+  - 의학
 ---
 
 > [!NOTE]

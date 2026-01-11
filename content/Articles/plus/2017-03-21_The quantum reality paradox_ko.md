@@ -1,6 +1,15 @@
 ---
 title: 양자 실재의 역설
 date: 2017-03-21
+tags:
+  - 맥락
+  - 양자
+  - 측정
+  - Specker
+  - Kochen
+  - Cabello
+  - commuting
+  - observables
 ---
 
 > [!NOTE]

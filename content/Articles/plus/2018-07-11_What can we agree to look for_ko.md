@@ -1,6 +1,15 @@
 ---
 title: 우리는 무엇을 찾기로 합의할 수 있는가?
 date: 2018-07-11
+tags:
+  - 입자
+  - Space
+  - LHC
+  - Laser
+  - LISA
+  - 힉스
+  - Interferometer
+  - 보손
 ---
 
 > [!NOTE]

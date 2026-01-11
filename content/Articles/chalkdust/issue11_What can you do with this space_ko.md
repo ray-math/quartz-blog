@@ -1,6 +1,15 @@
 ---
 title: 이 공간으로 무엇을 할 수 있을까?
 date: 2020-04-17
+tags:
+  - 곡선
+  - 함수
+  - 공간
+  - 페아
+  - surjective
+  - uniform
+  - Henry
+  - seg
 ---
 
 > [!NOTE]

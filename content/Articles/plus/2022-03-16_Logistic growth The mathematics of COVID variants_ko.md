@@ -1,6 +1,15 @@
 ---
 title: "로지스틱 성장: COVID 변이의 수학"
 date: 2022-03-16
+tags:
+  - 변이
+  - 성장
+  - COVID
+  - UK
+  - 확진자
+  - 스틱
+  - Johnson
+  - House
 ---
 
 > [!NOTE]

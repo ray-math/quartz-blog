@@ -1,3 +1,15 @@
+---
+tags:
+  - open
+  - 집합
+  - 연결
+  - transfinite
+  - locally
+  - connected
+  - induction
+  - order
+---
+
 ### $\operatorname{Int}A$ 와 $\partial A$ 가 각각 connected일 때, $A$ 는 connected이다.
 
 $A$ 의 내부 $\operatorname{Int}A$ 와 경계 $\partial A$ 가 둘 다 연결되어 있다면 $A$ 도 연결.

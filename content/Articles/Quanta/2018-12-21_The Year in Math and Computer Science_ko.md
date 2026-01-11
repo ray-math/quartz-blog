@@ -1,6 +1,15 @@
 ---
 title: 2018년 수학과 컴퓨터 과학의 한 해
 date: 2018-12-21
+tags:
+  - 양자
+  - 수학
+  - 문제
+  - Akshay
+  - Alessio
+  - Figalli
+  - Birkar
+  - Mochizuki
 ---
 
 > [!NOTE]

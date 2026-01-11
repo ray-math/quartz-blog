@@ -1,6 +1,15 @@
 ---
 title: 또 다른 투표 방식
 date: 2015-06-25
+tags:
+  - 후보
+  - 투표
+  - 선호
+  - 찬성
+  - grading
+  - democracy
+  - Brams
+  - Condorcet
 ---
 
 > [!NOTE]

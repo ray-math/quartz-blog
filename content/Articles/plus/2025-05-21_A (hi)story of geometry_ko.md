@@ -1,6 +1,15 @@
 ---
 title: 기하학의 (역)사
 date: 2025-05-21
+tags:
+  - 기하학
+  - 수학
+  - Mathematical
+  - 공준
+  - History
+  - 보여이
+  - 그레이
+  - 유클리드
 ---
 
 > [!NOTE]

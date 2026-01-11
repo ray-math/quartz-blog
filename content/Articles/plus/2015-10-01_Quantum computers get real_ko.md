@@ -1,6 +1,15 @@
 ---
 title: 양자 컴퓨터가 현실이 되다
 date: 2015-10-01
+tags:
+  - 양자
+  - 큐비트
+  - 시스템
+  - 이온
+  - 게이트
+  - quantum
+  - Filipp
+  - Credit
 ---
 
 > [!NOTE]

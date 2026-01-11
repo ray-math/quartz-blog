@@ -1,6 +1,15 @@
 ---
 title: 스누커의 거듭제곱 법칙
 date: 2019-04-16
+tags:
+  - 법칙
+  - Mark
+  - Neil
+  - Judd
+  - 스누커
+  - Hendry
+  - Wales
+  - Ireland
 ---
 
 > [!NOTE]

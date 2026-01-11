@@ -1,6 +1,15 @@
 ---
 title: 연결망의 최적 구조에 관한 수십 년 된 내기를 해결한 새로운 증명
 date: 2025-04-18
+tags:
+  - 그래프
+  - Alon
+  - Sarnak
+  - Huang
+  - Boppana
+  - Lubotzky
+  - Yau
+  - Wigner
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 푸아송 분포
 date: 2022-01-07
+tags:
+  - 분포
+  - 필요
+  - 평균
+  - Poisson
+  - distribution
+  - 피드
+  - 분산
+  - 소셜
 ---
 
 > [!NOTE]

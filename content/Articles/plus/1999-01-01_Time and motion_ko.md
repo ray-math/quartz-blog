@@ -1,6 +1,15 @@
 ---
 title: 시간과 운동
 date: 1999-01-01
+tags:
+  - 경로
+  - system
+  - coordinate
+  - 대원
+  - Hunt
+  - 비행
+  - http
+  - great
 ---
 
 > [!NOTE]

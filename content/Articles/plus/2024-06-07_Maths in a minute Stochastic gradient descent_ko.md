@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 확률적 경사 하강법"
 date: 2024-06-07
+tags:
+  - 경사
+  - Newton
+  - Institute
+  - tails
+  - SGD
+  - gradient
+  - learning
+  - Monro
 ---
 
 > [!NOTE]

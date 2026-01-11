@@ -1,6 +1,15 @@
 ---
 title: 볼록성은 복잡하다
 date: 2011-08-03
+tags:
+  - 문제
+  - NP
+  - 함수
+  - 다항식
+  - nondeterministic
+  - squares
+  - convexity
+  - Ahmadi
 ---
 
 > [!NOTE]

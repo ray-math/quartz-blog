@@ -1,6 +1,15 @@
 ---
 title: 질병 X에 대비하기
 date: 2024-11-11
+tags:
+  - 백신
+  - Newton
+  - 모델
+  - CEPI
+  - Deol
+  - Future
+  - Clapham
+  - Gateway
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 다세계에서 게임하기 - 제1부
 date: 2013-02-06
+tags:
+  - 효용
+  - 당신
+  - 세계
+  - 보르
+  - Wallace
+  - Deutsch
+  - 내기
+  - David
 ---
 
 > [!NOTE]

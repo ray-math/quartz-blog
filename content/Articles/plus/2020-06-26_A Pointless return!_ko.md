@@ -1,6 +1,15 @@
 ---
 title: "Pointless의 화려한 복귀!"
 date: 2020-06-26
+tags:
+  - 확률
+  - 상금
+  - 우승
+  - 연쇄
+  - pointless
+  - Haigh
+  - 정답
+  - 복귀
 ---
 
 > [!NOTE]

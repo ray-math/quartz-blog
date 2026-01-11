@@ -1,6 +1,15 @@
 ---
 title: 무한급수와 중국의 인구통계학
 date: 2016-02-02
+tags:
+  - 자녀
+  - 여성
+  - 평균
+  - Caswell
+  - Keyfitz
+  - series
+  - 출산
+  - 인구
 ---
 
 > [!NOTE]

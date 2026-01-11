@@ -1,6 +1,15 @@
 ---
 title: 빛보다 빠른 속도
 date: 2000-09-01
+tags:
+  - 펄스
+  - 속도
+  - interference
+  - 군속도
+  - NEC
+  - 앞쪽
+  - 분산
+  - 매질
 ---
 
 > [!NOTE]

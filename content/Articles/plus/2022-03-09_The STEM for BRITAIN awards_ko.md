@@ -1,6 +1,15 @@
 ---
 title: STEM for BRITAIN 어워드
 date: 2022-03-09
+tags:
+  - 연구
+  - 수학
+  - Mathematical
+  - Ivanova
+  - Tointon
+  - Bautista
+  - Scientific
+  - design
 ---
 
 > [!NOTE]

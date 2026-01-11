@@ -1,6 +1,15 @@
 ---
 title: 태초에…
 date: 2014-11-20
+tags:
+  - 우주
+  - 위상
+  - 원리
+  - initial
+  - anthropic
+  - principle
+  - 측도
+  - 기체
 ---
 
 > [!NOTE]

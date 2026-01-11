@@ -1,6 +1,15 @@
 ---
 title: 나를 압축하고, 나를 늘리고
 date: 2004-03-01
+tags:
+  - 중력파
+  - waves
+  - 이론
+  - interference
+  - Laser
+  - Barnes
+  - Anita
+  - Hulse
 ---
 
 > [!NOTE]

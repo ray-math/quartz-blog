@@ -1,6 +1,15 @@
 ---
 title: 무지개 증명이 밝힌 그래프의 균일한 구조
 date: 2020-02-19
+tags:
+  - 그래프
+  - 나무
+  - 완전
+  - 간선
+  - labeling
+  - 무지개
+  - graceful
+  - Montgomery
 ---
 
 > [!NOTE]

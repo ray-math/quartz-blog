@@ -1,6 +1,15 @@
 ---
 title: 수학과 민주주의- 대통령 승인하기
 date: 2008-09-01
+tags:
+  - 투표
+  - 후보
+  - 승자
+  - AV
+  - voting
+  - Democracy
+  - 선거
+  - choice
 ---
 
 > [!NOTE]

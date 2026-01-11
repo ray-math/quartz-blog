@@ -1,6 +1,15 @@
 ---
 title: 세드릭 빌라니와의 대화
 date: 2017-10-18
+tags:
+  - 수학
+  - 세드릭
+  - 방정식
+  - 빌라
+  - Monge
+  - Gaspard
+  - International
+  - 감쇠
 ---
 
 > [!NOTE]

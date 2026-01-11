@@ -1,6 +1,15 @@
 ---
 title: "수학으로 범죄 해결하기: 범죄 조직망 분석"
 date: 2021-11-22
+tags:
+  - 네트워크
+  - 중심
+  - 범죄
+  - 노드
+  - Gomez
+  - 엣지
+  - Marcia
+  - centrality
 ---
 
 > [!NOTE]

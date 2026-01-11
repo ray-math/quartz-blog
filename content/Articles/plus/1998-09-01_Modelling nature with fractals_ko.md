@@ -1,6 +1,15 @@
 ---
 title: 프랙탈로 자연 모델링하기
 date: 1998-09-01
+tags:
+  - 프랙탈
+  - 생성
+  - Fractal
+  - Koch
+  - Turner
+  - 풍경
+  - 상승
+  - Ken
 ---
 
 > [!NOTE]

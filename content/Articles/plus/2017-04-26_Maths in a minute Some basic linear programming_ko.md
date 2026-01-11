@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 선형계획법의 기초
 date: 2017-04-26
+tags:
+  - 문제
+  - programming
+  - 조건
+  - linear
+  - 작물
+  - convex
+  - 음영
+  - 렉스
 ---
 
 > [!NOTE]

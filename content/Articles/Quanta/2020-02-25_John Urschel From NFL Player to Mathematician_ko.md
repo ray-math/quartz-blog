@@ -1,6 +1,15 @@
 ---
 title: 존 어셜- NFL 선수에서 수학자로
 date: 2020-02-25
+tags:
+  - 어셔
+  - 문제
+  - 수학
+  - 어셜
+  - exams
+  - Stand
+  - Salesman
+  - 미식
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 아프리카에서 온 새로운 디자인
 date: 2001-12-01
+tags:
+  - 디자인
+  - 리키
+  - Mathematical
+  - Africa
+  - Lunda
+  - America
+  - Explorations
+  - designs
 ---
 
 > [!NOTE]

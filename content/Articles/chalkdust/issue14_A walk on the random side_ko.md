@@ -1,6 +1,15 @@
 ---
 title: 무작위 산책의 세계
 date: 2021-11-22
+tags:
+  - 그래프
+  - 확률
+  - 보행
+  - 정점
+  - Cloud
+  - DFS
+  - BFS
+  - log
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 숨겨진 피보나치 수열로 수학자들을 놀라게 한 기하학의 세계
 date: 2022-10-17
+tags:
+  - McDuff
+  - 기하학
+  - 곡면
+  - 심플
+  - Schlenk
+  - 계단
+  - Hirzebruch
+  - Holm
 ---
 
 > [!NOTE]

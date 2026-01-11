@@ -1,6 +1,15 @@
 ---
 title: "흥미로운 적분들: 1부"
 date: 2010-03-01
+tags:
+  - 방법
+  - Newton
+  - 정리
+  - Leibniz
+  - 직사각
+  - 넓이
+  - Risch
+  - 너비
 ---
 
 > [!NOTE]

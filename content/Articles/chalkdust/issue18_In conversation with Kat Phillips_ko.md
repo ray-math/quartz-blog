@@ -1,6 +1,15 @@
 ---
 title: 캣 필립스와의 대화
 date: 2023-12-06
+tags:
+  - 과정
+  - 연구
+  - 사람
+  - 트위치
+  - 필립스
+  - lubrication
+  - Overleaf
+  - 오피스
 ---
 
 > [!NOTE]

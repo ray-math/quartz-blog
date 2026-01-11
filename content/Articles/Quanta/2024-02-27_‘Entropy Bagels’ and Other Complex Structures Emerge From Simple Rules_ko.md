@@ -1,6 +1,15 @@
 ---
 title: 엔트로피 베이글과 단순한 규칙에서 출현하는 복잡한 구조들
 date: 2024-02-27
+tags:
+  - 실수
+  - 동역학
+  - point
+  - Tiozzo
+  - 베이글
+  - real
+  - Giulio
+  - cycle
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 짧은 수학 이야기- 브라질너트 효과
 date: 2018-03-16
+tags:
+  - 입자
+  - 효과
+  - Budd
+  - 견과
+  - Gresham
+  - 저장고
+  - 곡물
+  - College
 ---
 
 > [!NOTE]

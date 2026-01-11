@@ -1,6 +1,15 @@
 ---
 title: 빅뱅, 빅 크런치, 빅 프리즈 그리고 다중우주
 date: 2012-01-23
+tags:
+  - 우주
+  - 우리
+  - 진공
+  - cosmological
+  - 인플레이션
+  - dark
+  - Bousso
+  - 중성미자
 ---
 
 > [!NOTE]

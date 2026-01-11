@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 문어 파울은 정말 예지력이 있었을까?"
 date: 2010-10-08
+tags:
+  - 확률
+  - 파울
+  - 증거
+  - 우도비
+  - 예지
+  - 승산
+  - understandinguncert
+  - ratio
 ---
 
 > [!NOTE]

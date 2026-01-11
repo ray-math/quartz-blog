@@ -1,6 +1,15 @@
 ---
 title: "모듈라이 공간: 토러스 공간 탐험하기"
 date: 2024-07-03
+tags:
+  - 연구
+  - 영역
+  - 리만
+  - Dervan
+  - Hoskins
+  - Victoria
+  - 상반
+  - Newton
 ---
 
 > [!NOTE]

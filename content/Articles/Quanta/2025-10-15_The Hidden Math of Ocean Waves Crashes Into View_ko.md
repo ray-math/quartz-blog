@@ -1,6 +1,15 @@
 ---
 title: 파도 속에 숨겨진 수학이 모습을 드러내다
 date: 2025-10-15
+tags:
+  - 수학
+  - 파도
+  - 파동
+  - 데코닌크
+  - Deconinck
+  - Bernard
+  - Feir
+  - Katie
 ---
 
 > [!NOTE]

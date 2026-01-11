@@ -1,6 +1,15 @@
 ---
 title: 이 모든 것이 끝나는 데 얼마나 걸릴까?
 date: 2020-12-15
+tags:
+  - 백신
+  - 감염
+  - Keeling
+  - 접종
+  - disease
+  - Pandemic
+  - prevention
+  - 변이
 ---
 
 > [!NOTE]

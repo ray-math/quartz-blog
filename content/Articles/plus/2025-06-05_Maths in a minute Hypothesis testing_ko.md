@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 가설 검정
 date: 2025-06-05
+tags:
+  - 유의
+  - 검정
+  - 수준
+  - 기각
+  - 동전
+  - hypothesis
+  - 가설
+  - significance
 ---
 
 > [!NOTE]

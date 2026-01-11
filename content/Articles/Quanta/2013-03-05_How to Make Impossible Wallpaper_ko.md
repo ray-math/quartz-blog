@@ -1,6 +1,15 @@
 ---
 title: 불가능한 벽지 무늬를 만드는 방법
 date: 2013-03-05
+tags:
+  - 벽지
+  - 평면
+  - 차원
+  - crystallographic
+  - 무늬
+  - wallpaper
+  - 케네디
+  - group
 ---
 
 > [!NOTE]

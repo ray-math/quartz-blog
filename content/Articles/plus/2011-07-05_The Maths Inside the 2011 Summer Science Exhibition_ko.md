@@ -1,6 +1,15 @@
 ---
 title: 2011 여름 과학 전시회 속 수학
 date: 2011-07-05
+tags:
+  - 수학
+  - London
+  - 전시
+  - Inside
+  - 얼굴
+  - 학회
+  - Royal
+  - 파일
 ---
 
 > [!NOTE]

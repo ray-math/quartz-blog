@@ -1,6 +1,15 @@
 ---
 title: 과학자들이 기후 변화에서 해양의 역동적 역할을 밝히다
 date: 2013-04-11
+tags:
+  - 해양
+  - 모델
+  - 에디
+  - Antarctic
+  - DIMES
+  - Circumpolar
+  - 부표
+  - buoyant
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 하이퍼점프 수학 게임
 date: 2024-02-16
+tags:
+  - Quanta
+  - 지원
+  - Simons
+  - 비밀번호
+  - Magazine
+  - 인터랙티브
+  - Foundation
+  - 하이퍼
 ---
 
 > [!NOTE]

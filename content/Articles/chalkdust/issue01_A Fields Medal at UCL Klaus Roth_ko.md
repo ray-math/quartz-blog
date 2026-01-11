@@ -1,6 +1,15 @@
 ---
 title: UCL의 필즈상 수상자- 클라우스 로스
 date: 2015-03-24
+tags:
+  - 로스
+  - 수학
+  - London
+  - 지겔
+  - 에스터
+  - Siegel
+  - Thue
+  - Society
 ---
 
 > [!NOTE]

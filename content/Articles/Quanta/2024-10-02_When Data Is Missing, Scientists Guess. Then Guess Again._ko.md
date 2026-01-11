@@ -1,6 +1,15 @@
 ---
 title: 데이터가 없을 때, 과학자들은 추측한다. 그리고 또 추측한다.
 date: 2024-10-02
+tags:
+  - 데이터
+  - 통계
+  - imputation
+  - Groothuis
+  - Oudshoorn
+  - Rubin
+  - Buuren
+  - 과신
 ---
 
 > [!NOTE]

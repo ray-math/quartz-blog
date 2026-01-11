@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- Lean을 이용한 코딩
 date: 2025-08-12
+tags:
+  - 증명
+  - 수학
+  - 사용
+  - mul
+  - rw
+  - rfl
+  - Lean
+  - tactic
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "양자 컴퓨팅: 그리 끔찍하지 않은 세부사항들"
 date: 2015-10-01
+tags:
+  - 양자
+  - 게이트
+  - 상태
+  - rangle
+  - Jozsa
+  - frac
+  - sqrt
+  - Deutsch
 ---
 
 > [!NOTE]

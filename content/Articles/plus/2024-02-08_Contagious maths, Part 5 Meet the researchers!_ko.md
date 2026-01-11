@@ -1,6 +1,15 @@
 ---
 title: "전염성 수학, 파트 5- 연구자들을 만나보세요!"
 date: 2024-02-08
+tags:
+  - 수학
+  - Franklin
+  - Rosalind
+  - Alegria
+  - drift
+  - Gutierrez
+  - Lai
+  - Maria
 ---
 
 > [!NOTE]

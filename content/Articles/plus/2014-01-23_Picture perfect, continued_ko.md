@@ -1,6 +1,15 @@
 ---
 title: 완벽한 그림, 그 다음 이야기
 date: 2014-01-23
+tags:
+  - 공간
+  - MHV
+  - 진폭
+  - Brandhuber
+  - 트위스터
+  - Spence
+  - Travaglini
+  - Gabriele
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 8차원 수학으로 10차원 우주 탐구하기
 date: 2012-10-10
+tags:
+  - 차원
+  - 팔원수
+  - Dray
+  - Manogue
+  - 결합법칙
+  - 중성미자
+  - Kaluza
+  - Corinne
 ---
 
 > [!NOTE]

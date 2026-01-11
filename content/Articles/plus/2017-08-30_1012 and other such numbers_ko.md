@@ -1,6 +1,15 @@
 ---
 title: 1012와 그와 비슷한 수들
 date: 2017-08-30
+tags:
+  - numbers
+  - 연산
+  - book
+  - Van
+  - 끌개
+  - Greaney
+  - reversible
+  - Lychrel
 ---
 
 > [!NOTE]

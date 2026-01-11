@@ -1,6 +1,15 @@
 ---
 title: 수학자가 80년 된 대수학 추측을 반증하다
 date: 2021-04-12
+tags:
+  - 추측
+  - 원소
+  - 단원
+  - Wendt
+  - Hantzsche
+  - Gardam
+  - Farrell
+  - Jones
 ---
 
 > [!NOTE]

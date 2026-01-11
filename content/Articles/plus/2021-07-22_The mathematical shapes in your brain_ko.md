@@ -1,6 +1,15 @@
 ---
 title: 뇌 속의 수학적 형태들
 date: 2021-07-22
+tags:
+  - 수학
+  - 단체
+  - 뉴런
+  - Antille
+  - Hess
+  - Brain
+  - 피질
+  - 헤스
 ---
 
 > [!NOTE]

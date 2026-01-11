@@ -1,6 +1,15 @@
 ---
 title: 금융수학이란 무엇인가?
 date: 2009-09-01
+tags:
+  - 확률
+  - 수학
+  - 금융
+  - Ars
+  - 거래
+  - 차익
+  - optimal
+  - neutral
 ---
 
 > [!NOTE]

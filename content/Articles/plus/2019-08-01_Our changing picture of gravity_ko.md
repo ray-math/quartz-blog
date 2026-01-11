@@ -1,6 +1,15 @@
 ---
 title: 변화하는 중력에 대한 우리의 이해
 date: 2019-08-01
+tags:
+  - 중력
+  - 이론
+  - 물체
+  - Agathos
+  - Michalis
+  - arcsecond
+  - 아인슈타인
+  - 갈릴레이
 ---
 
 > [!NOTE]

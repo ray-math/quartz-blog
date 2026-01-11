@@ -1,6 +1,15 @@
 ---
 title: 바이러스가 백신을 회피할 수 있을까?
 date: 2021-05-11
+tags:
+  - 백신
+  - Newton
+  - 영역
+  - Gateway
+  - Metcalf
+  - Ian
+  - 바이러스
+  - CoV
 ---
 
 > [!NOTE]

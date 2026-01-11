@@ -1,6 +1,15 @@
 ---
 title: 질병의 성장률
 date: 2023-11-28
+tags:
+  - 성장
+  - 감염
+  - 시간
+  - reproduction
+  - 전염
+  - 세대
+  - 홍역
+  - growth
 ---
 
 > [!NOTE]

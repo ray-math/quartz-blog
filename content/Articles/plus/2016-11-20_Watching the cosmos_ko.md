@@ -1,6 +1,15 @@
 ---
 title: 우주를 바라본다는 것
 date: 2016-11-20
+tags:
+  - 우주
+  - 우리
+  - 이론
+  - anthropic
+  - Adams
+  - 웅덩이
+  - Wallace
+  - principle
 ---
 
 > [!NOTE]

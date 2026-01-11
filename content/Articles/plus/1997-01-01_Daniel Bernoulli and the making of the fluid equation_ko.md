@@ -1,6 +1,15 @@
 ---
 title: 다니엘 베르누이와 유체 방정식의 탄생
 date: 1997-01-01
+tags:
+  - 다니엘
+  - 베르누이
+  - 유체
+  - Keele
+  - Turner
+  - 요한
+  - Collection
+  - Univers
 ---
 
 > [!NOTE]

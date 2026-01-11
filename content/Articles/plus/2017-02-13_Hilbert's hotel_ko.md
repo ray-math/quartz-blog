@@ -1,6 +1,15 @@
 ---
 title: 힐베르트 호텔
 date: 2017-02-13
+tags:
+  - 무한
+  - infinity
+  - 집합
+  - layers
+  - 호텔
+  - Continuum
+  - 논법
+  - CH
 ---
 
 > [!NOTE]

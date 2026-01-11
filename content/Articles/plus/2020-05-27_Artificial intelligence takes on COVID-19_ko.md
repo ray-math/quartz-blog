@@ -1,6 +1,15 @@
 ---
 title: 인공지능, COVID-19에 맞서다
 date: 2020-05-27
+tags:
+  - 학습
+  - learning
+  - 데이터
+  - ventilation
+  - AIX
+  - 환자
+  - COVID
+  - 예후
 ---
 
 > [!NOTE]

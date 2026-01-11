@@ -1,6 +1,15 @@
 ---
 title: 시간의 수수께끼
 date: 2013-09-26
+tags:
+  - 시간
+  - 우주
+  - 우리
+  - 엔트로피
+  - CCC
+  - 빅뱅
+  - Penrose
+  - Butterfield
 ---
 
 > [!NOTE]

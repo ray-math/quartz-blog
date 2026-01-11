@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 미분방정식"
 date: 2020-05-06
+tags:
+  - 방정식
+  - 미분
+  - equation
+  - differential
+  - value
+  - partial
+  - 가속도
+  - derivatives
 ---
 
 > [!NOTE]

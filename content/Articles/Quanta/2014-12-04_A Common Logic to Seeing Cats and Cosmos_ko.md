@@ -1,6 +1,15 @@
 ---
 title: 고양이와 우주를 보는 공통의 논리
 date: 2014-12-04
+tags:
+  - 물리
+  - 재규격화
+  - 이론
+  - 슈왑
+  - information
+  - bottleneck
+  - 러닝
+  - 병목
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 에이전트 관점
 date: 2020-07-28
+tags:
+  - 기계
+  - 학습
+  - www
+  - laureate
+  - 주체
+  - 벤지
+  - heidelberg
+  - forum
 ---
 
 > [!NOTE]

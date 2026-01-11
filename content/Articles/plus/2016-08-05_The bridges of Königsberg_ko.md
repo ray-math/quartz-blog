@@ -1,6 +1,15 @@
 ---
 title: 쾨니히스베르크의 다리
 date: 2016-08-05
+tags:
+  - 문제
+  - 오일러
+  - 수학
+  - position
+  - geometry
+  - Bogdan
+  - 노드
+  - 끝점
 ---
 
 > [!NOTE]

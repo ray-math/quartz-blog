@@ -1,6 +1,15 @@
 ---
 title: 재난 모델링 - 수학으로 대비하는 대재앙
 date: 2009-12-01
+tags:
+  - 지진
+  - 모델
+  - 사건
+  - Richter
+  - 보험
+  - vulnerability
+  - 합성곱
+  - 손실
 ---
 
 > [!NOTE]

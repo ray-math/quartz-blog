@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 비선형성"
 date: 2023-09-20
+tags:
+  - 선형
+  - 관계
+  - 수학
+  - superposition
+  - 가격
+  - principle
+  - 카오스
+  - linear
 ---
 
 > [!NOTE]

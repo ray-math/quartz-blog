@@ -1,6 +1,15 @@
 ---
 title: "위대한 수학자들: 크리스토퍼 지먼 경"
 date: 2018-03-12
+tags:
+  - 수학
+  - 이론
+  - 강연
+  - catastrophe
+  - Zeeman
+  - Erik
+  - College
+  - 마스터클래스
 ---
 
 > [!NOTE]

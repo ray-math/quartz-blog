@@ -1,6 +1,15 @@
 ---
 title: 평범한 곳에 숨기기
 date: 2019-03-14
+tags:
+  - 곡선
+  - 암호
+  - 타원
+  - Hellman
+  - logarithm
+  - 베유
+  - 사영
+  - cryptography
 ---
 
 > [!NOTE]

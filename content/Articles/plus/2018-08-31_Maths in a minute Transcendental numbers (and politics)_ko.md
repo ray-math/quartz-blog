@@ -1,6 +1,15 @@
 ---
 title: 초월수(그리고 정치)
 date: 2018-08-31
+tags:
+  - 수학
+  - 대수
+  - 겔폰드
+  - von
+  - fond
+  - Gel
+  - 초월
+  - Ferdinand
 ---
 
 > [!NOTE]

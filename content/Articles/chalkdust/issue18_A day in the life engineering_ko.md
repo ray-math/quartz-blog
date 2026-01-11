@@ -1,6 +1,15 @@
 ---
 title: "일상의 하루: 엔지니어링"
 date: 2023-12-06
+tags:
+  - 설계
+  - 로봇
+  - 문제
+  - Robot
+  - Operating
+  - 설비
+  - agent
+  - services
 ---
 
 > [!NOTE]

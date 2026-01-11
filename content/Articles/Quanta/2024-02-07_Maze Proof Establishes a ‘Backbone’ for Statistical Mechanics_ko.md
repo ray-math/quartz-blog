@@ -1,6 +1,15 @@
 ---
 title: 미로 증명이 통계역학의 백본을 확립하다
 date: 2024-02-07
+tags:
+  - 지수
+  - 경로
+  - Nolin
+  - 백본
+  - Qian
+  - SLE
+  - Zhuang
+  - Sun
 ---
 
 > [!NOTE]

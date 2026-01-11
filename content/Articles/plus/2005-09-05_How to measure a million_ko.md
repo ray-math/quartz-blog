@@ -1,6 +1,15 @@
 ---
 title: 백만을 측정하는 법
 date: 2005-09-05
+tags:
+  - 위험
+  - risk
+  - 회피
+  - 효용
+  - Lanot
+  - utility
+  - 파운드
+  - aversion
 ---
 
 > [!NOTE]

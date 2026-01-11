@@ -1,6 +1,15 @@
 ---
 title: 신종플루의 불확실성
 date: 2009-07-24
+tags:
+  - 감염
+  - 사람
+  - Tropical
+  - Hygiene
+  - 신종
+  - 플루
+  - School
+  - Medicine
 ---
 
 > [!NOTE]

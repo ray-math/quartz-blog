@@ -1,6 +1,15 @@
 ---
 title: 괴물, 문샤인 그리고 그림자
 date: 2015-03-24
+tags:
+  - 수학
+  - 표현
+  - 형식
+  - Moonshine
+  - 문샤인
+  - 괴물
+  - groups
+  - representation
 ---
 
 > [!NOTE]

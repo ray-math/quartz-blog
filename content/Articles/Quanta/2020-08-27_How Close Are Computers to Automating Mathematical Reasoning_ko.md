@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터는 수학적 추론 자동화에 얼마나 근접했는가?
 date: 2020-08-27
+tags:
+  - 증명
+  - 수학
+  - 정리
+  - ITP
+  - ATP
+  - prover
+  - automated
+  - reasoning
 ---
 
 > [!NOTE]

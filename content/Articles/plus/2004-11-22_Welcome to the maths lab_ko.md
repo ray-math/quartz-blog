@@ -1,6 +1,15 @@
 ---
 title: 수학 실험실에 오신 것을 환영합니다
 date: 2004-11-22
+tags:
+  - 증명
+  - 수학
+  - 컴퓨터
+  - Annals
+  - cubic
+  - centred
+  - 충전
+  - 심사
 ---
 
 > [!NOTE]

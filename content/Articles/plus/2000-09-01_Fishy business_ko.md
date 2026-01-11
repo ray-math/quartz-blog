@@ -1,6 +1,15 @@
 ---
 title: 물고기로 본 수학적 변환의 세계
 date: 2000-09-01
+tags:
+  - 변환
+  - 톰프슨
+  - 형태
+  - Connor
+  - 다아시
+  - umbilic
+  - 얼굴
+  - Brennan
 ---
 
 > [!NOTE]

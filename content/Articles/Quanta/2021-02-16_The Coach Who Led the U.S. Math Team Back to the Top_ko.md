@@ -1,6 +1,15 @@
 ---
 title: 미국 수학 올림피아드 팀을 정상으로 되돌린 코치
 date: 2021-02-16
+tags:
+  - 수학
+  - 문제
+  - 양자
+  - motivation
+  - infinite
+  - Loh
+  - 조합론
+  - combinatorics
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 사람들이 즐기는 게임들
 date: 2003-11-01
+tags:
+  - 게임
+  - CGT
+  - 위치
+  - Elwyn
+  - 플레이
+  - Berlekamp
+  - 체스
+  - Game
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 덧셈의 문제
 date: 2024-11-08
+tags:
+  - 문제
+  - 덧셈
+  - number
+  - arcs
+  - 라마누잔
+  - begin
+  - end
+  - equation
 ---
 
 > [!NOTE]

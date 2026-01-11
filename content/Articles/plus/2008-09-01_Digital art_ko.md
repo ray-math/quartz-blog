@@ -1,6 +1,15 @@
 ---
 title: 디지털 아트
 date: 2008-09-01
+tags:
+  - 컴퓨터
+  - 예술
+  - 수학
+  - 아트
+  - Shadow
+  - Processing
+  - Ira
+  - di
 ---
 
 > [!NOTE]

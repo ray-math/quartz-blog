@@ -1,6 +1,15 @@
 ---
 title: 2020년 우리가 가장 좋아한 온라인 댓글들
 date: 2020-12-23
+tags:
+  - 수학
+  - 개체
+  - 우리
+  - Natalie
+  - 볼초버
+  - Wolchover
+  - Cenh
+  - echo
 ---
 
 > [!NOTE]

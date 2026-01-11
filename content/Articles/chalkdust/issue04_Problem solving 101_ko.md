@@ -1,6 +1,15 @@
 ---
 title: 문제 해결 입문
 date: 2016-10-03
+tags:
+  - 문제
+  - 기법
+  - 수학
+  - 선수
+  - 넓이
+  - 분침
+  - ordering
+  - cyclic
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 라마누잔이 다시 한번 세상을 놀라게 하다
 date: 2015-11-03
+tags:
+  - 라마
+  - 수학
+  - number
+  - 레더
+  - Trebat
+  - counter
+  - 오노
+  - Leder
 ---
 
 > [!NOTE]

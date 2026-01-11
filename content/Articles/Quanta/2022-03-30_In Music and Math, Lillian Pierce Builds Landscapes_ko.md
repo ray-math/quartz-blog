@@ -1,6 +1,15 @@
 ---
 title: 음악과 수학에서 경관을 만드는 릴리언 피어스
 date: 2022-03-30
+tags:
+  - 수학
+  - 그녀
+  - Number
+  - 피어스
+  - mental
+  - Essential
+  - 음악
+  - landscape
 ---
 
 > [!NOTE]

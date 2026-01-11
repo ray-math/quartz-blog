@@ -1,6 +1,15 @@
 ---
 title: 증명 보조 프로그램, 최전선 수학으로 도약하다
 date: 2021-07-28
+tags:
+  - 증명
+  - 수학
+  - Scholze
+  - condensed
+  - Lean
+  - 보조
+  - Commelin
+  - Liquid
 ---
 
 > [!NOTE]

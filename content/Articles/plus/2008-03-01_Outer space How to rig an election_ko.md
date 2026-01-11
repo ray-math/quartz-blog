@@ -1,6 +1,15 @@
 ---
 title: "아웃터 스페이스: 선거를 조작하는 방법"
 date: 2008-03-01
+tags:
+  - Fred
+  - 투표
+  - Hal
+  - Cath
+  - Edith
+  - Dave
+  - Ali
+  - Gill
 ---
 
 > [!NOTE]

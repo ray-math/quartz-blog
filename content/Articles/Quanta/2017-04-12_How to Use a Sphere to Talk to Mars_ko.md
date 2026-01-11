@@ -1,6 +1,15 @@
 ---
 title: 구를 이용해 화성과 통신하는 방법
 date: 2017-04-12
+tags:
+  - 부호
+  - 메시지
+  - distance
+  - 탐사선
+  - NASA
+  - game
+  - minimum
+  - 놀이
 ---
 
 > [!NOTE]

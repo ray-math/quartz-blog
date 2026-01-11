@@ -1,6 +1,15 @@
 ---
 title: 흐름을 따라서 - 2부
 date: 2014-03-27
+tags:
+  - 스케일
+  - 이론
+  - 에너지
+  - Cambridge
+  - violet
+  - 차폐
+  - ultra
+  - 고정점
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 위조 동전 퍼즐에서 수학적 진리를 찾아서
 date: 2022-07-29
+tags:
+  - 동전
+  - 측정
+  - 퍼즐
+  - 저울
+  - aus
+  - dem
+  - codes
+  - search
 ---
 
 > [!NOTE]

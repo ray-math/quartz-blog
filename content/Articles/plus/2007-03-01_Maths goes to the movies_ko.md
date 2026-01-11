@@ -1,6 +1,15 @@
 ---
 title: 영화 속으로 들어간 수학
 date: 2007-03-01
+tags:
+  - 복소수
+  - 컴퓨터
+  - 수학
+  - 보간
+  - 사원
+  - SLERP
+  - Linear
+  - Trinity
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 깊은 호기심이 만들어낸 팟캐스트 왜의 기쁨
 date: 2022-03-17
+tags:
+  - 매듭
+  - 이것
+  - Quanta
+  - Dragana
+  - knot
+  - Lisa
+  - Dubal
+  - Van
 ---
 
 > [!NOTE]

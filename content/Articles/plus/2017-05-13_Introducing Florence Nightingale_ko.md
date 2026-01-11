@@ -1,6 +1,15 @@
 ---
 title: 플로렌스 나이팅게일 소개
 date: 2017-05-13
+tags:
+  - 나이팅게일
+  - 통계
+  - 그녀
+  - Eileen
+  - Magnello
+  - 도표
+  - 간호사
+  - Farr
 ---
 
 > [!NOTE]

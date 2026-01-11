@@ -1,6 +1,15 @@
 ---
 title: 고대 방정식이 수 체계의 새로운 면모를 드러내다
 date: 2022-08-10
+tags:
+  - Pagano
+  - 수학자
+  - Koymans
+  - Smith
+  - 발견법
+  - Pell
+  - Stevenhagen
+  - 레이던
 ---
 
 > [!NOTE]

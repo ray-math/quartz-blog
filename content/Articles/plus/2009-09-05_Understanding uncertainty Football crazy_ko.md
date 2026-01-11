@@ -1,6 +1,15 @@
 ---
 title: 불확실성의 이해- 축구에 미치다
 date: 2009-09-05
+tags:
+  - 모델
+  - 경기
+  - Hull
+  - United
+  - Poisson
+  - blo
+  - Bromwich
+  - Albion
 ---
 
 > [!NOTE]

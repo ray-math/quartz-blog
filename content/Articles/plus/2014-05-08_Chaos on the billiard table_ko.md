@@ -1,6 +1,15 @@
 ---
 title: 당구대 위의 카오스
 date: 2014-05-08
+tags:
+  - 당구
+  - 수학
+  - 에르
+  - 울치그라이
+  - Sinai
+  - Corinna
+  - Ulcigrai
+  - 시나이
 ---
 
 > [!NOTE]

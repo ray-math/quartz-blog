@@ -1,6 +1,15 @@
 ---
 title: 누구에게 먼저 백신을 접종해야 하는가?
 date: 2020-12-15
+tags:
+  - 백신
+  - 감염
+  - 접종
+  - Warwick
+  - Keeling
+  - Matt
+  - Sam
+  - rate
 ---
 
 > [!NOTE]

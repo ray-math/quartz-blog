@@ -1,6 +1,15 @@
 ---
 title: 양자 이론이 새로운 수학을 탄생시키다
 date: 2017-03-30
+tags:
+  - 수학
+  - 양자
+  - 물리
+  - Yau
+  - interference
+  - mirror
+  - 거울
+  - 진폭
 ---
 
 > [!NOTE]

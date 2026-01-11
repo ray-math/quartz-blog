@@ -1,6 +1,15 @@
 ---
 title: 시간은 이렇게 흘러가는가
 date: 2007-03-01
+tags:
+  - 수학
+  - Plus
+  - 문제
+  - 평가원
+  - Applied
+  - Lay
+  - CD
+  - 창간
 ---
 
 > [!NOTE]

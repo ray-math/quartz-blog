@@ -1,6 +1,15 @@
 ---
 title: COVID-19와 싸운 수학적 힘들
 date: 2022-08-09
+tags:
+  - 연구
+  - 수학
+  - RAMP
+  - Gateway
+  - Pandemic
+  - 팬데믹
+  - COVID
+  - JUNIPER
 ---
 
 > [!NOTE]

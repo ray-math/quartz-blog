@@ -1,6 +1,15 @@
 ---
 title: p-값의 위험성
 date: 2015-10-06
+tags:
+  - 검정
+  - 검사
+  - test
+  - Sealy
+  - published
+  - findings
+  - most
+  - Cushny
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 불확실성의 이해- 사망 확률이 113%라고?
 date: 2012-04-04
+tags:
+  - 위험
+  - 생명표
+  - hazards
+  - Spiegelhalter
+  - Understanding
+  - 고기
+  - 사망
+  - life
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 유체역학과 오일러 방정식"
 date: 2021-11-22
+tags:
+  - 방정식
+  - 유체
+  - 오일러
+  - Stokes
+  - fluid
+  - partial
+  - field
+  - Reynolds
 ---
 
 > [!NOTE]

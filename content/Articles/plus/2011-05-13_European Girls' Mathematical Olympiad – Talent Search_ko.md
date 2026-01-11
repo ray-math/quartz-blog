@@ -1,6 +1,15 @@
 ---
 title: 유럽 여학생 수학 올림피아드 - 재능 발굴
 date: 2011-05-13
+tags:
+  - 수학
+  - 여학생
+  - 문제
+  - Olympiad
+  - 올림피아드
+  - Girls
+  - IMO
+  - EGMO
 ---
 
 > [!NOTE]

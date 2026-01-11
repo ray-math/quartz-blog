@@ -1,6 +1,15 @@
 ---
 title: 철학의 도움으로 AI 설명하기
 date: 2024-09-03
+tags:
+  - 인과
+  - AI
+  - 설명
+  - Hana
+  - Gateway
+  - ReX
+  - 초크
+  - 책임
 ---
 
 > [!NOTE]

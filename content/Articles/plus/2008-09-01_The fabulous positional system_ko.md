@@ -1,6 +1,15 @@
 ---
 title: 놀라운 위치 기수법
 date: 2008-09-01
+tags:
+  - 체계
+  - 기호
+  - 숫자
+  - 바빌로니아
+  - Hollings
+  - 힌두
+  - 기수법
+  - positional
 ---
 
 > [!NOTE]

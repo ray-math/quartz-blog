@@ -1,6 +1,15 @@
 ---
 title: 두 학생이 널리 믿어졌던 수학 추측을 무너뜨리다
 date: 2023-08-10
+tags:
+  - 수학자
+  - 패킹
+  - Haag
+  - Stange
+  - Kontorovich
+  - Kertzer
+  - Bourgain
+  - quadratic
 ---
 
 > [!NOTE]

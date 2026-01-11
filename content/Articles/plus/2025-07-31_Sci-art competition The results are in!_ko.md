@@ -1,6 +1,15 @@
 ---
 title: "과학-예술 공모전: 결과 발표!"
 date: 2025-07-31
+tags:
+  - 수학
+  - 작품
+  - Newton
+  - Cotar
+  - Gordon
+  - 공모전
+  - Ao
+  - 판화
 ---
 
 > [!NOTE]

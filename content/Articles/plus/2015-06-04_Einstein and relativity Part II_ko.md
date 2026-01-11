@@ -1,6 +1,15 @@
 ---
 title: "아인슈타인과 상대성이론: 2부"
 date: 2015-06-04
+tags:
+  - 이론
+  - 중력파
+  - 아인슈타인
+  - gravitational
+  - 피사
+  - Gravitational
+  - 르메트르
+  - 관측
 ---
 
 > [!NOTE]

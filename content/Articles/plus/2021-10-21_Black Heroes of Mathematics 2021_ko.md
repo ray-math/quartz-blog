@@ -1,6 +1,15 @@
 ---
 title: 2021 수학의 흑인 영웅들
 date: 2021-10-21
+tags:
+  - 수학
+  - Institute
+  - Mathematical
+  - 세포
+  - 마드즈바무세
+  - African
+  - BHoM
+  - interface
 ---
 
 > [!NOTE]

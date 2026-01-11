@@ -1,6 +1,15 @@
 ---
 title: 표지 이야기 - VisualPDE.com
 date: 2023-05-22
+tags:
+  - 모델
+  - 방정식
+  - 패턴
+  - Visu
+  - align
+  - frac
+  - differential
+  - 확산
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 소수의 비밀을 풀기 위한 여정에서 수학자들이 중요한 장벽을 넘다
 date: 2022-01-13
+tags:
+  - 함수
+  - 리만
+  - 가설
+  - 린델뢰프
+  - 미셸
+  - subconvexity
+  - form
+  - Riemann
 ---
 
 > [!NOTE]

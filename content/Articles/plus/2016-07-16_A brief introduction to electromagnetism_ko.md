@@ -1,6 +1,15 @@
 ---
 title: 전자기력에 대한 간략한 소개
 date: 2016-07-16
+tags:
+  - 전기장
+  - 자기장
+  - 시공간
+  - electric
+  - field
+  - potential
+  - 게이지
+  - force
 ---
 
 > [!NOTE]

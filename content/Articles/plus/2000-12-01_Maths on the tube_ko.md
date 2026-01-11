@@ -1,6 +1,15 @@
 ---
 title: 지하철에서 만나는 수학
 date: 2000-12-01
+tags:
+  - 수학
+  - 방정식
+  - Maths
+  - 포스터
+  - Osinga
+  - 혼돈
+  - Lorenz
+  - Leonardo
 ---
 
 > [!NOTE]

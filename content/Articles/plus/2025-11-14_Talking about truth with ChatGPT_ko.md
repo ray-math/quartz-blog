@@ -1,6 +1,15 @@
 ---
 title: ChatGPT와 함께 진실에 대해 이야기하기
 date: 2025-11-14
+tags:
+  - 학습
+  - 모델
+  - Newton
+  - calibrating
+  - LLM
+  - prediction
+  - learning
+  - Williamson
 ---
 
 > [!NOTE]

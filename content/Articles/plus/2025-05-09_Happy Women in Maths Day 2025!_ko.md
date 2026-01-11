@@ -1,6 +1,15 @@
 ---
 title: "2025년 세계 여성 수학인의 날을 축하합니다!"
 date: 2025-05-09
+tags:
+  - 수학
+  - Maryam
+  - 교수
+  - 해나
+  - 미르자카니
+  - Mirzakhani
+  - Gresham
+  - Professor
 ---
 
 > [!NOTE]

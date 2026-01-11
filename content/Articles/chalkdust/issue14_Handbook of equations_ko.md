@@ -1,6 +1,15 @@
 ---
 title: 방정식 핸드북
 date: 2021-11-22
+tags:
+  - 함수
+  - 그래프
+  - functions
+  - asymptote
+  - 포물선
+  - 로그
+  - 절편
+  - equations
 ---
 
 > [!NOTE]

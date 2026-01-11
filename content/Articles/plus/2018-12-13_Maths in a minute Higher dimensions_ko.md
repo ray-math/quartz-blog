@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 고차원"
 date: 2018-12-13
+tags:
+  - 차원
+  - 공간
+  - space
+  - dimension
+  - why
+  - 테서랙트
+  - Exotic
+  - crazy
 ---
 
 > [!NOTE]

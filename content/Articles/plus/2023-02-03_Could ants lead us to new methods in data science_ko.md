@@ -1,6 +1,15 @@
 ---
 title: 개미가 데이터 과학의 새로운 방법론으로 이어질 수 있을까?
 date: 2023-02-03
+tags:
+  - 개미
+  - CCIMI
+  - Mathematics
+  - Capital
+  - Ulrich
+  - Dobramysl
+  - 페로몬
+  - differential
 ---
 
 > [!NOTE]

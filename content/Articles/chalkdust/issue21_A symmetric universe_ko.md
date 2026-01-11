@@ -1,6 +1,15 @@
 ---
 title: 대칭적인 우주
 date: 2025-03-17
+tags:
+  - 대칭
+  - 보존
+  - 이것
+  - alpha
+  - mu
+  - pmatrix
+  - theta
+  - psi
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 마틴 하이러와의 대화
 date: 2022-11-09
+tags:
+  - 마틴
+  - 수학
+  - 방정식
+  - SPDE
+  - Ming
+  - equations
+  - differential
+  - 아빌라
 ---
 
 > [!NOTE]

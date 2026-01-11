@@ -1,6 +1,15 @@
 ---
 title: 양자 컴퓨터는 무엇을 할 수 있는가?
 date: 2015-10-01
+tags:
+  - 양자
+  - 문제
+  - Mathematics
+  - 니트로게나제
+  - Esfah
+  - Clay
+  - Jozsa
+  - Behnam
 ---
 
 > [!NOTE]

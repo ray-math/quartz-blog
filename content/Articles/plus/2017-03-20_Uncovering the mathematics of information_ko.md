@@ -1,6 +1,15 @@
 ---
 title: 정보의 수학을 찾아서
 date: 2017-03-20
+tags:
+  - Mathematics
+  - 이미지
+  - 수학
+  - Capital
+  - tomography
+  - 촬영
+  - Applied
+  - resonance
 ---
 
 > [!NOTE]

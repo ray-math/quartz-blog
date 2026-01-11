@@ -1,6 +1,15 @@
 ---
 title: 뉴턴의 제3법칙을 거스르는 계의 새로운 이론
 date: 2021-11-11
+tags:
+  - 물질
+  - 상태
+  - 상호
+  - Hanai
+  - 상전
+  - bifurcation
+  - Vitelli
+  - BEC
 ---
 
 > [!NOTE]

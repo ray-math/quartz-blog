@@ -1,6 +1,15 @@
 ---
 title: 미래의 팬데믹에 맞서다
 date: 2017-10-10
+tags:
+  - 모델
+  - 과학
+  - 프로젝트
+  - BBC
+  - Conlan
+  - Gog
+  - Motivate
+  - Project
 ---
 
 > [!NOTE]

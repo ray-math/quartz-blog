@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 1998-05-01
+tags:
+  - 이해
+  - 시스템
+  - 채점
+  - Bitesize
+  - Revision
+  - GCSE
+  - BBC
+  - CAS
 ---
 
 > [!NOTE]

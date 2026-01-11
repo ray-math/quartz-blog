@@ -1,6 +1,15 @@
 ---
 title: 수학의 아름다움
 date: 2009-06-01
+tags:
+  - 수학
+  - 이것
+  - 오일러
+  - 항등식
+  - Aziz
+  - 급수
+  - Surein
+  - Euler
 ---
 
 > [!NOTE]

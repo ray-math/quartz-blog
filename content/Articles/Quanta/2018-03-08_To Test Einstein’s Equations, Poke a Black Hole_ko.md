@@ -1,6 +1,15 @@
 ---
 title: 블랙홀을 흔들어 아인슈타인의 방정식을 시험하다
 date: 2018-03-08
+tags:
+  - 방정식
+  - 시공간
+  - 블랙홀
+  - Klainerman
+  - Hintz
+  - Szeftel
+  - stability
+  - coordinate
 ---
 
 > [!NOTE]

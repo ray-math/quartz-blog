@@ -1,6 +1,15 @@
 ---
 title: "무작위성의 수학: 보편성"
 date: 2018-04-19
+tags:
+  - 보편
+  - 확률
+  - 운동
+  - Hairer
+  - 브라운
+  - Einstein
+  - Stokes
+  - Smoluchowski
 ---
 
 > [!NOTE]

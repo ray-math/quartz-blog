@@ -1,6 +1,15 @@
 ---
 title: 오직 위로만- 헤론 타워의 건설
 date: 2011-08-18
+tags:
+  - 건설
+  - 건물
+  - 구조
+  - Pasetto
+  - 타워
+  - Inman
+  - Saverio
+  - 하중
 ---
 
 > [!NOTE]

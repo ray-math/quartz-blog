@@ -1,6 +1,15 @@
 ---
 title: 셔플을 돌려라- 플레이리스트에서 π 찾기
 date: 2023-05-22
+tags:
+  - 함수
+  - 우리
+  - 확률
+  - resistance
+  - hash
+  - 해시
+  - birthday
+  - 리스트
 ---
 
 > [!NOTE]

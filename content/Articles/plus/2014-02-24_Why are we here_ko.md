@@ -1,6 +1,15 @@
 ---
 title: 우리는 왜 여기에 있는가?
 date: 2014-02-24
+tags:
+  - 우주
+  - 우리
+  - 이론
+  - 슬론
+  - Philosophy
+  - 프리드만
+  - Establishing
+  - anthropic
 ---
 
 > [!NOTE]

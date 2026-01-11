@@ -1,6 +1,15 @@
 ---
 title: 빛의 감쇠와 지수 법칙
 date: 2001-01-01
+tags:
+  - 광자
+  - 지수
+  - 법칙
+  - exponential
+  - Ian
+  - Lambert
+  - 탄소
+  - 방사
 ---
 
 > [!NOTE]

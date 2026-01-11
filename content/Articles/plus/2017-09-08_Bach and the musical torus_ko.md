@@ -1,6 +1,15 @@
 ---
 title: 바흐와 음악적 원환면
 date: 2017-09-08
+tags:
+  - 음악
+  - Eric
+  - 바흐
+  - 음높이
+  - Tony
+  - Column
+  - Bach
+  - 성부
 ---
 
 > [!NOTE]

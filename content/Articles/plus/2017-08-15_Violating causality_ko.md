@@ -1,6 +1,15 @@
 ---
 title: 인과성의 위배
 date: 2017-08-15
+tags:
+  - 사건
+  - 시스템
+  - Lamport
+  - 인과
+  - clocks
+  - Johnson
+  - 분산
+  - happened
 ---
 
 > [!NOTE]

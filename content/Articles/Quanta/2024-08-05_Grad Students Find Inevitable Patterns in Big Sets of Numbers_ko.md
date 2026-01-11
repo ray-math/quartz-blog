@@ -1,6 +1,15 @@
 ---
 title: 대학원생들이 거대한 수 집합에서 필연적으로 나타나는 패턴을 발견하다
 date: 2024-08-05
+tags:
+  - Sah
+  - 집합
+  - 수학
+  - Gowers
+  - Tao
+  - Leng
+  - von
+  - Green
 ---
 
 > [!NOTE]

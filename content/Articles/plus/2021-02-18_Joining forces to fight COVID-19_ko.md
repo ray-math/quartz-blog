@@ -1,6 +1,15 @@
 ---
 title: COVID-19와 싸우기 위한 힘의 결집
 date: 2021-02-18
+tags:
+  - Gog
+  - JUNIPER
+  - Pandemic
+  - Keeling
+  - Warwick
+  - 팬데믹
+  - 버블
+  - SPI
 ---
 
 > [!NOTE]

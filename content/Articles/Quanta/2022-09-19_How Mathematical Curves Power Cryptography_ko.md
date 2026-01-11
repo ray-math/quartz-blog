@@ -1,6 +1,15 @@
 ---
 title: 수학적 곡선이 암호학을 구동하는 방법
 date: 2022-09-19
+tags:
+  - 코드
+  - 리드
+  - 곡선
+  - 솔로몬
+  - verifiable
+  - computation
+  - 블록체인
+  - 전송
 ---
 
 > [!NOTE]

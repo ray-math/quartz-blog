@@ -1,6 +1,15 @@
 ---
 title: "토니 호어: 퀵소트를 넘어서"
 date: 2021-06-04
+tags:
+  - 검증
+  - Institute
+  - Newton
+  - 호어
+  - 퀵소트
+  - INI
+  - 이니셔티브
+  - Hoare
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 위상수학적 틱택토
 date: 2018-10-18
+tags:
+  - 평면
+  - 토러스
+  - 보드
+  - Across
+  - 원기둥
+  - Watkins
+  - game
+  - 사영
 ---
 
 > [!NOTE]

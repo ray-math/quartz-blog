@@ -1,6 +1,15 @@
 ---
 title: "수학적 스냅샷: 엠마 베니스턴"
 date: 2023-02-03
+tags:
+  - Mathematics
+  - 수학
+  - 대학교
+  - Placements
+  - Tripos
+  - 엠마
+  - sheets
+  - 인턴십
 ---
 
 > [!NOTE]

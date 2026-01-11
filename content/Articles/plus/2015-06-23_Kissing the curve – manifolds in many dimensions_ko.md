@@ -1,6 +1,15 @@
 ---
 title: 곡선에 입맞추기 - 다차원 다양체
 date: 2015-06-23
+tags:
+  - 곡률
+  - 다양체
+  - 곡면
+  - parallel
+  - curvature
+  - 리치
+  - circle
+  - 측지선
 ---
 
 > [!NOTE]

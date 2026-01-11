@@ -1,6 +1,15 @@
 ---
 title: 대칭성 깨뜨리기
 date: 2014-05-20
+tags:
+  - 대칭
+  - 법칙
+  - 결정
+  - GeV
+  - Higgs
+  - breaking
+  - Nambu
+  - symmetry
 ---
 
 > [!NOTE]

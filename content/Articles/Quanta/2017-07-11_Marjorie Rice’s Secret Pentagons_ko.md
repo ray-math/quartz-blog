@@ -1,6 +1,15 @@
 ---
 title: 마조리 라이스의 비밀 오각형들
 date: 2017-07-11
+tags:
+  - 라이스
+  - 수학
+  - Rice
+  - Kathy
+  - 오각
+  - American
+  - 샤트
+  - 타일
 ---
 
 > [!NOTE]

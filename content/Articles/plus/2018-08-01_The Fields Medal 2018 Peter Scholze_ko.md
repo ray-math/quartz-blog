@@ -1,6 +1,15 @@
 ---
 title: 2018년 필즈상 수상자 - 페터 숄체
 date: 2018-08-01
+tags:
+  - 공간
+  - 수학
+  - 산술
+  - 숄체
+  - spaces
+  - Scholze
+  - Archimedean
+  - 아르키메데스
 ---
 
 > [!NOTE]

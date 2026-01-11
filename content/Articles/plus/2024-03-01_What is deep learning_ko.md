@@ -1,6 +1,15 @@
 ---
 title: 딥러닝이란 무엇인가?
 date: 2024-03-01
+tags:
+  - University
+  - 입력
+  - 학습
+  - Yury
+  - Korolev
+  - learning
+  - Abraham
+  - DL
 ---
 
 > [!NOTE]

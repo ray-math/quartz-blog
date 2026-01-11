@@ -1,6 +1,15 @@
 ---
 title: COVID-19의 세대 시간 이해하기
 date: 2021-12-21
+tags:
+  - 시간
+  - Newton
+  - 세대
+  - Gateway
+  - COVID
+  - 감염
+  - Gog
+  - JUNIPER
 ---
 
 > [!NOTE]

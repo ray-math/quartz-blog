@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터는 어떻게, 그리고 왜 편향된 주사위를 굴리는가
 date: 2020-07-08
+tags:
+  - 작위
+  - Number
+  - Generator
+  - FLDR
+  - Congruential
+  - 난수
+  - 가중
+  - PRNG
 ---
 
 > [!NOTE]

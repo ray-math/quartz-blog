@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2004-03-01
+tags:
+  - 수학
+  - National
+  - 방정식
+  - Curriculum
+  - 이차
+  - 보고서
+  - Nrich
+  - 교사
 ---
 
 > [!NOTE]

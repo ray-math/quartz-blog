@@ -1,6 +1,15 @@
 ---
 title: 미래의 수학 도서관 건설하기
 date: 2020-10-01
+tags:
+  - 수학
+  - 증명
+  - Lean
+  - Massot
+  - 전술
+  - mathlib
+  - 퍼펙토이드
+  - Alexander
 ---
 
 > [!NOTE]

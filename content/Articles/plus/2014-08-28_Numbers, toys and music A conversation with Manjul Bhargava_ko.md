@@ -1,6 +1,15 @@
 ---
 title: 숫자, 장난감, 그리고 음악 - 만줄 바르가바와의 대화
 date: 2014-08-28
+tags:
+  - 수학
+  - 그것
+  - Congress
+  - International
+  - 바르가바
+  - 브라마굽타
+  - Mathematicians
+  - reser
 ---
 
 > [!NOTE]

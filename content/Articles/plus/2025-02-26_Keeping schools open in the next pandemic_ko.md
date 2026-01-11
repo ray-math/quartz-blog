@@ -1,6 +1,15 @@
 ---
 title: 다음 팬데믹에서 학교 문을 열어두기 위하여
 date: 2025-02-26
+tags:
+  - 학교
+  - 연구
+  - 모델
+  - Read
+  - Leng
+  - Lancaster
+  - co
+  - 감염
 ---
 
 > [!NOTE]

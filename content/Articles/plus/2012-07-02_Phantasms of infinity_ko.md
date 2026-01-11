@@ -1,6 +1,15 @@
 ---
 title: 무한의 환영
 date: 2012-07-02
+tags:
+  - 우주
+  - 무한
+  - 이론
+  - Vitaly
+  - Winitzki
+  - anthropic
+  - Tufts
+  - Sergei
 ---
 
 > [!NOTE]

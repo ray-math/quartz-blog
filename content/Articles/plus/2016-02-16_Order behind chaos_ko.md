@@ -1,6 +1,15 @@
 ---
 title: 혼돈 속의 질서
 date: 2016-02-16
+tags:
+  - 대칭
+  - 법칙
+  - 불변
+  - Stuff
+  - happens
+  - 눈송이
+  - 플라톤
+  - John
 ---
 
 > [!NOTE]

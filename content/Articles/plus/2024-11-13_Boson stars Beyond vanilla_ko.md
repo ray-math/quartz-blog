@@ -1,6 +1,15 @@
 ---
 title: "보손 별: 일반적인 중력파 신호를 넘어서"
 date: 2024-11-13
+tags:
+  - Evstafyeva
+  - Theoretical
+  - 중력파
+  - Tamara
+  - Sperhake
+  - 보손
+  - 합병
+  - Perimeter
 ---
 
 > [!NOTE]

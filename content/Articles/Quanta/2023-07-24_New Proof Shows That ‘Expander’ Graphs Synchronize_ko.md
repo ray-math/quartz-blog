@@ -1,6 +1,15 @@
 ---
 title: 확장 그래프가 동기화된다는 새로운 증명
 date: 2023-07-24
+tags:
+  - 그래프
+  - 동기
+  - 연결
+  - Bandeira
+  - Souza
+  - 노드
+  - Ling
+  - Kuramoto
 ---
 
 > [!NOTE]

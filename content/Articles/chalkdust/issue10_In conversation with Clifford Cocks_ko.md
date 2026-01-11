@@ -1,6 +1,15 @@
 ---
 title: 클리포드 콕스와의 대화
 date: 2019-10-23
+tags:
+  - 암호
+  - 콕스
+  - key
+  - GCHQ
+  - Shamir
+  - Adleman
+  - Rivest
+  - 학계
 ---
 
 > [!NOTE]

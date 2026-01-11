@@ -1,6 +1,15 @@
 ---
 title: 우주 공간- 창발
 date: 2007-09-01
+tags:
+  - 창발
+  - 성질
+  - infinity
+  - 곡면
+  - 점성
+  - 월드
+  - orientable
+  - emergence
 ---
 
 > [!NOTE]

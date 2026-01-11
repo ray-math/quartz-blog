@@ -1,6 +1,15 @@
 ---
 title: "나선을 풀다: 수학과 환각"
 date: 2009-12-01
+tags:
+  - 신경
+  - visual
+  - 패턴
+  - 환각
+  - hallucinations
+  - 브레
+  - 클뤼버
+  - 시야
 ---
 
 > [!NOTE]

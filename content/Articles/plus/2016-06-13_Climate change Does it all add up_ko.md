@@ -1,6 +1,15 @@
 ---
 title: "기후 변화: 수학으로 풀 수 있을까?"
 date: 2016-06-13
+tags:
+  - 기후
+  - 방정식
+  - 모델
+  - climate
+  - per
+  - Navier
+  - RCP
+  - ppm
 ---
 
 > [!NOTE]

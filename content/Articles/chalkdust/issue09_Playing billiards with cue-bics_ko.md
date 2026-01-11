@@ -1,6 +1,15 @@
 ---
 title: 3차 방정식으로 당구 치기
 date: 2019-03-14
+tags:
+  - 기하
+  - 경로
+  - tan
+  - 벨로
+  - alpha
+  - 당구
+  - geo
+  - Beloch
 ---
 
 > [!NOTE]

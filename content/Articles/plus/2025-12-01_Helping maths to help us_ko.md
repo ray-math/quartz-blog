@@ -1,6 +1,15 @@
 ---
 title: 수학이 우리를 돕도록 돕기
 date: 2025-12-01
+tags:
+  - 수학
+  - Mathematics
+  - Newton
+  - Heather
+  - Tewkesbury
+  - 수리과학
+  - Jens
+  - Gateway
 ---
 
 > [!NOTE]

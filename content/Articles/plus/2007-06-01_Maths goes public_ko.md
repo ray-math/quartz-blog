@@ -1,6 +1,15 @@
 ---
 title: 수학이 대중과 만나다
 date: 2007-06-01
+tags:
+  - 수학
+  - Plus
+  - Mathematics
+  - Numeracy
+  - understanding
+  - public
+  - Hunt
+  - Millennium
 ---
 
 > [!NOTE]

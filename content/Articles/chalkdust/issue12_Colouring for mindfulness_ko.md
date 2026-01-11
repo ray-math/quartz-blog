@@ -1,6 +1,15 @@
 ---
 title: 마음챙김을 위한 색칠하기
 date: 2020-10-30
+tags:
+  - 타일
+  - 이것
+  - 유클리드
+  - Cinde
+  - Shephard
+  - Grunbaum
+  - Ti
+  - 원판
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "입자일까… 파동일까… 아니, 솔리톤이다!"
 date: 2024-05-20
+tags:
+  - 방정식
+  - 솔리톤
+  - 선형
+  - KdV
+  - soliton
+  - NLS
+  - Kadomtsev
+  - Zabusky
 ---
 
 > [!NOTE]

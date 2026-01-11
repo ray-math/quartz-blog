@@ -1,6 +1,15 @@
 ---
 title: 직관주의 수학
 date: 2018-07-18
+tags:
+  - 수학
+  - 증명
+  - 주의
+  - Brouwer
+  - 배중률
+  - Curry
+  - middle
+  - excluded
 ---
 
 > [!NOTE]

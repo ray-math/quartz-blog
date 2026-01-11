@@ -1,6 +1,15 @@
 ---
 title: 군의 힘
 date: 2006-06-01
+tags:
+  - 대칭
+  - 구멍
+  - group
+  - Roney
+  - 구슬
+  - 보드
+  - 원군
+  - Colva
 ---
 
 > [!NOTE]

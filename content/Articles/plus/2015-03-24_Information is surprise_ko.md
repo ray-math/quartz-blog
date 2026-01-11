@@ -1,6 +1,15 @@
 ---
 title: 정보란 놀라움이다
 date: 2015-03-24
+tags:
+  - 정보
+  - 단어
+  - 엔트로피
+  - Shannon
+  - Hartley
+  - 기호
+  - THAT
+  - von
 ---
 
 > [!NOTE]

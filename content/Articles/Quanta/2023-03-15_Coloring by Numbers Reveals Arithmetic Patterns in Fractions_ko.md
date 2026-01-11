@@ -1,6 +1,15 @@
 ---
 title: 분수를 색칠하면 드러나는 산술 패턴
 date: 2023-03-15
+tags:
+  - 증명
+  - Bowen
+  - 수학
+  - Sabok
+  - Hindman
+  - Ramsey
+  - 색칠
+  - 램지
 ---
 
 > [!NOTE]

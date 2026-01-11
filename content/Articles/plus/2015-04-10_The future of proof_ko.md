@@ -1,6 +1,15 @@
 ---
 title: 증명의 미래
 date: 2015-04-10
+tags:
+  - 수학
+  - 증명
+  - 컴퓨터
+  - Pitts
+  - proof
+  - Tranah
+  - 소령
+  - origins
 ---
 
 > [!NOTE]

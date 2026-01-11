@@ -1,6 +1,15 @@
 ---
 title: 뜨개질로 배우는 수학
 date: 2009-06-01
+tags:
+  - 수학
+  - Marie
+  - 뜨개
+  - Belcastro
+  - Sarah
+  - 다양체
+  - Dietz
+  - 스카프
 ---
 
 > [!NOTE]

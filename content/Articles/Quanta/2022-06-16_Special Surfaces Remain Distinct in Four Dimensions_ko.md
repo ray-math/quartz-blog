@@ -1,6 +1,15 @@
 ---
 title: 4차원에서도 구별되는 특별한 곡면들
 date: 2022-06-16
+tags:
+  - 곡면
+  - 차원
+  - 매듭
+  - Hayden
+  - 동위
+  - Sundberg
+  - Miller
+  - Kim
 ---
 
 > [!NOTE]

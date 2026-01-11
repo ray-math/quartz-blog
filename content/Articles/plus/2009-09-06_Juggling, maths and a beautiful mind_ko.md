@@ -1,6 +1,15 @@
 ---
 title: 저글링, 수학, 그리고 아름다운 마음
 date: 2009-09-06
+tags:
+  - 수열
+  - 수학
+  - 패턴
+  - 박자
+  - Burkard
+  - juggling
+  - Juggling
+  - Polster
 ---
 
 > [!NOTE]

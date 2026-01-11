@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터 내부에서는 무슨 일이 일어날까?
 date: 2017-08-15
+tags:
+  - 사건
+  - 컴퓨터
+  - Laureate
+  - 패킷
+  - 포럼
+  - 플립플롭
+  - Forum
+  - Heidelberg
 ---
 
 > [!NOTE]

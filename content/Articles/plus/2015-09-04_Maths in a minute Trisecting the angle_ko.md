@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 각의 삼등분
 date: 2015-09-04
+tags:
+  - 증명
+  - 가능
+  - 컴퍼스
+  - Wantzel
+  - 뉴시스
+  - field
+  - extension
+  - construction
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 역동적인 태양
 date: 1999-05-01
+tags:
+  - 태양
+  - 파동
+  - 코로나
+  - 광구
+  - SOHO
+  - Solar
+  - 일식
+  - magnetic
 ---
 
 > [!NOTE]

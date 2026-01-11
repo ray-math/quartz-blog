@@ -1,6 +1,15 @@
 ---
 title: 2013년 아벨상
 date: 2013-03-26
+tags:
+  - 리만
+  - 복소수
+  - 수학
+  - 아벨
+  - Abel
+  - Henrik
+  - Deligne
+  - Niels
 ---
 
 > [!NOTE]

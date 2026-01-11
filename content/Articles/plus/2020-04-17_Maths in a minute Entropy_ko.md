@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 엔트로피
 date: 2020-04-17
+tags:
+  - 엔트로피
+  - 과정
+  - 정보
+  - process
+  - 고립계
+  - system
+  - statistical
+  - equilibrium
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "끈 이론: 물리학이 전하는 약속"
 date: 2024-05-07
+tags:
+  - 이론
+  - 수학
+  - 우리
+  - holographic
+  - Yau
+  - quantum
+  - Sciences
+  - 중력
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 변화만이 유일한 상수인 수학자
 date: 2019-06-13
+tags:
+  - 수학
+  - 동역학
+  - 당신
+  - Wilkinson
+  - Chicago
+  - 엽층
+  - foliation
+  - 병리
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 인지, 뇌, 그리고 리만
 date: 2013-07-09
+tags:
+  - 수학
+  - 우리
+  - 공간
+  - Maturana
+  - Bueti
+  - Varela
+  - Walsh
+  - extensive
 ---
 
 > [!NOTE]

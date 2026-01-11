@@ -1,6 +1,15 @@
 ---
 title: "에이다 러브레이스의 날을 축하합니다!"
 date: 2021-10-12
+tags:
+  - 프로젝트
+  - 활용
+  - Ada
+  - 러브
+  - AIX
+  - Carola
+  - Bibiane
+  - machine
 ---
 
 > [!NOTE]

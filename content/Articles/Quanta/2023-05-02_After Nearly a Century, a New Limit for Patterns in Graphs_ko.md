@@ -1,6 +1,15 @@
 ---
 title: 거의 한 세기 만에 발견된 그래프 패턴의 새로운 한계
 date: 2023-05-02
+tags:
+  - 수학
+  - 전문가
+  - approx
+  - 캄포스
+  - times
+  - 그리피스
+  - 조합론
+  - combinatorics
 ---
 
 > [!NOTE]

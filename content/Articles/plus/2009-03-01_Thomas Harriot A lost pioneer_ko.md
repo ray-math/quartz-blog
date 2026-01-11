@@ -1,6 +1,15 @@
 ---
 title: 토머스 해리엇- 잊힌 선구자
 date: 2009-03-01
+tags:
+  - 해리엇
+  - 출판
+  - 수학
+  - Praxis
+  - Artis
+  - Analyticae
+  - 육방
+  - 스넬리우스
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 생명의 양자 수정구슬
 date: 2015-06-18
+tags:
+  - 정보
+  - 양자
+  - 예측
+  - Still
+  - 호랑이
+  - Crooks
+  - Hawaii
+  - 생명
 ---
 
 > [!NOTE]

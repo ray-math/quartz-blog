@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 복리와 자연상수 e
 date: 2018-02-07
+tags:
+  - 복리
+  - 계산
+  - 베르누이
+  - Jacob
+  - 이자
+  - Kirk
+  - compound
+  - 원금
 ---
 
 > [!NOTE]

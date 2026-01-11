@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2004-01-01
+tags:
+  - 상대
+  - space
+  - 판정
+  - Wagons
+  - Roll
+  - Outer
+  - 부심
+  - 축구
 ---
 
 > [!NOTE]

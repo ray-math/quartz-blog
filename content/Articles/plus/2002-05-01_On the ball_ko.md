@@ -1,6 +1,15 @@
 ---
 title: 공에 관하여
 date: 2002-05-01
+tags:
+  - 경기
+  - 득점
+  - 확률
+  - Taking
+  - Chances
+  - 퇴장
+  - Haigh
+  - 반칙
 ---
 
 > [!NOTE]

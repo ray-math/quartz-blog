@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 점근선"
 date: 2021-05-20
+tags:
+  - 점근선
+  - asymptotics
+  - 극한
+  - resurgent
+  - 급수
+  - 수리과학
+  - INI
+  - 계좌
 ---
 
 > [!NOTE]

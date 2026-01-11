@@ -1,6 +1,15 @@
 ---
 title: 단순한 수학 모형을 예찬하며
 date: 2021-11-22
+tags:
+  - 모형
+  - 단순
+  - 감염
+  - fittest
+  - Survival
+  - reproduction
+  - 스라소니
+  - 적자생존
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 삶과 우주의 데이터에 숨겨진 비밀을 밝히는 사람
 date: 2018-04-11
+tags:
+  - 상관
+  - 통계
+  - 데이터
+  - 리처즈
+  - 회귀
+  - Richards
+  - correlation
+  - logic
 ---
 
 > [!NOTE]

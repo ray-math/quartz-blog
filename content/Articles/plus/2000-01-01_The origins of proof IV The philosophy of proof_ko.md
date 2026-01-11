@@ -1,6 +1,15 @@
 ---
 title: 증명의 기원 IV - 증명의 철학
 date: 2000-01-01
+tags:
+  - 증명
+  - 수학
+  - 문제
+  - Hunt
+  - Appel
+  - Haken
+  - Wiles
+  - http
 ---
 
 > [!NOTE]

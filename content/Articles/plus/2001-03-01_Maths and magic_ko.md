@@ -1,6 +1,15 @@
 ---
 title: 수학과 마술
 date: 2001-03-01
+tags:
+  - 수학
+  - 숫자
+  - 마술
+  - 마방진
+  - Lewis
+  - Gardner
+  - Carroll
+  - magic
 ---
 
 > [!NOTE]

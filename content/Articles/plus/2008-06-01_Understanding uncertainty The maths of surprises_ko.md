@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 놀라운 일의 수학"
 date: 2008-06-01
+tags:
+  - 사건
+  - 확률
+  - Royal
+  - Understanding
+  - 산모
+  - 당첨
+  - Hampshire
+  - 복권
 ---
 
 > [!NOTE]

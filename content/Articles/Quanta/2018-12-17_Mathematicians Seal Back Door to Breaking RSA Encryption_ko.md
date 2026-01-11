@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 RSA 암호화 해독의 뒷문을 봉인하다
 date: 2018-12-17
+tags:
+  - 다항식
+  - 인수
+  - 암호
+  - Lenstra
+  - 자릿
+  - Breuillard
+  - 소인
+  - 뒷문
 ---
 
 > [!NOTE]

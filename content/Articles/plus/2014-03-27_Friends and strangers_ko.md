@@ -1,6 +1,15 @@
 ---
 title: 친구와 낯선 사람
 date: 2014-03-27
+tags:
+  - 사람
+  - 이론
+  - 그래프
+  - strangers
+  - 간선
+  - mutual
+  - Rachel
+  - 질서
 ---
 
 > [!NOTE]

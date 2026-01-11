@@ -1,6 +1,15 @@
 ---
 title: 표지 이야기 - 정다각형 타일링
 date: 2022-05-25
+tags:
+  - 타일
+  - 꼭짓점
+  - eq
+  - tilings
+  - Tilings
+  - 주기
+  - local
+  - 다각
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2006-09-01
+tags:
+  - 연구
+  - research
+  - operations
+  - 호송
+  - Outer
+  - 둘레
+  - 방어
+  - 면적
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: AI와 GoPro 물리학
 date: 2024-05-23
+tags:
+  - 방정식
+  - 물리학
+  - 알고리즘
+  - SINDY
+  - Kutz
+  - 진자
+  - dynamics
+  - sparse
 ---
 
 > [!NOTE]

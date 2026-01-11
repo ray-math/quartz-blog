@@ -1,6 +1,15 @@
 ---
 title: 경도 문제
 date: 2015-06-03
+tags:
+  - 경도
+  - 문제
+  - 시간
+  - Harrison
+  - Sobel
+  - Dava
+  - King
+  - 그리니치
 ---
 
 > [!NOTE]

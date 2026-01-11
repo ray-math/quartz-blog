@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 극좌표
 date: 2017-06-23
+tags:
+  - 좌표
+  - 나선
+  - 원점
+  - Jacob
+  - 데카르트
+  - Bernoulli
+  - coordinates
+  - 극좌
 ---
 
 > [!NOTE]

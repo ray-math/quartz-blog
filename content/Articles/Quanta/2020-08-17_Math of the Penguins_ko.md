@@ -1,6 +1,15 @@
 ---
 title: 펭귄들의 수학
 date: 2020-08-17
+tags:
+  - 펭귄
+  - 온도
+  - Library
+  - 허들
+  - Picture
+  - Nature
+  - Photo
+  - Olivier
 ---
 
 > [!NOTE]

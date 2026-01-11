@@ -1,6 +1,15 @@
 ---
 title: 당신의 생각은 무엇인가요?
 date: 2016-07-29
+tags:
+  - 의견
+  - 모델
+  - 사람
+  - opinion
+  - political
+  - behaviour
+  - 선도자
+  - leader
 ---
 
 > [!NOTE]

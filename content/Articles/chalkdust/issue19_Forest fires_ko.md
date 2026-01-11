@@ -1,6 +1,15 @@
 ---
 title: 숲속의 산불
 date: 2024-05-20
+tags:
+  - 중심
+  - 수열
+  - 삼각
+  - 다각수
+  - polygonal
+  - Catan
+  - Wikimedia
+  - Commons
 ---
 
 > [!NOTE]

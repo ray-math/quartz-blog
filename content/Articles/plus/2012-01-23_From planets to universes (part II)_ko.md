@@ -1,6 +1,15 @@
 ---
 title: 행성에서 우주들까지 (2부)
 date: 2012-01-23
+tags:
+  - 우주
+  - 우리
+  - 원리
+  - Mysterium
+  - Cosmographicum
+  - Andrey
+  - 인플레이션
+  - Rees
 ---
 
 > [!NOTE]

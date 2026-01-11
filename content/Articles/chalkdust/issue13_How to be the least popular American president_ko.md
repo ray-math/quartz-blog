@@ -1,6 +1,15 @@
 ---
 title: 가장 인기 없는 미국 대통령이 되는 방법
 date: 2021-05-01
+tags:
+  - 투표
+  - 선거
+  - 후보
+  - OpenStreetMap
+  - contribut
+  - popular
+  - 제도
+  - worldpopulationr
 ---
 
 > [!NOTE]

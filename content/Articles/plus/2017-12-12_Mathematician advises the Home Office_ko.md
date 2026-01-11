@@ -1,6 +1,15 @@
 ---
 title: 수학자가 영국 내무부의 과학 자문관으로 임명되다
 date: 2017-12-12
+tags:
+  - 과학
+  - Turing
+  - 자문관
+  - Adviser
+  - Chief
+  - Nutt
+  - Aston
+  - 내무부
 ---
 
 > [!NOTE]

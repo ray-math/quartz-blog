@@ -1,6 +1,15 @@
 ---
 title: 종이접기의 힘
 date: 2009-12-01
+tags:
+  - 종이
+  - 공리
+  - 수학
+  - Lang
+  - Hatori
+  - 리버모어
+  - 사슴
+  - Livermore
 ---
 
 > [!NOTE]

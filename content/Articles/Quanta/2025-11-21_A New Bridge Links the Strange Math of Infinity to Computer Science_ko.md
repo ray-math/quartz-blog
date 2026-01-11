@@ -1,6 +1,15 @@
 ---
 title: 무한의 기묘한 수학과 컴퓨터 과학을 잇는 새로운 다리
 date: 2025-11-21
+tags:
+  - 집합
+  - 무한
+  - 수학
+  - Bernshteyn
+  - Anush
+  - 기수
+  - Tserunyan
+  - 측도
 ---
 
 > [!NOTE]

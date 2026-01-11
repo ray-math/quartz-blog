@@ -1,6 +1,15 @@
 ---
 title: 수학자가 말하는 창의성, 예술, 논리 그리고 언어
 date: 2024-03-13
+tags:
+  - 수학
+  - 다양체
+  - 대수
+  - 부아
+  - algebraic
+  - sheaf
+  - varieties
+  - 그로텐디크
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "수학적 미스터리: 삼체 문제"
 date: 1998-09-01
+tags:
+  - 문제
+  - SOHO
+  - 태양
+  - body
+  - 삼체
+  - 천체
+  - 실종
+  - equilibrium
 ---
 
 > [!NOTE]

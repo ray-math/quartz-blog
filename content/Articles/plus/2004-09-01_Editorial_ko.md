@@ -1,6 +1,15 @@
 ---
 title: 에디토리얼
 date: 2004-09-01
+tags:
+  - 수학
+  - 학생
+  - 교육
+  - Skills
+  - 교사
+  - Smith
+  - 시험
+  - maths
 ---
 
 > [!NOTE]

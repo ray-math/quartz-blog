@@ -1,6 +1,15 @@
 ---
 title: 삶, 선택, 그리고 그 밖의 문제들
 date: 2020-07-22
+tags:
+  - 정보
+  - 물리
+  - 구성
+  - Marletto
+  - Chiara
+  - Imari
+  - Sara
+  - constructor
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 시각적 호기심과 수학적 역설
 date: 2010-11-17
+tags:
+  - 포함
+  - 역설
+  - Sterling
+  - Illusions
+  - Houston
+  - 착시
+  - Optical
+  - Escher
 ---
 
 > [!NOTE]

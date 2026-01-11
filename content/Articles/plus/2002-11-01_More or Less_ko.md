@@ -1,6 +1,15 @@
 ---
 title: "더하기와 빼기: 숫자로 세상을 읽다"
 date: 2002-11-01
+tags:
+  - 숫자
+  - 정량
+  - Photo
+  - league
+  - Less
+  - tables
+  - freei
+  - More
 ---
 
 > [!NOTE]

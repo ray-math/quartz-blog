@@ -1,6 +1,15 @@
 ---
 title: 새로운 종류의 노래하는 별
 date: 2008-11-07
+tags:
+  - 진동
+  - 우주
+  - interference
+  - 항성
+  - spherical
+  - 모드
+  - HD
+  - 대류
 ---
 
 > [!NOTE]

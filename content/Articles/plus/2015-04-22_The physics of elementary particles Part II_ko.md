@@ -1,6 +1,15 @@
 ---
 title: 소입자 물리학 - 2부
 date: 2015-04-22
+tags:
+  - 중성미자
+  - 입자
+  - 이론
+  - 초대칭
+  - neutrino
+  - Majorana
+  - GUT
+  - 레이먼드
 ---
 
 > [!NOTE]

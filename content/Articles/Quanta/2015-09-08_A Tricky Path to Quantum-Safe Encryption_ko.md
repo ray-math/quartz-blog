@@ -1,6 +1,15 @@
 ---
 title: 양자 안전 암호화로 가는 험난한 길
 date: 2015-09-08
+tags:
+  - 격자
+  - 양자
+  - 암호
+  - LWE
+  - key
+  - Soliloquy
+  - 공격
+  - GCHQ
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- QALY (질보정생존년수)
 date: 2021-12-09
+tags:
+  - QALY
+  - Institute
+  - NICE
+  - National
+  - Excellence
+  - JUNIPER
+  - 비용
+  - 치료
 ---
 
 > [!NOTE]

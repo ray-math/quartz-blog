@@ -1,6 +1,15 @@
 ---
 title: 영원의 퍼즐을 푼 수학자들
 date: 2001-01-01
+tags:
+  - 조각
+  - 확률
+  - 퍼즐
+  - Guenter
+  - Alex
+  - 해답
+  - Mark
+  - Eternity
 ---
 
 > [!NOTE]

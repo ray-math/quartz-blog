@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터가 할 수 없는 것
 date: 1998-05-01
+tags:
+  - 기계
+  - 튜링
+  - Turing
+  - Hodges
+  - Computing
+  - 수열
+  - Yates
+  - infinity
 ---
 
 > [!NOTE]

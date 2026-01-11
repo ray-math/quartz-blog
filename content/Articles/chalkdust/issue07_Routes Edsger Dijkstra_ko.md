@@ -1,6 +1,15 @@
 ---
 title: 경로- 에츠허르 다익스트라
 date: 2018-03-12
+tags:
+  - 수학
+  - 컴퓨터
+  - 다익스트라
+  - 익스
+  - Wybe
+  - Eindhoven
+  - Edsger
+  - 아인트호번
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "양자역학과 시간의 화살: 시간은 왜 한 방향으로만 흐르는가"
 date: 2014-04-30
+tags:
+  - 양자
+  - 시간
+  - 우리
+  - Dowling
+  - psi
+  - rho
+  - rangle
+  - frac
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 인공 뉴런
 date: 2021-07-08
+tags:
+  - 뉴런
+  - 퍼셉트론
+  - Frank
+  - Rosenblatt
+  - 시냅스
+  - 신경망
+  - neural
+  - deep
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 깨진 대칭에서 태어난 우주
 date: 2008-10-10
+tags:
+  - 대칭
+  - 입자
+  - 쿼크
+  - Nambu
+  - 마스카와
+  - Kobayashi
+  - Maskawa
+  - 고바야시
 ---
 
 > [!NOTE]

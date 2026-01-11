@@ -1,6 +1,15 @@
 ---
 title: 오류 정정 부호
 date: 2018-04-17
+tags:
+  - 부호
+  - 오류
+  - Reed
+  - Hamming
+  - 디지
+  - Solomon
+  - 심볼
+  - Gal
 ---
 
 > [!NOTE]

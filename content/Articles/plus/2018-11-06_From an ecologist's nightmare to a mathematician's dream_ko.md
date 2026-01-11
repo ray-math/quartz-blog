@@ -1,6 +1,15 @@
 ---
 title: 생태학자의 악몽에서 수학자의 꿈으로
 date: 2018-11-06
+tags:
+  - 비용
+  - 식물
+  - 수형도
+  - 국화과
+  - stoebe
+  - 점박이
+  - spotted
+  - knapweed
 ---
 
 > [!NOTE]

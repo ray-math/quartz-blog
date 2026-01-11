@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 사회적 거리두기
 date: 2020-03-27
+tags:
+  - 격자
+  - 사람
+  - 문제
+  - size
+  - packing
+  - 패킹
+  - coordination
+  - 배위수
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 놀라운 사서
 date: 2008-06-01
+tags:
+  - 페이지
+  - 행렬
+  - 벡터
+  - Commons
+  - 구글
+  - 링크
+  - Attribution
+  - Creative
 ---
 
 > [!NOTE]

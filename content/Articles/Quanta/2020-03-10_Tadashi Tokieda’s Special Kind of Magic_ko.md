@@ -1,6 +1,15 @@
 ---
 title: 타다시 토키에다의 특별한 마법
 date: 2020-03-10
+tags:
+  - 토키
+  - 수학
+  - 우리
+  - Monsieur
+  - 웃음
+  - professionnelle
+  - Michelet
+  - Story
 ---
 
 > [!NOTE]

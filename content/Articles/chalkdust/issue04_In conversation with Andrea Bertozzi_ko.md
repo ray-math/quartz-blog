@@ -1,6 +1,15 @@
 ---
 title: 안드레아 베르토치와의 대화
 date: 2016-10-03
+tags:
+  - 수학
+  - 연구
+  - 방정식
+  - shock
+  - 페인팅
+  - under
+  - compressible
+  - 범죄
 ---
 
 > [!NOTE]

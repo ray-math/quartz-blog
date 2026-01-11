@@ -1,6 +1,15 @@
 ---
 title: 영리한 연결 퍼즐이 해피 엔딩에 가까워지다
 date: 2017-05-30
+tags:
+  - 체인
+  - Suk
+  - 스파이크
+  - uploads
+  - Szekeres
+  - SpikesFig
+  - 안티
+  - pigeonhole
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 무한히 많은 소수가 무한히 멀리 떨어져 있을 수 있을까?
 date: 2022-07-21
+tags:
+  - 소수
+  - 디지털
+  - prime
+  - delicate
+  - digitally
+  - Germain
+  - Sophie
+  - 간격
 ---
 
 > [!NOTE]

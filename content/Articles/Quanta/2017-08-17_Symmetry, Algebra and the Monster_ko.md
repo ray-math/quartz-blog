@@ -1,6 +1,15 @@
 ---
 title: 대칭, 대수학, 그리고 몬스터
 date: 2017-08-17
+tags:
+  - 대칭
+  - 변환
+  - group
+  - 반사
+  - 등거리
+  - simple
+  - 단순군
+  - Griess
 ---
 
 > [!NOTE]

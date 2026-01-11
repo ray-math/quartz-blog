@@ -1,6 +1,15 @@
 ---
 title: COVID-19 이후 NHS 대기자 명단 감축하기
 date: 2022-04-22
+tags:
+  - NHS
+  - Newton
+  - 수학
+  - assured
+  - 시술
+  - 임상
+  - elective
+  - Gateway
 ---
 
 > [!NOTE]

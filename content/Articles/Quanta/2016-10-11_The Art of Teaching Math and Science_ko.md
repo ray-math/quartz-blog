@@ -1,6 +1,15 @@
 ---
 title: 수학과 과학을 가르치는 기술
 date: 2016-10-11
+tags:
+  - 학생
+  - 그녀
+  - 교사
+  - 코머
+  - Wolbachia
+  - 미드
+  - Engineering
+  - Teachers
 ---
 
 > [!NOTE]

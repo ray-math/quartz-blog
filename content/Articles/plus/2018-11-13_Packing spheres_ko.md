@@ -1,6 +1,15 @@
 ---
 title: 구를 쌓아올리는 법
 date: 2018-11-13
+tags:
+  - 차원
+  - 격자
+  - 비아조프스카
+  - summation
+  - Poisson
+  - lattice
+  - packing
+  - 상한
 ---
 
 > [!NOTE]

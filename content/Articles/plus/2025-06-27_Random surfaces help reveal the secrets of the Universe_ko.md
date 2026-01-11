@@ -1,6 +1,15 @@
 ---
 title: 무작위 표면이 우주의 비밀을 밝히다
 date: 2025-06-27
+tags:
+  - Prize
+  - 수학
+  - 이론
+  - Miller
+  - Hundertwasser
+  - 브라운
+  - Friedensreich
+  - 보행
 ---
 
 > [!NOTE]

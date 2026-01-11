@@ -1,6 +1,15 @@
 ---
 title: 팬데믹을 위한 줄리아 고그의 수학적 도구상자
 date: 2023-05-09
+tags:
+  - Pandemic
+  - Epidemic
+  - Joint
+  - JUNIPER
+  - Response
+  - 고그
+  - 해악
+  - 팬데믹
 ---
 
 > [!NOTE]

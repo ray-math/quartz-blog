@@ -1,6 +1,15 @@
 ---
 title: 무작위 곡면을 위한 항공 교통 관제
 date: 2016-08-05
+tags:
+  - Theory
+  - 작위
+  - 이론
+  - Unified
+  - GFF
+  - Randomness
+  - 셰필드
+  - SLE
 ---
 
 > [!NOTE]

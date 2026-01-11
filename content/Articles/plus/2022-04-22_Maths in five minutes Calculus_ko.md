@@ -1,6 +1,15 @@
 ---
 title: 5분 안에 이해하는 수학 - 미적분학
 date: 2022-04-22
+tags:
+  - 함수
+  - 적분
+  - 미분
+  - Intriguing
+  - 미적분학
+  - integrals
+  - part
+  - 뉴턴
 ---
 
 > [!NOTE]

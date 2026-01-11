@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 호킹 복사
 date: 2020-02-12
+tags:
+  - 블랙홀
+  - 호킹
+  - 이론
+  - hair
+  - radiation
+  - 복사
+  - no
+  - Hawking
 ---
 
 > [!NOTE]

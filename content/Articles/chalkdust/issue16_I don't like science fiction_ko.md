@@ -1,6 +1,15 @@
 ---
 title: 나는 공상과학을 좋아하지 않는다
 date: 2022-11-09
+tags:
+  - 양자
+  - left
+  - right
+  - alpha
+  - phi
+  - beta
+  - 게이트
+  - Tr
 ---
 
 > [!NOTE]

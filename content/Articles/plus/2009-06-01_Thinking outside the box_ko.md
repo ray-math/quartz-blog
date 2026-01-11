@@ -1,6 +1,15 @@
 ---
 title: 상자 밖에서 생각하기
 date: 2009-06-01
+tags:
+  - 차원
+  - Sonia
+  - space
+  - Buckley
+  - 테서랙트
+  - 간격
+  - 시공간
+  - 전개도
 ---
 
 > [!NOTE]

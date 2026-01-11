@@ -1,6 +1,15 @@
 ---
 title: 정보는 정교함이다
 date: 2015-03-24
+tags:
+  - 문자열
+  - 정보
+  - 작위
+  - complexity
+  - scottaar
+  - 애런
+  - algorithmic
+  - http
 ---
 
 > [!NOTE]

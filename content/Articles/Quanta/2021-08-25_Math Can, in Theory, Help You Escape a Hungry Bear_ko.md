@@ -1,6 +1,15 @@
 ---
 title: 수학은 이론적으로 배고픈 곰으로부터 탈출하는 데 도움을 줄 수 있다
 date: 2021-08-25
+tags:
+  - 전략
+  - 수영
+  - 방향
+  - Barmak
+  - 선수
+  - Lazar
+  - Abiuso
+  - Arthur
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 피보나치의 생애와 수
 date: 2013-11-04
+tags:
+  - 피보나치
+  - 나선
+  - 피사노
+  - Golden
+  - Bonacci
+  - continued
+  - 씨앗
+  - 황금
 ---
 
 > [!NOTE]

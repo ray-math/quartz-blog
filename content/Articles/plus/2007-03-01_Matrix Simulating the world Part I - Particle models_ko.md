@@ -1,6 +1,15 @@
 ---
 title: Matrix- 세계를 시뮬레이션하다 Part I - 입자 모델
 date: 2007-03-01
+tags:
+  - 모델
+  - 시뮬레이션
+  - 입자
+  - Iain
+  - Lewis
+  - Life
+  - 무리
+  - Dartnell
 ---
 
 > [!NOTE]

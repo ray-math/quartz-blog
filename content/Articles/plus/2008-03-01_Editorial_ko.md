@@ -1,6 +1,15 @@
 ---
 title: 에디토리얼
 date: 2008-03-01
+tags:
+  - 통계
+  - risk
+  - 신뢰구간
+  - confidence
+  - interval
+  - 순위
+  - 리그
+  - 위험
 ---
 
 > [!NOTE]

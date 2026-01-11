@@ -1,6 +1,15 @@
 ---
 title: 야코비안의 즐거움
 date: 2015-10-06
+tags:
+  - 이것
+  - mathsf
+  - 평형점
+  - boldsymbol
+  - align
+  - end
+  - mu
+  - begin
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 착하게 사는 것이 득이 될까? - 이타주의의 수학 part i
 date: 2012-04-24
+tags:
+  - 협력
+  - 진화
+  - 배신
+  - 노박
+  - Evolutionary
+  - Program
+  - 죄수
+  - success
 ---
 
 > [!NOTE]

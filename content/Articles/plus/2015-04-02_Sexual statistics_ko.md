@@ -1,6 +1,15 @@
 ---
 title: 성(性)에 관한 통계
 date: 2015-04-02
+tags:
+  - 남성
+  - 여성
+  - 조사
+  - Trivers
+  - 남아
+  - Spiegelhalter
+  - 혐오
+  - Willard
 ---
 
 > [!NOTE]

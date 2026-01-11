@@ -1,6 +1,15 @@
 ---
 title: 앨리슨 에서리지와의 대화
 date: 2025-03-17
+tags:
+  - 수학
+  - Mathematical
+  - 앨리슨
+  - valued
+  - chalkdustmag
+  - 아카데미
+  - complex
+  - UK
 ---
 
 > [!NOTE]

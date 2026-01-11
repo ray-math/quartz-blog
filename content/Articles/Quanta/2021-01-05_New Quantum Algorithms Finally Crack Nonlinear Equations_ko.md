@@ -1,6 +1,15 @@
 ---
 title: 비선형 방정식을 드디어 풀어낸 새로운 양자 알고리즘
 date: 2021-01-05
+tags:
+  - 선형
+  - 양자
+  - 연구
+  - 보스
+  - 응축
+  - equations
+  - Carleman
+  - MIT
 ---
 
 > [!NOTE]

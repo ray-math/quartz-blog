@@ -1,6 +1,15 @@
 ---
 title: "전염되는 수학, 3부: 모두가 다르다"
 date: 2024-02-08
+tags:
+  - 감염
+  - 사람
+  - 모델
+  - 전염
+  - reproduction
+  - 변동
+  - stochastic
+  - 버튼
 ---
 
 > [!NOTE]

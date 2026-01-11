@@ -1,6 +1,15 @@
 ---
 title: 오래된 추측의 붕괴, 구면을 훨씬 더 복잡하게 만들다
 date: 2023-08-22
+tags:
+  - 이론
+  - 구면
+  - 사상
+  - Forschungsinstitut
+  - Mathematisches
+  - Archives
+  - 망원경
+  - 라베
 ---
 
 > [!NOTE]

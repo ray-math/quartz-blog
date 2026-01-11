@@ -1,6 +1,15 @@
 ---
 title: 망델브로 집합이란 무엇인가?
 date: 2017-11-24
+tags:
+  - 집합
+  - 궤도
+  - Dynamical
+  - 희곡
+  - Fatou
+  - Chaotic
+  - 전구
+  - 끌개
 ---
 
 > [!NOTE]

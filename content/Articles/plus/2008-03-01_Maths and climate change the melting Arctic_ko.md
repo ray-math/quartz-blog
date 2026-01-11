@@ -1,6 +1,15 @@
 ---
 title: "수학과 기후변화: 녹아내리는 북극"
 date: 2008-03-01
+tags:
+  - 얼음
+  - 모델
+  - 방향
+  - 해빙
+  - ice
+  - Maykut
+  - Ocean
+  - Wadhams
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "수학적 스냅샷: 크웨쿠 아브라함"
 date: 2024-02-14
+tags:
+  - 통계
+  - 연구
+  - 이론
+  - 크웨쿠
+  - DL
+  - lower
+  - statistical
+  - 하한
 ---
 
 > [!NOTE]

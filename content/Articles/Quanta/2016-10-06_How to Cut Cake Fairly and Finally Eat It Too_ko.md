@@ -1,6 +1,15 @@
 ---
 title: 케이크를 공정하게 나누고 드디어 먹는 방법
 date: 2016-10-06
+tags:
+  - 케이크
+  - 알고리즘
+  - 조각
+  - Aziz
+  - Mackenzie
+  - Mellon
+  - 참가자
+  - Selfridge
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 물리학을 뒤흔드는 새로운 종류의 대칭성
 date: 2023-04-18
+tags:
+  - 대칭
+  - 물리
+  - 이론
+  - quantum
+  - 고차
+  - higher
+  - Hall
+  - fusion
 ---
 
 > [!NOTE]

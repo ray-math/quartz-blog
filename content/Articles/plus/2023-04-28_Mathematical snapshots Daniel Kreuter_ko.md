@@ -1,6 +1,15 @@
 ---
 title: 수학적 스냅샷- 다니엘 크로이터
 date: 2023-04-28
+tags:
+  - 수학
+  - 프로젝트
+  - 문제
+  - 크로이터
+  - transport
+  - BloodCounts
+  - HPC
+  - 혈액
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 기하학과 해석학을 통합한 Karen Uhlenbeck, 아벨상 수상
 date: 2019-03-19
+tags:
+  - 에너지
+  - Uhlenbeck
+  - 수학
+  - Sacks
+  - Palais
+  - Celebratio
+  - Mills
+  - 사상
 ---
 
 > [!NOTE]

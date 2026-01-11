@@ -1,6 +1,15 @@
 ---
 title: "전략적 데이팅: 37% 법칙"
 date: 2017-03-01
+tags:
+  - 문제
+  - 사람
+  - problem
+  - frog
+  - Kissing
+  - Billingham
+  - stopping
+  - Mosteller
 ---
 
 > [!NOTE]

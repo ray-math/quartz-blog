@@ -1,6 +1,15 @@
 ---
 title: 베컴과 그의 소수
 date: 2003-09-01
+tags:
+  - 소수
+  - 수학
+  - 베컴
+  - 레알
+  - Mind
+  - 매미
+  - Photo
+  - prime
 ---
 
 > [!NOTE]

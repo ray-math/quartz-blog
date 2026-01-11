@@ -1,6 +1,15 @@
 ---
 title: 좀비 침공에서 우리는 얼마나 버틸 수 있을까?
 date: 2015-02-03
+tags:
+  - 좀비
+  - 확산
+  - 수학
+  - Zombies
+  - Modelling
+  - condition
+  - boundary
+  - 밀도
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 정보, 의사결정, 그리고 비트
 date: 2015-04-24
+tags:
+  - Theory
+  - 정보
+  - 비트
+  - Tutorial
+  - 이진
+  - Introduction
+  - MacKay
+  - 각색
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 운동론- 다수의 무리를 길들이기
 date: 2022-06-22
+tags:
+  - 방정식
+  - 운동
+  - 수학
+  - Hu
+  - kinetic
+  - Bedrossian
+  - 플라즈마
+  - Jingwei
 ---
 
 > [!NOTE]

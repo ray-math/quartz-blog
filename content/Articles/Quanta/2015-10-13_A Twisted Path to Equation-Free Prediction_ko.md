@@ -1,6 +1,15 @@
 ---
 title: 방정식 없는 예측으로 가는 비틀린 길
 date: 2015-10-13
+tags:
+  - 모델
+  - 정리
+  - 시스템
+  - 끌개
+  - Takens
+  - dynamic
+  - attractor
+  - Pao
 ---
 
 > [!NOTE]

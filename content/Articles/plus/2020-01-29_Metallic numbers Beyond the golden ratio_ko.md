@@ -1,6 +1,15 @@
 ---
 title: "금속 수들: 황금비를 넘어서"
 date: 2020-01-29
+tags:
+  - 금속
+  - 황금비
+  - 수열
+  - 은비
+  - sigma
+  - metallic
+  - ratios
+  - frac
 ---
 
 > [!NOTE]

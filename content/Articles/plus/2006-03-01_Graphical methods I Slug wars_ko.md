@@ -1,6 +1,15 @@
 ---
 title: 그래프 방법론 I - 민달팽이 전쟁
 date: 2006-03-01
+tags:
+  - 미사일
+  - 함수
+  - 증가
+  - targetable
+  - Independently
+  - Reentry
+  - 민달팽이
+  - increasing
 ---
 
 > [!NOTE]

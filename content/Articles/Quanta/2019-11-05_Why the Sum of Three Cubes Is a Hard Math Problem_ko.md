@@ -1,6 +1,15 @@
 ---
 title: 세 세제곱수의 합은 왜 어려운 수학 문제인가
 date: 2019-11-05
+tags:
+  - 탐색
+  - 제곱
+  - 문제
+  - Booker
+  - Andrew
+  - perfect
+  - cube
+  - 인수
 ---
 
 > [!NOTE]

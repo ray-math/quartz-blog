@@ -1,6 +1,15 @@
 ---
 title: 무한한 방정식에 질서를 부여하는 혁신가
 date: 2018-08-01
+tags:
+  - 비르카르
+  - 수학
+  - 대수
+  - birational
+  - divisor
+  - varieties
+  - 다양체
+  - mild
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 계시 게임
 date: 2011-07-21
+tags:
+  - 게임
+  - 플레이어
+  - SB
+  - Bridging
+  - humanities
+  - Fair
+  - two
+  - myopic
 ---
 
 > [!NOTE]

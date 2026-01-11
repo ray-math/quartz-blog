@@ -1,6 +1,15 @@
 ---
 title: 정보는 비트다
 date: 2015-03-24
+tags:
+  - 정보
+  - 섀넌
+  - http
+  - coding
+  - scottaar
+  - 비트
+  - 입문
+  - Scott
 ---
 
 > [!NOTE]

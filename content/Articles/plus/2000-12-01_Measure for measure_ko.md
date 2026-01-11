@@ -1,6 +1,15 @@
 ---
 title: 측도에 대한 측도 (Measure for Measure)
 date: 2000-12-01
+tags:
+  - 측도
+  - 집합
+  - 수학
+  - Tarski
+  - Measure
+  - 카펫
+  - 르베스그
+  - 적분
 ---
 
 > [!NOTE]

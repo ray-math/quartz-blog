@@ -1,6 +1,15 @@
 ---
 title: 실수와 코시 수열
 date: 2018-06-07
+tags:
+  - 수열
+  - 실수
+  - 코시
+  - 완비화
+  - real
+  - numbers
+  - 동치
+  - non
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "섞이지 않는 혼합: 반확산 현상의 수학"
 date: 2025-01-07
+tags:
+  - 확산
+  - 안정
+  - diffusive
+  - astrophysical
+  - sub
+  - scales
+  - 휴스
+  - cellular
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 정보 역설
 date: 2020-02-12
+tags:
+  - 정보
+  - 이론
+  - 블랙홀
+  - Hawking
+  - Kip
+  - AdS
+  - Thorne
+  - 복사
 ---
 
 > [!NOTE]

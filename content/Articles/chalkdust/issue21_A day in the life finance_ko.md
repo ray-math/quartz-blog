@@ -1,6 +1,15 @@
 ---
 title: 금융계에서의 하루
 date: 2025-03-17
+tags:
+  - 감사
+  - Chartered
+  - 영국
+  - VAT
+  - Tax
+  - 회계
+  - Liver
+  - tax
 ---
 
 > [!NOTE]

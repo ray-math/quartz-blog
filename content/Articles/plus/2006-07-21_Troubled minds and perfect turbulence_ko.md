@@ -1,6 +1,15 @@
 ---
 title: 혼란한 마음과 완벽한 난류
 date: 2006-07-21
+tags:
+  - 난류
+  - 수학
+  - 그림
+  - 고흐
+  - Kolmogorov
+  - 휘도
+  - Gogh
+  - Van
 ---
 
 > [!NOTE]

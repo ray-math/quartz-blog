@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 효용 이론
 date: 2022-05-27
+tags:
+  - 효용
+  - 파운드
+  - 위험
+  - risk
+  - utility
+  - Neumann
+  - Morgenstern
+  - von
 ---
 
 > [!NOTE]

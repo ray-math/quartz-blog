@@ -1,6 +1,15 @@
 ---
 title: 사라진 진리를 찾아서
 date: 2011-01-28
+tags:
+  - 집합
+  - 공리
+  - 무한
+  - 기수
+  - ZF
+  - PD
+  - projective
+  - cardinals
 ---
 
 > [!NOTE]

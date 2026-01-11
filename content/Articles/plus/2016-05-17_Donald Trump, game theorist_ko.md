@@ -1,6 +1,15 @@
 ---
 title: 게임 이론가로서의 도널드 트럼프
 date: 2016-05-17
+tags:
+  - 전략
+  - 게임
+  - mover
+  - 트럼프
+  - commitment
+  - 커밋먼트
+  - mixed
+  - 쿠바
 ---
 
 > [!NOTE]

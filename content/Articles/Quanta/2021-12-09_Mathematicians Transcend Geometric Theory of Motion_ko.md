@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 운동의 기하학 이론을 초월하다
 date: 2021-12-09
+tags:
+  - 이론
+  - 플로어
+  - 호몰로지
+  - Abouzaid
+  - Blumberg
+  - 아르
+  - Morava
+  - Floer
 ---
 
 > [!NOTE]

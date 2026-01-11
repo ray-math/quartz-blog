@@ -1,6 +1,15 @@
 ---
 title: 수학 올림피아드에서 컴퓨터가 금메달에 도전한다
 date: 2020-09-21
+tags:
+  - 수학
+  - IMO
+  - 문제
+  - 그랜드
+  - 챌린지
+  - AI
+  - mathlib
+  - 바둑
 ---
 
 ![국제수학올림피아드에서 경쟁하는 학생들](https://www.quantamagazine.org/wp-content/uploads/2020/09/IMO_2880x1620_Lede.jpg)

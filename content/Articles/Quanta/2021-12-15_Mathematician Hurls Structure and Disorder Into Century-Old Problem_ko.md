@@ -1,6 +1,15 @@
 ---
 title: 수학자가 구조와 무질서를 한 세기 묵은 문제에 던지다
 date: 2021-12-15
+tags:
+  - 수열
+  - 구슬
+  - 문제
+  - Bartel
+  - van
+  - der
+  - Leendert
+  - 빨간색
 ---
 
 > [!NOTE]

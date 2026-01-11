@@ -1,6 +1,15 @@
 ---
 title: 맥락 속의 양자
 date: 2015-10-01
+tags:
+  - 양자
+  - 맥락
+  - Kaszlikowski
+  - Kurzynski
+  - Don
+  - Pawel
+  - contextuality
+  - Quixote
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 다세계에서 게임하기 - Part II
 date: 2013-02-05
+tags:
+  - 확률
+  - Wallace
+  - Deutsch
+  - Kent
+  - worlds
+  - 중첩
+  - interpretation
+  - many
 ---
 
 > [!NOTE]

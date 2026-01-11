@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 고대의 수 이론 문제에 새로운 돌파구를 열다
 date: 2020-09-10
+tags:
+  - 홀수
+  - 완전수
+  - 가짜
+  - Nielsen
+  - BYU
+  - Voight
+  - perfect
+  - 오일러
 ---
 
 > [!NOTE]

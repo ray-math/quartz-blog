@@ -1,6 +1,15 @@
 ---
 title: 아름다운 대칭이 양자 세계를 엿보게 하다
 date: 2010-01-22
+tags:
+  - 대칭
+  - Lie
+  - 양자
+  - Zamolodchikov
+  - Radu
+  - energy
+  - particle
+  - physics
 ---
 
 > [!NOTE]

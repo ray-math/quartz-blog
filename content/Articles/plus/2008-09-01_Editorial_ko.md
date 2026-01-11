@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 2008-09-01
+tags:
+  - 투표
+  - 승자
+  - 유권자
+  - 콩도르세
+  - 후보
+  - winner
+  - 선호
+  - Condorcet
 ---
 
 > [!NOTE]

@@ -1,3 +1,15 @@
+---
+tags:
+  - 곡면
+  - 함수
+  - is
+  - find
+  - stateme
+  - following
+  - pts
+  - 곡률
+---
+
 ### 11. Prove or disprove the following statements. If the statement is false, find a counterexample.
 (a) (7 pts) A compact subset of a topological space is closed.
 (b) (8 pts) A connected metric space having more than one point is uncountable.

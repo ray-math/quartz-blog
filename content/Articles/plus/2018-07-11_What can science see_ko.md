@@ -1,6 +1,15 @@
 ---
 title: 과학은 무엇을 볼 수 있는가?
 date: 2018-07-11
+tags:
+  - 힉스
+  - 입자
+  - 충돌
+  - 보손
+  - physics
+  - LHC
+  - Allanach
+  - 피크
 ---
 
 > [!NOTE]

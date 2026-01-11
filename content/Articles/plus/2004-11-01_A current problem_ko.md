@@ -1,6 +1,15 @@
 ---
 title: 흐름의 문제
 date: 2004-11-01
+tags:
+  - Environmental
+  - Sands
+  - Doppler
+  - Blackpool
+  - Brixham
+  - 조류
+  - Forensic
+  - Lighthill
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 미생물 전쟁
 date: 2025-11-17
+tags:
+  - 곡선
+  - 에너지
+  - DNA
+  - 비틀림
+  - writhe
+  - 막대
+  - 다발
+  - Naina
 ---
 
 > [!NOTE]

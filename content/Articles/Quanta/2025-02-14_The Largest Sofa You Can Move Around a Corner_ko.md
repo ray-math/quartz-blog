@@ -1,6 +1,15 @@
 ---
 title: 모퉁이를 돌 수 있는 가장 큰 소파
 date: 2025-02-14
+tags:
+  - 문제
+  - 소파
+  - University
+  - sofa
+  - 거버
+  - 넓이
+  - California
+  - 진언
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "전염성 수학: 수학 연구를 교실로 가져오기"
 date: 2024-02-22
+tags:
+  - 수학
+  - Gog
+  - Maths
+  - Contagious
+  - Franklin
+  - Royal
+  - 클릭
+  - Dip
 ---
 
 > [!NOTE]

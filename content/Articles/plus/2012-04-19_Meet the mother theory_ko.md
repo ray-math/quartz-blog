@@ -1,6 +1,15 @@
 ---
 title: 만물의 어머니 이론을 만나다
 date: 2012-04-19
+tags:
+  - 이론
+  - 블랙홀
+  - 차원
+  - 버먼
+  - 스트로밍거
+  - Mary
+  - Strominger
+  - London
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 타일링 패턴이 우리에게 가르쳐주는 것
 date: 2024-07-03
+tags:
+  - 타일
+  - 그것
+  - 주기
+  - 프랭크
+  - 레빈
+  - PRX
+  - crystallographic
+  - tessellation
 ---
 
 > [!NOTE]

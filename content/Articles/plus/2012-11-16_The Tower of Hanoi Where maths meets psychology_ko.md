@@ -1,6 +1,15 @@
 ---
 title: "하노이 탑: 수학과 심리학이 만나는 곳"
 date: 2012-11-16
+tags:
+  - 원판
+  - 그래프
+  - 막대
+  - Hanoi
+  - Congress
+  - Stewart
+  - 크라쿠프
+  - Frame
 ---
 
 > [!NOTE]

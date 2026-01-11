@@ -1,6 +1,15 @@
 ---
 title: 기계 학습이 수학자의 협력자가 되다
 date: 2022-02-15
+tags:
+  - 매듭
+  - 수학
+  - Lusztig
+  - DeepMind
+  - Lackenby
+  - Williamson
+  - Bruhat
+  - 학습
 ---
 
 > [!NOTE]

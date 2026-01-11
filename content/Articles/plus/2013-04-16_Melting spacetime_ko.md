@@ -1,6 +1,15 @@
 ---
 title: 녹아내리는 시공간
 date: 2013-04-16
+tags:
+  - 시공간
+  - 이론
+  - 우리
+  - Karczma
+  - Seiberg
+  - 창발
+  - non
+  - phase
 ---
 
 > [!NOTE]

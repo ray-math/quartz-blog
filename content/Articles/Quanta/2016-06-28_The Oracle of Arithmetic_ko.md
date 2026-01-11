@@ -1,6 +1,15 @@
 ---
 title: 산술기하학의 오라클
 date: 2016-06-28
+tags:
+  - 수학
+  - 기하학
+  - 형식
+  - 숄체
+  - monodromy
+  - 랑글랜즈
+  - forms
+  - reciprocity
 ---
 
 > [!NOTE]

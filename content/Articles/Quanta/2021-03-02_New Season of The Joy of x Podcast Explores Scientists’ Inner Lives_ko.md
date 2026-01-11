@@ -1,6 +1,15 @@
 ---
 title: The Joy of x 팟캐스트 새 시즌, 과학자들의 내면을 탐구하다
 date: 2021-03-02
+tags:
+  - 과학
+  - 우리
+  - Steven
+  - Glotzer
+  - Sharon
+  - Wilczek
+  - Frank
+  - 게스트
 ---
 
 > [!NOTE]

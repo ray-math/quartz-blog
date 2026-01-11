@@ -1,6 +1,15 @@
 ---
 title: 2022년 가우스 상 수상자 - 엘리엇 리브
 date: 2022-07-01
+tags:
+  - 리브
+  - 수학
+  - 양자
+  - correlation
+  - Thirring
+  - exchange
+  - functional
+  - 부등식
 ---
 
 > [!NOTE]

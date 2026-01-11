@@ -1,6 +1,15 @@
 ---
 title: 독수리 - Processing으로 제작
 date: 1999-12-01
+tags:
+  - 제작
+  - 예술
+  - Processing
+  - 독수리
+  - art
+  - Java
+  - 작품
+  - 인터랙티브
 ---
 
 > [!NOTE]

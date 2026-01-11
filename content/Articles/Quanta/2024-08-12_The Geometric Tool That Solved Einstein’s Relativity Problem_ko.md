@@ -1,6 +1,15 @@
 ---
 title: 아인슈타인의 상대성 이론 문제를 해결한 기하학적 도구
 date: 2024-08-12
+tags:
+  - 텐서
+  - 벡터
+  - Levi
+  - Grossmann
+  - Curbastro
+  - Ricci
+  - tensor
+  - Marcel
 ---
 
 > [!NOTE]

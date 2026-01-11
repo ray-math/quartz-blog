@@ -1,6 +1,15 @@
 ---
 title: COVID 모델링에 빛을 비추다
 date: 2022-05-12
+tags:
+  - 예측
+  - 모델
+  - Disease
+  - Keeling
+  - Biology
+  - Infectious
+  - Warwick
+  - Epidemiology
 ---
 
 > [!NOTE]

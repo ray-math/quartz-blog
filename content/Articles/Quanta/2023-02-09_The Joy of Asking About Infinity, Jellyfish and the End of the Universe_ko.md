@@ -1,6 +1,15 @@
 ---
 title: 무한, 해파리, 우주의 종말에 관해 질문하는 즐거움
 date: 2023-02-09
+tags:
+  - Dynamics
+  - Elowitz
+  - Michael
+  - Vedika
+  - Khemani
+  - Durbin
+  - Cheng
+  - Eugenia
 ---
 
 > [!NOTE]

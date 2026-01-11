@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 홀수 그래프에 관한 오래된 질문에 답하다
 date: 2021-05-19
+tags:
+  - 그래프
+  - 꼭짓점
+  - 부분
+  - Ferber
+  - Krivelevich
+  - 밀집
+  - Asaf
+  - 차수
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 프리미어 리그"
 date: 2008-03-01
+tags:
+  - United
+  - 점수
+  - 평균
+  - Charlton
+  - 리그
+  - Athletic
+  - Watford
+  - 순위
 ---
 
 > [!NOTE]

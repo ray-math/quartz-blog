@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 감마 분포
 date: 2022-01-07
+tags:
+  - 분포
+  - 확률
+  - 함수
+  - 감마
+  - Erlang
+  - Poisson
+  - 분산
+  - distribution
 ---
 
 > [!NOTE]

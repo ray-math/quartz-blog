@@ -1,6 +1,15 @@
 ---
 title: 고차원에서의 구 채우기
 date: 2016-03-24
+tags:
+  - 차원
+  - 공간
+  - 격자
+  - voids
+  - close
+  - packing
+  - codes
+  - 뱌조브스카
 ---
 
 > [!NOTE]

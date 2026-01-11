@@ -1,6 +1,15 @@
 ---
 title: 숫자로 칠하기
 date: 2011-06-27
+tags:
+  - 우리
+  - 컴퓨터
+  - 명도
+  - 채도
+  - Keeffe
+  - color
+  - 빨강
+  - RGB
 ---
 
 > [!NOTE]

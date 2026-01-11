@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 1997-09-01
+tags:
+  - 교육
+  - 기술
+  - 보고서
+  - Further
+  - PASS
+  - 디어
+  - TLTP
+  - 고등
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 달은 한때 진흙 같은 마그마 바다를 휘저었다
 date: 2022-02-25
+tags:
+  - 결정
+  - Research
+  - lunar
+  - Neufeld
+  - slushy
+  - crust
+  - Geophysical
+  - Michaut
 ---
 
 > [!NOTE]

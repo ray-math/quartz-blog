@@ -1,6 +1,15 @@
 ---
 title: 아이작 뉴턴이 이항 거듭제곱 급수를 발견한 방법
 date: 2022-08-31
+tags:
+  - 뉴턴
+  - 급수
+  - 거듭제곱
+  - binomial
+  - segment
+  - 넓이
+  - circular
+  - 구간
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "피타고라스 삼조에서 페르마까지: 삼조와 사조의 세계"
 date: 2012-11-14
+tags:
+  - 삼조
+  - 피타고라스
+  - 사조
+  - quadruple
+  - Shulba
+  - sutras
+  - triple
+  - Pythagorean
 ---
 
 > [!NOTE]

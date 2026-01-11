@@ -1,6 +1,15 @@
 ---
 title: 현실의 끝없는 이야기
 date: 2015-12-18
+tags:
+  - 양자
+  - 상태
+  - 우리
+  - Zurek
+  - Alamos
+  - National
+  - 중첩
+  - Laboratory
 ---
 
 > [!NOTE]

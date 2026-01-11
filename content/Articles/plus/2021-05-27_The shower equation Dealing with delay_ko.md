@@ -1,6 +1,15 @@
 ---
 title: 샤워 방정식 - 지연(delay) 다루기
 date: 2021-05-27
+tags:
+  - 방정식
+  - 온도
+  - 지연
+  - 샤워
+  - ENSO
+  - 진동
+  - equation
+  - damped
 ---
 
 > [!NOTE]

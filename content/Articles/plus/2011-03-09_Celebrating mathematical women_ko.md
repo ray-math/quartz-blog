@@ -1,6 +1,15 @@
 ---
 title: 수학 분야 여성들을 기리며
 date: 2011-03-09
+tags:
+  - 수학
+  - 여성
+  - Kingdom
+  - EGMO
+  - United
+  - Trust
+  - 여학생
+  - 머레이
 ---
 
 > [!NOTE]

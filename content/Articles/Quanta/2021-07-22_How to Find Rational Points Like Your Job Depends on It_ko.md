@@ -1,6 +1,15 @@
 ---
 title: 당신의 직업이 달린 유리점 찾기
 date: 2021-07-22
+tags:
+  - 유리
+  - 직선
+  - 곡선
+  - descent
+  - 타원
+  - infinite
+  - elliptic
+  - 초월
 ---
 
 > [!NOTE]

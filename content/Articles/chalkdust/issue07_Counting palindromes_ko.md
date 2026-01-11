@@ -1,6 +1,15 @@
 ---
 title: 회문 세기
 date: 2018-03-12
+tags:
+  - 회문
+  - 집합
+  - 계수
+  - multinomial
+  - 가방
+  - coefficient
+  - 문자
+  - 짝수
 ---
 
 > [!NOTE]

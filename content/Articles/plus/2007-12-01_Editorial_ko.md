@@ -1,6 +1,15 @@
 ---
 title: 편집자의 말
 date: 2007-12-01
+tags:
+  - 수학
+  - 우리
+  - 피타고라스
+  - mysteries
+  - Understanding
+  - Euclid
+  - uses
+  - 플라톤
 ---
 
 > [!NOTE]

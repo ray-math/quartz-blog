@@ -1,6 +1,15 @@
 ---
 title: 마방진의 수학
 date: 2014-09-15
+tags:
+  - 마방진
+  - 진법
+  - 튜플
+  - wrap
+  - Kelly
+  - 스도쿠
+  - magic
+  - 익명
 ---
 
 > [!NOTE]

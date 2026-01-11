@@ -1,6 +1,15 @@
 ---
 title: 텍스트 입력의 혁신, Dasher
 date: 2003-01-01
+tags:
+  - 사용
+  - Dasher
+  - 코딩
+  - coding
+  - 텍스트
+  - 조종
+  - 바벨
+  - 시선
 ---
 
 > [!NOTE]

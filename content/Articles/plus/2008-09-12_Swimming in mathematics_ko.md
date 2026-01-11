@@ -1,6 +1,15 @@
 ---
 title: 수학 속에서 수영하기
 date: 2008-09-12
+tags:
+  - 구조
+  - Phelan
+  - Weaire
+  - 거품
+  - Water
+  - 켈빈
+  - Cube
+  - www
 ---
 
 > [!NOTE]

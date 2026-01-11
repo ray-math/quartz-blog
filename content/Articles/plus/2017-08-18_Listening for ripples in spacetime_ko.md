@@ -1,6 +1,15 @@
 ---
 title: 시공간의 파동을 듣다
 date: 2017-08-18
+tags:
+  - 중력파
+  - LIGO
+  - 검출
+  - 곤살레스
+  - noise
+  - 블랙홀
+  - Hanford
+  - QND
 ---
 
 > [!NOTE]

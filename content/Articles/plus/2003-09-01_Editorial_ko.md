@@ -1,6 +1,15 @@
 ---
 title: 편집자의 말
 date: 2003-09-01
+tags:
+  - Explorer
+  - 과학
+  - Plus
+  - Internet
+  - Netscape
+  - Klein
+  - truth
+  - 진리
 ---
 
 > [!NOTE]

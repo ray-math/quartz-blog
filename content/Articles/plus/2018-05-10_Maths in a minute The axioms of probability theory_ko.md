@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 확률론의 공리
 date: 2018-05-10
+tags:
+  - 확률
+  - 사건
+  - 공리
+  - mutual
+  - total
+  - 배타
+  - Bay
+  - probability
 ---
 
 > [!NOTE]

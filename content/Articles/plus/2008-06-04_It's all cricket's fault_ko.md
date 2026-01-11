@@ -1,6 +1,15 @@
 ---
 title: 모든 건 크리켓 때문이다
 date: 2008-06-04
+tags:
+  - 인과
+  - 변수
+  - Mark
+  - Border
+  - Steve
+  - variable
+  - Allan
+  - correlation
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 게임, 생명 그리고 생명 게임
 date: 2002-05-01
+tags:
+  - 시스템
+  - 생명
+  - emptyset
+  - automata
+  - 콘웨이
+  - cellular
+  - 글라이더
+  - frac
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 블랙박스 열기
 date: 2021-10-15
+tags:
+  - 수학
+  - 학습
+  - 심층
+  - Gitta
+  - deep
+  - 한센
+  - learning
+  - Bartlett
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 우주를 (거의) 설명했던 그 수식
 date: 2009-06-01
+tags:
+  - 행성
+  - 법칙
+  - 태양
+  - Titius
+  - 보데
+  - Herschel
+  - Bode
+  - 세레스
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "델타 변이: 우리는 무엇을 알고 있는가?"
 date: 2021-06-11
+tags:
+  - 변이
+  - 검사
+  - 회원
+  - novel
+  - variants
+  - signatures
+  - epidemiological
+  - Scenarios
 ---
 
 > [!NOTE]

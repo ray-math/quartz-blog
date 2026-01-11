@@ -1,6 +1,15 @@
 ---
 title: 미래는 시간이다
 date: 2016-09-30
+tags:
+  - 시간
+  - 우주
+  - 이론
+  - 인과
+  - 블록
+  - block
+  - gravity
+  - Ellis
 ---
 
 > [!NOTE]

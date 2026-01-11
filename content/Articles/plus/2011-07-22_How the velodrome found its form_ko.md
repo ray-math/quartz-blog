@@ -1,6 +1,15 @@
 ---
 title: 벨로드롬이 그 형태를 찾은 과정
 date: 2011-07-22
+tags:
+  - 구조
+  - 지붕
+  - 설계
+  - Expedition
+  - Winslow
+  - Weir
+  - 트랙
+  - 케이블
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: COVID-19 현황 파악하기
 date: 2021-04-09
+tags:
+  - 조사
+  - 질병
+  - 사람
+  - multilevel
+  - ONS
+  - House
+  - regression
+  - 유병
 ---
 
 > [!NOTE]

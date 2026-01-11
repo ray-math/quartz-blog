@@ -1,6 +1,15 @@
 ---
 title: 머신러닝 101
 date: 2018-03-12
+tags:
+  - AI
+  - 점수
+  - 학습
+  - 신경망
+  - AlphaGo
+  - alignment
+  - Zero
+  - 머신
 ---
 
 > [!NOTE]

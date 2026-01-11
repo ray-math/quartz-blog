@@ -1,6 +1,15 @@
 ---
 title: 도미니크 슬리트와의 대화
 date: 2021-11-22
+tags:
+  - 수학
+  - 과학
+  - 강연
+  - 도미니크
+  - widening
+  - participation
+  - 스크로그스
+  - Royal
 ---
 
 > [!NOTE]

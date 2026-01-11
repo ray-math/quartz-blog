@@ -1,6 +1,15 @@
 ---
 title: 파일럿 파동을 타고
 date: 2017-03-21
+tags:
+  - 양자
+  - 파동
+  - 입자
+  - 파일럿
+  - quantum
+  - Bohm
+  - 오일
+  - contextuality
 ---
 
 > [!NOTE]

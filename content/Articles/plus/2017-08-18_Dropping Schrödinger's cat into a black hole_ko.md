@@ -1,6 +1,15 @@
 ---
 title: 슈뢰딩거의 고양이를 블랙홀에 떨어뜨리기
 date: 2017-08-18
+tags:
+  - 양자
+  - Bousso
+  - 중력
+  - 상실
+  - 블랙홀
+  - 엔트로피
+  - entropy
+  - Hawking
 ---
 
 > [!NOTE]

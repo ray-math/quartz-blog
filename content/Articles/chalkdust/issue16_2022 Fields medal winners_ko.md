@@ -1,6 +1,15 @@
 ---
 title: 2022년 필즈상 수상자들
 date: 2022-11-09
+tags:
+  - 수학
+  - Forschungsinstitut
+  - 증명
+  - 뱌조브스카
+  - 허준
+  - CC
+  - Mathematisches
+  - 위고
 ---
 
 > [!NOTE]

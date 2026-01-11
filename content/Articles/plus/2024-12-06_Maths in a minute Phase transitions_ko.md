@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 상전이
 date: 2024-12-06
+tags:
+  - 온도
+  - phase
+  - 상태
+  - 상전이
+  - 평형
+  - 원자
+  - breaking
+  - symmetry
 ---
 
 > [!NOTE]

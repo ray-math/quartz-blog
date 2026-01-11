@@ -1,6 +1,15 @@
 ---
 title: 멱함수 네트워크
 date: 2015-10-19
+tags:
+  - 네트워크
+  - 척도
+  - 노드
+  - nodes
+  - factor
+  - changes
+  - 부자
+  - 링크
 ---
 
 > [!NOTE]

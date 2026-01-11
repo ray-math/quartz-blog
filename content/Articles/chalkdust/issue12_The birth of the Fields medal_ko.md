@@ -1,6 +1,15 @@
 ---
 title: 필즈 메달의 탄생
 date: 2020-10-30
+tags:
+  - 수학
+  - 메달
+  - 필즈
+  - meromorphic
+  - Maryam
+  - 미르자카니
+  - 더글러스
+  - 대회
 ---
 
 > [!NOTE]

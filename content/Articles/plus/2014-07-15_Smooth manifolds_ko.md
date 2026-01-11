@@ -1,6 +1,15 @@
 ---
 title: 매끄러운 다양체 (Smooth manifolds)
 date: 2014-07-15
+tags:
+  - 곡률
+  - 거리
+  - 다양체
+  - Gromov
+  - 리치
+  - LMS
+  - Egregium
+  - Society
 ---
 
 > [!NOTE]

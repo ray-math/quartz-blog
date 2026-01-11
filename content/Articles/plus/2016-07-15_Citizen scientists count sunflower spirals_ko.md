@@ -1,6 +1,15 @@
 ---
 title: 시민 과학자들이 세어본 해바라기 나선의 비밀
 date: 2016-07-15
+tags:
+  - Fibonacci
+  - 수열
+  - 피보나치
+  - head
+  - sequence
+  - 해바라기
+  - 나선
+  - Leonardo
 ---
 
 > [!NOTE]

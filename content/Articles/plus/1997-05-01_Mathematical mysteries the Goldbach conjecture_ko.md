@@ -1,6 +1,15 @@
 ---
 title: "수학의 미스터리: 골드바흐 추측"
 date: 1997-05-01
+tags:
+  - 추측
+  - number
+  - 증명
+  - Goldbach
+  - 골드
+  - 바흐
+  - conjecture
+  - 오일러
 ---
 
 > [!NOTE]

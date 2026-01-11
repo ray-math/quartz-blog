@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2004-09-01
+tags:
+  - Zhang
+  - 분석
+  - 선수
+  - Pereptchenov
+  - 역도
+  - 근력
+  - 체중
+  - 비례
 ---
 
 > [!NOTE]

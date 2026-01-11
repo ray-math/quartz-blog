@@ -1,6 +1,15 @@
 ---
 title: 스티븐 쿡과의 대화
 date: 2018-01-25
+tags:
+  - 문제
+  - NP
+  - 컴퓨터
+  - enumerable
+  - recursively
+  - time
+  - 라우레아테
+  - sets
 ---
 
 > [!NOTE]

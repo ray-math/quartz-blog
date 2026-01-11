@@ -1,6 +1,15 @@
 ---
 title: 복소평면 위의 아름다운 그림들
 date: 2017-10-18
+tags:
+  - 집합
+  - at
+  - Fractals
+  - st
+  - Mandelbrot
+  - Springer
+  - 망델브로트
+  - Julia
 ---
 
 > [!NOTE]

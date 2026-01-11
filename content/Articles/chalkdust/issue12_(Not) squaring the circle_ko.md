@@ -1,6 +1,15 @@
 ---
 title: "원의 구적 문제: (불가능한) 도전"
 date: 2020-10-30
+tags:
+  - 문제
+  - 증명
+  - 가능
+  - 구적
+  - infinite
+  - Sam
+  - circle
+  - Hartburn
 ---
 
 > [!NOTE]

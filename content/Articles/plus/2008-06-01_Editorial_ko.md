@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2008-06-01
+tags:
+  - 수학
+  - Goldbach
+  - 추측
+  - Colour
+  - 젠킨스
+  - quant
+  - 금융
+  - conjecture
 ---
 
 > [!NOTE]

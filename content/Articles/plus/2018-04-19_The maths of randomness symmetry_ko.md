@@ -1,6 +1,15 @@
 ---
 title: "무작위성의 수학: 대칭성"
 date: 2018-04-19
+tags:
+  - 확률
+  - chance
+  - Hairer
+  - Clark
+  - Martin
+  - SIDS
+  - 봉투
+  - Sally
 ---
 
 > [!NOTE]

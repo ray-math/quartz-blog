@@ -1,6 +1,15 @@
 ---
 title: 모든 덧셈의 답이 10인 이유
 date: 2012-08-16
+tags:
+  - 수학
+  - Irving
+  - Patel
+  - Ebrahim
+  - Andrew
+  - 기수
+  - Bees
+  - 표기
 ---
 
 > [!NOTE]

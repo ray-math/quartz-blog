@@ -1,6 +1,15 @@
 ---
 title: 통계학자 플로렌스 나이팅게일
 date: 2017-03-06
+tags:
+  - 그녀
+  - 나이팅게일
+  - 플로렌스
+  - Commission
+  - 마르티노
+  - 간호
+  - Army
+  - Health
 ---
 
 > [!NOTE]

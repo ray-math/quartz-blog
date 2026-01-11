@@ -1,6 +1,15 @@
 ---
 title: 편향된 다항식에서 구조를 찾아낸 수학자들
 date: 2021-11-09
+tags:
+  - 랭크
+  - 편향
+  - University
+  - Moshkovitz
+  - Cohen
+  - Hebrew
+  - 동차
+  - rank
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 2019년 아벨상
 date: 2019-03-19
+tags:
+  - Uhlenbeck
+  - 수학
+  - 곡면
+  - Sacks
+  - Karen
+  - 수면
+  - 사상
+  - Mills
 ---
 
 > [!NOTE]

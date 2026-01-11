@@ -1,6 +1,15 @@
 ---
 title: 단위근의 강력한 힘 뒤에 숨은 단순한 수학
 date: 2021-09-23
+tags:
+  - 이것
+  - 구조
+  - 다항식
+  - quadratic
+  - th
+  - unit
+  - imaginary
+  - root
 ---
 
 > [!NOTE]

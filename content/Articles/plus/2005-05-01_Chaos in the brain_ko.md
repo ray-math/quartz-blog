@@ -1,6 +1,15 @@
 ---
 title: 뇌 속의 카오스
 date: 2005-05-01
+tags:
+  - 카오스
+  - 뉴런
+  - 끌개
+  - Pattern
+  - CPG
+  - 신경
+  - 거머리
+  - Strange
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수학을 변화시킨 쓸모없는 관점
 date: 2020-06-09
+tags:
+  - 표현
+  - representation
+  - 행렬
+  - Langlands
+  - program
+  - linear
+  - trivial
+  - 모듈러
 ---
 
 > [!NOTE]

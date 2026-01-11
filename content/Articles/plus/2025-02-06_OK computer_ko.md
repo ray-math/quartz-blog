@@ -1,6 +1,15 @@
 ---
 title: OK 컴퓨터
 date: 2025-02-06
+tags:
+  - 모델
+  - 수학
+  - 방정식
+  - Hale
+  - Pandemic
+  - Epidemiological
+  - UNIversities
+  - 엔지니어
 ---
 
 > [!NOTE]

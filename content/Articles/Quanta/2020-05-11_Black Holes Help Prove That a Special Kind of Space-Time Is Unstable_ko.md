@@ -1,6 +1,15 @@
 ---
 title: 블랙홀이 증명하는 특수한 시공간의 불안정성
 date: 2020-05-11
+tags:
+  - 시공간
+  - AdS
+  - 에너지
+  - Vlasov
+  - 모스키디스
+  - boundary
+  - 파동
+  - condition
 ---
 
 > [!NOTE]

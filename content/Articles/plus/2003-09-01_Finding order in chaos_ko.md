@@ -1,6 +1,15 @@
 ---
 title: 혼돈 속에서 질서 찾기
 date: 2003-09-01
+tags:
+  - 혼돈
+  - 예측
+  - 가능
+  - 진자
+  - Photo
+  - 창발
+  - DHD
+  - Gallery
 ---
 
 > [!NOTE]

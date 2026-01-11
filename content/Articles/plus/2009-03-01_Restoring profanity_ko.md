@@ -1,6 +1,15 @@
 ---
 title: 외설의 복원 (Restoring profanity)
 date: 2009-03-01
+tags:
+  - 이미지
+  - 방정식
+  - 그림
+  - Hilliard
+  - 페인팅
+  - 프레스코
+  - Cahn
+  - Baatz
 ---
 
 > [!NOTE]

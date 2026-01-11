@@ -2,6 +2,14 @@
 title: 필터 (FILTERS)
 date: 2025-07-01
 tags:
+  - 필터
+  - 집합
+  - 극대
+  - filter
+  - strictly
+  - coarser
+  - 근방
+  - cluster
 ---
 ## 필터 (FILTERS)
 집합 $X$ 위의 필터(filter) $F$는 다음 성질을 만족하는 $X$의 부분집합들의 모임이다.[^1]

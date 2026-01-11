@@ -1,6 +1,15 @@
 ---
 title: 경찰과 도둑
 date: 2015-08-11
+tags:
+  - 모델
+  - 범죄
+  - 지역
+  - hotspots
+  - Bertozzi
+  - reaction
+  - 매력도
+  - 절도
 ---
 
 > [!NOTE]

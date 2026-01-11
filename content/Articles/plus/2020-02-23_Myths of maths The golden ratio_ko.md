@@ -1,6 +1,15 @@
 ---
 title: "수학의 신화: 황금비"
 date: 2020-02-23
+tags:
+  - 황금
+  - 비율
+  - 직사각
+  - Divina
+  - 연분수
+  - fraction
+  - 나선
+  - Proportione
 ---
 
 > [!NOTE]

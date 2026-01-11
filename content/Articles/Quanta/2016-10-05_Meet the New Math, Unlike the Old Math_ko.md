@@ -1,6 +1,15 @@
 ---
 title: "새로운 수학을 만나다,  옛 수학과는 다른"
 date: 2016-10-05
+tags:
+  - 수학
+  - 학생
+  - 과학
+  - NGSS
+  - 교사
+  - Science
+  - Consortium
+  - Next
 ---
 
 > [!NOTE]

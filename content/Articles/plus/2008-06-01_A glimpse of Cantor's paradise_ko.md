@@ -1,6 +1,15 @@
 ---
 title: 칸토어의 낙원 엿보기
 date: 2008-06-01
+tags:
+  - 무한
+  - 집합
+  - 농도
+  - investigators
+  - Infinite
+  - part
+  - numbers
+  - cardinal
 ---
 
 > [!NOTE]

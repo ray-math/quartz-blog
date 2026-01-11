@@ -1,6 +1,15 @@
 ---
 title: 수학과 물리학의 불합리한 관계
 date: 2018-04-03
+tags:
+  - 수학
+  - 물리
+  - 이것
+  - Randall
+  - Brian
+  - 다양체
+  - Wigner
+  - Smith
 ---
 
 > [!NOTE]

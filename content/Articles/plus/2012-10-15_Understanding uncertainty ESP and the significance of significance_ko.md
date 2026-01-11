@@ -1,6 +1,15 @@
 ---
 title: 불확실성의 이해- ESP와 유의성의 의미
 date: 2012-10-15
+tags:
+  - 유의
+  - 실험
+  - Understanding
+  - Bem
+  - ESP
+  - 검정
+  - 국회의원
+  - subliminal
 ---
 
 > [!NOTE]

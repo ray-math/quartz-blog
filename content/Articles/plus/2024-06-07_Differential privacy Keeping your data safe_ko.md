@@ -1,6 +1,15 @@
 ---
 title: "차등 프라이버시: 데이터를 안전하게 지키는 방법"
 date: 2024-06-07
+tags:
+  - 데이터
+  - 프라이버시
+  - 통계
+  - privacy
+  - Kobbi
+  - 응답
+  - response
+  - randomized
 ---
 
 > [!NOTE]

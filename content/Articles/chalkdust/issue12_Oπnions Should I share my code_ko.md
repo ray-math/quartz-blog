@@ -1,6 +1,15 @@
 ---
 title: Oπnions- 내 코드를 공유해야 할까?
 date: 2020-10-30
+tags:
+  - 사용
+  - 코드
+  - 소프트웨어
+  - 소스
+  - Linus
+  - JOSS
+  - git
+  - 오픈
 ---
 
 > [!NOTE]

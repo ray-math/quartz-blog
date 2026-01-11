@@ -1,6 +1,15 @@
 ---
 title: 면역력 감소 이해하기
 date: 2022-01-10
+tags:
+  - 모델
+  - 면역
+  - 감염
+  - Pellis
+  - Francesca
+  - Lorenzo
+  - 백신
+  - 회원
 ---
 
 > [!NOTE]

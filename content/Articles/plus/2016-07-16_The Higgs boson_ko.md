@@ -1,6 +1,15 @@
 ---
 title: 힉스 보손
 date: 2016-07-16
+tags:
+  - 이론
+  - 물리
+  - 게이지
+  - Salam
+  - gauge
+  - Finance
+  - 보손
+  - Juan
 ---
 
 > [!NOTE]

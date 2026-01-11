@@ -1,6 +1,15 @@
 ---
 title: 정보에 대한 이해
 date: 2020-07-22
+tags:
+  - 정보
+  - 이론
+  - 구성
+  - constructor
+  - 말레토
+  - 매체
+  - quantum
+  - universal
 ---
 
 > [!NOTE]

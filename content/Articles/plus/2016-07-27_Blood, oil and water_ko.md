@@ -1,6 +1,15 @@
 ---
 title: 피, 기름 그리고 물
 date: 2016-07-27
+tags:
+  - 계면
+  - 수학
+  - 자헤디
+  - 첨가
+  - error
+  - estimation
+  - 기름
+  - differential
 ---
 
 > [!NOTE]

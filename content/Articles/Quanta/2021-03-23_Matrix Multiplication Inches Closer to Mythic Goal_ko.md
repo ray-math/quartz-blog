@@ -1,6 +1,15 @@
 ---
 title: 행렬 곱셈, 신화적 목표에 한 걸음 더 다가서다
 date: 2021-03-23
+tags:
+  - 행렬
+  - 곱셈
+  - Vassilevska
+  - Williams
+  - Alman
+  - Strassen
+  - Virginia
+  - Josh
 ---
 
 > [!NOTE]

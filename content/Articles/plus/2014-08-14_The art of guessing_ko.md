@@ -1,6 +1,15 @@
 ---
 title: 추측의 기술
 date: 2014-08-14
+tags:
+  - order
+  - 추정
+  - 페르미
+  - magnitude
+  - 피아노
+  - 가구
+  - reasoning
+  - 조율
 ---
 
 > [!NOTE]

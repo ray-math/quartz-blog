@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 호모토피
 date: 2023-08-09
+tags:
+  - 함수
+  - 곡선
+  - 연속
+  - 호모토피
+  - 패밀리
+  - function
+  - topological
+  - 치역
 ---
 
 > [!NOTE]

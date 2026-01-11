@@ -1,6 +1,15 @@
 ---
 title: 도넛 위에서 당구 치기
 date: 2014-05-27
+tags:
+  - 당구
+  - 궤적
+  - 곡면
+  - Corinna
+  - polygonal
+  - 측지선
+  - Ulcig
+  - 코리
 ---
 
 > [!NOTE]

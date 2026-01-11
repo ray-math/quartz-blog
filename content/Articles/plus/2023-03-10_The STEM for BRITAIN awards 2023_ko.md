@@ -1,6 +1,15 @@
 ---
 title: 2023 STEM for BRITAIN 어워즈
 date: 2023-03-10
+tags:
+  - 수학
+  - Mathematical
+  - 포스터
+  - Wey
+  - Hickey
+  - Tillmann
+  - Stansg
+  - Viscount
 ---
 
 > [!NOTE]

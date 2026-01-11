@@ -1,6 +1,15 @@
 ---
 title: 프리미어리그 순위를 결정하는 방법
 date: 2020-05-01
+tags:
+  - Man
+  - Utd
+  - 경기
+  - Aston
+  - Brighton
+  - Villa
+  - Arsenal
+  - Ham
 ---
 
 > [!NOTE]

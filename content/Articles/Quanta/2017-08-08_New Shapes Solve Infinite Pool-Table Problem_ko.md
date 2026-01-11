@@ -1,6 +1,15 @@
 ---
 title: 무한 당구대 문제를 푸는 새로운 도형들
 date: 2017-08-08
+tags:
+  - 수학
+  - 당구
+  - 표면
+  - 폐포
+  - Wright
+  - Mukamel
+  - Eskin
+  - McMullen
 ---
 
 > [!NOTE]

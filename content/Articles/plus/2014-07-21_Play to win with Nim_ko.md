@@ -1,6 +1,15 @@
 ---
 title: 님(Nim) 게임에서 승리하는 방법
 date: 2014-07-21
+tags:
+  - 게임
+  - 더미
+  - 승리
+  - wins
+  - 이진
+  - 동전
+  - player
+  - binary
 ---
 
 > [!NOTE]

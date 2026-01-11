@@ -1,6 +1,15 @@
 ---
 title: 다각형-π
 date: 2024-11-08
+tags:
+  - eq
+  - frac
+  - end
+  - begin
+  - poly
+  - pi
+  - cos
+  - left
 ---
 
 > [!NOTE]

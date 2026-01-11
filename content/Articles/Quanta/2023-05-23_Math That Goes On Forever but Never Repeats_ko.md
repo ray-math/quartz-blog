@@ -1,6 +1,15 @@
 ---
 title: 영원히 계속되지만 결코 반복되지 않는 수학
 date: 2023-05-23
+tags:
+  - 타일
+  - 주기
+  - 이동
+  - Goodman
+  - Chaim
+  - Samuel
+  - 마이어스
+  - ABABABABABABA
 ---
 
 > [!NOTE]

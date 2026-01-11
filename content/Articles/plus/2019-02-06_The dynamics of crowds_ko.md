@@ -1,6 +1,15 @@
 ---
 title: 군중의 역학
 date: 2019-02-06
+tags:
+  - 모델
+  - 행위자
+  - 사람
+  - 군중
+  - ABM
+  - Helbing
+  - Budd
+  - 경기장
 ---
 
 > [!NOTE]

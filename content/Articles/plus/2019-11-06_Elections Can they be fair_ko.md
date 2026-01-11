@@ -1,6 +1,15 @@
 ---
 title: 선거, 공정할 수 있을까?
 date: 2019-11-06
+tags:
+  - 투표
+  - 시스템
+  - 후보
+  - come
+  - Unive
+  - 보르다
+  - Stanford
+  - 선거
 ---
 
 > [!NOTE]

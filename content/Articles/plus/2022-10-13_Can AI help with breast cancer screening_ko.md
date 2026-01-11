@@ -1,6 +1,15 @@
 ---
 title: AI가 유방암 검진을 도울 수 있을까?
 date: 2022-10-13
+tags:
+  - 검진
+  - Mathematics
+  - AI
+  - 유방
+  - Lung
+  - 전문의
+  - MIUA
+  - 길버트
 ---
 
 > [!NOTE]

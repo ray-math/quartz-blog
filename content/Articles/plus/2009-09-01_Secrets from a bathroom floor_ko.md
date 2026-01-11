@@ -1,6 +1,15 @@
 ---
 title: 욕실 바닥에서 찾은 비밀
 date: 2009-09-01
+tags:
+  - 타일
+  - 사용
+  - 오각
+  - Company
+  - Netherla
+  - Used
+  - 다각
+  - reser
 ---
 
 > [!NOTE]

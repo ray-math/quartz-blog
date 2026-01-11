@@ -1,6 +1,15 @@
 ---
 title: 미분의 기초 이해하기
 date: 2003-11-01
+tags:
+  - 함수
+  - 경사도
+  - 직선
+  - 라디안
+  - hand
+  - Chris
+  - 극한
+  - Control
 ---
 
 > [!NOTE]

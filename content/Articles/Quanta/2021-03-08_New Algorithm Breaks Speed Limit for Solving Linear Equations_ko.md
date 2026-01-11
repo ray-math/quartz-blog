@@ -1,6 +1,15 @@
 ---
 title: 선형 방정식을 푸는 속도의 한계를 깬 새로운 알고리즘
 date: 2021-03-08
+tags:
+  - 행렬
+  - 선형
+  - 시스템
+  - Peng
+  - Vempala
+  - Alman
+  - 곱셈
+  - Giesbrecht
 ---
 
 > [!NOTE]

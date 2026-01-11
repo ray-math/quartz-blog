@@ -1,6 +1,15 @@
 ---
 title: ICM 2022 - 국가들을 하나로 모으다
 date: 2018-08-08
+tags:
+  - 대회
+  - ICM
+  - 수학
+  - International
+  - 개최
+  - 위원
+  - 국제
+  - 국가
 ---
 
 > [!NOTE]

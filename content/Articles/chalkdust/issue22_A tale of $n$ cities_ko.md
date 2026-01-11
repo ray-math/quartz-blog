@@ -1,6 +1,15 @@
 ---
 title: n개 도시 이야기
 date: 2025-11-17
+tags:
+  - 도시
+  - 배달
+  - 편지
+  - begin
+  - 펜팔
+  - end
+  - 엔트로피
+  - equation
 ---
 
 > [!NOTE]

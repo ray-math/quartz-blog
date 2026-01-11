@@ -1,6 +1,15 @@
 ---
 title: "소수 탐지기를 만들어 보자!"
 date: 2025-11-17
+tags:
+  - 소수
+  - 함수
+  - 우리
+  - lfloor
+  - 탐지
+  - rfloor
+  - floor
+  - 밀스
 ---
 
 > [!NOTE]

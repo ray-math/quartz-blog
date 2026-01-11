@@ -1,6 +1,15 @@
 ---
 title: 영상 분석 - 수학의 현대적 응용
 date: 1998-01-01
+tags:
+  - 영상
+  - 확률
+  - Plymouth
+  - 우도
+  - School
+  - 토지
+  - Statistics
+  - probability
 ---
 
 > [!NOTE]

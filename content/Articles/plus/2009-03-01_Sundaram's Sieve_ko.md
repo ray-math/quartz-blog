@@ -1,6 +1,15 @@
 ---
 title: 순다람의 체
 date: 2009-03-01
+tags:
+  - 소수
+  - 배열
+  - 수학
+  - Sieve
+  - progressions
+  - Havil
+  - 에라토스테네스
+  - 순다
 ---
 
 > [!NOTE]

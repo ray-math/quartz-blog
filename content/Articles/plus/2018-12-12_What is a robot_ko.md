@@ -1,6 +1,15 @@
 ---
 title: 로봇이란 무엇인가?
 date: 2018-12-12
+tags:
+  - 로봇
+  - intelligence
+  - 학습
+  - artificial
+  - 아시모프
+  - 창조자
+  - 지능
+  - 양전자
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 법정에 선 수학
 date: 2001-12-01
+tags:
+  - 시료
+  - 원소
+  - John
+  - Curtin
+  - Allen
+  - Chemist
+  - 법의학
+  - Forensic
 ---
 
 > [!NOTE]

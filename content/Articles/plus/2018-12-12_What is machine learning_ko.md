@@ -1,6 +1,15 @@
 ---
 title: 머신러닝이란 무엇인가?
 date: 2018-12-12
+tags:
+  - 데이터
+  - 학습
+  - 신경망
+  - 러닝
+  - Budd
+  - 훈련
+  - Gresham
+  - learning
 ---
 
 > [!NOTE]

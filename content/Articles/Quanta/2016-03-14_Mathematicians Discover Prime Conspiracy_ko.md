@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 발견한 소수의 음모
 date: 2016-03-14
+tags:
+  - 소수
+  - Lemke
+  - 발견
+  - Soundararajan
+  - Oliver
+  - 편향
+  - 자릿수
+  - Hardy
 ---
 
 > [!NOTE]

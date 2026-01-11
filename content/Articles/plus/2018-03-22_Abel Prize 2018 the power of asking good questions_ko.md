@@ -1,6 +1,15 @@
 ---
 title: 2018년 아벨상- 좋은 질문을 던지는 힘
 date: 2018-03-22
+tags:
+  - Langlands
+  - 수학
+  - Advanced
+  - forms
+  - 아벨상
+  - Study
+  - Drinfeld
+  - 갈루아
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2004-05-01
+tags:
+  - 투표
+  - 반대
+  - 역설
+  - 안건
+  - COMAP
+  - 찬성
+  - majority
+  - Dell
 ---
 
 > [!NOTE]

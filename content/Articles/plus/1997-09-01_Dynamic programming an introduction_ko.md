@@ -1,6 +1,15 @@
 ---
 title: "동적 계획법: 입문"
 date: 1997-09-01
+tags:
+  - 최적
+  - 문제
+  - 파트너
+  - Bellman
+  - optimality
+  - Operational
+  - Research
+  - 점수
 ---
 
 > [!NOTE]

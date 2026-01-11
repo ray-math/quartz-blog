@@ -1,6 +1,15 @@
 ---
 title: 파도 아래에서
 date: 2012-11-15
+tags:
+  - 방정식
+  - 파도
+  - 선형
+  - Congress
+  - da
+  - 너울
+  - 솔리톤
+  - Adrian
 ---
 
 > [!NOTE]

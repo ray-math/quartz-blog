@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 웰스-라일리 모델
 date: 2021-06-11
+tags:
+  - 감염
+  - quanta
+  - 공기
+  - breath
+  - content
+  - 실내
+  - Riley
+  - infectious
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 물리학에서 금융으로
 date: 2013-11-21
+tags:
+  - 금융
+  - 물리학
+  - 이론
+  - Laura
+  - Finance
+  - Mary
+  - 리스크
+  - Scholes
 ---
 
 > [!NOTE]

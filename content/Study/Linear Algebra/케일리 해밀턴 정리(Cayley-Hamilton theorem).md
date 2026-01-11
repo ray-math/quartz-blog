@@ -2,6 +2,14 @@
 title: 케일리 해밀턴 정리(Cayley-Hamilton theorem)
 date: 2025-02-20
 tags:
+  - Hamilton
+  - 정리
+  - Cayley
+  - 케일
+  - 스칼라
+  - 순환
+  - 기저
+  - 불변
 ---
 ## 케일리 해밀턴 정리(Cayley-Hamilton theorem)
 $T$를 유한 차원 벡터 공간 $V$ 위의 선형 변환이라 하자. 또한, $f(t)$를 $T$의 특성 다항식이라 하자. 그러면  

@@ -1,6 +1,15 @@
 ---
 title: 입자 예측의 마법
 date: 2023-12-06
+tags:
+  - 입자
+  - 이론
+  - 중력
+  - 유니타리
+  - 진폭
+  - 산란
+  - Veneziano
+  - amplitude
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: COVID-19의 불평등
 date: 2022-06-13
+tags:
+  - 집단
+  - Gateway
+  - 사회
+  - 박탈
+  - 신데믹
+  - Infected
+  - 평등
+  - Hale
 ---
 
 > [!NOTE]

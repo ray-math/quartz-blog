@@ -1,6 +1,15 @@
 ---
 title: 2018년 필즈상 수상자 예측하기
 date: 2016-06-28
+tags:
+  - 기하학
+  - 정수
+  - 수학
+  - 숄체
+  - spaces
+  - 바트
+  - International
+  - 대회
 ---
 
 > [!NOTE]

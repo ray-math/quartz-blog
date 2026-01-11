@@ -1,6 +1,15 @@
 ---
 title: 수학의 지도
 date: 2020-02-13
+tags:
+  - Quanta
+  - Magazine
+  - 야심
+  - 의견
+  - 조망
+  - 번역
+  - 지도
+  - 댓글
 ---
 
 > [!NOTE]

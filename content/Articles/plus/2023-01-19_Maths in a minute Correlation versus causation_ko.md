@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 상관관계와 인과관계
 date: 2023-01-19
+tags:
+  - 관계
+  - 상관
+  - 인과
+  - spurious
+  - correlations
+  - causation
+  - Hume
+  - 이민
 ---
 
 > [!NOTE]

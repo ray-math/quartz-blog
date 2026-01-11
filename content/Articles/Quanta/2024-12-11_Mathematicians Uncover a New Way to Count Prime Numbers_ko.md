@@ -1,6 +1,15 @@
 ---
 title: 소수를 세는 완전히 새로운 방법의 발견
 date: 2024-12-11
+tags:
+  - 소수
+  - Gowers
+  - norm
+  - Sawhney
+  - Green
+  - Friedlander
+  - Iwaniec
+  - forms
 ---
 
 > [!NOTE]

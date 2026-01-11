@@ -1,6 +1,15 @@
 ---
 title: 유령 포물선
 date: 2019-03-14
+tags:
+  - 유령
+  - 포물선
+  - 수학
+  - Math
+  - aperio
+  - Big
+  - Internet
+  - Philip
 ---
 
 > [!NOTE]

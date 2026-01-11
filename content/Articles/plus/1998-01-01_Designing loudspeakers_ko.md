@@ -1,6 +1,15 @@
 ---
 title: 스피커 설계
 date: 1998-01-01
+tags:
+  - 진동
+  - 설계
+  - 주파수
+  - 스피커
+  - impedance
+  - FEM
+  - 정상파
+  - horn
 ---
 
 > [!NOTE]

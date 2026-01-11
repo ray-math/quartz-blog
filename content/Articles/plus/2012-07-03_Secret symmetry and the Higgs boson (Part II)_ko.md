@@ -1,6 +1,15 @@
 ---
 title: 비밀스러운 대칭과 힉스 입자 (Part II)
 date: 2012-07-03
+tags:
+  - 입자
+  - 힉스
+  - 대칭
+  - Senior
+  - 약력
+  - 보손
+  - force
+  - boson
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 봉쇄에서 벗어나는 방법 찾기
 date: 2020-05-28
+tags:
+  - 모델
+  - 역학
+  - Criterion
+  - Information
+  - 감염
+  - 연성
+  - 봉쇄
+  - based
 ---
 
 > [!NOTE]

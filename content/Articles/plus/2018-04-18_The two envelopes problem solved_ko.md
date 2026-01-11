@@ -1,6 +1,15 @@
 ---
 title: 두 봉투 문제의 해결
 date: 2018-04-18
+tags:
+  - 확률
+  - 봉투
+  - 문제
+  - probability
+  - information
+  - 금액
+  - reason
+  - 측도
 ---
 
 > [!NOTE]

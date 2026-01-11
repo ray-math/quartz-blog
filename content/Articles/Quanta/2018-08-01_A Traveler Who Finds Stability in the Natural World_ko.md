@@ -1,6 +1,15 @@
 ---
 title: 자연계의 안정성을 찾는 수학적 여행자
 date: 2018-08-01
+tags:
+  - 수학
+  - 최적
+  - 문제
+  - 피갈리
+  - Normale
+  - 수송
+  - Brunn
+  - Minkowski
 ---
 
 > [!NOTE]

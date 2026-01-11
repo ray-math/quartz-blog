@@ -1,6 +1,15 @@
 ---
 title: 다리 놓기를 즐기는 수학자
 date: 2021-11-17
+tags:
+  - 이것
+  - 프로그램
+  - 수학
+  - 랭글랜즈
+  - Caraiani
+  - Wiles
+  - Geraghty
+  - Langlands
 ---
 
 > [!NOTE]

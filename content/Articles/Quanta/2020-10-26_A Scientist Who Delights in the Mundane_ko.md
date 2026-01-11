@@ -1,6 +1,15 @@
 ---
 title: 평범함 속에서 기쁨을 찾는 과학자
 date: 2020-10-26
+tags:
+  - 수학
+  - 특이점
+  - 이론
+  - differential
+  - 종이
+  - 부력
+  - 마하
+  - exploration
 ---
 
 > [!NOTE]

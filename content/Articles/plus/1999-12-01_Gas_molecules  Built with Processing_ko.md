@@ -1,6 +1,15 @@
 ---
 title: 기체 분자 시뮬레이션 - Processing으로 구현
 date: 1999-12-01
+tags:
+  - 시뮬레이션
+  - Processing
+  - 구현
+  - 기체
+  - 분자
+  - 통계역학
+  - Maxwell
+  - Boltzmann
 ---
 
 > [!NOTE]

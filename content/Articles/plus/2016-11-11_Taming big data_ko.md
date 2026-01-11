@@ -1,6 +1,15 @@
 ---
 title: 빅데이터 길들이기
 date: 2016-11-11
+tags:
+  - 수학
+  - 데이터
+  - 문제
+  - Information
+  - Carola
+  - CCIMI
+  - Bibiane
+  - Hawking
 ---
 
 > [!NOTE]

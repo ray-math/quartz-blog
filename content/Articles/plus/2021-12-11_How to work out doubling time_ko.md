@@ -1,6 +1,15 @@
 ---
 title: 배가 시간(doubling time)을 계산하는 방법
 date: 2021-12-11
+tags:
+  - 성장
+  - 시간
+  - 복리
+  - 배가
+  - JUNIPER
+  - growth
+  - Gog
+  - rate
 ---
 
 > [!NOTE]

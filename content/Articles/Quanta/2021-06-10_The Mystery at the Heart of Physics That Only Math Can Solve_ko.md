@@ -1,6 +1,15 @@
 ---
 title: 수학만이 풀 수 있는 물리학 중심의 미스터리
 date: 2021-06-10
+tags:
+  - 수학
+  - QFT
+  - 물리
+  - field
+  - 가둠
+  - Witten
+  - 섭동
+  - Costello
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 신경생물학에서 온라인 게임까지
 date: 2012-07-19
+tags:
+  - 모델
+  - 프로그램
+  - 데이터
+  - NNM
+  - TrueSkill
+  - BUGS
+  - Neural
+  - Criterion
 ---
 
 > [!NOTE]

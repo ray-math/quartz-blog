@@ -1,6 +1,15 @@
 ---
 title: 언어의 물리학
 date: 2021-05-11
+tags:
+  - 의미
+  - 단어
+  - 언어
+  - Sanjaye
+  - 람굴람
+  - distributional
+  - Ramgoolam
+  - semantics
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 시드니 오페라 하우스
 date: 2019-04-12
+tags:
+  - 수학
+  - 포물선
+  - 건축
+  - gardens
+  - 오페라
+  - botanic
+  - jpg
+  - conic
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 오일러의 공식
 date: 2021-07-06
+tags:
+  - 급수
+  - 표현
+  - 수학
+  - polar
+  - 오일러
+  - Taylor
+  - series
+  - 좌표
 ---
 
 > [!NOTE]

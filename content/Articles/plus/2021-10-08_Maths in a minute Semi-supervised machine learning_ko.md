@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 준지도 기계 학습
 date: 2021-10-08
+tags:
+  - 레이블
+  - 학습
+  - 데이터
+  - assumption
+  - learning
+  - neural
+  - 신경망
+  - supervised
 ---
 
 > [!NOTE]

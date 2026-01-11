@@ -1,6 +1,15 @@
 ---
 title: 원의 넓이란 무엇인가?
 date: 2007-06-01
+tags:
+  - 계산
+  - 수학
+  - 공식
+  - 비에트
+  - convergence
+  - Rhind
+  - 넓이
+  - Pleasures
 ---
 
 > [!NOTE]

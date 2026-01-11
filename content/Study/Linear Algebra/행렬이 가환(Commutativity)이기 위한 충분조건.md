@@ -2,6 +2,14 @@
 title: 행렬이 가환(Commutativity)이기 위한 충분조건
 date: 2025-02-20
 tags:
+  - 고유
+  - 행렬
+  - 불변
+  - 벡터
+  - 기저
+  - 공간
+  - 가능
+  - 부분
 ---
 ## 행렬의 가환
 대각화 가능(diagonalizable)한 두 행렬 $A$와 $B$에 대해, 다음 두 조건이 동치(equivalent)이다.

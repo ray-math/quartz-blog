@@ -1,6 +1,15 @@
 ---
 title: 고유진동수와 음악
 date: 1998-01-01
+tags:
+  - 진동
+  - 악기
+  - 음악
+  - overtones
+  - Henwood
+  - 공명
+  - Hz
+  - 짐바브웨
 ---
 
 > [!NOTE]

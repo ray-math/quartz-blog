@@ -1,6 +1,15 @@
 ---
 title: 그림 속으로 들어가기
 date: 2003-01-01
+tags:
+  - 그림
+  - 차원
+  - 원근법
+  - Antonio
+  - 호모그래피
+  - view
+  - 소실점
+  - parameters
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 최신 신경망, 세계에서 가장 어려운 방정식들을 전례 없는 속도로 해결하다
 date: 2021-04-19
+tags:
+  - 신경
+  - 방정식
+  - 연산
+  - PDE
+  - Kamyar
+  - FNO
+  - DeepONet
+  - Anima
 ---
 
 > [!NOTE]

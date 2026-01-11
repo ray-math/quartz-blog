@@ -1,6 +1,15 @@
 ---
 title: 방정식의 우주에서, 사실상 모든 것은 소수다
 date: 2018-12-10
+tags:
+  - 방정식
+  - 다항식
+  - 소수
+  - Breuillard
+  - Bary
+  - 기약
+  - 걷기
+  - Odlyzko
 ---
 
 > [!NOTE]

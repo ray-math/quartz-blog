@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 블랙홀"
 date: 2017-08-18
+tags:
+  - 블랙홀
+  - 중력
+  - 특이점
+  - Pau
+  - Hawking
+  - 지평선
+  - singularity
+  - hole
 ---
 
 > [!NOTE]

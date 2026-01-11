@@ -1,6 +1,15 @@
 ---
 title: 레베카 골딘과 브라이언 노섹이 말하는 수학과 심리학의 불편한 진실
 date: 2020-03-24
+tags:
+  - 그것
+  - 연구
+  - 당신
+  - 골디
+  - 노섹
+  - Positive
+  - AsPred
+  - Psychology
 ---
 
 > [!NOTE]

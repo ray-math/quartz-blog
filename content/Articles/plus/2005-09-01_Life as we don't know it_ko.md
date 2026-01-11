@@ -1,6 +1,15 @@
 ---
 title: 우리가 알지 못하는 생명
 date: 2005-09-01
+tags:
+  - 생명
+  - 우주
+  - 정보
+  - NASA
+  - Urey
+  - Davies
+  - 화성
+  - Bill
 ---
 
 > [!NOTE]

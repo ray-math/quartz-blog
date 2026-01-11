@@ -1,6 +1,15 @@
 ---
 title: 무한한 수 체계의 우주
 date: 2020-10-19
+tags:
+  - 진수
+  - 실수
+  - 정수
+  - Manin
+  - 완비
+  - Brauer
+  - Langlands
+  - Viray
 ---
 
 > [!NOTE]

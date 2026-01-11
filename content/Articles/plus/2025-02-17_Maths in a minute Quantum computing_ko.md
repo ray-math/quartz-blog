@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 양자 컴퓨팅"
 date: 2025-02-17
+tags:
+  - 양자
+  - quantum
+  - Gateway
+  - 쇼어
+  - Newton
+  - cryptography
+  - 단백질
+  - 중첩
 ---
 
 > [!NOTE]

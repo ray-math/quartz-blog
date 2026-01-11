@@ -1,6 +1,15 @@
 ---
 title: 가짜 숫자
 date: 2017-10-18
+tags:
+  - 숫자
+  - non
+  - 집합
+  - Glazer
+  - 가짜
+  - 반군
+  - 초필터
+  - compact
 ---
 
 > [!NOTE]

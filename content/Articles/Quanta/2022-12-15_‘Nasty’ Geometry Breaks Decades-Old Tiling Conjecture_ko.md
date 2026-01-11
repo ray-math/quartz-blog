@@ -1,6 +1,15 @@
 ---
 title: 지독한 기하학이 수십 년 된 타일링 추측을 깨뜨리다
 date: 2022-12-15
+tags:
+  - 타일
+  - 차원
+  - 주기
+  - Greenfeld
+  - Tao
+  - Advanced
+  - Study
+  - quasi
 ---
 
 > [!NOTE]

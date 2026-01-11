@@ -1,6 +1,15 @@
 ---
 title: 작동 원리를 알려면 움직임을 관찰하라
 date: 2024-02-13
+tags:
+  - 수학
+  - 움직임
+  - 동물
+  - Balseiro
+  - Abramson
+  - Luca
+  - Maini
+  - Instituto
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "수학과 예술: 초대형 고슴도치 프로젝트(ELHP)"
 date: 2018-10-18
+tags:
+  - 이것
+  - 동상
+  - 사용
+  - Herisson
+  - Temple
+  - 에트나
+  - Schm
+  - ELHP
 ---
 
 > [!NOTE]

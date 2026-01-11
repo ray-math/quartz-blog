@@ -1,6 +1,15 @@
 ---
 title: 평면에서 곡면을 창조하는 과학자들
 date: 2015-01-06
+tags:
+  - 곡률
+  - 구조
+  - 키리가미
+  - Kamien
+  - Randall
+  - curved
+  - 카미엔
+  - 외재
 ---
 
 > [!NOTE]

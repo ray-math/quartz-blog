@@ -1,6 +1,15 @@
 ---
 title: 코드, 컴퓨터, 그리고 트리
 date: 2000-01-01
+tags:
+  - 부호
+  - 문자
+  - 코드
+  - code
+  - Kona
+  - synchronizing
+  - rceil
+  - lceil
 ---
 
 > [!NOTE]

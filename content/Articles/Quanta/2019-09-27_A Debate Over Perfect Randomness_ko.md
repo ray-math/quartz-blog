@@ -1,6 +1,15 @@
 ---
 title: 완벽한 무작위성을 둘러싼 논쟁
 date: 2019-09-27
+tags:
+  - 양자
+  - 확률
+  - 작위
+  - Deshpande
+  - Susskind
+  - Abhinav
+  - Leonard
+  - 원반
 ---
 
 > [!NOTE]

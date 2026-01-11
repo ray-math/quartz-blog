@@ -1,6 +1,15 @@
 ---
 title: "한나 프라이, 케임브리지에 합류하다!"
 date: 2024-11-28
+tags:
+  - 수학
+  - 프라이
+  - Mathematics
+  - Zeeman
+  - exciting
+  - point
+  - 팬데믹
+  - Christopher
 ---
 
 > [!NOTE]

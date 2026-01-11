@@ -1,6 +1,15 @@
 ---
 title: 왜 수학이 세상을 이해하는 최고의 방법인가
 date: 2017-09-11
+tags:
+  - 수학
+  - Mason
+  - 통계
+  - 골디
+  - 문해
+  - 언론
+  - quantitative
+  - confidence
 ---
 
 > [!NOTE]

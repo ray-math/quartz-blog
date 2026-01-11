@@ -1,6 +1,15 @@
 ---
 title: 양자장론이 수학 난제의 문을 열다
 date: 2023-02-16
+tags:
+  - 그래프
+  - Borinsky
+  - 공간
+  - Vogtmann
+  - 코호몰로지
+  - Technology
+  - 루프
+  - 지표
 ---
 
 > [!NOTE]

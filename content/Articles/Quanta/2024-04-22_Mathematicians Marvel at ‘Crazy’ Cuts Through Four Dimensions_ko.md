@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 경탄하는 미친 4차원 절단면들
 date: 2024-04-22
+tags:
+  - 차원
+  - 다양체
+  - 기본군
+  - Mrowka
+  - Kronheimer
+  - Hughes
+  - 반구
+  - 곡면
 ---
 
 > [!NOTE]

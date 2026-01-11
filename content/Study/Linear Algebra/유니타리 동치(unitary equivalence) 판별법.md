@@ -1,3 +1,15 @@
+---
+tags:
+  - 행렬
+  - 정의
+  - Unitarily
+  - Equivalent
+  - 유니
+  - 트레이스
+  - 동치
+  - 절댓값
+---
+
 ### 유니타리 동치(Unitarily Equivalent)의 정의
 두 $n \times n$ 복소 행렬 $A$ 와 $B$ 가 유니타리 동치(unitarily equivalent) 라고 하면, 다음을 만족하는 유니타리 행렬 $P$ 가 존재해야 한다.
 

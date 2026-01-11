@@ -1,6 +1,15 @@
 ---
 title: "엄청난 정리: 유한 단순군의 분류"
 date: 2006-12-07
+tags:
+  - 수학
+  - 단순
+  - 유한
+  - Gorenstein
+  - Lyons
+  - 다면체
+  - group
+  - Elwes
 ---
 
 > [!NOTE]

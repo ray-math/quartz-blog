@@ -1,6 +1,15 @@
 ---
 title: 다음 가족 모임의 수학
 date: 2011-11-22
+tags:
+  - 여러분
+  - great
+  - cousin
+  - 혈연
+  - 육촌
+  - 형제
+  - 증조
+  - once
 ---
 
 > [!NOTE]

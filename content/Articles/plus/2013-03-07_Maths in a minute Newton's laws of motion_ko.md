@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 뉴턴의 운동 법칙"
 date: 2013-03-07
+tags:
+  - Principia
+  - 법칙
+  - 운동
+  - Mathematica
+  - 뉴턴
+  - 출판
+  - 관성
+  - 미적분학
 ---
 
 > [!NOTE]

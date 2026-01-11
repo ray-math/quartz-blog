@@ -1,6 +1,15 @@
 ---
 title: 역행 인과율의 시대로
 date: 2016-08-09
+tags:
+  - 역행
+  - 인과
+  - 물리
+  - 프라이스
+  - variable
+  - determinism
+  - 워튼
+  - 과거
 ---
 
 > [!NOTE]

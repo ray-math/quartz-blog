@@ -1,6 +1,15 @@
 ---
 title: 이 게임에는 타일이 몇 개나 있을까?
 date: 2025-11-17
+tags:
+  - 타일
+  - American
+  - 문제
+  - Games
+  - 순열
+  - text
+  - Scientific
+  - 비둘기
 ---
 
 > [!NOTE]

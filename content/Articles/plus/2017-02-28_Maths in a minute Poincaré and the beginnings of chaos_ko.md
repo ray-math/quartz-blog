@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 푸앵카레와 카오스 이론의 시작
 date: 2017-02-28
+tags:
+  - 클리닉
+  - 푸앵카레
+  - 자신
+  - tangle
+  - homoclinic
+  - Henri
+  - 카오스
+  - 호모
 ---
 
 > [!NOTE]

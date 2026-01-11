@@ -1,6 +1,15 @@
 ---
 title: "수학의 미신들: 사색정리"
 date: 2020-03-23
+tags:
+  - 증명
+  - 지도
+  - 수학
+  - Colour
+  - Kempe
+  - WiFi
+  - coloring
+  - graph
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 노동력 재가동하기
 date: 2020-07-30
+tags:
+  - 그룹
+  - Newton
+  - Mathematical
+  - Exchange
+  - Knowledge
+  - Forum
+  - 버드
+  - knowledge
 ---
 
 > [!NOTE]

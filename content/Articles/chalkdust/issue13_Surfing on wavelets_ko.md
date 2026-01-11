@@ -1,6 +1,15 @@
 ---
 title: 웨이블릿을 타고 서핑하기
 date: 2021-05-01
+tags:
+  - 이미지
+  - 변환
+  - JPEG
+  - 웨이
+  - wavelet
+  - 압축
+  - 허프
+  - details
 ---
 
 > [!NOTE]

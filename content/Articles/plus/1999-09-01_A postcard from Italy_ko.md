@@ -1,6 +1,15 @@
 ---
 title: 이탈리아에서 온 엽서
 date: 1999-09-01
+tags:
+  - 수학
+  - 숫자
+  - 대칭
+  - Books
+  - Gardner
+  - 회문
+  - Jost
+  - 수열
 ---
 
 > [!NOTE]

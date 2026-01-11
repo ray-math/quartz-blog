@@ -1,6 +1,15 @@
 ---
 title: "칸토어와 코언: 무한의 탐구자들 part I"
 date: 2008-06-03
+tags:
+  - 집합
+  - 공리
+  - 수학
+  - Elwes
+  - 러셀
+  - Axiom
+  - 크로네커
+  - continuum
 ---
 
 > [!NOTE]

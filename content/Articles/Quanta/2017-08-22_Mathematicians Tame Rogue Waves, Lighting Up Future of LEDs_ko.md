@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 포획한 불량 파동, LED의 미래를 밝히다
 date: 2017-08-22
+tags:
+  - 전자
+  - 국소
+  - 파동
+  - Filoche
+  - Svitlana
+  - LED
+  - gallium
+  - 경관
 ---
 
 > [!NOTE]

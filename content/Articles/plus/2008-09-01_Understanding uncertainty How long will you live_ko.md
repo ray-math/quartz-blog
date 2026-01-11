@@ -1,6 +1,15 @@
 ---
 title: "불확실성의 이해: 당신은 얼마나 오래 살 것인가?"
 date: 2008-09-01
+tags:
+  - 위험
+  - 사망
+  - 사람
+  - Norfolk
+  - Flash
+  - EPIC
+  - Adobe
+  - 생존
 ---
 
 > [!NOTE]

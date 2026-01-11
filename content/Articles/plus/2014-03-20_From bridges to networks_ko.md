@@ -1,6 +1,15 @@
 ---
 title: 다리에서 네트워크로
 date: 2014-03-20
+tags:
+  - 네트워크
+  - 연결
+  - 노드
+  - centrality
+  - local
+  - six
+  - Kevin
+  - 베이컨
 ---
 
 > [!NOTE]

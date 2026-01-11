@@ -1,6 +1,15 @@
 ---
 title: 버나드 실버맨과의 대화
 date: 2017-03-06
+tags:
+  - 과학
+  - systems
+  - 데이터
+  - 계산기
+  - 실버
+  - Data
+  - 노예
+  - multiple
 ---
 
 > [!NOTE]

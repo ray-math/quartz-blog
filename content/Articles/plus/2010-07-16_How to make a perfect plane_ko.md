@@ -1,6 +1,15 @@
 ---
 title: 완벽한 평면을 만드는 방법
 date: 2010-07-16
+tags:
+  - 평면
+  - 직선
+  - 사영
+  - projective
+  - Burkard
+  - Marty
+  - Polster
+  - 데자르그
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 카드 섞기의 수학
 date: 2021-01-29
+tags:
+  - 카드
+  - 뭉치
+  - group
+  - 순열
+  - 셔플
+  - 추이
+  - Will
+  - Houstoun
 ---
 
 > [!NOTE]

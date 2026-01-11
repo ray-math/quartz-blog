@@ -1,6 +1,15 @@
 ---
 title: 팬케이크, 생쥐 그리고 인간
 date: 2010-03-01
+tags:
+  - 순열
+  - 정렬
+  - 팬케이크
+  - 뒤집기
+  - Harry
+  - Roney
+  - 유전
+  - Dweighter
 ---
 
 > [!NOTE]

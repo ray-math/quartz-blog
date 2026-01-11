@@ -1,6 +1,15 @@
 ---
 title: 오컴의 원리를 수량화하기
 date: 2015-03-24
+tags:
+  - 범주
+  - 수학
+  - 컴퓨터
+  - Noson
+  - 오컴
+  - NP
+  - complexity
+  - Yanofsky
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 쌍곡선을 만나다
 date: 2014-10-20
+tags:
+  - 쌍곡선
+  - 사인
+  - axis
+  - sine
+  - hyperbolic
+  - remo
+  - 원뿔
+  - 포물선
 ---
 
 > [!NOTE]

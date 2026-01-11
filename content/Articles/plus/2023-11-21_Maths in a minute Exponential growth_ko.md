@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 지수 성장"
 date: 2023-11-21
+tags:
+  - 성장
+  - 지수
+  - 시간
+  - growth
+  - 나무
+  - exponential
+  - 복리
+  - 분열
 ---
 
 > [!NOTE]

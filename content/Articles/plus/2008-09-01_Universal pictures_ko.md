@@ -1,6 +1,15 @@
 ---
 title: 보편적 그림들
 date: 2008-09-01
+tags:
+  - 방정식
+  - 수학
+  - Peter
+  - Markow
+  - 양극
+  - 억제제
+  - PDEs
+  - 확산
 ---
 
 > [!NOTE]

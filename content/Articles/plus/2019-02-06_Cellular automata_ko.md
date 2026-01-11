@@ -1,6 +1,15 @@
 ---
 title: 셀룰러 오토마타
 date: 2019-02-06
+tags:
+  - 오토마타
+  - 규칙
+  - 패턴
+  - Representing
+  - Carvalho
+  - 셀룰러
+  - Cellular
+  - Elementary
 ---
 
 > [!NOTE]

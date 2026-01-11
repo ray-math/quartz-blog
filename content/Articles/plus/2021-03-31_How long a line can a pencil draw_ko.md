@@ -1,6 +1,15 @@
 ---
 title: 연필은 얼마나 긴 선을 그을 수 있을까?
 date: 2021-03-31
+tags:
+  - Maths
+  - order
+  - back
+  - Rob
+  - 연필
+  - magnitude
+  - Inspiration
+  - envelope
 ---
 
 > [!NOTE]

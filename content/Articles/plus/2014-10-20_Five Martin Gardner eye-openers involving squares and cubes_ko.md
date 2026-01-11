@@ -1,6 +1,15 @@
 ---
 title: 정사각형과 정육면체로 보는 마틴 가드너의 다섯 가지 놀라운 퍼즐
 date: 2014-10-20
+tags:
+  - 문제
+  - 수학
+  - American
+  - chessboards
+  - Mutilating
+  - 단행본
+  - Scientific
+  - 정육면체
 ---
 
 > [!NOTE]

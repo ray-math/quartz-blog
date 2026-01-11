@@ -1,6 +1,15 @@
 ---
 title: 크로스넘버 퍼즐을 만드는 법
 date: 2025-03-17
+tags:
+  - 퍼즐
+  - 크로스
+  - 단서
+  - 넘버
+  - 워드
+  - cryptic
+  - translational
+  - 격자
 ---
 
 > [!NOTE]

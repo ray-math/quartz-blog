@@ -1,6 +1,15 @@
 ---
 title: "파동에 대해 알아봅시다!"
 date: 2022-11-02
+tags:
+  - 파동
+  - Mathematical
+  - Institute
+  - 파수
+  - angular
+  - Newton
+  - 파도
+  - Sciences
 ---
 
 > [!NOTE]

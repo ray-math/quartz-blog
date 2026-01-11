@@ -1,6 +1,15 @@
 ---
 title: 중괄호의 힘
 date: 2022-05-25
+tags:
+  - 대칭
+  - 운동
+  - frac
+  - align
+  - 해밀턴
+  - skew
+  - boldsymbol
+  - 뇌터
 ---
 
 > [!NOTE]

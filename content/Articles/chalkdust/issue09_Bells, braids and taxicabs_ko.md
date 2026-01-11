@@ -1,6 +1,15 @@
 ---
 title: 종, 땋기, 그리고 택시
 date: 2019-03-14
+tags:
+  - 가닥
+  - 면적
+  - 수학
+  - Catriona
+  - 연환
+  - frac
+  - 체인지
+  - align
 ---
 
 > [!NOTE]

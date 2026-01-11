@@ -1,6 +1,15 @@
 ---
 title: 유클리드는 어떻게 세계를 지배했는가
 date: 2016-05-09
+tags:
+  - 유클리드
+  - 기하학
+  - 수학
+  - 공준
+  - 충족이유율
+  - American
+  - priori
+  - Pitzer
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 혼돈, 우연, 그리고 돈
 date: 2008-12-01
+tags:
+  - 혼돈
+  - 결정
+  - 수학
+  - Thinking
+  - Next
+  - Colva
+  - 단순군
+  - BBC
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 다면체 전개하기
 date: 2003-11-01
+tags:
+  - 전개
+  - 다면체
+  - 곡면
+  - Convex
+  - JavaView
+  - Polyhedral
+  - der
+  - Unfoldings
 ---
 
 > [!NOTE]

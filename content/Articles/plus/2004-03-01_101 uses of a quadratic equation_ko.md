@@ -1,6 +1,15 @@
 ---
 title: 101가지 이차방정식의 용도
 date: 2004-03-01
+tags:
+  - 방정식
+  - 이차
+  - 수학
+  - Raphson
+  - 완전제곱식
+  - 원뿔
+  - completing
+  - Fibonacci
 ---
 
 > [!NOTE]

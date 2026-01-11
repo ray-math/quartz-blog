@@ -1,6 +1,15 @@
 ---
 title: 암호학의 미래는 양자 안전이 될 것이다. 그 작동 원리는 이렇다.
 date: 2022-11-09
+tags:
+  - 격자
+  - 암호
+  - 양자
+  - CRYSTALS
+  - Kyber
+  - LWE
+  - Diffie
+  - Shor
 ---
 
 > [!NOTE]

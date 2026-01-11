@@ -1,6 +1,15 @@
 ---
 title: √2에 관하여
 date: 2019-10-23
+tags:
+  - 단원
+  - 연분수
+  - sqrt
+  - eqref
+  - recurrence
+  - Diophantine
+  - unit
+  - 바스카라
 ---
 
 > [!NOTE]

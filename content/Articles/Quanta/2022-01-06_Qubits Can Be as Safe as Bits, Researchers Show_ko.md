@@ -1,6 +1,15 @@
 ---
 title: 큐비트도 비트만큼 안전할 수 있다는 연구 결과
 date: 2022-01-06
+tags:
+  - 부호
+  - 양자
+  - 속성
+  - Panteleev
+  - Kalachev
+  - Eberhardt
+  - 비트
+  - 큐비트
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 추상적 곡면을 탐험하는 불굴의 수학자
 date: 2014-08-12
+tags:
+  - 수학
+  - 미르자카니
+  - 그녀
+  - 당구
+  - Inventiones
+  - Mathematicae
+  - 곡면
+  - 스킨
 ---
 
 > [!NOTE]

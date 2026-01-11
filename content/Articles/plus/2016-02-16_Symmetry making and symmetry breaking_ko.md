@@ -1,6 +1,15 @@
 ---
 title: 대칭성 생성과 대칭성 깨짐
 date: 2016-02-16
+tags:
+  - 대칭
+  - 이론
+  - 법칙
+  - 약력
+  - frame
+  - Stuff
+  - force
+  - happens
 ---
 
 > [!NOTE]

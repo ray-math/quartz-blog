@@ -1,6 +1,15 @@
 ---
 title: 이국적 구(exotic spheres), 혹은 4차원 공간이 미친 장소인 이유
 date: 2011-01-12
+tags:
+  - 차원
+  - 위상
+  - 동형
+  - 초구
+  - 러브
+  - topology
+  - 도형
+  - differential
 ---
 
 > [!NOTE]

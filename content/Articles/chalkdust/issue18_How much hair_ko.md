@@ -1,6 +1,15 @@
 ---
 title: 머리카락이 얼마나 많을까?
 date: 2023-12-06
+tags:
+  - 머리
+  - 지구
+  - 우리
+  - Mane
+  - years
+  - billion
+  - order
+  - chester
 ---
 
 > [!NOTE]

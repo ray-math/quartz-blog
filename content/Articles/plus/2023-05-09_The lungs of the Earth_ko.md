@@ -1,6 +1,15 @@
 ---
 title: 지구의 허파
 date: 2023-05-09
+tags:
+  - 남극
+  - ice
+  - 모델
+  - Dany
+  - Gulf
+  - Saint
+  - Dumas
+  - Bennetts
 ---
 
 > [!NOTE]

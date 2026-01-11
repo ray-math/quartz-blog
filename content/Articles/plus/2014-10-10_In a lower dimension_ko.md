@@ -1,6 +1,15 @@
 ---
 title: 더 낮은 차원으로
 date: 2014-10-10
+tags:
+  - 차원
+  - 이론
+  - 대응
+  - Ramgoolam
+  - Mary
+  - Sanjaye
+  - 브레인
+  - London
 ---
 
 > [!NOTE]

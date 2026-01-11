@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2006-09-01
+tags:
+  - 수학
+  - 체스
+  - 가능
+  - Exptime
+  - game
+  - EXPTIME
+  - 메달
+  - 언론
 ---
 
 > [!NOTE]

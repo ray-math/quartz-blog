@@ -1,6 +1,15 @@
 ---
 title: PEMDAS 역설
 date: 2019-06-17
+tags:
+  - 수학
+  - 관습
+  - 곱셈
+  - Linkletter
+  - cardinals
+  - 계산기
+  - Wolfram
+  - 기수
 ---
 
 > [!NOTE]

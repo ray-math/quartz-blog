@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 기계학습과 신경망"
 date: 2021-08-10
+tags:
+  - 학습
+  - 함수
+  - 기계
+  - artificial
+  - intelligence
+  - 매개
+  - 경사
+  - 뉴런
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 지폐로 조류 독감을 물리치다
 date: 2006-02-02
+tags:
+  - 이동
+  - 지폐
+  - 데이터
+  - 행보
+  - wheresg
+  - walk
+  - www
+  - CTRW
 ---
 
 > [!NOTE]

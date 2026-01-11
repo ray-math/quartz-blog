@@ -1,6 +1,15 @@
 ---
 title: 유제니아 쳉과의 대화
 date: 2018-10-18
+tags:
+  - 수학
+  - 그녀
+  - 사고
+  - Art
+  - category
+  - congressive
+  - ingressive
+  - 범주
 ---
 
 > [!NOTE]

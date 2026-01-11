@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 밝힌 도형이 무너지기 시작하는 임계점
 date: 2021-06-03
+tags:
+  - 수학
+  - 곡선
+  - Quanta
+  - edited
+  - convex
+  - 렐리스
+  - 구면
+  - Magazine
 ---
 
 > [!NOTE]

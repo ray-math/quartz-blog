@@ -1,6 +1,15 @@
 ---
 title: 수학은 어떻게 비밀을 지킬까?
 date: 2024-08-01
+tags:
+  - 암호
+  - 우리
+  - 가능
+  - Security
+  - Homomorphic
+  - Encryption
+  - 바락
+  - secure
 ---
 
 > [!NOTE]

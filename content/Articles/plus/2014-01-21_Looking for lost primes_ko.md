@@ -1,6 +1,15 @@
 ---
 title: 잃어버린 소수를 찾아서
 date: 2014-01-21
+tags:
+  - 소수
+  - 메르센
+  - Prime
+  - Challenge
+  - 클라우드
+  - Mersenne
+  - 챌린지
+  - Microsoft
 ---
 
 > [!NOTE]

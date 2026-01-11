@@ -2,6 +2,14 @@
 title: 최소제곱법(Least Squares Approximation)
 date: 2025-02-28
 tags:
+  - Squares
+  - 최소
+  - Least
+  - Approximation
+  - 랭크
+  - 행렬
+  - 벡터
+  - space
 ---
 ## 최소 제곱 근사 (Least Squares Approximation)
 한 실험자가 측정값 $y_1, y_2, \cdots, y_m$ 을 시간 $t_1, t_2, \cdots, t_m$ 에서 수집한다고 하자.

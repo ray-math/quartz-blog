@@ -1,6 +1,15 @@
 ---
 title: 복잡도 이론의 난제가 반격하다
 date: 2017-01-06
+tags:
+  - 문제
+  - 동형
+  - 알고리즘
+  - Babai
+  - sub
+  - quasi
+  - Aaronson
+  - arXiv
 ---
 
 > [!NOTE]

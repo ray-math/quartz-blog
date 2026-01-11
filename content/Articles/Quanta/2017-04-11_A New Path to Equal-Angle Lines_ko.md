@@ -1,6 +1,15 @@
 ---
 title: 등각 직선으로 가는 새로운 길
 date: 2017-04-11
+tags:
+  - 직선
+  - 차원
+  - 행렬
+  - 사영
+  - codes
+  - ETH
+  - Sudakov
+  - dot
 ---
 
 > [!NOTE]

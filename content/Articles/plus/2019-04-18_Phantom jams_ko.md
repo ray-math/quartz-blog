@@ -1,6 +1,15 @@
 ---
 title: 유령 교통 체증
 date: 2019-04-18
+tags:
+  - 속도
+  - 교통
+  - Marianne
+  - delay
+  - 차량
+  - 운전
+  - 체증
+  - Thomas
 ---
 
 > [!NOTE]

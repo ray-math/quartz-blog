@@ -1,6 +1,15 @@
 ---
 title: "외부 공간: 올라간 것은 반드시 내려온다"
 date: 2011-01-01
+tags:
+  - 회전
+  - 아래
+  - 체조
+  - 철봉
+  - radius
+  - gyration
+  - Swing
+  - 구심
 ---
 
 > [!NOTE]

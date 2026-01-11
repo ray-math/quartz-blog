@@ -1,6 +1,15 @@
 ---
 title: 입자 충돌의 수학적 구조가 드러나다
 date: 2020-08-20
+tags:
+  - 계산
+  - 코호몰로지
+  - 적분
+  - Mizera
+  - Mastrolia
+  - 교차수
+  - 파인
+  - twisted
 ---
 
 > [!NOTE]

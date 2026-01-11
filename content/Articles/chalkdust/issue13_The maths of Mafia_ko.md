@@ -1,6 +1,15 @@
 ---
 title: 마피아 게임의 수학
 date: 2021-05-01
+tags:
+  - 게임
+  - frac
+  - mathia
+  - end
+  - eqref
+  - cases
+  - left
+  - 시민
 ---
 
 > [!NOTE]

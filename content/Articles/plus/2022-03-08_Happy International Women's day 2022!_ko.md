@@ -1,6 +1,15 @@
 ---
 title: 2022 세계 여성의 날을 축하하며
 date: 2022-03-08
+tags:
+  - 수학
+  - 모델
+  - 학습
+  - learning
+  - Neural
+  - 멤버
+  - 백신
+  - supervised
 ---
 
 > [!NOTE]

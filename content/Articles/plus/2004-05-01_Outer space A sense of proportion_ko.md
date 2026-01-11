@@ -1,6 +1,15 @@
 ---
 title: 외부 공간- 비례 감각
 date: 2004-05-01
+tags:
+  - 크기
+  - 강도
+  - Photo
+  - pound
+  - DHD
+  - Gallery
+  - 무게
+  - 몸집
 ---
 
 > [!NOTE]

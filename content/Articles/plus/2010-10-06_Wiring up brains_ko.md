@@ -1,6 +1,15 @@
 ---
 title: 뇌의 배선 설계
 date: 2010-10-06
+tags:
+  - 네트워크
+  - 모듈
+  - 연결
+  - 렌트
+  - 배선
+  - Greenfield
+  - Bullmore
+  - 청크
 ---
 
 > [!NOTE]

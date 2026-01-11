@@ -1,6 +1,15 @@
 ---
 title: 선형 순서 집합의 신기한 세계
 date: 2019-10-23
+tags:
+  - 집합
+  - 순서
+  - 무한
+  - rightarrow
+  - ldots
+  - 가산
+  - ordered
+  - 기수
 ---
 
 > [!NOTE]

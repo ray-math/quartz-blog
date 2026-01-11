@@ -1,6 +1,15 @@
 ---
 title: "LHC에서의 입자 사냥: 표준 모형"
 date: 2015-12-11
+tags:
+  - 입자
+  - 대칭
+  - force
+  - 핵력
+  - 힉스
+  - nuclear
+  - 보손
+  - LHC
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 포물선들은 모두 닮음이다
 date: 2021-12-12
+tags:
+  - 포물선
+  - 곡선
+  - 정의
+  - 닮음
+  - Ho
+  - Forest
+  - Math
+  - School
 ---
 
 > [!NOTE]

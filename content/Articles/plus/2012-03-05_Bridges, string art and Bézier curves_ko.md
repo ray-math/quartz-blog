@@ -1,6 +1,15 @@
 ---
 title: 다리, 스트링 아트, 그리고 베지에 곡선
 date: 2012-03-05
+tags:
+  - 곡선
+  - 베지에
+  - 수학
+  - Chords
+  - 케이블
+  - 현악
+  - Bridge
+  - Jerusalem
 ---
 
 > [!NOTE]

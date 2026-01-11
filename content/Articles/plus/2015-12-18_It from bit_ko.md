@@ -1,6 +1,15 @@
 ---
 title: 비트로부터 존재가?
 date: 2015-12-18
+tags:
+  - 양자
+  - 휠러
+  - 정보
+  - participatory
+  - is
+  - universe
+  - 실재
+  - measurement
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 네트워크 분석이 밝혀낸 말라리아의 치명적인 변신술
 date: 2015-10-15
+tags:
+  - 유전자
+  - 기생충
+  - 서열
+  - 말라리아
+  - conformational
+  - Plasmodium
+  - 단백질
+  - falciparum
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "미래를 접다: 종이접기에서 공학까지"
 date: 2013-05-22
+tags:
+  - 문제
+  - 지도
+  - 미우라
+  - Hull
+  - Ginepro
+  - Massachusetts
+  - 색칠
+  - 종이
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 오일러 방식으로 증명하는 소수
 date: 2018-03-12
+tags:
+  - frac
+  - 소수
+  - mod
+  - text
+  - sum
+  - 급수
+  - equiv
+  - align
 ---
 
 > [!NOTE]

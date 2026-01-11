@@ -1,6 +1,15 @@
 ---
 title: 우리는 알아야 하고, 우리는 알게 될 것이다
 date: 2006-12-01
+tags:
+  - 수학
+  - 증명
+  - 공리
+  - Reid
+  - 베르
+  - Incompleteness
+  - wissen
+  - Constance
 ---
 
 > [!NOTE]

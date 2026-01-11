@@ -1,6 +1,15 @@
 ---
 title: 수학과 과학에서 매듭이 중요한 이유
 date: 2022-04-06
+tags:
+  - 매듭
+  - 그것
+  - knot
+  - slice
+  - Piccirillo
+  - Terasaka
+  - polynomial
+  - Strogatz
 ---
 
 > [!NOTE]

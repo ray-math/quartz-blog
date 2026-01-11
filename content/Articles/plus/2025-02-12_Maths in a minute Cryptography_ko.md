@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 암호학"
 date: 2025-02-12
+tags:
+  - 암호
+  - key
+  - Gateway
+  - Cocks
+  - Shamir
+  - Rivest
+  - 자물쇠
+  - RSA
 ---
 
 > [!NOTE]

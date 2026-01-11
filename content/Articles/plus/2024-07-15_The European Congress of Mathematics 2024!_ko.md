@@ -1,6 +1,15 @@
 ---
 title: "2024년 유럽 수학 학술대회!"
 date: 2024-07-15
+tags:
+  - 수학
+  - 연구
+  - Montgomery
+  - Hutchcroft
+  - Frederick
+  - Tom
+  - 궁전
+  - Society
 ---
 
 > [!NOTE]

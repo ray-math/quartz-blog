@@ -1,6 +1,15 @@
 ---
 title: 완고한 방정식과 대칭의 수학적 연구
 date: 2014-10-22
+tags:
+  - 방정식
+  - Galois
+  - 대칭
+  - 분해체
+  - Abel
+  - 사상
+  - field
+  - solvable
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 우연의 일치, 상관관계, 그리고 확률
 date: 2004-09-01
+tags:
+  - 확률
+  - 우리
+  - Andrew
+  - 상어
+  - Stickland
+  - probability
+  - 아이스크림
+  - 여드름
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: Mathsci-comm 네트워크를 소개합니다
 date: 2024-04-02
+tags:
+  - Newton
+  - 연구
+  - 수학
+  - comm
+  - Gateway
+  - popularisation
+  - 커뮤니티
+  - Sciences
 ---
 
 > [!NOTE]

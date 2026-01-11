@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 중력파
 date: 2017-08-18
+tags:
+  - 중력
+  - 이론
+  - Einstein
+  - 레스
+  - Albert
+  - Institut
+  - LIGO
+  - Gabriela
 ---
 
 > [!NOTE]

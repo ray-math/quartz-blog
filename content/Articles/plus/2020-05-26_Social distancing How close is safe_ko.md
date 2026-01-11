@@ -1,6 +1,15 @@
 ---
 title: "사회적 거리두기: 얼마나 가까이 있어야 안전할까?"
 date: 2020-05-26
+tags:
+  - 연구
+  - fluid
+  - 공기
+  - 린드
+  - droplet
+  - RAMP
+  - transmission
+  - 팬데믹
 ---
 
 > [!NOTE]

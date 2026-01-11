@@ -1,6 +1,15 @@
 ---
 title: "작은 것들의 힘: 재귀적 점근 해석학"
 date: 2021-11-05
+tags:
+  - 이론
+  - 수학
+  - 함수
+  - Howls
+  - Stokes
+  - Berry
+  - resurgent
+  - Dingle
 ---
 
 > [!NOTE]

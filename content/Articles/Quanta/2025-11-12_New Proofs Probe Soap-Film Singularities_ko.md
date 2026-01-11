@@ -1,6 +1,15 @@
 ---
 title: 비누막 특이점을 탐구하는 새로운 증명들
 date: 2025-11-12
+tags:
+  - 차원
+  - 곡면
+  - 최소
+  - Christos
+  - Mantoulidis
+  - 슐체
+  - generic
+  - 만툴리디스
 ---
 
 > [!NOTE]

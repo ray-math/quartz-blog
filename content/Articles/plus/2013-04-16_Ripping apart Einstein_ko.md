@@ -1,6 +1,15 @@
 ---
 title: 아인슈타인을 해체하다
 date: 2013-04-16
+tags:
+  - 이론
+  - 중력
+  - 에테르
+  - Morley
+  - Berke
+  - California
+  - Michelson
+  - 직물
 ---
 
 > [!NOTE]

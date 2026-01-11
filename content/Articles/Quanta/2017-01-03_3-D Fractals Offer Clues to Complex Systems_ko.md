@@ -1,6 +1,15 @@
 ---
 title: 3차원 프랙탈이 복잡계 이해에 새로운 실마리를 제공하다
 date: 2017-01-03
+tags:
+  - 집합
+  - 차원
+  - Lindsey
+  - 엽층
+  - Julia
+  - Thurston
+  - 도형
+  - Aleksandr
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "외부 공간: 이달의 송전탑"
 date: 2007-06-01
+tags:
+  - 다면체
+  - 강체
+  - 삼각
+  - 송전탑
+  - rigidity
+  - Klaus
+  - 슈테펜
+  - Steffen
 ---
 
 > [!NOTE]

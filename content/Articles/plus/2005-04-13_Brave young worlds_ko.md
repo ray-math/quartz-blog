@@ -1,6 +1,15 @@
 ---
 title: 용감한 신세계들
 date: 2005-04-13
+tags:
+  - 행성
+  - 항성
+  - 천체
+  - GQ
+  - planet
+  - extrasolar
+  - Lupi
+  - 목성
 ---
 
 > [!NOTE]

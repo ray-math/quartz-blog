@@ -1,3 +1,15 @@
+---
+tags:
+  - Form
+  - 자기
+  - 대칭
+  - 수반
+  - 이차
+  - 사상
+  - 기저
+  - 형사
+---
+
 ### 자기수반 선형사상과 이차 형식의 관계
 
 **자기수반 선형사상(Self-Adjoint Linear Map)** 은 선형사상 $A: V \to V$가 모든 벡터 $v, w \in V$에 대해 $\langle Av, w \rangle = \langle v, Aw \rangle$를 만족하는 경우를 말한다.  정규직교기저에서 자기수반 선형사상의 행렬은 항상 대칭행렬($\alpha_{ij} = \alpha_{ji}$)이다.

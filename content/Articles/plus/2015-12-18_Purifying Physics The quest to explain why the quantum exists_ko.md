@@ -1,6 +1,15 @@
 ---
 title: 물리학의 정화- "양자"가 존재하는 이유를 설명하려는 탐구
 date: 2015-12-18
+tags:
+  - 양자
+  - 원리
+  - 물리
+  - Chiribella
+  - 정화
+  - Tsinghua
+  - Ariano
+  - purification
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "수학적 미스터리: 푸코의 진자와 일식"
 date: 1999-09-01
+tags:
+  - 진자
+  - 실험
+  - frame
+  - 푸코
+  - pendulum
+  - Fred
+  - 일식
+  - paraconical
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수정처럼 투명한 - 광결정과 액정의 수학
 date: 2018-03-16
+tags:
+  - 결정
+  - 에너지
+  - 방정식
+  - crystals
+  - 액정
+  - Cahn
+  - Hilliard
+  - Photonic
 ---
 
 > [!NOTE]

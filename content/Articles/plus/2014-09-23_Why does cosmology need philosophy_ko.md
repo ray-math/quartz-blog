@@ -1,6 +1,15 @@
 ---
 title: 왜 우주론은 철학을 필요로 하는가?
 date: 2014-09-23
+tags:
+  - 우주
+  - 우리
+  - 과학
+  - 엘리스
+  - Philosophy
+  - Cosmology
+  - International
+  - 대문자
 ---
 
 > [!NOTE]

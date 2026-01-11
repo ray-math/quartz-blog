@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 2000-06-01
+tags:
+  - 수학
+  - 대학
+  - as
+  - 레벨
+  - manipulation
+  - Sciences
+  - Calculus
+  - 구분
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수학의 비전을 제시한 로버트 랭글랜즈, 아벨상 수상
 date: 2018-03-20
+tags:
+  - 수학
+  - 랭글랜즈
+  - 프로그램
+  - Advanced
+  - Galois
+  - forms
+  - Study
+  - law
 ---
 
 > [!NOTE]

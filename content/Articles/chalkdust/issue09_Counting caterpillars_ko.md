@@ -1,6 +1,15 @@
 ---
 title: 애벌레 세기
 date: 2019-03-14
+tags:
+  - 조합론
+  - 사용
+  - 배열
+  - 애벌레
+  - 카드
+  - binomial
+  - coefficient
+  - 이항
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 편집자 주
 date: 1999-09-01
+tags:
+  - 교육
+  - 학생
+  - 수학
+  - sixth
+  - Exam
+  - 특집
+  - PASS
+  - 등급
 ---
 
 > [!NOTE]

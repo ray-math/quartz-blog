@@ -1,6 +1,15 @@
 ---
 title: Two Tribes를 더 공정하게 만들기
 date: 2015-03-18
+tags:
+  - 확률
+  - 문제
+  - 공정
+  - 탈락
+  - Two
+  - Tribes
+  - 퀴즈
+  - 정답
 ---
 
 > [!NOTE]

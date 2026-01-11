@@ -1,6 +1,15 @@
 ---
 title: 당신의 문제는 무엇인가요?
 date: 2018-01-24
+tags:
+  - 문제
+  - NP
+  - 시간
+  - Behnam
+  - Cook
+  - TSP
+  - Esfahbod
+  - nondeterministic
 ---
 
 > [!NOTE]

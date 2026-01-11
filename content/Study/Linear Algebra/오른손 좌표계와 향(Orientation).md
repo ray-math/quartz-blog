@@ -2,6 +2,14 @@
 title: 오른손 좌표계와 향(Orientation)
 date: 2025-02-18
 tags:
+  - 방향
+  - 정의
+  - 다음
+  - Orientation
+  - 오른손
+  - 좌표계
+  - 부호
+  - 벡터
 ---
 벡터의 순서쌍 $\{ \mathbf{u}, \mathbf{w} \}$가 오른손 좌표계를 형성하기 위한 필요충분 조건이 $O( \mathbf{u}, \mathbf{w} ) = 1$과 동치임을 보인다.
 

@@ -1,6 +1,15 @@
 ---
 title: 미술관 문제
 date: 2014-06-14
+tags:
+  - 다각형
+  - 문제
+  - 그래프
+  - 경비
+  - Geller
+  - 미술관
+  - 꼭짓점
+  - outerplanar
 ---
 
 > [!NOTE]

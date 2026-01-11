@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 오즈비
 date: 2023-12-21
+tags:
+  - 오즈
+  - 연관
+  - 발생
+  - 크림
+  - 피부
+  - odds
+  - association
+  - ratio
 ---
 
 > [!NOTE]

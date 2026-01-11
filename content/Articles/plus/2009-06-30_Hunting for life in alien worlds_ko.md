@@ -1,6 +1,15 @@
 ---
 title: 외계 행성에서 생명체를 찾아서
 date: 2009-06-30
+tags:
+  - 행성
+  - 지구
+  - 대기
+  - Release
+  - 외계
+  - 발라
+  - Lewis
+  - Experiment
 ---
 
 > [!NOTE]

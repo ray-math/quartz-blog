@@ -1,6 +1,15 @@
 ---
 title: 기후 변화 시대의 종 보존
 date: 2016-04-25
+tags:
+  - 모델
+  - 수학
+  - 지역
+  - Mecostethus
+  - parapleurus
+  - Ranunculus
+  - platanifolius
+  - 기후
 ---
 
 > [!NOTE]

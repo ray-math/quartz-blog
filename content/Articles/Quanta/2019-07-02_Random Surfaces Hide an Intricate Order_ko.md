@@ -1,6 +1,15 @@
 ---
 title: 무작위 표면에 숨겨진 정교한 질서
 date: 2019-07-02
+tags:
+  - 작위
+  - 표면
+  - 수학
+  - 퀴리앵
+  - Curien
+  - 클러스터
+  - Nicolas
+  - threshold
 ---
 
 > [!NOTE]

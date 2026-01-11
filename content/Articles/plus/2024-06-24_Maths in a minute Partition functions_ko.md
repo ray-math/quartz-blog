@@ -1,6 +1,15 @@
 ---
 title: 분할 함수(Partition Function)
 date: 2024-06-24
+tags:
+  - 분할
+  - 함수
+  - partition
+  - Srinivasa
+  - Ramanujan
+  - forms
+  - INI
+  - function
 ---
 
 > [!NOTE]

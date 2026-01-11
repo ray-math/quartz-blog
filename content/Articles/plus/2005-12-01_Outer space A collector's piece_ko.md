@@ -1,6 +1,15 @@
 ---
 title: "아웃터 스페이스: 수집가의 물건"
 date: 2005-12-01
+tags:
+  - 카드
+  - 세트
+  - 조화
+  - series
+  - 수집
+  - 복권
+  - space
+  - harmonic
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 기호 수학, 마침내 신경망에 문을 열다
 date: 2020-05-20
+tags:
+  - 수학
+  - 신경망
+  - 문제
+  - Lample
+  - automated
+  - Charton
+  - 적분
+  - AI
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 무작위성을 길들인 수학자, 미셸 탈라그랑이 아벨상을 수상하다
 date: 2024-03-20
+tags:
+  - 과정
+  - 수학
+  - 그랑
+  - concentration
+  - generic
+  - chaining
+  - 부등식
+  - 글래스
 ---
 
 > [!NOTE]

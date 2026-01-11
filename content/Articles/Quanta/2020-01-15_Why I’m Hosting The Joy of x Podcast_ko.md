@@ -1,6 +1,15 @@
 ---
 title: 내가 The Joy of x 팟캐스트를 진행하는 이유
 date: 2020-01-15
+tags:
+  - 과학
+  - 수학
+  - Alex
+  - Janna
+  - Kontorovich
+  - 알렉스
+  - Levin
+  - 하이젠베르크
 ---
 
 > [!NOTE]

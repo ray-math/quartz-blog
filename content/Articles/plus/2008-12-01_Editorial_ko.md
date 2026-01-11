@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2008-12-01
+tags:
+  - 상식
+  - 수학
+  - 우리
+  - common
+  - notions
+  - sense
+  - 공리
+  - 공통
 ---
 
 > [!NOTE]

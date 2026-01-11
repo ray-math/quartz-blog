@@ -1,6 +1,15 @@
 ---
 title: 2024년 수학의 주요 성과
 date: 2024-12-16
+tags:
+  - 수학
+  - 추측
+  - 문제
+  - 랑글랜즈
+  - AlphaProof
+  - Riemann
+  - conjecture
+  - Milnor
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 보이지 않는 것을 이해하기
 date: 2012-10-11
+tags:
+  - 필터
+  - 모델
+  - 우주
+  - Criterion
+  - 우도
+  - Information
+  - 감염
+  - filter
 ---
 
 > [!NOTE]

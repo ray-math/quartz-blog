@@ -1,6 +1,15 @@
 ---
 title: 독감 바이러스의 포장 메커니즘
 date: 2014-03-05
+tags:
+  - 바이러스
+  - 분절
+  - 포장
+  - synonymous
+  - 서열
+  - 소변
+  - mutation
+  - 대변
 ---
 
 > [!NOTE]

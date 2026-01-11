@@ -1,6 +1,15 @@
 ---
 title: 전능한 우연의 일치
 date: 2007-12-01
+tags:
+  - 확률
+  - 숫자
+  - 번호
+  - Rob
+  - Eastaway
+  - 예배
+  - 캐럴
+  - Haigh
 ---
 
 > [!NOTE]

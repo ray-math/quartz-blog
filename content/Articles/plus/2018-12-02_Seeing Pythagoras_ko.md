@@ -1,6 +1,15 @@
 ---
 title: 피타고라스 정리를 눈으로 보기
 date: 2018-12-02
+tags:
+  - 증명
+  - 수학
+  - State
+  - 애플릿
+  - Garfield
+  - Northeastern
+  - 마우스
+  - 대통령
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2010-02-01
+tags:
+  - 통계
+  - 유전
+  - 정보
+  - uncertainty
+  - Understanding
+  - medicine
+  - David
+  - Spiegelhalter
 ---
 
 > [!NOTE]

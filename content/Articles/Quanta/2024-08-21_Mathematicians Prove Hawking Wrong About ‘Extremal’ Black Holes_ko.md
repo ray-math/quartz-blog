@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 극단적 블랙홀에 대한 호킹의 주장을 반박하다
 date: 2024-08-21
+tags:
+  - 블랙홀
+  - 극단
+  - 법칙
+  - Kehle
+  - Bardeen
+  - Carter
+  - Unger
+  - Hawking
 ---
 
 > [!NOTE]

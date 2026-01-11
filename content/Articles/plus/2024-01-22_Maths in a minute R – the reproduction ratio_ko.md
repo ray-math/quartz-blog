@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- R - 재생산 지수
 date: 2024-01-22
+tags:
+  - 감염
+  - 지수
+  - 면역
+  - herd
+  - series
+  - reproduction
+  - 질병
+  - geometric
 ---
 
 > [!NOTE]

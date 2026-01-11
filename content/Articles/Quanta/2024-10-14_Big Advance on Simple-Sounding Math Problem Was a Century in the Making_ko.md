@@ -1,6 +1,15 @@
 ---
 title: 단순해 보이는 수학 문제의 큰 진전, 한 세기에 걸친 도전
 date: 2024-10-14
+tags:
+  - 곡선
+  - 이론
+  - 수학
+  - Pasten
+  - Chowla
+  - Garcia
+  - Inventiones
+  - Mathematicae
 ---
 
 > [!NOTE]

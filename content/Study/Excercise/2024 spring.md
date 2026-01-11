@@ -1,3 +1,15 @@
+---
+tags:
+  - 공간
+  - 함수
+  - is
+  - there
+  - 좌표
+  - coordinate
+  - 곡면
+  - 아틀라스
+---
+
 ### 1. Let $S \subset \mathbb{R}^3$ be a smooth surface. Let $f: S \to \mathbb{R}$ be a smooth function. Let $p \in S$ be a point such that the differential $(df)_p$ is not zero as a linear map from $T_pS$ to $\mathbb{R}$. Let $c := f(p)$. Show that the inverse image $f^{-1}(c)$ is a curve containing $p$; more precisely, there exists an open neighborhood $V \subset S$ of $p$ and an injective smooth curve $X:(-a, a) \to S$ (for some $a > 0$) such that $X(0) = p$ and the image $X((-a, a))$ is equal to $f^{-1}(c) \cap V$.
 #### Theorem
 **음함수 정리 (Implicit Function Theorem)**

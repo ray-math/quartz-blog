@@ -1,6 +1,15 @@
 ---
 title: 우리는 왜 증명을 원하는가
 date: 2015-04-10
+tags:
+  - 증명
+  - 수학
+  - proof
+  - 공리
+  - reasoning
+  - origins
+  - 괴델
+  - II
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "COVID-19에서 배우다: 영국의 백신 접종 전략은 얼마나 효과적이었는가?"
 date: 2023-03-27
+tags:
+  - 모형
+  - 백신
+  - 접종
+  - targeting
+  - COVID
+  - CoV
+  - SARS
+  - England
 ---
 
 > [!NOTE]

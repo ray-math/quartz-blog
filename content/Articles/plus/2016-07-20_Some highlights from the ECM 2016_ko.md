@@ -1,6 +1,15 @@
 ---
 title: 2016 유럽수학회의(ECM) 주요 하이라이트
 date: 2016-07-20
+tags:
+  - 수학
+  - Congress
+  - Zahedi
+  - Pottmann
+  - Maynard
+  - 강연
+  - 곡면
+  - 유럽
 ---
 
 > [!NOTE]

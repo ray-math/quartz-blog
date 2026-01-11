@@ -1,6 +1,15 @@
 ---
 title: 마이클 아티야의 상상하는 정신 상태
 date: 2016-03-03
+tags:
+  - 수학
+  - 이론
+  - 그것
+  - 아티야
+  - twistor
+  - Witten
+  - Beauty
+  - 트위스터
 ---
 
 > [!NOTE]

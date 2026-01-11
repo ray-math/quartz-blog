@@ -1,6 +1,15 @@
 ---
 title: 모둘라이 공간 - 리만 곡면 입문
 date: 2024-07-03
+tags:
+  - 곡면
+  - Mathematical
+  - Institute
+  - Dervan
+  - Hoskins
+  - 아틀라스
+  - Victoria
+  - 차트
 ---
 
 > [!NOTE]

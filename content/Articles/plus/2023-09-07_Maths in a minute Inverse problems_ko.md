@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 역문제"
 date: 2023-09-07
+tags:
+  - 문제
+  - 수학
+  - Tomography
+  - CAT
+  - Newton
+  - 자국
+  - non
+  - 스캔
 ---
 
 > [!NOTE]

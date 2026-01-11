@@ -1,6 +1,15 @@
 ---
 title: 위토프의 게임에서 이기는 법
 date: 2024-11-08
+tags:
+  - 위치
+  - 게임
+  - 플레이어
+  - Ways
+  - 보드
+  - terminal
+  - game
+  - position
 ---
 
 > [!NOTE]

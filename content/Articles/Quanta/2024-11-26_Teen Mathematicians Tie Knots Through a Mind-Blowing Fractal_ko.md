@@ -1,6 +1,15 @@
 ---
 title: 십대 수학자들, 놀라운 프랙탈을 통해 매듭 이론을 증명하다
 date: 2024-11-26
+tags:
+  - 매듭
+  - 스펀지
+  - 프랙탈
+  - Broden
+  - 멩거
+  - Nazareth
+  - Voth
+  - Malors
 ---
 
 > [!NOTE]

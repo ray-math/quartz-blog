@@ -1,6 +1,15 @@
 ---
 title: "유전학: 자연의 디지털 코드"
 date: 2018-04-17
+tags:
+  - 유전
+  - 돌연변이
+  - 정보
+  - 코돈
+  - 아미노산
+  - mutation
+  - codes
+  - synonymous
 ---
 
 > [!NOTE]

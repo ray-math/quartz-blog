@@ -1,6 +1,15 @@
 ---
 title: 질병의 수학
 date: 2001-03-01
+tags:
+  - 질병
+  - 모델
+  - 감염
+  - 백신
+  - 강제력
+  - seasonal
+  - Kermack
+  - 구제역
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 페르마의 마지막 정리와 앤드루 와일즈
 date: 2008-06-01
+tags:
+  - 증명
+  - 페르마
+  - 수학
+  - 와일즈
+  - Newton
+  - 타원
+  - curves
+  - Pieprzak
 ---
 
 > [!NOTE]

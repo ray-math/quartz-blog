@@ -1,6 +1,15 @@
 ---
 title: 하루 일과- 대학에서
 date: 2022-11-09
+tags:
+  - 연구
+  - 수학
+  - 학생
+  - Freedom
+  - 버터리
+  - walks
+  - 제시카
+  - symplectic
 ---
 
 > [!NOTE]

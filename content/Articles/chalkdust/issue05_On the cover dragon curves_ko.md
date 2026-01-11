@@ -1,6 +1,15 @@
 ---
 title: 표지 이야기 - 용 곡선
 date: 2017-03-06
+tags:
+  - 곡선
+  - curve
+  - 차원
+  - filling
+  - base
+  - part
+  - imaginary
+  - 나선
 ---
 
 > [!NOTE]

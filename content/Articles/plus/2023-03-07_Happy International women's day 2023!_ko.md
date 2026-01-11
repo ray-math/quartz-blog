@@ -1,6 +1,15 @@
 ---
 title: "2023년 세계 여성의 날을 축하합니다!"
 date: 2023-03-07
+tags:
+  - 수학
+  - 연구
+  - 여성
+  - Tamara
+  - Scarabel
+  - Anita
+  - Grossmann
+  - Newton
 ---
 
 > [!NOTE]

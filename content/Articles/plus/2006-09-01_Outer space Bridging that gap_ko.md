@@ -1,6 +1,15 @@
 ---
 title: "외부 공간: 간격을 잇다"
 date: 2006-09-01
+tags:
+  - Bridge
+  - Clifton
+  - 다리
+  - Suspension
+  - Ponte
+  - Luz
+  - 케이블
+  - Gate
 ---
 
 > [!NOTE]

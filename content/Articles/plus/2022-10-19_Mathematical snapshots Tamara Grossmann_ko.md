@@ -1,6 +1,15 @@
 ---
 title: 수학적 스냅샷- 타마라 그로스만
 date: 2022-10-19
+tags:
+  - 이미지
+  - 수학
+  - 학습
+  - Fawcett
+  - Philippa
+  - total
+  - 인턴십
+  - variation
 ---
 
 > [!NOTE]

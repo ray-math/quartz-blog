@@ -1,6 +1,15 @@
 ---
 title: 양자 컴퓨터는 존재하는가?
 date: 2015-10-01
+tags:
+  - 양자
+  - 상태
+  - error
+  - Jozsa
+  - 소실
+  - 큐비트
+  - correction
+  - 중첩
 ---
 
 > [!NOTE]

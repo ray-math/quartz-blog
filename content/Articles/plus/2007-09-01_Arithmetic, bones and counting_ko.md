@@ -1,6 +1,15 @@
 ---
 title: 산술, 막대, 그리고 계산
 date: 2007-09-01
+tags:
+  - 막대
+  - 네이피어
+  - 숫자
+  - location
+  - 기수법
+  - 보드
+  - Chris
+  - Liber
 ---
 
 > [!NOTE]

@@ -2,7 +2,14 @@
 title: 일대일 함수
 date: 2025-04-01
 tags:
+  - 성립
   - 함수
+  - True
+  - False
+  - 전사
+  - 등호
+  - 일대일
+  - 이면
 ---
 $x_1 \not= x_2 \Rightarrow f(x_1) \not= f(x_2)$을 만족하면 일대일(one to one)이라 한다.
 

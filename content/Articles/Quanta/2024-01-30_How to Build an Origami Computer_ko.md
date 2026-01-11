@@ -1,6 +1,15 @@
 ---
 title: 종이접기로 컴퓨터를 만드는 방법
 date: 2024-01-30
+tags:
+  - 종이
+  - 수학
+  - 계산
+  - 튜링
+  - Turing
+  - 주름
+  - completeness
+  - NOR
 ---
 
 > [!NOTE]

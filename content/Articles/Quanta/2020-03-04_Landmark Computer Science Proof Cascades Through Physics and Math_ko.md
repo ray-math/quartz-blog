@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터 과학의 획기적 증명이 물리학과 수학을 관통하다
 date: 2020-03-04
+tags:
+  - 증명
+  - 문제
+  - time
+  - embedding
+  - Connes
+  - 치렐슨
+  - IP
+  - 비딕
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 킵 손과 함께하는 중력파 포착
 date: 2001-12-01
+tags:
+  - 블랙홀
+  - 중력파
+  - 우주
+  - interference
+  - LIGO
+  - hole
+  - 검출
+  - 빅뱅
 ---
 
 > [!NOTE]

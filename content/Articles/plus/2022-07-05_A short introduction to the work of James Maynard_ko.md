@@ -1,6 +1,15 @@
 ---
 title: 제임스 메이나드의 업적에 대한 간단한 소개
 date: 2022-07-05
+tags:
+  - 소수
+  - 수학
+  - Alexander
+  - Grothendieck
+  - Serre
+  - 메이나드
+  - 타오
+  - 쌍둥이
 ---
 
 > [!NOTE]

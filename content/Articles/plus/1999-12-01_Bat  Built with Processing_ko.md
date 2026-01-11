@@ -1,6 +1,15 @@
 ---
 title: 박쥐 - Processing으로 구현한 생성 예술
 date: 1999-12-01
+tags:
+  - 구현
+  - Processing
+  - 수학
+  - 박쥐
+  - Java
+  - 예술
+  - 날개
+  - 작품
 ---
 
 > [!NOTE]

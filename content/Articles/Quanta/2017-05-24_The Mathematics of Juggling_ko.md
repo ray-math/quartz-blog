@@ -1,6 +1,15 @@
 ---
 title: 저글링의 수학
 date: 2017-05-24
+tags:
+  - 저글링
+  - 수학
+  - 패턴
+  - braid
+  - Shannon
+  - Claude
+  - 캐스케이드
+  - 샤워
 ---
 
 > [!NOTE]

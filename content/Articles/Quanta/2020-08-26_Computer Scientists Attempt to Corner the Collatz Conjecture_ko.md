@@ -1,6 +1,15 @@
 ---
 title: 컴퓨터 과학자들, 콜라츠 추측을 궁지로 몰아넣다
 date: 2020-08-26
+tags:
+  - 문제
+  - 행렬
+  - Heule
+  - SAT
+  - 재작성
+  - 콜라
+  - Collatz
+  - Aaronson
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 그럴듯한 횡설수설
 date: 2015-02-09
+tags:
+  - 모델
+  - order
+  - 문자
+  - 섀넌
+  - HEAD
+  - TH
+  - 영어
+  - model
 ---
 
 > [!NOTE]

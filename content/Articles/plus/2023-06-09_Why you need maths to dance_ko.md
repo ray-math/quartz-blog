@@ -1,6 +1,15 @@
 ---
 title: 춤추기 위해 수학이 필요한 이유
 date: 2023-06-09
+tags:
+  - 산란
+  - 파동
+  - 수학
+  - 음파
+  - optics
+  - scattering
+  - integral
+  - acoustic
 ---
 
 > [!NOTE]

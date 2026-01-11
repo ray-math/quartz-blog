@@ -1,6 +1,15 @@
 ---
 title: 자를 사용한 각의 삼등분
 date: 2015-09-04
+tags:
+  - World
+  - Greg
+  - 원기둥
+  - Blonder
+  - 판자
+  - Newman
+  - Labs
+  - 목공
 ---
 
 > [!NOTE]

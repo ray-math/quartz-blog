@@ -2,8 +2,8 @@
 title: emirp
 date: 2025-01-11
 tags:
+  - emirp
   - 소수
-  - shorts
 ---
 Emirp는 이름과 같이 소수를 뒤집어서도 소수가 되는 수를 의미합니다.
 

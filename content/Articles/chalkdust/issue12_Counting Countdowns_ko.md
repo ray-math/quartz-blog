@@ -1,6 +1,15 @@
 ---
 title: 카운트다운 세기
 date: 2020-10-30
+tags:
+  - 숫자
+  - 계산
+  - 가지
+  - generating
+  - 조합론
+  - 분할
+  - function
+  - 카운트다운
 ---
 
 > [!NOTE]

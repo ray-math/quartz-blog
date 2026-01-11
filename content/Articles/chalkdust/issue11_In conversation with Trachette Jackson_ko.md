@@ -1,6 +1,15 @@
 ---
 title: 트라체트 잭슨과의 대화
 date: 2020-04-17
+tags:
+  - 수학
+  - 모델
+  - differential
+  - 트라체트
+  - 약물
+  - delay
+  - 종양
+  - 머레이
 ---
 
 > [!NOTE]

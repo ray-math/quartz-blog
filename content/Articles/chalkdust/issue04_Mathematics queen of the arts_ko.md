@@ -1,6 +1,15 @@
 ---
 title: "수학: 예술의 여왕인가?"
 date: 2016-10-03
+tags:
+  - 예술
+  - 수학
+  - Sphere
+  - Central
+  - 광선
+  - Quadratic
+  - Architecture
+  - 부화
 ---
 
 > [!NOTE]

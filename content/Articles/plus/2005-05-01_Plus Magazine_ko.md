@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2005-05-01
+tags:
+  - Plus
+  - space
+  - 퍼즐
+  - Magazine
+  - 해답
+  - 문서
+  - 잡지
+  - 수학
 ---
 
 > [!NOTE]

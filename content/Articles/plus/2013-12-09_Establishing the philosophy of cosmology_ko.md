@@ -1,6 +1,15 @@
 ---
 title: 우주론의 철학 정립하기
 date: 2013-12-09
+tags:
+  - 우주
+  - 철학
+  - 시간
+  - cosm
+  - philosophy
+  - 버터
+  - dark
+  - 웅거
 ---
 
 > [!NOTE]

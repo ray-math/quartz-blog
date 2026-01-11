@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2004-05-01
+tags:
+  - 데이터
+  - 추세
+  - 수학
+  - paribus
+  - ceteris
+  - 계절
+  - 비만
+  - year
 ---
 
 > [!NOTE]

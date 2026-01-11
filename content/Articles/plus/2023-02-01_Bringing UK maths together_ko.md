@@ -1,6 +1,15 @@
 ---
 title: 영국 수학계를 하나로 모으다
 date: 2023-02-01
+tags:
+  - 수학
+  - 아카데미
+  - Mathematical
+  - Sciences
+  - Academy
+  - 설립
+  - 본드
+  - 파이프라인
 ---
 
 > [!NOTE]

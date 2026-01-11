@@ -1,6 +1,15 @@
 ---
 title: 무한 번의 접기로 기하학 문제를 해결한 부자 팀
 date: 2022-04-04
+tags:
+  - University
+  - 다면체
+  - Erik
+  - Demaine
+  - Waterloo
+  - intrinsic
+  - 평탄
+  - distance
 ---
 
 > [!NOTE]

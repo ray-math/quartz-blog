@@ -1,3 +1,15 @@
+---
+tags:
+  - Group
+  - Theorem
+  - Fundamental
+  - cation
+  - Spaces
+  - Surfaces
+  - Covering
+  - Classi
+---
+
 
 - [[23. Connected Spaces]]
 - [[25. Components and Local Connectedness]]

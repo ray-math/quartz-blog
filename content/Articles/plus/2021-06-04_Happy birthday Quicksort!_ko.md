@@ -1,6 +1,15 @@
 ---
 title: 퀵정렬의 탄생 60주년을 축하하며
 date: 2021-06-04
+tags:
+  - 정렬
+  - 분할
+  - 알고리즘
+  - Newton
+  - LARGER
+  - 재귀
+  - SMALLER
+  - divide
 ---
 
 > [!NOTE]

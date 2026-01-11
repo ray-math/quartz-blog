@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 암흑 에너지
 date: 2018-03-27
+tags:
+  - 우주
+  - Cosmology
+  - 초신성
+  - Supernova
+  - Project
+  - 암흑
+  - 밝기
+  - Ia
 ---
 
 > [!NOTE]

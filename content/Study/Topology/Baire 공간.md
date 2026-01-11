@@ -2,6 +2,14 @@
 title: Baire 공간(Baire Spaces)
 date: 2025-06-14
 tags:
+  - 집합
+  - 공간
+  - Baire
+  - empty
+  - nowhere
+  - countable
+  - nested
+  - metric
 ---
 ## 빈 내부(empty interior)
 $A$가 빈 내부(empty interior)를 갖는다는 것은 $A$가 공집합을 제외하고는 $X$의 어떤 열린집합도 포함하지 않는다는 의미입니다. 즉, $\text{int}(A) = \emptyset$인 상태를 말합니다.

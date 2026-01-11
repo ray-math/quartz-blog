@@ -1,6 +1,15 @@
 ---
 title: 정수 수열의 감정가
 date: 2015-08-06
+tags:
+  - 수열
+  - 수학
+  - OEIS
+  - Neil
+  - MAGAZINE
+  - QUANTA
+  - Euler
+  - Sloane
 ---
 
 > [!NOTE]

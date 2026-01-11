@@ -1,6 +1,15 @@
 ---
 title: Plus Magazine
 date: 2006-03-01
+tags:
+  - 문제
+  - 분산
+  - 확률
+  - 편차
+  - outer
+  - 구매
+  - space
+  - 횟수
 ---
 
 > [!NOTE]

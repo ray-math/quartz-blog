@@ -1,6 +1,15 @@
 ---
 title: 소수의 복권
 date: 2003-11-01
+tags:
+  - 소수
+  - 수학
+  - 가우스
+  - Photo
+  - 수열
+  - DHD
+  - Gallery
+  - 리만
 ---
 
 > [!NOTE]

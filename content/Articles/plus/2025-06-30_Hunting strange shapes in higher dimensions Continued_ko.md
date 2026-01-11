@@ -1,6 +1,15 @@
 ---
 title: 고차원의 기묘한 도형을 찾아서 - 계속
 date: 2025-06-30
+tags:
+  - 차원
+  - Xu
+  - 다양체
+  - Hopkins
+  - homotopy
+  - 수술
+  - Hill
+  - spectral
 ---
 
 > [!NOTE]

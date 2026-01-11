@@ -1,6 +1,15 @@
 ---
 title: 잉글랜드 축구 선수들은 어디서 태어났을까?
 date: 2021-06-15
+tags:
+  - 지역
+  - East
+  - West
+  - Midlands
+  - North
+  - 잉글랜드
+  - Humber
+  - South
 ---
 
 > [!NOTE]

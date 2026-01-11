@@ -1,6 +1,15 @@
 ---
 title: 자연의 임계 경보 시스템
 date: 2015-11-18
+tags:
+  - 임계
+  - 시스템
+  - 호수
+  - Carpenter
+  - Cecchi
+  - 배스
+  - 생태
+  - Scheffer
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 우주론이란 무엇인가?
 date: 2014-03-20
+tags:
+  - 우주
+  - 은하
+  - 우리
+  - microwave
+  - Mary
+  - 암흑
+  - background
+  - CMB
 ---
 
 > [!NOTE]

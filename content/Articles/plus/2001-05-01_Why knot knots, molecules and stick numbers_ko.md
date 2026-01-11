@@ -1,6 +1,15 @@
 ---
 title: "매듭 이론의 세계: 분자 구조와 막대 수"
 date: 2001-05-01
+tags:
+  - 매듭
+  - 분자
+  - 막대
+  - Morley
+  - Ace
+  - Bent
+  - knot
+  - total
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 무한대의 문제
 date: 2013-07-22
+tags:
+  - 입자
+  - 전자
+  - 가상
+  - Kaiser
+  - Werner
+  - Drawing
+  - apart
+  - theories
 ---
 
 > [!NOTE]

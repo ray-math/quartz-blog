@@ -1,6 +1,15 @@
 ---
 title: R과 집단 면역
 date: 2023-11-28
+tags:
+  - 면역
+  - 질병
+  - 감염
+  - 백신
+  - herd
+  - reproduction
+  - ratio
+  - 접종
 ---
 
 > [!NOTE]

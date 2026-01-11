@@ -1,6 +1,15 @@
 ---
 title: Quanta가 수학 게임 Hyperjumps를 새롭게 출시하다
 date: 2024-02-16
+tags:
+  - 게임
+  - 퍼즐
+  - 수학
+  - Hyperjumps
+  - Dave
+  - 출시
+  - 프라딥
+  - 리체슨
 ---
 
 > [!NOTE]

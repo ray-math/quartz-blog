@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 지수 분포
 date: 2022-01-07
+tags:
+  - 함수
+  - 분포
+  - 시간
+  - cumulative
+  - distribution
+  - Poisson
+  - function
+  - 대기
 ---
 
 > [!NOTE]

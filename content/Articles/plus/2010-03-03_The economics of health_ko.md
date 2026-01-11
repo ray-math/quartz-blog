@@ -1,6 +1,15 @@
 ---
 title: 건강의 경제학
 date: 2010-03-03
+tags:
+  - 비용
+  - 치료
+  - QALY
+  - cost
+  - 중재
+  - NICE
+  - 효용
+  - hedonic
 ---
 
 > [!NOTE]

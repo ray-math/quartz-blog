@@ -1,6 +1,15 @@
 ---
 title: 경찰과 도둑 이야기의 속편
 date: 2015-08-11
+tags:
+  - 모델
+  - displacement
+  - reaction
+  - hotspots
+  - crime
+  - 범죄
+  - Dissipation
+  - models
 ---
 
 > [!NOTE]

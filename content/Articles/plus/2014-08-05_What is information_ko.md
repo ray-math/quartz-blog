@@ -1,6 +1,15 @@
 ---
 title: 정보란 무엇인가?
 date: 2014-08-05
+tags:
+  - 정보
+  - 물리
+  - 의미
+  - about
+  - information
+  - 계층
+  - wired
+  - 의도
 ---
 
 > [!NOTE]

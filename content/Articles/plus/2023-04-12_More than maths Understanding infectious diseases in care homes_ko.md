@@ -1,6 +1,15 @@
 ---
 title: 수학 그 이상- 요양원에서의 감염병 이해하기
 date: 2023-04-12
+tags:
+  - 모델
+  - Group
+  - 감염
+  - 요양원
+  - Care
+  - Health
+  - SCWG
+  - age
 ---
 
 > [!NOTE]

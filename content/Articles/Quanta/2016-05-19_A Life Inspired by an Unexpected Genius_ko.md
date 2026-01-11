@@ -1,6 +1,15 @@
 ---
 title: 예상치 못한 천재에게서 영감을 받은 삶
 date: 2016-05-19
+tags:
+  - 수학
+  - 라마누잔
+  - 자신
+  - 오노
+  - 합동
+  - Advanced
+  - Study
+  - Ramanujan
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 수학의 통일성 - 마이클 아티야 경을 기리는 모임
 date: 2021-10-28
+tags:
+  - 수학
+  - 아티야
+  - 이론
+  - Langlands
+  - program
+  - 컨퍼런스
+  - 게이지
+  - field
 ---
 
 > [!NOTE]

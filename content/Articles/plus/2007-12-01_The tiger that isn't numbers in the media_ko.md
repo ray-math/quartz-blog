@@ -1,6 +1,15 @@
 ---
 title: 호랑이는 없다 - 미디어 속 숫자의 진실
 date: 2007-12-01
+tags:
+  - 숫자
+  - 우리
+  - Andrew
+  - Blastland
+  - 호랑이
+  - Dilnot
+  - Michael
+  - that
 ---
 
 > [!NOTE]

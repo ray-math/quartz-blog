@@ -1,6 +1,15 @@
 ---
 title: 나눌 수 없는 것을 나누기
 date: 2014-06-09
+tags:
+  - 물건
+  - 배정
+  - 선호
+  - 시기심
+  - Kilgour
+  - Klamler
+  - AL
+  - Fair
 ---
 
 > [!NOTE]

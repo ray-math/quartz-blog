@@ -1,6 +1,15 @@
 ---
 title: 문제 해결을 전파하는 수학 전도사, 리처드 루스칙
 date: 2022-09-13
+tags:
+  - 수학
+  - 학생
+  - 문제
+  - Beast
+  - Academy
+  - Solving
+  - Rising
+  - Art
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "수학과 예술: 속성 투어"
 date: 2005-01-01
+tags:
+  - 수학
+  - 패턴
+  - 예술
+  - Leiteritz
+  - 대사
+  - Margaret
+  - Evolver
+  - 황금
 ---
 
 > [!NOTE]

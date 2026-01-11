@@ -1,6 +1,15 @@
 ---
 title: "완벽한 그림: 입자물리학을 혁신한 새로운 시각화"
 date: 2014-01-23
+tags:
+  - 입자
+  - 계산
+  - 물리학자
+  - MHV
+  - Gabriele
+  - Parke
+  - 시티
+  - Brandhuber
 ---
 
 > [!NOTE]

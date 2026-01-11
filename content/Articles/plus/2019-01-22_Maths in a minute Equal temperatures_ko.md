@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 지구상의 같은 온도
 date: 2019-01-22
+tags:
+  - 온도
+  - 정리
+  - 대척점
+  - antipodal
+  - Ulam
+  - 적도
+  - Borsuk
+  - point
 ---
 
 > [!NOTE]

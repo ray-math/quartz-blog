@@ -1,6 +1,15 @@
 ---
 title: 평균에 관한 모든 것
 date: 2005-01-01
+tags:
+  - 평균
+  - 역설
+  - 사람
+  - 중앙값
+  - Stickland
+  - 범죄
+  - aggregation
+  - Andrew
 ---
 
 > [!NOTE]

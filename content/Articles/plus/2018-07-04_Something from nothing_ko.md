@@ -1,6 +1,15 @@
 ---
 title: 무에서 유를 창조할 수 있을까?
 date: 2018-07-04
+tags:
+  - 소수
+  - 구성
+  - 수학
+  - middle
+  - excluded
+  - law
+  - 배중률
+  - 명제
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 진리표
 date: 2018-07-04
+tags:
+  - NOT
+  - 논리
+  - logic
+  - intuitionistic
+  - Curry
+  - proof
+  - 배중률
+  - Howard
 ---
 
 > [!NOTE]

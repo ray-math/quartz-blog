@@ -1,6 +1,15 @@
 ---
 title: 격자 기반 암호학
 date: 2025-02-18
+tags:
+  - 격자
+  - 기저
+  - 양자
+  - Lozinski
+  - Zygmunt
+  - 축약
+  - CVP
+  - Lenstra
 ---
 
 > [!NOTE]

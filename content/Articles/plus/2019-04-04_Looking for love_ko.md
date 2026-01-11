@@ -1,6 +1,15 @@
 ---
 title: 사랑을 찾고 계신가요?
 date: 2019-04-04
+tags:
+  - 당신
+  - 매치
+  - 질문
+  - OkCupid
+  - McKinlay
+  - 백분
+  - Chris
+  - 점수
 ---
 
 > [!NOTE]

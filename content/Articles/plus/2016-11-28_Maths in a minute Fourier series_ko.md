@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 푸리에 급수"
 date: 2016-11-28
+tags:
+  - Fourier
+  - 수학
+  - 푸리에
+  - Budd
+  - 급수
+  - 주파
+  - Leonhard
+  - Euler
 ---
 
 > [!NOTE]

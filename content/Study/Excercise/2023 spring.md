@@ -1,3 +1,15 @@
+---
+tags:
+  - is
+  - 곡선
+  - 곡률
+  - find
+  - following
+  - such
+  - that
+  - 측지선
+---
+
 ### 11. (10 pts) Prove or disprove the following statements. If the statement is false, find a counterexample.
 (a) For a metric space X, a subspace A ⊂ X and a point x ∈ X, there is a sequence of points of A converging to x if and only if x is in the closure $\bar{A}$ of A.
 (b) Any two metrics on $\mathbb{R}^n$ induce the same metric topology.

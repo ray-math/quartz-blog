@@ -1,6 +1,15 @@
 ---
 title: 코헨-스페커 정리의 증명
 date: 2011-11-29
+tags:
+  - 바늘
+  - 방향
+  - realism
+  - Kochen
+  - Specker
+  - 스핀
+  - Peres
+  - Asher
 ---
 
 > [!NOTE]

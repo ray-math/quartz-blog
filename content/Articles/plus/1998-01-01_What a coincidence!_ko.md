@@ -1,6 +1,15 @@
 ---
 title: "정말 우연일까!"
 date: 1998-01-01
+tags:
+  - 확률
+  - value
+  - Theory
+  - Andrei
+  - Grimmett
+  - Probability
+  - Introduction
+  - 콜모고로프
 ---
 
 > [!NOTE]

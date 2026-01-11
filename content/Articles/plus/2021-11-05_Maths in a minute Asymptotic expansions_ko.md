@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 점근 전개"
 date: 2021-11-05
+tags:
+  - 급수
+  - 전개
+  - 함수
+  - asymptotic
+  - resurgent
+  - phenomenon
+  - Stokes
+  - series
 ---
 
 > [!NOTE]

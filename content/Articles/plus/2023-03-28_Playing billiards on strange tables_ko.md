@@ -1,6 +1,15 @@
 ---
 title: 이상한 당구대에서 당구 치기
 date: 2023-03-28
+tags:
+  - 궤적
+  - 수학
+  - 테이블
+  - 당구
+  - billiards
+  - Bandtlow
+  - 전무
+  - Galperin
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: "끈 이론: 설득력 있는 수학"
 date: 2024-05-07
+tags:
+  - 수학
+  - 이론
+  - 문제
+  - 라마누잔
+  - Srinivasa
+  - simple
+  - Ramanujan
+  - hole
 ---
 
 > [!NOTE]

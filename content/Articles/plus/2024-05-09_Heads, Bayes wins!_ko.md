@@ -1,6 +1,15 @@
 ---
 title: "앞면이 나왔다, 베이즈가 승리한다!"
 date: 2024-05-09
+tags:
+  - 확률
+  - 대학교
+  - 동전
+  - 앞면
+  - Bayesian
+  - DL
+  - Maths
+  - prior
 ---
 
 > [!NOTE]

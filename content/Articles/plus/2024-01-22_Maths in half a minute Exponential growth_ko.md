@@ -1,6 +1,15 @@
 ---
 title: 30초 수학- 지수 성장
 date: 2024-01-22
+tags:
+  - 성장
+  - 지수
+  - 수학
+  - growth
+  - 영양분
+  - JUNIPER
+  - phase
+  - exponential
 ---
 
 > [!NOTE]

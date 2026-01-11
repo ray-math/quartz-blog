@@ -1,6 +1,15 @@
 ---
 title: 현실의 한계를 추론하기
 date: 2015-12-18
+tags:
+  - 정보
+  - 장치
+  - Fe
+  - 퍼트
+  - 악마
+  - Wolpert
+  - device
+  - 휠러
 ---
 
 > [!NOTE]

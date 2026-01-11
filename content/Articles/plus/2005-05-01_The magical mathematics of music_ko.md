@@ -1,6 +1,15 @@
 ---
 title: 음악의 마법 같은 수학
 date: 2005-05-01
+tags:
+  - 음악
+  - 가온
+  - 수학
+  - Rosenthal
+  - Struck
+  - 장조
+  - equal
+  - Jeffrey
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 중간 거리를 길들이는 수학적 기교들
 date: 2023-07-07
+tags:
+  - 그래프
+  - 램지
+  - 계산
+  - Gasarch
+  - Glenn
+  - Meka
+  - 등차수열
+  - Kelley
 ---
 
 > [!NOTE]

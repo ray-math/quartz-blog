@@ -1,6 +1,15 @@
 ---
 title: 여전히 우연과 씨름하며
 date: 2013-11-28
+tags:
+  - 해석
+  - 양자
+  - 확률
+  - 컨퍼런스
+  - worlds
+  - Saunders
+  - interpretation
+  - 붕괴
 ---
 
 > [!NOTE]

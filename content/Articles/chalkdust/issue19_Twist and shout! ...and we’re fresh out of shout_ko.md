@@ -1,6 +1,15 @@
 ---
 title: "비틀고 소리쳐라! ...그런데 소리는 이제 없다*"
 date: 2024-05-20
+tags:
+  - 범주
+  - 우리
+  - 브레이
+  - 세계선
+  - monoidal
+  - Baxter
+  - category
+  - 음료
 ---
 
 > [!NOTE]

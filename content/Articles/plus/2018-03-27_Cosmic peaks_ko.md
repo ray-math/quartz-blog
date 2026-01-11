@@ -1,6 +1,15 @@
 ---
 title: 우주의 봉우리들
 date: 2018-03-27
+tags:
+  - 우주
+  - CMB
+  - 물질
+  - 암흑
+  - Planck
+  - curved
+  - 파워
+  - 밀도
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 확률적 전파
 date: 2024-12-02
+tags:
+  - 확률
+  - Curran
+  - 감염
+  - Sebastian
+  - Hollingsworth
+  - 발병
+  - Deirdre
+  - 유행
 ---
 
 > [!NOTE]

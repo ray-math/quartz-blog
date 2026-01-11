@@ -1,6 +1,15 @@
 ---
 title: COVID-19의 세대 시간이 중요한 이유
 date: 2021-12-21
+tags:
+  - 시간
+  - 세대
+  - 감염
+  - Gog
+  - 증상
+  - 발병
+  - JUNIPER
+  - COVID
 ---
 
 > [!NOTE]

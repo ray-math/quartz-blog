@@ -1,6 +1,15 @@
 ---
 title: 우주의 가계도
 date: 2016-08-09
+tags:
+  - 이론
+  - 인과
+  - Rideout
+  - Cactus
+  - happens
+  - Stuff
+  - 시공간
+  - events
 ---
 
 > [!NOTE]

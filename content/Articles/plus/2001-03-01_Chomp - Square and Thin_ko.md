@@ -1,6 +1,15 @@
 ---
 title: 쵸mp 게임 - 정사각형과 긴 직사각형
 date: 2001-03-01
+tags:
+  - stealing
+  - 게임
+  - 쿠키
+  - wins
+  - argument
+  - 승리
+  - Strategy
+  - mp
 ---
 
 > [!NOTE]

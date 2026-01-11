@@ -1,3 +1,15 @@
+---
+tags:
+  - 집합
+  - Set
+  - 포화
+  - Saturated
+  - 통째
+  - 동치
+  - 역상
+  - 정수
+---
+
 ## 포화 집합(Saturated Set)
 
 전사함수 $p: X \to Y$에 대해, 부분집합 $C \subseteq X$가 포화(saturated)되었다는 것은:

@@ -1,6 +1,15 @@
 ---
 title: 빅데이터의 수학적 미스터리
 date: 2015-12-03
+tags:
+  - 수학
+  - 함수
+  - 데이터
+  - 잉그리드
+  - Daubechies
+  - Duke
+  - 신경망
+  - neural
 ---
 
 > [!NOTE]

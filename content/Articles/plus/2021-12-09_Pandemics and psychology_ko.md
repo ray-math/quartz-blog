@@ -1,6 +1,15 @@
 ---
 title: 팬데믹과 심리학
 date: 2021-12-09
+tags:
+  - Pandemic
+  - 모델
+  - 사람
+  - breaker
+  - QALY
+  - 봉쇄
+  - Processing
+  - Epidemic
 ---
 
 > [!NOTE]

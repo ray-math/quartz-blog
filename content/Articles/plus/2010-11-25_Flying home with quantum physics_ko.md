@@ -1,6 +1,15 @@
 ---
 title: 양자물리학과 함께 집으로 날아가기
 date: 2010-11-25
+tags:
+  - 양자
+  - Benjamin
+  - Review
+  - Gauger
+  - 나침반
+  - Letters
+  - 라디칼
+  - 스핀
 ---
 
 > [!NOTE]

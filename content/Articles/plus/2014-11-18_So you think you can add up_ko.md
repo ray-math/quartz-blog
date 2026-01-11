@@ -1,6 +1,15 @@
 ---
 title: 덧셈을 할 수 있다고 생각하시나요?
 date: 2014-11-18
+tags:
+  - frac
+  - times
+  - Patel
+  - Irving
+  - text
+  - Ebrahim
+  - displaymath
+  - begin
 ---
 
 > [!NOTE]

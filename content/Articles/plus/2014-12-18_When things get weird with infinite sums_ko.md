@@ -1,6 +1,15 @@
 ---
 title: 무한합에서 이상한 일이 벌어질 때
 date: 2014-12-18
+tags:
+  - 급수
+  - 수렴
+  - 무한
+  - Watson
+  - Whittaker
+  - 교대
+  - 공중그네
+  - harmonic
 ---
 
 > [!NOTE]

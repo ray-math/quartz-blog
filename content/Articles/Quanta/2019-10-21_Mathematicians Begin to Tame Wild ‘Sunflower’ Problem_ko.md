@@ -1,6 +1,15 @@
 ---
 title: 수학자들, 60년 묵은 해바라기 난제를 길들이기 시작하다
 date: 2019-10-21
+tags:
+  - 집합
+  - 해바라기
+  - 문제
+  - Boolean
+  - Lovett
+  - 서로소
+  - function
+  - Zhang
 ---
 
 > [!NOTE]

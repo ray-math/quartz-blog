@@ -1,6 +1,15 @@
 ---
 title: 분산 시스템과 모호한 역사
 date: 2017-08-15
+tags:
+  - 사건
+  - 분산
+  - 시스템
+  - Laureate
+  - Forum
+  - 전순서
+  - happened
+  - Leslie
 ---
 
 > [!NOTE]

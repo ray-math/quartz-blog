@@ -1,6 +1,15 @@
 ---
 title: (거의) 모든 것을 그리는 공식
 date: 2017-08-03
+tags:
+  - 공식
+  - Harmeet
+  - 감사
+  - 터퍼
+  - 픽셀
+  - self
+  - Singh
+  - Maria
 ---
 
 > [!NOTE]

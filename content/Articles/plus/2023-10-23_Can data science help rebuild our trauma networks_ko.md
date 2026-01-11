@@ -1,6 +1,15 @@
 ---
 title: 데이터 과학이 외상 네트워크 재구축을 도울 수 있을까?
 date: 2023-10-23
+tags:
+  - Mathematics
+  - Trauma
+  - Gateway
+  - Jiang
+  - CMIH
+  - Erhun
+  - 외상
+  - Judge
 ---
 
 > [!NOTE]

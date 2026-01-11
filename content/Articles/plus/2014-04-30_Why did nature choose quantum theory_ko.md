@@ -1,6 +1,15 @@
 ---
 title: 자연은 왜 양자론을 선택했는가?
 date: 2014-04-30
+tags:
+  - 양자
+  - 이론
+  - Barrett
+  - Pironio
+  - psi
+  - frac
+  - rangle
+  - partial
 ---
 
 > [!NOTE]

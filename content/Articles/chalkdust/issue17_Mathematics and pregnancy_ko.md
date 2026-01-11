@@ -1,6 +1,15 @@
 ---
 title: 수학과 임신
 date: 2023-05-22
+tags:
+  - 유체
+  - 태반
+  - 혈관
+  - 혈액
+  - mechanistic
+  - Poiseuille
+  - fluid
+  - Hagen
 ---
 
 > [!NOTE]

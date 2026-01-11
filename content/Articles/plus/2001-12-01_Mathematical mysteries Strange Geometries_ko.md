@@ -1,6 +1,15 @@
 ---
 title: 수학의 신비 - 기묘한 기하학들
 date: 2001-12-01
+tags:
+  - 기하학
+  - 유클리드
+  - 평면
+  - Baarn
+  - Used
+  - reser
+  - All
+  - works
 ---
 
 > [!NOTE]

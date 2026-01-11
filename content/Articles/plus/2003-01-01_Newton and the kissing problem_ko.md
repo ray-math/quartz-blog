@@ -1,6 +1,15 @@
 ---
 title: 뉴턴과 접촉 문제
 date: 2003-01-01
+tags:
+  - 뉴턴
+  - 배치
+  - 사이
+  - kissing
+  - packing
+  - Szpiro
+  - 아이작
+  - Royal
 ---
 
 > [!NOTE]

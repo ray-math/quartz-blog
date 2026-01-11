@@ -1,6 +1,15 @@
 ---
 title: 스핀의 세계
 date: 2002-11-01
+tags:
+  - 전자
+  - 양자
+  - 역학
+  - freei
+  - 스핀
+  - quantum
+  - 각운동량
+  - momentum
 ---
 
 > [!NOTE]

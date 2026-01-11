@@ -1,6 +1,15 @@
 ---
 title: 우주의 수프
 date: 2018-03-27
+tags:
+  - 우주
+  - CMB
+  - 물질
+  - 중입자
+  - Planck
+  - 암흑
+  - dark
+  - Thomson
 ---
 
 > [!NOTE]

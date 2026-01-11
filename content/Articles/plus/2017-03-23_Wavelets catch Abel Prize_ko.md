@@ -1,6 +1,15 @@
 ---
 title: 웨이블릿 이론, 아벨상을 수상하다
 date: 2017-03-23
+tags:
+  - 웨이블릿
+  - 신호
+  - 분석
+  - wavelet
+  - 주파수
+  - Mallat
+  - 메이어
+  - Fourier
 ---
 
 > [!NOTE]

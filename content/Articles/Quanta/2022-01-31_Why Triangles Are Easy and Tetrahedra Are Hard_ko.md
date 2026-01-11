@@ -1,6 +1,15 @@
 ---
 title: 삼각형은 쉽고 사면체는 어려운 이유
 date: 2022-01-31
+tags:
+  - 삼각
+  - 차원
+  - 사면
+  - 입체각
+  - 아크
+  - Jones
+  - angle
+  - rigidity
 ---
 
 > [!NOTE]

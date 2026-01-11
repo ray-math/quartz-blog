@@ -1,6 +1,15 @@
 ---
 title: "AI가 판사가 될 수 있을까: 형사 사법 시스템에서의 알고리즘 활용"
 date: 2024-01-24
+tags:
+  - Tiarks
+  - 알고리즘
+  - Mathematical
+  - 양형
+  - Forum
+  - Exchange
+  - 판사
+  - 형량
 ---
 
 > [!NOTE]

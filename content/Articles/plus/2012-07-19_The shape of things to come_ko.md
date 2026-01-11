@@ -1,6 +1,15 @@
 ---
 title: 형태를 통해 본 미래의 수학
 date: 2012-07-19
+tags:
+  - 수학
+  - 이론
+  - 프로그램
+  - Stable
+  - Contexts
+  - 카토
+  - Homotopy
+  - New
 ---
 
 > [!NOTE]

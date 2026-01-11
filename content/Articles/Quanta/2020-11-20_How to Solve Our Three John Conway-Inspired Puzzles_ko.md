@@ -1,6 +1,15 @@
 ---
 title: 존 콘웨이가 영감을 준 세 가지 퍼즐의 해법
 date: 2020-11-20
+tags:
+  - 타일
+  - 삼각
+  - 게임
+  - Ilic
+  - 콘웨이
+  - Lazar
+  - Jona
+  - abcdefgh
 ---
 
 > [!NOTE]

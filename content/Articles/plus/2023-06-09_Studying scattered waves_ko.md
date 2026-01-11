@@ -1,6 +1,15 @@
 ---
 title: 산란파 연구하기
 date: 2023-06-09
+tags:
+  - 수학
+  - 산란
+  - 파동
+  - Pinfield
+  - Valerie
+  - 음파
+  - wave
+  - Luke
 ---
 
 > [!NOTE]

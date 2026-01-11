@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 범주론
 date: 2021-10-21
+tags:
+  - 범주
+  - 사상
+  - 대상
+  - Heroes
+  - Songa
+  - Atieno
+  - Maurine
+  - 학회
 ---
 
 > [!NOTE]

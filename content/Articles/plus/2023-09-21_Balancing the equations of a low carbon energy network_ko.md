@@ -1,6 +1,15 @@
 ---
 title: 저탄소 에너지 네트워크의 방정식 균형 맞추기
 date: 2023-09-21
+tags:
+  - 수학
+  - 전력
+  - 최적
+  - Dent
+  - 수요
+  - Newton
+  - Sciences
+  - energy
 ---
 
 > [!NOTE]

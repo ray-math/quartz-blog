@@ -1,6 +1,15 @@
 ---
 title: 단순한 숫자들 사이의 숨겨진 연결을 드러내는 신비한 격자
 date: 2019-02-06
+tags:
+  - 숫자
+  - 격자
+  - 덧셈
+  - Urbana
+  - Shakan
+  - Champaign
+  - der
+  - Elekes
 ---
 
 > [!NOTE]

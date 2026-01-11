@@ -1,6 +1,15 @@
 ---
 title: 당신은 자신의 가치를 얼마라고 생각하는가?
 date: 2008-03-01
+tags:
+  - 평가
+  - 자신
+  - 공정
+  - Public
+  - 보너스
+  - Fair
+  - Choice
+  - strategy
 ---
 
 > [!NOTE]

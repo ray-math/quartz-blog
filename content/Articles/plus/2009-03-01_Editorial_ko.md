@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2009-03-01
+tags:
+  - 수학
+  - Mathematics
+  - Royal
+  - Millennium
+  - risk
+  - Project
+  - 발행
+  - reduction
 ---
 
 > [!NOTE]

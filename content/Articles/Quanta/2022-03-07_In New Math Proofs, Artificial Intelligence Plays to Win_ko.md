@@ -1,6 +1,15 @@
 ---
 title: 새로운 수학 증명에서 인공지능이 승리를 위해 경기한다
 date: 2022-03-07
+tags:
+  - 문제
+  - 행렬
+  - 수학
+  - Wagner
+  - Cao
+  - Hogben
+  - Brualdi
+  - 학습
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 잠깐의 수학- 촘프 게임
 date: 2018-05-30
+tags:
+  - 촘프
+  - 전략
+  - 쿠키
+  - 필승
+  - proof
+  - 플레이
+  - strategy
+  - Chomp
 ---
 
 > [!NOTE]

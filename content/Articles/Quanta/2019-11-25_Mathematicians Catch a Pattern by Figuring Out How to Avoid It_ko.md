@@ -1,6 +1,15 @@
 ---
 title: 수학자들이 패턴을 피하는 방법을 알아내면서 패턴을 포착하다
 date: 2019-11-25
+tags:
+  - 집합
+  - 등차
+  - 숫자
+  - Peluse
+  - Gowers
+  - 노름
+  - 수열
+  - progression
 ---
 
 > [!NOTE]

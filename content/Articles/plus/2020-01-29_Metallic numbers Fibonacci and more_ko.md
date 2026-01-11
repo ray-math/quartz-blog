@@ -1,6 +1,15 @@
 ---
 title: "금속 수: 피보나치 수열과 그 너머"
 date: 2020-01-29
+tags:
+  - 수열
+  - 나선
+  - 황금
+  - cyclotomic
+  - Wolird
+  - 은비
+  - 금속
+  - self
 ---
 
 > [!NOTE]

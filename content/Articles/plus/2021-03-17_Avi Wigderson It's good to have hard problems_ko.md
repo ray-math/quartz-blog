@@ -1,6 +1,15 @@
 ---
 title: 아비 위그더슨- "어려운 문제가 있다는 것은 좋은 일입니다"
 date: 2021-03-17
+tags:
+  - 문제
+  - 작위
+  - 시간
+  - 위그더
+  - time
+  - Tri
+  - Blum
+  - nondeterministic
 ---
 
 > [!NOTE]

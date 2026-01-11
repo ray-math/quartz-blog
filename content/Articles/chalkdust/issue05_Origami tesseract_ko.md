@@ -1,6 +1,15 @@
 ---
 title: 종이접기 테서랙트
 date: 2017-03-06
+tags:
+  - 투영
+  - projection
+  - 차원
+  - Matt
+  - 테서랙트
+  - oblique
+  - 꼭짓점
+  - figure
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 표지 이야기 - 셀룰러 오토마타
 date: 2021-05-01
+tags:
+  - 규칙
+  - 오토마타
+  - 상태
+  - 셀룰러
+  - cellular
+  - boundary
+  - 표지
+  - condition
 ---
 
 > [!NOTE]

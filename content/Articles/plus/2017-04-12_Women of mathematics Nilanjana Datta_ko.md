@@ -1,6 +1,15 @@
 ---
 title: 수학을 하는 여성들- 닐란자나 다타
 date: 2017-04-12
+tags:
+  - 수학
+  - 양자
+  - 정보
+  - information
+  - 다타
+  - 여성
+  - quantum
+  - form
 ---
 
 > [!NOTE]

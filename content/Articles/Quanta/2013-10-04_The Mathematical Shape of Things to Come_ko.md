@@ -1,6 +1,15 @@
 ---
 title: 다가올 것들의 수학적 형태
 date: 2013-10-04
+tags:
+  - 데이터
+  - 수학자
+  - 차원
+  - Carlsson
+  - Ayasdi
+  - Old
+  - Excel
+  - Stanford
 ---
 
 > [!NOTE]

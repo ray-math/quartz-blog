@@ -1,6 +1,15 @@
 ---
 title: 망델브로 집합 계산하기
 date: 1999-09-01
+tags:
+  - 사용
+  - 집합
+  - 프로
+  - 망델브
+  - 발산
+  - doubles
+  - singles
+  - Turbo
 ---
 
 > [!NOTE]

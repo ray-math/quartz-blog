@@ -1,6 +1,15 @@
 ---
 title: What is cooler than magic?
 date: 2025-01-01
+tags:
+  - 수학
+  - Ray
+  - Math
+  - 영재
+  - 기하
+  - 공통
+  - 자료
+  - 정리
 ---
 ## Math!
 

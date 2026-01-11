@@ -1,6 +1,15 @@
 ---
 title: 위상수학과 카오스를 통합한 데니스 설리반, 아벨상 수상
 date: 2022-03-23
+tags:
+  - 수학
+  - 이론
+  - 다양
+  - 설리
+  - 동역학계
+  - systems
+  - string
+  - dynamical
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 자기 진자
 date: 2018-10-18
+tags:
+  - 차원
+  - 자석
+  - 카오스
+  - Wada
+  - dimension
+  - 프랙탈
+  - point
+  - 진자
 ---
 
 > [!NOTE]

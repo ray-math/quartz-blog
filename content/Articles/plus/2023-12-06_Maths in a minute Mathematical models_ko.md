@@ -1,6 +1,15 @@
 ---
 title: "수학의 순간: 수학적 모델"
 date: 2023-12-06
+tags:
+  - 모델
+  - 수학
+  - model
+  - garbage
+  - uncertainty
+  - 저축
+  - UQ
+  - Box
 ---
 
 > [!NOTE]

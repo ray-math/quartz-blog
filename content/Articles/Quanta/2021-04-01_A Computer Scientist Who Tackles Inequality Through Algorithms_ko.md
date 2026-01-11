@@ -1,6 +1,15 @@
 ---
 title: 알고리즘으로 불평등에 맞서는 컴퓨터 과학자
 date: 2021-04-01
+tags:
+  - 문제
+  - 수학
+  - 설계
+  - 아베베
+  - 소득
+  - Mechanisms
+  - Design
+  - Access
 ---
 
 > [!NOTE]

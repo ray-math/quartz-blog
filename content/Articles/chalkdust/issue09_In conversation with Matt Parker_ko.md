@@ -1,6 +1,15 @@
 ---
 title: 매트 파커와의 대화
 date: 2019-03-14
+tags:
+  - 수학
+  - 매트
+  - stable
+  - 파커
+  - USS
+  - 괴짜
+  - Null
+  - confluence
 ---
 
 > [!NOTE]

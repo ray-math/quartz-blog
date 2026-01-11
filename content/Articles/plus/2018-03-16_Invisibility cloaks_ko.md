@@ -1,6 +1,15 @@
 ---
 title: 투명 망토의 수학
 date: 2018-03-16
+tags:
+  - meta
+  - Budd
+  - optics
+  - cloaking
+  - Gresham
+  - 광학
+  - 멘트
+  - 망토
 ---
 
 > [!NOTE]

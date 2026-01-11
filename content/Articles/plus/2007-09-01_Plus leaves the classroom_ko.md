@@ -1,6 +1,15 @@
 ---
 title: Plus가 교실을 넘어서다
 date: 2007-09-01
+tags:
+  - 수학
+  - Plus
+  - 편집자
+  - Trevelyan
+  - Hunt
+  - Joyce
+  - Helen
+  - 포스터
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 퍼즐 풀이의 예술에서 선(禪)을 찾다
 date: 2021-03-26
+tags:
+  - 개미
+  - 전략
+  - Abiuso
+  - Kereki
+  - Paolo
+  - 좌석
+  - Ashley
+  - frac
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 플로킹 - Processing으로 구현하기
 date: 1999-12-01
+tags:
+  - 구현
+  - 행동
+  - Processing
+  - 플로
+  - Flocking
+  - 개체
+  - 그래픽스
+  - 코드
 ---
 
 > [!NOTE]

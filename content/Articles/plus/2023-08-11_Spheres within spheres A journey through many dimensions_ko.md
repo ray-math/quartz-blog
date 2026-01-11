@@ -1,6 +1,15 @@
 ---
 title: "구 안의 구: 여러 차원을 관통하는 여행"
 date: 2023-08-11
+tags:
+  - group
+  - Mathematical
+  - homotopy
+  - Hahn
+  - Tomer
+  - 기본군
+  - 호모
+  - 구멍
 ---
 
 > [!NOTE]

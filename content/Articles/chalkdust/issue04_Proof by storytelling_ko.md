@@ -1,6 +1,15 @@
 ---
 title: 이야기를 통한 증명
 date: 2016-10-03
+tags:
+  - 증명
+  - 선택
+  - 합성곱
+  - Dominic
+  - Rowland
+  - janeh
+  - double
+  - story
 ---
 
 > [!NOTE]

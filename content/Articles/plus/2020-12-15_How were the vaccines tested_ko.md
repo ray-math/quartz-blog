@@ -1,6 +1,15 @@
 ---
 title: 백신은 어떻게 검증되었을까?
 date: 2020-12-15
+tags:
+  - 백신
+  - 시험
+  - 효과
+  - Oxford
+  - Warwick
+  - BioNTech
+  - Pfizer
+  - Keeling
 ---
 
 > [!NOTE]

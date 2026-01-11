@@ -1,6 +1,15 @@
 ---
 title: 마르코프 연쇐로 즐기는 수학
 date: 2020-10-30
+tags:
+  - 연쇄
+  - 마르코프
+  - Markov
+  - Chapman
+  - chains
+  - love
+  - 행렬
+  - 행복
 ---
 
 > [!NOTE]

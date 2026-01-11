@@ -1,6 +1,15 @@
 ---
 title: 쌍둥이 소수, 손에 닿을 듯 가까이
 date: 2013-06-25
+tags:
+  - 소수
+  - prime
+  - 수학
+  - 쌍둥이
+  - twin
+  - you
+  - conject
+  - 뉴햄프셔
 ---
 
 > [!NOTE]

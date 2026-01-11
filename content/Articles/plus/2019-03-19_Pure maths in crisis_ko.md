@@ -1,6 +1,15 @@
 ---
 title: 순수수학의 위기?
 date: 2019-03-19
+tags:
+  - 증명
+  - 수학
+  - 정리
+  - Buzz
+  - Imperial
+  - LEAN
+  - College
+  - Arthur
 ---
 
 > [!NOTE]

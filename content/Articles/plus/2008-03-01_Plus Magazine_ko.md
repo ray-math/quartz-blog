@@ -1,6 +1,15 @@
 ---
 title: Plus 매거진
 date: 2008-03-01
+tags:
+  - 평균
+  - 출력
+  - 풍력
+  - 풍속
+  - Outer
+  - 속력
+  - space
+  - 터빈
 ---
 
 > [!NOTE]

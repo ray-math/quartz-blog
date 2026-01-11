@@ -1,6 +1,15 @@
 ---
 title: "1분 수학: 그래프와 차수 합 공식"
 date: 2018-04-05
+tags:
+  - 꼭짓점
+  - double
+  - 그래프
+  - pair
+  - incident
+  - counting
+  - 차수
+  - 악수
 ---
 
 > [!NOTE]

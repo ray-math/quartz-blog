@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 백분율 오차
 date: 2023-01-10
+tags:
+  - 오차
+  - 추정
+  - error
+  - 백분율
+  - 체중계
+  - kg
+  - percentage
+  - 무게
 ---
 
 > [!NOTE]

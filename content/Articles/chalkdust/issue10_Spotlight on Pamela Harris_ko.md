@@ -1,6 +1,15 @@
 ---
 title: 파멜라 해리스 조명하기
 date: 2019-10-23
+tags:
+  - 수학
+  - Mathematical
+  - 연구
+  - Hispanics
+  - 해리스
+  - Sacnas
+  - Lie
+  - lat
 ---
 
 > [!NOTE]

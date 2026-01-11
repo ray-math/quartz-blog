@@ -1,6 +1,15 @@
 ---
 title: 수학적 스냅샷- 테오 데브니
 date: 2023-01-30
+tags:
+  - 수학
+  - deep
+  - 학습
+  - 심층
+  - equations
+  - Bayesian
+  - inference
+  - differential
 ---
 
 > [!NOTE]

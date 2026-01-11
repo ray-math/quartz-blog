@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2003-05-01
+tags:
+  - 수학
+  - 문제
+  - 수리력
+  - Vyncke
+  - Ship
+  - Fools
+  - 장대
+  - Bladen
 ---
 
 > [!NOTE]

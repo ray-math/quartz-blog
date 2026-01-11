@@ -1,6 +1,15 @@
 ---
 title: 거대한 수학 증명, 삼중 비눗방울 문제와 그 이상을 해결하다
 date: 2022-10-06
+tags:
+  - 방울
+  - 차원
+  - 군집
+  - Milman
+  - mean
+  - Emanuel
+  - mirror
+  - 모건
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 당신이 여러 명 존재할 수도 있습니다
 date: 2016-09-29
+tags:
+  - 양자
+  - 역학
+  - 해석
+  - 렌너
+  - Leifer
+  - Copenhagen
+  - Chapman
+  - explains
 ---
 
 > [!NOTE]

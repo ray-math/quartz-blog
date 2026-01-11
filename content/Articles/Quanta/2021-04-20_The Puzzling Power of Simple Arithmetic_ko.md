@@ -1,6 +1,15 @@
 ---
 title: 단순한 산술이 지닌 놀라운 힘
 date: 2021-04-20
+tags:
+  - 숫자
+  - 발견
+  - 상수
+  - guided
+  - discovery
+  - Feigenbaum
+  - 퍼즐
+  - chaos
 ---
 
 > [!NOTE]

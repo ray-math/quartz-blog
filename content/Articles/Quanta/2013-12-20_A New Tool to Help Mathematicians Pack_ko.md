@@ -1,6 +1,15 @@
 ---
 title: 수학자들의 패킹 문제를 돕는 새로운 도구
 date: 2013-12-20
+tags:
+  - 차원
+  - 문제
+  - 격자
+  - 패킹
+  - Sharon
+  - semidefinite
+  - Glotzer
+  - 코드
 ---
 
 > [!NOTE]

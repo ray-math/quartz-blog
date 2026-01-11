@@ -1,6 +1,15 @@
 ---
 title: 8차원과 24차원에서 풀린 구 채우기 문제
 date: 2016-03-30
+tags:
+  - 차원
+  - 함수
+  - 수학
+  - Unreasonable
+  - Effectiveness
+  - 모듈러
+  - forms
+  - 격자
 ---
 
 > [!NOTE]

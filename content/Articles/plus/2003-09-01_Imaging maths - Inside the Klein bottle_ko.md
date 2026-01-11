@@ -1,6 +1,15 @@
 ---
 title: 클라인 병 내부로 들어가기
 date: 2003-09-01
+tags:
+  - 곡면
+  - 수학
+  - 차원
+  - Eds
+  - minimal
+  - 가향
+  - 침지
+  - surface
 ---
 
 > [!NOTE]

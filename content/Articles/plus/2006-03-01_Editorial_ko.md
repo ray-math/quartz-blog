@@ -1,6 +1,15 @@
 ---
 title: 편집자의 글
 date: 2006-03-01
+tags:
+  - 수학
+  - 이론
+  - 과학
+  - motivation
+  - gravity
+  - quantum
+  - 중력
+  - 산업
 ---
 
 > [!NOTE]

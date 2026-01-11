@@ -1,6 +1,15 @@
 ---
 title: LHC에서의 입자 사냥
 date: 2009-06-01
+tags:
+  - 입자
+  - 전자
+  - 힉스
+  - 보손
+  - LHC
+  - 젤리
+  - CERN
+  - Hadron
 ---
 
 > [!NOTE]

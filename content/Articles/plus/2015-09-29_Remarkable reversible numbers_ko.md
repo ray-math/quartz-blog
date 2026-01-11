@@ -1,6 +1,15 @@
 ---
 title: 놀라운 가역 숫자들
 date: 2015-09-29
+tags:
+  - 숫자
+  - 자릿
+  - 자리
+  - reversible
+  - 회문
+  - Greaney
+  - 가역
+  - notation
 ---
 
 > [!NOTE]

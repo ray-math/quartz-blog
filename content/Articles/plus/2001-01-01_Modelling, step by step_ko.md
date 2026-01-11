@@ -1,6 +1,15 @@
 ---
 title: 단계별로 살펴보는 수학적 모델링
 date: 2001-01-01
+tags:
+  - 에너지
+  - 속도
+  - 모델
+  - McNeill
+  - contraction
+  - as
+  - 걷기
+  - 신장
 ---
 
 > [!NOTE]

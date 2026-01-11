@@ -1,6 +1,15 @@
 ---
 title: "전염성 수학, 1부: 나만의 모델 만들기"
 date: 2024-02-12
+tags:
+  - 감염
+  - 모델
+  - growth
+  - reproduction
+  - ratio
+  - 질병
+  - Julia
+  - 세대
 ---
 
 > [!NOTE]

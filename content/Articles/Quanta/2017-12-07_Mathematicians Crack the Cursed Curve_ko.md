@@ -1,6 +1,15 @@
 ---
 title: 저주받은 곡선을 풀어낸 수학자들
 date: 2017-12-07
+tags:
+  - 수학
+  - 방정식
+  - 곡선
+  - Balakrishnan
+  - Kim
+  - Selmer
+  - Coleman
+  - Jennifer
 ---
 
 > [!NOTE]

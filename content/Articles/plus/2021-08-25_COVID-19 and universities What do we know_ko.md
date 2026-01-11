@@ -1,6 +1,15 @@
 ---
 title: "COVID-19와 대학: 우리는 무엇을 알고 있는가?"
 date: 2021-08-25
+tags:
+  - 감염
+  - 대학
+  - 모델
+  - 발병
+  - Tildesley
+  - attack
+  - 엑서터
+  - reproduction
 ---
 
 > [!NOTE]

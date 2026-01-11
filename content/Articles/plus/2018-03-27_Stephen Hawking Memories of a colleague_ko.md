@@ -1,6 +1,15 @@
 ---
 title: "스티븐 호킹: 동료들이 기억하는 그"
 date: 2018-03-27
+tags:
+  - 호킹
+  - 교수
+  - neurone
+  - motor
+  - disease
+  - 학과
+  - Avery
+  - DAMTP
 ---
 
 > [!NOTE]

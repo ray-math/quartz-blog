@@ -1,6 +1,15 @@
 ---
 title: 세 손가락을 가진 수학자를 위한 수학
 date: 2017-10-18
+tags:
+  - 삼진법
+  - 균형
+  - 사용
+  - Fowler
+  - ternary
+  - balanced
+  - 나눗셈
+  - Thomas
 ---
 
 > [!NOTE]

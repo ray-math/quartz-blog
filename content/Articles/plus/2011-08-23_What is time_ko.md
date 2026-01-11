@@ -1,6 +1,15 @@
 ---
 title: 시간이란 무엇인가?
 date: 2011-08-23
+tags:
+  - 시간
+  - How
+  - 우주
+  - html
+  - 데이비스
+  - 창발
+  - time
+  - Paul
 ---
 
 > [!NOTE]

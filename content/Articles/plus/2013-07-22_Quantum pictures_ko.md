@@ -1,6 +1,15 @@
 ---
 title: 양자 그림들
 date: 2013-07-22
+tags:
+  - 파인
+  - 입자
+  - 다이슨
+  - 슈윙거
+  - 도모나가
+  - Kaiser
+  - theories
+  - apart
 ---
 
 > [!NOTE]

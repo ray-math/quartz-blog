@@ -1,6 +1,15 @@
 ---
 title: 폭발하는 별들이 노벨상을 거머쥐다
 date: 2011-10-06
+tags:
+  - 우주
+  - 팽창
+  - 상수
+  - Saul
+  - cosmological
+  - Perlmutter
+  - 암흑
+  - Ia
 ---
 
 > [!NOTE]

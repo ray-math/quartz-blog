@@ -1,6 +1,15 @@
 ---
 title: 블랙홀을 겉넓이로 판단하지 마라
 date: 2016-04-19
+tags:
+  - 블랙홀
+  - 공간
+  - 부피
+  - 로벨리
+  - Rovelli
+  - 실트
+  - Christodoulou
+  - hole
 ---
 
 > [!NOTE]

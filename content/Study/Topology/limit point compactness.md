@@ -1,7 +1,15 @@
 ---
 title: 
 date: 2025-05-21
-tags: 
+tags:
+  - compact
+  - point
+  - limit
+  - has
+  - if
+  - ordered
+  - be
+  - is
 ---
 ## limit point compact
 A space $X$ is said to be **limit point compact** if every inﬁnite subset of $X$ has a limit point.

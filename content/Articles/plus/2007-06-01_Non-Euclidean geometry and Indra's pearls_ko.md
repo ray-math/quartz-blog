@@ -1,6 +1,15 @@
 ---
 title: 비유클리드 기하학과 인드라의 진주
 date: 2007-06-01
+tags:
+  - 변환
+  - 수학
+  - 타일
+  - 개스킷
+  - Mumford
+  - 라이트
+  - Caroline
+  - David
 ---
 
 > [!NOTE]

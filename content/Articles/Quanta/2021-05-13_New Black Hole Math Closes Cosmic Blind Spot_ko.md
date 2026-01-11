@@ -1,6 +1,15 @@
 ---
 title: 블랙홀 충돌 수학의 새로운 돌파구, 우주의 사각지대를 밝히다
 date: 2021-05-13
+tags:
+  - 블랙홀
+  - 질량
+  - Field
+  - Khanna
+  - mass
+  - LIGO
+  - 중력파
+  - Interferometer
 ---
 
 > [!NOTE]

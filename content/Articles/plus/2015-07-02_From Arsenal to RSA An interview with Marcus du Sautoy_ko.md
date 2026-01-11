@@ -1,6 +1,15 @@
 ---
 title: "아스날에서 RSA까지: 마커스 뒤 소토이와의 인터뷰"
 date: 2015-07-02
+tags:
+  - 수학
+  - 소수
+  - du
+  - 축구
+  - Kronecker
+  - 뷰티풀
+  - Will
+  - Leopold
 ---
 
 > [!NOTE]

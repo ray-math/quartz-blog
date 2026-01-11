@@ -1,6 +1,15 @@
 ---
 title: "모형의 행동: 수학적 모델링의 본질"
 date: 2003-05-01
+tags:
+  - 시스템
+  - 방정식
+  - 몽구스
+  - stage
+  - initial
+  - conditions
+  - 정규화
+  - value
 ---
 
 > [!NOTE]

@@ -1,7 +1,15 @@
 ---
 title: 
 date: 2025-04-23
-tags: 
+tags:
+  - matrix
+  - 행렬
+  - 기저
+  - cyclic
+  - basis
+  - 하부
+  - 동반
+  - 순환
 ---
 
 ## T-순환기저(cyclic basis)

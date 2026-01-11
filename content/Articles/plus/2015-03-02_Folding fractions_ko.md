@@ -1,6 +1,15 @@
 ---
 title: 분수로 접기
 date: 2015-03-02
+tags:
+  - 수학
+  - 정리
+  - 종이
+  - Okumura
+  - 등분
+  - Hiroshi
+  - Wasan
+  - Wild
 ---
 
 > [!NOTE]

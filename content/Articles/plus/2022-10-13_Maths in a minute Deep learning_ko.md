@@ -1,6 +1,15 @@
 ---
 title: 1분 수학- 딥러닝
 date: 2022-10-13
+tags:
+  - 학습
+  - function
+  - 함수
+  - neural
+  - 신경망
+  - learning
+  - 훈련
+  - 심층
 ---
 
 > [!NOTE]

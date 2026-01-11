@@ -1,6 +1,15 @@
 ---
 title: "수학적 스냅샷: 토신 바바솔라"
 date: 2022-11-08
+tags:
+  - Mathematical
+  - 수학
+  - Laureate
+  - Heroes
+  - African
+  - 카카오
+  - Forum
+  - 포럼
 ---
 
 > [!NOTE]

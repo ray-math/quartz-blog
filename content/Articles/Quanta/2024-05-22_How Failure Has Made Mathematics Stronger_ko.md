@@ -1,6 +1,15 @@
 ---
 title: 실패가 수학을 더 강하게 만드는 법
 date: 2024-05-22
+tags:
+  - 수학
+  - group
+  - 사람
+  - 기본군
+  - commutator
+  - 칼레
+  - 가워스
+  - Timothy
 ---
 
 > [!NOTE]

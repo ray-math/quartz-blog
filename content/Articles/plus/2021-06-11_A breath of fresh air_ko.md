@@ -1,6 +1,15 @@
 ---
 title: 신선한 공기를 위한 숨
 date: 2021-06-11
+tags:
+  - 공기
+  - 전파
+  - 모델
+  - Morawska
+  - 감염
+  - Noakes
+  - 환기
+  - plume
 ---
 
 > [!NOTE]

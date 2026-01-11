@@ -1,6 +1,15 @@
 ---
 title: 우연히 수학적인 노래들
 date: 2022-05-25
+tags:
+  - Who
+  - boys
+  - girls
+  - like
+  - who
+  - downhill
+  - be
+  - re
 ---
 
 > [!NOTE]

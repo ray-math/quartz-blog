@@ -1,6 +1,15 @@
 ---
 title: 1을 주목하라
 date: 1999-09-01
+tags:
+  - 법칙
+  - 분포
+  - 숫자
+  - randint
+  - Mernagh
+  - Walthoe
+  - Cork
+  - 포드
 ---
 
 > [!NOTE]

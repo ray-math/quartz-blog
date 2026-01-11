@@ -1,6 +1,15 @@
 ---
 title: "페르마에 관한 변주곡: 네 막의 고뇌"
 date: 2017-03-06
+tags:
+  - Mathematical
+  - 정리
+  - American
+  - Baker
+  - Transcendental
+  - last
+  - 폰트
+  - 복소수
 ---
 
 > [!NOTE]

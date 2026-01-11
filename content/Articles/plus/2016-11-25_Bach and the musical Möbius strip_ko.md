@@ -1,6 +1,15 @@
 ---
 title: 바흐와 음악적 뫼비우스 띠
 date: 2016-11-25
+tags:
+  - 카논
+  - Tony
+  - 성부
+  - Phill
+  - Bach
+  - 악보
+  - Eric
+  - 바흐
 ---
 
 > [!NOTE]

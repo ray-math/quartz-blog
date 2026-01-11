@@ -1,6 +1,15 @@
 ---
 title: 단순한 양자 게임이 밝혀낸 우주의 궁극적 복잡성
 date: 2019-03-05
+tags:
+  - 게임
+  - 양자
+  - Bob
+  - Slofstra
+  - Alice
+  - 플레이어
+  - Bell
+  - 양말
 ---
 
 > [!NOTE]

@@ -1,6 +1,15 @@
 ---
 title: 우리는 무엇을 볼 수 있는가?
 date: 2018-07-11
+tags:
+  - 우리
+  - 현미경
+  - 주파수
+  - 공감각
+  - 파장
+  - Harbis
+  - Scanning
+  - Allanach
 ---
 
 > [!NOTE]

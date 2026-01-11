@@ -1,6 +1,15 @@
 ---
 title: Menace- 기계 교육 가능 나프츠 앤 크로스 엔진
 date: 2016-03-13
+tags:
+  - 학습
+  - Menace
+  - 게임
+  - 구슬
+  - 플레이
+  - learning
+  - 성냥갑
+  - 승부
 ---
 
 > [!NOTE]

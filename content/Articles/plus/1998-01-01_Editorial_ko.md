@@ -1,6 +1,15 @@
 ---
 title: 사설
 date: 1998-01-01
+tags:
+  - Educational
+  - 교육
+  - British
+  - BETT
+  - 재난
+  - 그리드
+  - 발사
+  - Technology
 ---
 
 > [!NOTE]

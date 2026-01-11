@@ -1,6 +1,15 @@
 ---
 title: 모닝턴 크레센트에서 승리하는 방법
 date: 2015-11-10
+tags:
+  - 게임
+  - 이것
+  - 플레이
+  - 모닝
+  - Dollis
+  - humourous
+  - Budd
+  - Classic
 ---
 
 > [!NOTE]

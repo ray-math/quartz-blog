@@ -1,6 +1,15 @@
 ---
 title: 수학자들, 30년 된 앙드레-오르트 추측 증명
 date: 2022-02-03
+tags:
+  - 다양체
+  - 높이
+  - Pila
+  - 시무
+  - Tsimerman
+  - Shankar
+  - Groechenig
+  - Esnault
 ---
 
 > [!NOTE]

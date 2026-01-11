@@ -2,7 +2,14 @@
 title: 선형 방정식의 최소해(Minimal Solution)
 date: 2025-03-06
 tags:
-  - Algebra
+  - Linear
+  - Systems
+  - 선형
+  - Solutions
+  - Minimal
+  - Equations
+  - 노름
+  - 최소
 ---
 ## 선형 방정식의 최소해(Minimal Solutions to Systems of Linear Equations)
 일반적으로 선형 방정식 $Ax = b$ 가 일관된 경우에도 해가 유일하지 않을 수 있다. 이러한 경우, 최소 노름(norm)의 해를 찾는 것이 유용할 수 있다. 방정식 $Ax = b$ 의 해 $s$ 가 모든 해 $u$ 에 대해 $\|s\| \leq \|u\|$ 를 만족할 때, $s$ 를 최소해(minimal solution) 라고 한다. 

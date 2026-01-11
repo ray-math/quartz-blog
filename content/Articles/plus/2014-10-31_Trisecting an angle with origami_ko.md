@@ -1,6 +1,15 @@
 ---
 title: 종이접기로 각의 삼등분하기
 date: 2014-10-31
+tags:
+  - 종이
+  - angle
+  - 공리
+  - Huzita
+  - 아래쪽
+  - 유클리드
+  - Justin
+  - 눈금
 ---
 
 > [!NOTE]

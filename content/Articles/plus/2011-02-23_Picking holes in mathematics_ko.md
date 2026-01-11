@@ -1,6 +1,15 @@
 ---
 title: 수학에서 구멍 찾기
 date: 2011-02-23
+tags:
+  - 수학
+  - 공리
+  - 문제
+  - justification
+  - missing
+  - 귀납법
+  - 나무
+  - Searching
 ---
 
 > [!NOTE]
