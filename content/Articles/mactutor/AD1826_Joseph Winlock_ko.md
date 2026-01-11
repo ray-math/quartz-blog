@@ -67,7 +67,7 @@ Shelby College에서 가르치는 동안 Winlock는 망원경의 구조와 사�
 
 Astraea와 Egina는 소행성임을 주목하자.
 
-해당 연도의 연간 급여 목록에는 Winlock가 세 명의 계산원 중 한 명으로 $1,200 (2023년 가치로 약 $47,000)의 급여를 받았으며, [Benjamin Peirce](https://mathshistory.st-andrews.ac.uk/Peirce_Benjamin/)만이 더 높은 급여인 $1,500 (2023년 가치로 약 $59,000)을 받았다. 이제 저명한 미국 수학자로 인정받은 Winlock는 1853년 9월 28일 수학 부문에서 [미국 예술 과학 아카데미](https://mathshistory.st-andrews.ac.uk/Societies/American/)의 펠로로 선출되었다.
+해당 연도의 연간 급여 목록에는 Winlock가 세 명의 계산원 중 한 명으로 \$1,200 (2023년 가치로 약 \$47,000)의 급여를 받았으며, [Benjamin Peirce](https://mathshistory.st-andrews.ac.uk/Peirce_Benjamin/)만이 더 높은 급여인 \$1,500 (2023년 가치로 약 \$59,000)을 받았다. 이제 저명한 미국 수학자로 인정받은 Winlock는 1853년 9월 28일 수학 부문에서 [미국 예술 과학 아카데미](https://mathshistory.st-andrews.ac.uk/Societies/American/)의 펠로로 선출되었다.
 
 1856년 12월 9일, Winlock는 켄터키주 Shelby County에서 Mary Isabella Lane (1832-1912)과 결혼했다. Isabella Lane은 1832년 5월 6일 미국 미주리주 Marion의 Palmyra에서 George Washington Lane Sr (1790-1841)와 Frances Tolson Adams (1792-1844)의 자녀로 태어났다. Joseph과 Isabella Winlock는 여섯 자녀를 두었다:
 
@@ -101,7 +101,7 @@ Winlock가 Shelby College에서 설치하고 운영을 도왔던 Merz 망원경�
 
 [10](https://mathshistory.st-andrews.ac.uk#reference-10)]:-
 
-> Winlock 씨는 오래지 않아 천문대의 후원자들에게 그의 능력과 건전한 판단력에 대한 큰 신뢰를 불러일으켰고, 이는 그들이 새로운 자오환을 구입하기 위해 $12,000 이상 [2023년 가치로 $222,000]을 기부하도록 했다. 1867년 가을, Winlock 씨는 유럽에 가서 4개월을 주요 천문대를 방문하고 기기의 최신 개선 사항, 특히 원에 대해 익히는 데 보냈다. 최고 수준의 자오 기기의 장점과 결함을 연구한 후, 그는 그 중 어느 것도 맹목적으로 복사하지 않았다; 대신 더 큰 안정성, 향상된 운동의 정밀도, 그리고 가장 완전한 관측 용이성을 확보하기 위한 귀중한 수정 사항을 제안했다.
+> Winlock 씨는 오래지 않아 천문대의 후원자들에게 그의 능력과 건전한 판단력에 대한 큰 신뢰를 불러일으켰고, 이는 그들이 새로운 자오환을 구입하기 위해 \$12,000 이상 [2023년 가치로 \$222,000]을 기부하도록 했다. 1867년 가을, Winlock 씨는 유럽에 가서 4개월을 주요 천문대를 방문하고 기기의 최신 개선 사항, 특히 원에 대해 익히는 데 보냈다. 최고 수준의 자오 기기의 장점과 결함을 연구한 후, 그는 그 중 어느 것도 맹목적으로 복사하지 않았다; 대신 더 큰 안정성, 향상된 운동의 정밀도, 그리고 가장 완전한 관측 용이성을 확보하기 위한 귀중한 수정 사항을 제안했다.
 
 1867년 [Benjamin Peirce](https://mathshistory.st-andrews.ac.uk/Peirce_Benjamin/)는 미국 해안 측량국 국장으로 임명되면서 미국 항해력 사무국 일을 그만두었다. 이 직책에서 그는 Winlock에게 1869년 8월 7일의 개기일식을 관측하기 위해 켄터키로 가는 일행을 이끌도록 요청했다. 갈 명백한 장소는 Winlock가 공부하고 가르쳤던 Shelbyville의 Shelby College였다. 다음 보고서가 1869년 8월 28일 *Harper's Weekly*에 실렸다 [
 

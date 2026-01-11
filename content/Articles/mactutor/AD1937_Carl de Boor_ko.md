@@ -87,7 +87,7 @@ de Boor는 여러 중요한 책의 저자이다. 예를 들어 (S D Conte와 함
 
 de Boor 가족에 대해 몇 가지 언급하겠다. Carl de Boor는 [[27](https://mathshistory.st-andrews.ac.uk#reference-27)]에 보고된 바와 같이 1981년 상당한 급여 인상을 받았다:-
 
-> 다음은 1981-82 학년도에 UW 매디슨 교수진 28명에게 주어진 최소 $5,200 이상의 최고 급여 인상 목록이다: ... Carl De Boor, 컴퓨터 과학 및 수학, $5,200.
+> 다음은 1981-82 학년도에 UW 매디슨 교수진 28명에게 주어진 최소 \$5,200 이상의 최고 급여 인상 목록이다: ... Carl De Boor, 컴퓨터 과학 및 수학, \$5,200.
 
 가족이 매디슨으로 이주한 후 Carl과 Matilda de Boor의 모든 자녀들은 매디슨의 West High School에 다녔다. West High School 연감을 참조하면 다음을 찾을 수 있다: 약 1960년에 태어난 Carl Thomas de Boor, 1976, 1977 및 1978 연감에 있으며, 1978년 학부 연구를 위한 4년 전국 우수 장학금, 1978년 John A Johnson 재단의 Gisholt 상; 약 1961년에 태어난 Thomas De Boor, 1975, 1976 및 1978 연감에; 약 1963년에 태어난 Elizabeth (Lisa) de Boor, 1978, 1979 및 1980 연감에; 약 1966년에 태어난 Peter de Boor, 1982, 1983 및 1984 연감에; 그리고 약 1967년에 태어난 Adam R de Boor, 1981, 1982, 1983 및 1984 연감에 있으며, 1984년 우수 장학금 경쟁의 최종 후보자. Carl과 Matilda de Boor는 1984년 9월 12일 이혼했다. 1991년 1월 2일 de Boor는 매디슨에서 Helen Lucille Bee와 결혼했다. 1939년 4월 워싱턴주 타코마에서 태어난 Helen Bee는 이전 결혼에서 George C Douglas와의 사이에 두 자녀가 있었다. 그녀는 심리학자이며 여러 판을 거쳐 출판된 인간 발달에 관한 책의 저자이다.
 

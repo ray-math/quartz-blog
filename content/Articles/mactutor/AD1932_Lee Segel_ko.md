@@ -67,7 +67,7 @@ Segel의 성격과 업적을 이해하기 위해 [[8](https://mathshistory.st-an
 
 Segel은 2005년에 사망했으며, 출판사 Springer는 수리생물학회와 공동으로 그를 기념하는 상을 제정했다. 수리생물학회는 다음과 같은 정보를 제공한다:
 
-Lee Segel 상은 'Bulletin of Mathematical Biology'와 수리생물학 분야 전체에 큰 공헌을 한 Lee Segel을 기념하여 제정되었습니다. 이 상은 수리생물학 분야에 대한 뛰어난 기여를 기리며, 이 과학 분야에서 중요한 연구 결과를 촉진하고 발전시키는 데 도움이 될 것입니다. 최우수 논문상($5000)과 최우수 학생 논문상($3000)이 있습니다. 상위원회, Bulletin of Mathematical Biology의 편집장들, 수리생물학회가 적절하다고 판단하는 다른 상들도 수여될 수 있습니다. Lee Segel 상은 2008년부터 시작하여 2년마다 수여됩니다.
+Lee Segel 상은 'Bulletin of Mathematical Biology'와 수리생물학 분야 전체에 큰 공헌을 한 Lee Segel을 기념하여 제정되었습니다. 이 상은 수리생물학 분야에 대한 뛰어난 기여를 기리며, 이 과학 분야에서 중요한 연구 결과를 촉진하고 발전시키는 데 도움이 될 것입니다. 최우수 논문상(\$5000)과 최우수 학생 논문상(\$3000)이 있습니다. 상위원회, Bulletin of Mathematical Biology의 편집장들, 수리생물학회가 적절하다고 판단하는 다른 상들도 수여될 수 있습니다. Lee Segel 상은 2008년부터 시작하여 2년마다 수여됩니다.
 
 Segel의 마지막 책 *A primer on mathematical models in biology* (생물학의 수학적 모델 입문서)는 Segel이 사망한 지 8년 후인 2013년에 출판되었다. 이 책은 바이츠만 연구소에서의 Segel의 과정과 Segel이 사망할 당시 작업 중이던 *Modeling Dynamic Phenomena in Molecular and Cellular Biology*의 후속편을 기반으로 Leah Edelstein-Keshet이 집필했다. 출판사의 설명은 다음과 같다:
 
