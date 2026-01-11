@@ -10,8 +10,6 @@ date: 2022-01-03
 
 ![그래프와 숫자들을 비추는 손전등의 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2022/01/Expander-Graph_2880_Lede.jpg)
 
-Eric Nyquist for Quanta Magazine
-
 ## 서론
 
 새로운 증명이 수학자들이 수직선(number line)을 괴롭힐지도 모른다고 두려워했던 음모를 무력화했다. 그렇게 함으로써, 그것은 수학자들에게 산술의 근본적인 구성 요소인 소수(prime numbers)를 이해하기 위한 또 다른 도구 세트를 제공했다.

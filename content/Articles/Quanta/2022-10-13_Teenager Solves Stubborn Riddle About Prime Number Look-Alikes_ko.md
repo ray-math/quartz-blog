@@ -12,8 +12,6 @@ date: 2022-10-13
 
 증명을 발표한 후, 다니엘 라슨은 매사추세츠 공과대학교(MIT)에 수학 전공으로 입학했다.
 
-Katherine Taylor for Quanta Magazine
-
 ## 서론
 
 다니엘 라슨(Daniel Larsen)이 중학생이었을 때, 그는 낱말 맞추기 퍼즐을 만들기 시작했다. 그는 이 취미를 다른 관심사들-체스, 프로그래밍, 피아노, 바이올린-위에 덧붙여야 했다. 그는 지역 대회에서 우승한 후 워싱턴 D.C. 근처에서 열리는 스크립스 전국 스펠링 비(Scripps National Spelling Bee)에 두 번이나 진출했다. "아이는 무언가에 집중하면, 그냥 탕탕탕, 성공할 때까지 밀고 나갑니다"라고 라슨의 어머니 아옐레트 린덴슈트라우스(Ayelet Lindenstrauss)는 말했다. 그의 초기 낱말 맞추기 퍼즐들은 주요 신문사에서 거절당했지만, 그는 계속 도전했고 결국 성공했다. 현재까지 그는 13세의 나이로 《뉴욕 타임스》에 낱말 맞추기를 게재한 [최연소 제작자 기록](https://www.nytimes.com/2017/02/14/insider/the-youngest-crossword-constructor-in-new-york-times-history.html)을 보유하고 있다. "아이는 매우 끈질깁니다"라고 린덴슈트라우스는 말했다.
@@ -87,8 +85,6 @@ Katherine Taylor for Quanta Magazine
 ![파란색 셔츠를 입은 10대가 야외에 있는 사진](https://www.quantamagazine.org/wp-content/uploads/2022/10/WHIZ_Daniel_Larsen_3-scaled.webp)
 
 라슨은 자신이 증명하려고 했던 것보다 더 강한 카마이클 수에 대한 제약을 확립했다.
-
-Katherine Taylor for Quanta Magazine
 
 1994년 논문에서, 앨포드, 그랜빌, 포머런스는 무한히 많은 카마이클 수를 만드는 방법을 보여주었다. 그러나 그들은 그것들을 구성하는 데 사용하는 소수들의 크기를 통제할 수 없었다. 그것이 라슨이 크기가 상대적으로 가까운 카마이클 수를 만들기 위해 해야 할 일이었다. 문제의 어려움이 그의 아버지 마이클 라슨(Michael Larsen)을 걱정하게 했다. "나는 그것이 불가능하다고 생각하지는 않았지만, 그가 성공할 것 같지는 않다고 생각했습니다," 그는 말했다. "나는 그가 얼마나 많은 시간을 그것에 쓰고 있는지 보았고... 그가 자신을 그렇게 많이 바쳤는데도 그것을 얻지 못한다면 그에게 파괴적일 것이라고 느꼈습니다."
 

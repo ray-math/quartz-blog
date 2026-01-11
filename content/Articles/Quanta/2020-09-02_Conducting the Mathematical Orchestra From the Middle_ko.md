@@ -12,8 +12,6 @@ date: 2020-09-02
 
 에밀리 릴은 오케스트라에서 비올라의 역할과 수학에서 범주론의 역할 사이에 유사점을 본다.
 
-[Schaun Champion](https://schaunchampion.com/home) for Quanta Magazine
-
 ## 서론
 
 [에밀리 릴(Emily Riehl)](http://www.math.jhu.edu/~eriehl/)은 자신이 어릴 때부터 연주해온 비올라와 현재 그녀가 주도적으로 참여하고 있는 수학 분야인 고차 범주론(higher category theory) 사이에 유사점을 본다. 그녀는 이 둘을 각자의 영역에서 "접착제" 역할을 한다고 생각한다. 비올라가 오케스트라의 소리를 더 풍부하게 만들듯이, "범주론이 수학을 더 깊게 만드는 측면이 있다"고 그녀는 말했다.
@@ -39,8 +37,6 @@ date: 2020-09-02
 ![존스 홉킨스 대학교 캠퍼스에서 에밀리 릴의 근접 촬영](https://www.quantamagazine.org/wp-content/uploads/2020/09/Emily-Riehl_2K_Portrait.jpg)
 
 그녀가 수학 부교수로 있는 존스 홉킨스 대학교 캠퍼스의 릴.
-
-[Schaun Champion](https://schaunchampion.com/home) for Quanta Magazine
 
 ### [다른 인터뷰에서](https://kpknudson.com/my-favorite-theorem/2018/5/21/episode-19-emily-riehl) 당신은 "그것이 누군가가 될 수 있는 것이라는 걸 알게 된" 이후로 수학자가 되고 싶었다고 언급했습니다. 그게 언제였나요?
 
@@ -95,8 +91,6 @@ date: 2020-09-02
 ![밖의 테이블에서 노트에 글을 쓰고 있는 릴](https://www.quantamagazine.org/wp-content/uploads/2020/09/Emily-Riehl_2K_Writing.jpg)
 
 고차 범주론은 수학적 대상들 사이의 무한한 동치의 탑을 추적한다.
-
-[Schaun Champion](https://schaunchampion.com/home) for Quanta Magazine
 
 ### 수학에서는 새로운 정리를 증명한 사람에게 영광이 돌아가는 경향이 있습니다. 알려진 결과를 개선하는 것에는 가치가 덜 부여되죠. 당신의 책과 관련하여 그것에 대해 어떻게 생각하나요?
 

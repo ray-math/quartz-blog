@@ -10,8 +10,6 @@ date: 2022-11-29
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/SummingRationalCubes-c-SallyCaulwell-Lede-scaled.webp)
 
-Sally Caulwell for Quanta Magazine
-
 ## 서론
 
 올해 초, 세 명의 수학자가 레몬으로 레모네이드를 만들기로 결심했고, 그 결과 수 세기 동안 수학자들이 고민해온 문제에서 [중대한 진전](https://arxiv.org/abs/2210.10730)을 이루었다.

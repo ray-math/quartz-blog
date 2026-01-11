@@ -10,8 +10,6 @@ date: 2020-01-08
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/01/UniversalCover_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 "이봐, 내 청바지 몇 개에 구멍이 났어. 꿰매줄 수 있어?" 바느질과 실 다루는 네 전설적인 솜씨를 아는 친구가 도움을 요청하는 문자를 보내왔다.

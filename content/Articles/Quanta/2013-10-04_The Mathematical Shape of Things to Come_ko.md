@@ -10,8 +10,6 @@ date: 2013-10-04
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2013/09/Topological-Data-Illustration.jpg)
 
-Tang Yau Hoong for Quanta Magazine
-
 ## 서론
 
 Santa Fe Institute에서 응용수학과 복잡계를 연구하는 연구원 Simon DeDeo는 문제에 직면했다. 그는 잉글랜드와 웨일스의 중앙 형사법원인 런던 Old Bailey의 기록 보관소에서 300년 치 데이터를 분석하는 새로운 프로젝트에 참여하고 있었다. 물론 각 사건에 대한 기소, 평결, 선고와 같은 변수들을 포함한 일반적인 Excel 스프레드시트 형식의 깔끔한 데이터가 있었다. 하지만 거기에는 200,000건에 가까운 재판에서 기록된 약 천만 단어의 전체 법정 속기록도 있었다.

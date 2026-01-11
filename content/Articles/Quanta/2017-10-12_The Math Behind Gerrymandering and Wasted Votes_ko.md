@@ -8,10 +8,6 @@ date: 2017-10-12
 >
 > 단순한 수학이 교묘한 정치인들의 선거구 조작을 도울 수 있다. 하지만 그 수학은 동시에 문제를 식별하고 해결하는 데에도 도움이 된다.
 
-![Gerrymandering illustration by Scott Martin for Quanta Magazine](https://www.quantamagazine.org/wp-content/uploads/2017/10/Gerrymandering_2880x1400.jpg)
-
-[Scott Martin](http://www.burnttoastcreative.com/) for Quanta Magazine
-
 ## 들어가며
 
 10개의 전장에서 전쟁을 치른다고 상상해보자. 당신과 적군은 각각 200명의 병사를 보유하고 있으며, 목표는 가능한 많은 전투에서 승리하는 것이다. 어떻게 병력을 배치하겠는가? 병력을 균등하게 분산시켜 각 전장에 20명씩 보낸다면, 적군은 자신의 병력을 집중시켜 대다수 전투에서 쉽게 승리할 수 있다. 당신도 여러 전장에서 압도적 병력을 투입할 수 있지만, 승리가 보장되지 않을 뿐더러 나머지 전장은 허술하게 방어하게 된다. 승리 전략을 세우기란 쉽지 않다. 하지만 양측 모두 상대의 계획을 미리 알지 못하는 한, 이것은 공정한 싸움이다.

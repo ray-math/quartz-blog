@@ -10,8 +10,6 @@ date: 2021-03-15
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/03/Perfect-Number_2880_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 모나리자의 미소. 메리 루 레튼의 올림픽 도마 연기. 머라이어 캐리의 음정. 이들은 모두 완벽하다고 여겨진다. 숫자 6과 28도 마찬가지다.

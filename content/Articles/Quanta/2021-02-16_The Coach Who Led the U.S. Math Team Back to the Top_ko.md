@@ -12,8 +12,6 @@ date: 2021-02-16
 
 피츠버그 사무실 밖에서의 포션 로.
 
-[Nate Smallwood](https://www.natesmallwood.com/) for Quanta Magazine
-
 ## 도입
 
 [포션 로(Po-Shen Loh)](https://www.cmu.edu/math/people/faculty/loh.html)는 미국 국제수학올림피아드(IMO) 팀을 부활시켰다. 헤드 코치로서 지난 6년 동안 4번이나 팀을 1위로 이끌었다.
@@ -55,8 +53,6 @@ date: 2021-02-16
 ![왼쪽: 포션 로의 손이 수학 퍼즐 책을 펼치고 있는 클로즈업. 오른쪽: 그 책의 앞표지.](https://www.quantamagazine.org/wp-content/uploads/2021/02/PSL_Book_02.jpg)
 
 어린 시절 수학에 대한 관심을 불러일으킨 퍼즐 책을 들고 있는 로.
-
-[Nate Smallwood](https://www.natesmallwood.com/) for Quanta Magazine
 
 ### 경쟁적인 부분은 어떤가요? 그것에 끌리시나요?
 

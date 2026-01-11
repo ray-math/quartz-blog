@@ -10,8 +10,6 @@ date: 2020-08-03
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/08/Number-Density_2880x1620_Lede.jpg)
 
-[Ashley Floréal](http://ashleyfloreal.com/) for Quanta Magazine
-
 ## 서론
 
 두 수학자가 자연수의 덧셈 성질에 관한 가장 유명한 추측 중 하나의 첫 번째 부분을 해결했다. 60년 이상 전 전설적인 헝가리 수학자 폴 에르되시(Paul Erdős)가 제안한 이 추측은, 무한한 자연수 목록이 언제 26, 29, 32와 같이 등간격으로 배열된 세 개 이상의 수 패턴을 반드시 포함하는지를 묻는다.

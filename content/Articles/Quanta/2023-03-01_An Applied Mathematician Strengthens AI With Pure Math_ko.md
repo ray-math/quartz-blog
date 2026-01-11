@@ -12,8 +12,6 @@ date: 2023-03-01
 
 "어떤 주제든 충분히 발전하면 수학적이 된다"고 시카고 대학교의 응용수학자 렉헹 림은 말한다.
 
-Kristen Norman for Quanta Magazine
-
 ## 서론
 
 렉헹 림(Lek-Heng Lim)은 순수수학과 응용수학을 다시 결합할 르네상스를 갈망한다. 그는 현대 수학에서 기본적인 것처럼 보이는 이 구분이 사실 최근의 것임을 지적한다. "순수수학과 응용수학 사이의 이러한 단절은 지난 80년 동안 일어난 일입니다"라고 림은 말했다. "저는 옛날로 돌아갈 것을 주장합니다."
@@ -35,8 +33,6 @@ Kristen Norman for Quanta Magazine
 ![시카고 대학교의 건물 앞에 서 있는 림](https://www.quantamagazine.org/wp-content/uploads/2023/02/Lek-Heng-Lim-byKristenNorman-LargeWindow-scaled.webp)
 
 "저는 제 지식의 구멍을 메우는 것만으로도 만족합니다"라고 림은 말했다.
-
-Kristen Norman for Quanta Magazine
 
 ## 순수수학과 응용수학 사이의 관계가 계속 진화하고 있다고 묘사하는 것이 공정한가요?
 
@@ -82,11 +78,7 @@ Kristen Norman for Quanta Magazine
 
 ![화이트보드에 글을 쓰는 림; 학생 제화 라이와 대화하는 림](https://www.quantamagazine.org/wp-content/uploads/2023/02/Lek-Heng-Lim-byKristenNorman-withStudent-scaled.webp)
 
-Kristen Norman for Quanta Magazine
-
 학생 제화 라이(Zehua Lai)와 함께 있는 림. 그들은 함께 오래된 기계학습 추측이 거짓임을 증명했다.
-
-Kristen Norman for Quanta Magazine
 
 지속적 호몰로지는 이 문제를 해결하기 위해 발명된 장치입니다: 다양체 자체 대신 다양체에서 샘플링된 점들을 가지고 있을 때 호몰로지를 어떻게 논의할까요?
 
@@ -119,8 +111,6 @@ Kristen Norman for Quanta Magazine
 ![시카고 대학교의 유리 지붕 건물 안에 서 있는 림](https://www.quantamagazine.org/wp-content/uploads/2023/02/Lek-Heng-Lim-byKristenNorman-Roof-scaled.webp)
 
 "저는 사람들이 일반적으로 응용수학의 정당한 주제로 간주하지 않는 것들에 대해 호기심이 많습니다"라고 림은 말했다.
-
-Kristen Norman for Quanta Magazine
 
 작은 무작위 하위 집합을 선택하는 것을 샘플링(sampling)이라고 합니다. 이제 질문은 다음과 같습니다: 알고리즘의 후속 단계에서, 이전 단계에서 이미 선택했던 매개변수를 다시 선택해야 할까요, 아니면 그것들을 제외해야 할까요? 다시 말해서, 복원 추출(with replacement)로 매개변수를 샘플링해야 할까요, 아니면 비복원 추출(without replacement)로 해야 할까요? 이것은 우리의 알고리즘이 무작위화를 포함할 때 항상 고려해야 하는 질문이므로, 매우 근본적이고 중요한 질문입니다.
 

@@ -10,8 +10,6 @@ date: 2017-08-17
 
 ![fidget spinners](https://www.quantamagazine.org/wp-content/uploads/2017/08/FidgetSpinners_2880x1400_1.jpg)
 
-[Scott Martin](http://www.burnttoastcreative.com/) for Quanta Magazine
-
 ## 서론
 
 수학자들이 몬스터 군(monster group)에 매료되는 것을 이해할 만하다. 이 대수적 대상은 너무나 거대하고 신비로워서, 그것이 실제로 존재한다는 것을 증명하는 데만 거의 10년이 걸렸다. 그로부터 30년이 지난 지금, 끈 이론가들-모든 기본 힘과 입자가 숨겨진 차원에서 진동하는 극소 끈으로 설명될 수 있을지 연구하는 물리학자들-이 [몬스터를 자신들의 물리학적 질문과 연결하려](https://www.quantamagazine.org/mathematicians-chase-moonshine-string-theory-connections-20150312/) 시도하고 있다. 도대체 $10^{53}$개가 넘는 원소를 가진 이 집합의 무엇이 수학자와 물리학자 모두를 흥분시키는 것일까? 몬스터 같은 대수적 군의 연구는 대칭의 수학적 구조를 이해하는 데 도움을 주고, [숨겨진 대칭](https://www.quantamagazine.org/videos/how-does-symmetry-shape-natures-laws-2/)은 새로운 물리학 이론을 구축하는 단서를 제공한다. 군론(group theory)은 여러 면에서 수학적 추상화의 전형이지만, 동시에 우리의 가장 친숙한 수학적 경험 중 일부를 뒷받침한다. 이제 대칭의 기초와 그 구조를 밝혀주는 대수학을 탐구해보자.

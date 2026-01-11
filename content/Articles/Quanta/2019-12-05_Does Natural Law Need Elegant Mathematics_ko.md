@@ -10,8 +10,6 @@ date: 2019-12-05
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/12/ElegantMath_2880x1500_Lede.jpg)
 
-[Dan Page](https://www.danpage.net/) for Quanta Magazine
-
 ## 서론
 
 나는 아주 어렸을 때부터 우아한 수학에 매료되어 왔다. 비슷한 성향을 가진 많은 사람들처럼, 나는 노벨상 수상 물리학자 유진 위그너(Eugene Wigner)의 유명한 논문 ["자연과학에서 수학의 불합리한 효율성"](https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)에 전적으로 동의했다. 이 논문에서 위그너는 우아한 수학이 물리 법칙을 설명하는 데 "불합리할 정도로" 성공적이었다고 논의한다. 위그너는 더 나아가 이렇게 말한다: "물리 법칙을 정식화하는 데 수학 언어가 적절하다는 것은 놀라운 선물이며, 우리는 이를 이해하지도 못하고 받을 자격도 없다." 알베르트 아인슈타인을 포함한 여러 유명한 과학자들이 비슷한 생각을 표현했다.

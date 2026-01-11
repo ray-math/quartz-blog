@@ -10,8 +10,6 @@ date: 2018-02-05
 
 ![집단 면역 삽화](https://www.quantamagazine.org/wp-content/uploads/2018/02/Herd-Immunity_2880x1620.jpg)
 
-[BIG MOUTH ](https://www.behance.net/BIGMOUTH)for Quanta Magazine
-
 ## 서론
 
 당신이 도저히 비밀로 할 수 없는 흥미진진한 소문을 들었다고 가정해보자. 당신은 소문쟁이를 싫어하기 때문에, 타협안으로 딱 한 사람에게만 말하고 입을 다물기로 한다. 별일 아니겠지? 결국 당신이 말한 그 사람도 같은 원칙을 채택해서 한 사람에게만 전한다면, 소문은 그다지 멀리 퍼지지 않을 것이다. 만약 하루에 한 명씩 새로운 사람이 소문을 듣는다면, 30일 후에는 당신을 포함해 겨우 31명에게만 퍼질 것이다.

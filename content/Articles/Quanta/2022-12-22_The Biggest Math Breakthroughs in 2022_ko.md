@@ -32,8 +32,6 @@ date: 2022-12-22
 
 허준이(June Huh)가 말했듯이, 인간의 마음이 수학적 추론의 도약을 어떻게 만드는지에 관해서는 "우리가 무슨 일이 일어나는지 모른다는 것을 인정하는 것이 좋다."
 
-캐롤라인 거트먼(Caroline Gutman) for Quanta Magazine
-
 [수상한 수학](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/)
 
 4년마다 국제수학연맹은 "기존 연구의 뛰어난 수학적 성취와 미래 성취의 가능성을 인정하기 위해" 40세 미만의 최대 4명의 수학자에게 아르키메데스의 두상이 새겨진 금메달을 수여한다. 올해 필즈 메달은 허준이, 제임스 메이나드(James Maynard), 마리나 뱌조브스카(Maryna Viazovska), 위고 뒤미닐-코팽(Hugo Duminil-Copin)에게 돌아갔다.
@@ -63,8 +61,6 @@ date: 2022-12-22
 그리고 전자 행동을 모델링하는 데 사용되는 소위 준주기 연산자(quasi-periodic operators)에 대한 더 나은 이해를 달성한 공로로 스베틀라나 지토미르스카야(Svetlana Jitomirskaya)는 첫 [수리물리학 라디젠스카야 상(Ladyzhenskaya Prize in Mathematical Physics)](https://www.quantamagazine.org/in-math-and-life-svetlana-jitomirskaya-stares-down-complexity-20221101/)을 수상했다.
 
 > 준주기 연산자는 양자역학에서 나타나는 특별한 유형의 슈뢰딩거 방정식이다. 고체 물리학에서 전자는 원자들이 주기적으로 배열된 결정 속을 움직인다. 그런데 1980년대 "준결정(quasicrystal)"이라는 물질이 발견되었다-주기적이지 않지만 완전히 무질서하지도 않은, 중간 형태의 구조다. 피보나치 수열처럼 규칙적이지만 반복되지 않는 패턴이다. 준주기 연산자는 이런 환경에서 전자의 움직임을 기술한다. 지토미르스카야는 이런 시스템에서 에너지 스펙트럼이 프랙탈 구조를 가지며, "국소화(localization)"라는 현상이 일어남을 증명했다-전자가 특정 영역에 갇혀 움직이지 못하는 것이다. 이것은 순수 수학과 응용 물리학이 만나는 지점이다. 준결정은 2011년 노벨 화학상의 주제였고, 지토미르스카야의 수학적 작업은 그 물리적 성질을 이해하는 토대를 제공한다.
-
-크리스티나 아르미테이지(Kristina Armitage) for Quanta Magazine
 
 [오래된 정수론 문제의 새로운 증명](https://www.quantamagazine.org/a-numerical-mystery-from-the-19th-century-finally-gets-solved-20220815/)
 
@@ -116,8 +112,6 @@ date: 2022-12-22
 
 > 수학 증명의 본질에 대한 철학적 질문이 제기되고 있다. 4색 정리(1976)와 케플러 추측(1998)은 컴퓨터 보조 증명으로 해결되었다-수천 시간의 계산과 수만 줄의 코드. 인간이 검증할 수 없는 증명을 어떻게 믿을까? 형식 증명 검증기(proof assistant)인 Lean, Coq, Isabelle이 답이 될 수 있다. 이 시스템들은 증명을 형식 논리로 번역하고 기계적으로 검증한다-한 줄 한 줄, 완벽하게. 피터 숄체의 퍼펙토이드 공간 이론, 토마스 헤일스의 케플러 추측 등이 이미 형식화되었다. 하지만 형식화는 엄청나게 노동 집약적이다-한 페이지 증명을 형식화하는 데 몇 주가 걸릴 수 있다. 케빈 버자드는 "수학의 미래는 기계 검증 증명"이라고 주장한다. 그는 대학원생들에게 Lean을 가르친다. 하지만 반대 의견도 있다: 형식화는 증명의 "정신(spirit)"을 잃게 만든다. 수학은 논리 체인만이 아니라 직관, 통찰, 아름다움이다. 균형을 찾는 것이 도전이다.
 
-나드제야 마케예바(Nadzeya Makeyeva) for Quanta Magazine
-
 [거품, 모양과 공간](https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/)
 
 기하학자들도 뒤처지지 않고 바쁜 한 해를 보냈다. 5월, 에마누엘 밀만(Emanuel Milman)과 조 니넌(Joe Neenan)은 3개 또는 4개의 부피를 가장 효율적으로 둘러쌀 수 있는 [거품 덩어리의 모양](https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/)을 찾아냈다-모든 차원에서.
@@ -144,8 +138,6 @@ date: 2022-12-22
 
 > 카케야 추측은 20세기 초 일본 수학자 카케야 소이치가 제기한 기하학 문제에서 시작되었다. 단위 길이 바늘을 평면에서 360도 회전시키려면 최소 어떤 넓이가 필요한가? 놀랍게도 답은 "넓이 0인 집합도 가능하다"-베지코비치(Besicovitch)가 증명했다. 하지만 현대적 카케야 추측은 더 깊다: $n$차원 공간에서, 모든 방향의 단위 선분을 포함하는 집합의 하우스도르프 차원(Hausdorff dimension)은 정확히 $n$이어야 한다. 즉, 그런 집합은 "완전히 $n$차원적"이어야 한다-틈이 거의 없다. 이것은 기하학적 측도론의 중심 문제일 뿐 아니라, 조화해석학, 편미분방정식, 심지어 이론 컴퓨터 과학과도 연결된다. 왜? 카케야 집합은 "무작위성 추출기(randomness extractor)"와 관련이 있기 때문이다. 문제는 2차원에서는 해결되었지만, 3차원 이상은 미해결이다. 2022년 진전은 "유한체(finite fields) 버전"을 연구한 것이다-실수 대신 $\mathbb{F}_{p}^{n}$에서. 유한체 버전은 더 다루기 쉬우면서도 실수 버전의 통찰을 제공한다.
 
-미리엄 와레스(Myriam Wares) for Quanta Magazine
-
 [위상수학의 모험](https://www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/)
 
 올해 *Quanta*는 2021년에 [그래프 이론에서 차용한 기법을 사용하여](https://www.quantamagazine.org/impossible-seeming-surfaces-confirmed-decades-after-conjecture-20220602/) 오랫동안 생각되었지만 증명되지 않았던 방식으로 자신과 깊이 상호 연결된 고차 종수 곡면의 유형이 존재한다는 것을 보인 윌 하이드(Will Hide)와 마이클 매기(Michael Magee)의 작업을 다뤘다.
@@ -159,8 +151,6 @@ date: 2022-12-22
 2차원의 매듭은 자이페르트 곡면(Seifert surface)이라는 것의 경계를 묘사하는 데 사용될 수 있다. 3차원 공간에서 매듭을 조작하더라도 서로 구별되는 많은 자이페르트 곡면 쌍이 4차원에서 매듭을 조작하면 동등하게 만들 수 있다. [위상수학자들은](https://www.quantamagazine.org/special-surfaces-remain-distinct-in-four-dimensions-20220616/) 처음으로 4차원에서도 서로 구별되는 자이페르트 곡면 쌍을 발견했다. [칼럼](https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/)은 매듭 이론의 기원을 설명했고, 콜린 아담스(Colin Adams)와 리사 피치릴로(Lisa Piccirillo)는 [Joy of Why 팟캐스트의 에피소드](https://www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/)에서 스티븐 스트로가츠에게 매듭에 대한 그들의 매혹을 이야기했다.
 
 > 자이페르트 곡면은 주어진 매듭을 경계로 갖는 곡면이다. 예를 들어 단순 매듭(trefoil knot)은 뫼비우스 띠처럼 생긴 곡면의 경계다. 모든 매듭은 자이페르트 곡면을 갖는다-심지어 무한히 많다. 하지만 "어떤 것이 최소한가"-가장 간단한 자이페르트 곡면은? 4차원으로 가면 상황이 극적으로 변한다. 3차원에서 서로 다른 자이페르트 곡면들이 4차원에서는 "코보르디즘(cobordism)"을 통해 연결될 수 있다-4차원 공간에서 한 곡면이 다른 곡면으로 변형되는 과정. 2022년 발견은 놀랍다: 일부 자이페르트 곡면 쌍은 4차원에서도 절대 동등해질 수 없다! 증명은 게이지 이론(gauge theory), 특히 도날드슨 불변량(Donaldson invariants)과 사이버그-위튼 불변량(Seiberg-Witten invariants)을 사용했다-물리학(양-밀스 이론)에서 유래한 강력한 도구다. 이것은 4차원 위상수학의 특별함을 보여준다: 3차원과 5차원 이상은 "온순"하지만, 4차원은 야생이다.
-
-크리스티나 아르미테이지(Kristina Armitage) for Quanta Magazine
 
 [무작위 구조의 창발](https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/)
 

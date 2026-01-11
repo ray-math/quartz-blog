@@ -10,8 +10,6 @@ date: 2017-12-11
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2017/12/TilingProblem_2880x1620.jpg)
 
-[BIG MOUTH ](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 바닥에 어린이용 블록들이 흩어져 있다. 당신은 그것들을 가지고 놀기 시작한다-정사각형, 직사각형, 삼각형, 육각형-움직이고, 뒤집어보고, 어떻게 맞물리는지 확인한다. 이 도형들을 완벽한 패턴으로 배열할 때 느껴지는 원초적인 만족감을 당신은 아마 여러 번 경험했을 것이다. 하지만 탁자나 바닥에 평평하게 놓이도록 설계된 모든 블록 중에서, 오각형 모양의 블록을 본 적이 있는가?

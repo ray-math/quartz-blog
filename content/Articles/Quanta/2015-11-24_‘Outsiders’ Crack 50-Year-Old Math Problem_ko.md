@@ -10,8 +10,6 @@ date: 2015-11-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/11/KadisonSingerSHOUT.jpg)
 
-[SHOUT](http://www.alessandrogottardo.com) for Quanta Magazine
-
 2008년, 예일 대학교의 대니얼 슈필만(Daniel Spielman)은 같은 대학 동료인 길 칼라이(Gil Kalai)에게 자신이 연구 중인 컴퓨터 과학 문제를 이야기했다. 네트워크를 '희소화(sparsify)'하는 방법, 즉 노드 사이의 연결을 줄이면서도 원래 네트워크의 핵심 특성은 보존하는 방법에 관한 문제였다.
 
 네트워크 희소화는 데이터 압축과 효율적인 계산에 응용되지만, 슈필만의 특정 문제는 칼라이에게 다른 무언가를 연상시켰다. 그것은 유명한 카디슨-싱어 문제(Kadison-Singer problem)와 관련이 있어 보였다. 양자물리학의 기초에 관한 이 문제는 거의 50년 동안 미해결로 남아 있었다.

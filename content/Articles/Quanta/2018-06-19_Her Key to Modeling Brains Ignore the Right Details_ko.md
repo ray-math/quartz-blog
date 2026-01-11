@@ -12,8 +12,6 @@ date: 2018-06-19
 
 카리나 커토의 수학 사랑은 처음에 그녀를 이론물리학으로 이끌었다. 하지만 오늘날, 펜실베이니아 주립대학교의 이 수학 부교수는 그녀의 전문성을 이론 및 계산 신경과학에 적용하고 있다.
 
-[Hatnim Lee](http://hatn.im) for Quanta Magazine
-
 ## 서론
 
 2013년 5월, 수학자 [카리나 커토(Carina Curto)](http://www.personal.psu.edu/cpc16/)는 버지니아주 알링턴에서 열린 "뇌 구조와 기능의 물리적·수학적 원리(Physical and Mathematical Principles of Brain Structure and Function)"에 관한 워크숍에 참석했다-본질적으로는 뇌에 관한 브레인스토밍 세션이었다. 한 달 전, 오바마 대통령은 [BRAIN 이니셔티브(Brain Research through Advancing Innovative Neurotechnologies)](https://obamawhitehouse.archives.gov/node/300741)를 발표하며 과학계에 그의 "대도전(Grand Challenges)" 중 하나를 제시했다. 이는 우리의 위층 3파운드 기관, 즉 뇌를 이해하는 데 오랫동안 지연되어 온 혁명을 촉발하기 위한 것이었다. 워크숍에 앞서, 백여 명의 참석자들은 [뇌과학 발전에 가장 큰 장애물이 무엇인가](https://docs.google.com/file/d/0B3wJfwGdhfvEOUpYZ2V4R29QcVE/edit)라는 질문을 다루는 백서에 각자 기여했다. 답변은 다양했다-일부는 뇌의 "절대적인 복잡성"을 언급하며 보다 일반적으로 탐구한 반면, 다른 이들은 실험 기술에 관한 세부사항을 파고들었다.

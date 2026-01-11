@@ -10,8 +10,6 @@ date: 2022-11-21
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/NovemberAcademy-cr.RobertNeubecker-Lede-scaled.webp)
 
-Robert Neubecker for Quanta Magazine
-
 ## 서론
 
 기하학을 공부하는 학생 지나(Gina)는 어젯밤 *위대한 영국 제빵 대회(The Great British Bake Off)*를 보면서 숙제를 하느라 너무 늦게까지 깨어 있었다. 그래서 마침내 잠자리에 들었을 때 그녀의 졸린 마음은 여전히 컵케이크와 컴퍼스로 가득 차 있었다. 이것이 가장 특이한 꿈으로 이어졌다.

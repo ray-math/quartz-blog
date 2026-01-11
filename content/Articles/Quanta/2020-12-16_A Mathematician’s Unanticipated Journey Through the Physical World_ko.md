@@ -10,8 +10,6 @@ date: 2020-12-16
 
 ![수학이 적혀 있는 화이트보드 앞에 서 있는 수학자 로렌 윌리엄스](https://www.quantamagazine.org/wp-content/uploads/2020/12/Lauren-Williams_2600_Lede.jpg)
 
-[Andrea Patiño Contreras](http://www.andreapatino.com/) for Quanta Magazine
-
 ## 서론
 
 [로렌 윌리엄스(Lauren Williams)](http://people.math.harvard.edu/~williams/)의 수학 경력의 윤곽은 그녀의 삶 초기부터 이미 존재했다.
@@ -34,8 +32,6 @@ date: 2020-12-16
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/12/Lauren-Williams_2K-Outside.jpg)
 
-[Andrea Patiño Contreras](http://www.andreapatino.com/) for Quanta Magazine
-
 종종 극적인 방식으로, 윌리엄스는 또한 양의 그라스만 다양체의 조각들이 쓰나미 파동의 움직임부터 양자 물리학의 최전선에 있는 입자 충돌까지 모든 것을 설명하는 형태로 재조립될 수 있음을 증명했다. 이것은 양의 그라스만 다양체를 중심으로, 그리고 그것들을 생성한 독특한 정신을 중심으로 응집된 통찰들의 혼합물이다.
 
 "로렌은 매우 명확하게 생각하는 사람 중 한 명입니다." 고등연구소(Institute for Advanced Study)의 이론 물리학자 [니마 아르카니-하메드(Nima Arkani-Hamed)](https://www.ias.edu/sns/arkani)가 말했다. "그녀는 열린 마음을 가지고 있고 모험적입니다."
@@ -51,8 +47,6 @@ date: 2020-12-16
 ![두 장의 사진. 왼쪽에는 악보 앞에서 바이올린을 연주하며 서 있는 로렌 윌리엄스. 오른쪽에는 어린 시절 바이올린을 연주하는 윌리엄스.](https://www.quantamagazine.org/wp-content/uploads/2020/12/Lauren-Williams_Violin_01-1.jpg)
 
 어린 시절, 윌리엄스는 바이올린을 배웠고 작가가 되는 꿈을 꾸었다.
-
-[Andrea Patiño Contreras](http://www.andreapatino.com/) for Quanta Magazine; Courtesy of Lauren Williams
 
 수학은 그녀가 초등학교 수학 경시대회에 참가한 4학년 때 그녀의 주목을 받았다. "예상치 못하게 대회에서 우승했고, 대회를 주최한 두 선생님이 저를 보살펴주셨어요." 그녀가 말했다.
 
@@ -99,8 +93,6 @@ date: 2020-12-16
 ![두 장의 사진. 왼쪽에는 화이트보드에 양의 그라스만 다양체를 그리는 로렌 윌리엄스. 오른쪽에는 화이트보드에 그려진 양의 그라스만 다양체의 클로즈업.](https://www.quantamagazine.org/wp-content/uploads/2020/12/Williams-2K-Whiteboard-detail.jpg)
 
 윌리엄스의 연구는 양의 그라스만 다양체의 조각들이 수학과 물리학의 다른 영역으로 어떻게 번역될 수 있는지를 보여준다.
-
-[Andrea Patiño Contreras](http://www.andreapatino.com/) for Quanta Magazine
 
 "저는 그것이 아이디어들의 매우 아름다운 합류점이라고 생각했어요." 윌리엄스가 말했다.
 
@@ -199,8 +191,6 @@ $$
 "최고 연구 기관의 여성 수학 교수들에게는 너무나 많은 숨겨진 장애물이 있습니다. 어떤 의미에서 당신은 전사가 되어야 하지만, 로렌은 그런 품위를 가지고 일들을 처리했어요." 아르딜라가 말했다.
 
 ![마스크를 착용하고 벽돌 건물 앞에 서 있는 윌리엄스](https://www.quantamagazine.org/wp-content/uploads/2020/12/Williams-2K-Endshot.jpg)
-
-[Andrea Patiño Contreras](http://www.andreapatino.com/) for Quanta Magazine
 
 윌리엄스가 전국을 가로질러 이동하고 있을 때, 그녀는 새로운 그라스만 다양체 프로젝트에 깊이 빠져 있었다. 그것은 물리학의 가장 복잡한 문제 중 하나에 대한 [해답으로 제안된](https://www.quantamagazine.org/physicists-discover-geometry-underlying-particle-physics-20130917/) 앰플리튜헤드론(amplituhedron)이라고 불리는 기하학적 대상과 관련되어 있었다.
 

@@ -12,8 +12,6 @@ date: 2022-11-22
 
 뉴저지주 프린스턴 고등연구소 수학-자연과학 도서관의 웨이 호.
 
-Caroline Gutman for Quanta Magazine
-
 ## 서론
 
 수학자가 되는 많은 사람들처럼, [웨이 호(Wei Ho)](https://dept.math.lsa.umich.edu/~weiho/)도 어린 시절 수학 경시대회에 참가하며 자랐다. 8학년 때 그녀는 위스콘신 주 Mathcounts 경시대회에서 우승했고, 그녀의 팀은 전국대회에서 3위를 차지했다.
@@ -35,8 +33,6 @@ Caroline Gutman for Quanta Magazine
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/WeiHo-Big-tree-cr.CarolineGutman-scaled.webp)
 
 호는 대수와 기하를 "본질적으로 같은 것"으로 생각하는 경우가 많다고 말했다.
-
-Caroline Gutman for Quanta Magazine
 
 2018년에 발표된 장벽을 깨는 프리프린트에서, 호와 그녀의 공동 연구자인 하버드 대학교의 [레벤트 알푀게(Levent Alpöge)](https://people.math.harvard.edu/~alpoge/)는 타원 곡선을 정의하는 다항식들의 정수 해(integer solutions)의 개수에 대한 [새로운 상한(upper bound)을 발견했다](https://arxiv.org/abs/1807.03761). 그들의 기법은 1906년에 영국으로 이민한 미국 수학자 루이스 모델(Louis Mordell)의 수십 년 된 연구에서 영감을 받았다. 논문에서 호와 알푀게는 유사한 문제를 연구하던 다른 팀들이 발견하지 못했던 이 정수 해들의 분포에 대한 새로운 정보를 얻어낼 수 있었다.
 
@@ -61,8 +57,6 @@ Caroline Gutman for Quanta Magazine
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/WeiHo-Vertical-cr.CarolineGutman-2.webp)
 
 "어떤 상황에서는 기하학적 그림을 대수적 결과로 번역하는 데 도움을 줄 수 있는 상당히 정확한 사전이 있습니다." 호가 말했다.
-
-Caroline Gutman for Quanta Magazine
 
 ## 최근 연구에서 어떤 아이디어에 집중하고 계시나요?
 
@@ -105,8 +99,6 @@ Caroline Gutman for Quanta Magazine
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/11/WeiHo-library-cr.CarolineGutman-scaled.webp)
 
 호는 Stacks project라는 대수기하학 증명들의 거대한 온라인 개론서를 만드는 데 기여하고 있다.
-
-Caroline Gutman for Quanta Magazine
 
 ## 방금 IAS의 여성과 수학 프로그램 디렉터로 임명되셨습니다. 그 프로그램은 여성 수학자들에게 무엇을 제공하나요?
 

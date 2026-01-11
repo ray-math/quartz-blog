@@ -12,8 +12,6 @@ date: 2020-11-30
 
 애슈윈 사는 팬데믹 기간 동안 머물고 있는 고향 오리건주 포틀랜드 근처의 앰버글렌 공원에서.
 
-[Celeste Noche](http://celestenoche.com/) for Quanta Magazine
-
 ## 서론
 
 5월 19일, [애슈윈 사(Ashwin Sah)](http://www.mit.edu/~asah/)는 [조합론(combinatorics)](https://www.quantamagazine.org/tag/combinatorics/)의 가장 중요한 문제 중 하나에서 [역대 최고의 결과](https://arxiv.org/abs/2005.09251)를 게재했다. 축배를 들 만한 순간이었지만, 사는 술을 주문할 만한 나이가 되지 않았었다.
@@ -41,8 +39,6 @@ date: 2020-11-30
 ![애슈윈 사가 밖에 서 있는 사진](https://www.quantamagazine.org/wp-content/uploads/2020/11/Ashwin-Sah_2K_Portrait.jpg)
 
 5월에 사는 그래프가 특정 패턴을 반드시 포함하기 전에 얼마나 커질 수 있는지를 보여주며, 기존 연구 방향을 한계까지 밀어붙였다.
-
-[Celeste Noche](http://celestenoche.com/) for Quanta Magazine
 
 대조적으로, 사의 증명은 두 색 람세이 수에 대한 상한을 개선했다. 그는 에르되시와 세케레쉬에서 시작된 방법을 최적화함으로써 이를 달성했는데, 이 방법은 소수의 수학자들만이 그 이후로 개선할 수 있었다. 사의 결과는 그래프가 특정 크기에 도달하면 필연적으로 해당하는 크기의 클리크를 포함한다는 것을 증명한다. 이 분야의 많은 이들은 사의 증명이 기존 연구 방향을 사용하여 달성할 수 있는 최고의 결과라고 본다.
 
@@ -83,8 +79,6 @@ Courtesy of Ashwin Sah
 ![공원 테이블에서 작업하는 애슈윈 사의 사진과 그의 노트 사진](https://www.quantamagazine.org/wp-content/uploads/2020/11/Ashwin-Sah_2K_Notes.jpg)
 
 21세의 애슈윈 사는 MIT 학부생으로서 거의 비할 데 없는 수학 연구 업적을 쌓아올렸다.
-
-[Celeste Noche](http://celestenoche.com/) for Quanta Magazine
 
 "그들은 둘 다 믿을 수 없을 만큼 에너지 넘치는 사람들입니다. 제가 질문을 던지면 거의 즉시 답을 듣습니다"라고 자오가 말했다.
 

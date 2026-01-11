@@ -10,8 +10,6 @@ date: 2021-09-23
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/Roots-of_Unity_2880_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 대수학이나 물리학 수업을 들어본 적이 있다면, 포물선(parabola)을 만났을 것이다. 포물선은 공이 공중을 날아가는 궤적을 모델링할 수 있는 단순한 곡선이다. 포물선에서 가장 중요한 부분은 꼭짓점(vertex)-가장 높거나 낮은 지점-이며, 이를 찾는 수학적 기법은 매우 많다. 꼭짓점 형식(vertex form)이나 대칭축(axis of symmetry), 심지어 미적분학을 사용할 수도 있다.

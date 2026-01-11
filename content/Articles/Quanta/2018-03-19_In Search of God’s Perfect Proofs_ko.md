@@ -12,8 +12,6 @@ date: 2018-03-19
 
 베를린 자유 대학의 마르틴 아이그너(왼쪽)와 귄터 치글러.
 
-[Aubrey Wade](http://www.aubreywade.com/) for Quanta Magazine
-
 ## 서론
 
 괴팍하고, 떠돌아다니며, 다작으로 유명했던 20세기 수학자 파울 에르되시(Paul Erdős)는 신이 모든 수학 정리의 완벽한 증명을 담은 천상의 책을 가지고 있다는 생각을 즐겼다. "이건 그 책(The Book)에 나오는 증명이야"라고 그는 아름다운 증명에 최고의 찬사를 보낼 때 선언하곤 했다.
@@ -82,8 +80,6 @@ date: 2018-03-19
 
 ![Mathematicians Prof. Günter M. Ziegler and Prof. Martin Aigner standing in front of a chalkboard](https://www.quantamagazine.org/wp-content/uploads/2018/03/ZieglerAigner_2K_01.jpg)
 
-[Aubrey Wade](http://www.aubreywade.com/) for Quanta Magazine
-
 ### 파울 에르되시는 "[수학의 사제](https://www.ams.org/notices/199907/rev-ullman.pdf)"라고 불려왔습니다. 그는 말하자면 수학의 복음을 전파하기 위해-종종 정착한 주소도 없이-전 세계를 여행했습니다. 그리고 그는 수학적 아름다움을 말할 때 이러한 종교적 은유를 사용했습니다.
 
 파울 에르되시는 자신의 강연을 "설교(preaching)"라고 불렀습니다. 하지만 그는 무신론자였습니다. 그는 신을 "최고 파시스트(Supreme Fascist)"라고 불렀습니다. 저는 그에게 재미있고 이야기를 하는 것이 더 중요했다고 생각합니다-그는 종교적인 것을 설교하지 않았습니다. 그래서 신과 그의 책에 대한 이 이야기는 그의 스토리텔링 레퍼토리의 일부였습니다.
@@ -121,8 +117,6 @@ date: 2018-03-19
 > 흥미롭게도, 로바스의 원래 증명을 읽는 사람은 거의 없지만, 그 증명이 없었다면 바라니의 우아한 증명도 나오지 않았을 것이다. 이것은 수학적 진보의 누적적 성격(cumulative nature)을 보여준다-각 세대는 이전 세대의 어깨 위에 선다.
 
 ![Photo of mathematician Prof. Günter M. Ziegler](https://www.quantamagazine.org/wp-content/uploads/2018/03/Ziegler_2K.jpg)
-
-[Aubrey Wade](http://www.aubreywade.com/) for Quanta Magazine
 
 ### 현재 *Proofs From THE BOOK*의 6판을 준비 중이신데, 그 이후에도 더 나올까요?
 

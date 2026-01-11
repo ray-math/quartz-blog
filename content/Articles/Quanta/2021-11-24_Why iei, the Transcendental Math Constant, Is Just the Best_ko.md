@@ -10,8 +10,6 @@ date: 2021-11-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/10/octpuzzle_2880x1620_lede.jpg)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 지난달 우리는 겉보기에 평범해 보이지만 수치적 반전을 담고 있는 세 가지 퍼즐을 제시했다. 표면 아래에는 신비로운 초월수(transcendental number) $e$가 숨어 있었다. 자연로그의 밑으로 가장 잘 알려진 오일러 수(Euler's number) $e$는 무한소수 전개를 가진 보편 상수로, 2.7 1828 1828 45 90 45...로 시작한다(소수점 이하 처음 15자리의 준-패턴을 강조하기 위해 공백을 추가했다). 그런데 우리의 퍼즐에서 $e$는 왜 아무 곳에서나 나타나는 것처럼 보이는가?

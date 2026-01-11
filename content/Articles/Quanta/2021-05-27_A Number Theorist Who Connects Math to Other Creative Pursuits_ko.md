@@ -12,8 +12,6 @@ date: 2021-05-27
 
 조던 엘렌버그는 위스콘신 대학교 매디슨 캠퍼스와 접한 멘도타 호수(Lake Mendota) 기슭에서 작업한다.
 
-[Lauren Justice](https://www.laurenjustice.com/) for Quanta Magazine
-
 ## 서론
 
 "수학으로 들어가는 길은 여러 갈래가 있습니다." 위스콘신 대학교 매디슨의 수학자 [조던 엘렌버그](https://people.math.wisc.edu/~ellenber/)가 말했다. "수학에 대한 관심은 일찍 드러난다는 고정관념이 있습니다. 하지만 그것은 일반적으로 사실이 아닙니다. 보편적인 이야기가 아니죠-그러나 그것은 내 이야기이긴 합니다."
@@ -75,8 +73,6 @@ date: 2021-05-27
 ![검은색 바지를 들고 있는 엘렌버그의 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/05/Jordan-Ellenberg_2K_pants.jpg)
 
 바지에는 구멍이 몇 개 있을까? 빨대는? 엘렌버그는 이러한 질문들의 놀라운 수학적 깊이를 보여주었다.
-
-[Lauren Justice](https://www.laurenjustice.com/) for Quanta Magazine
 
 > 바지의 위상수학적 분석은 더욱 흥미롭다. 직관적으로 바지에는 세 개의 구멍이 있는 것처럼 보인다-허리 하나와 다리 두 개. 그러나 위상수학자들은 바지를 다르게 본다. 만약 바지를 천 조각으로 생각하면, 그것은 세 개의 경계 성분(boundary components)을 가진 표면이다. 호몰로지 관점에서, 경계가 있는 표면의 구조는 더 복잡하다. 상대 호몰로지(relative homology)를 사용하여 분석할 수 있다. 더 재미있는 것은, 위상수학에서 "바지(pants)"는 표준적인 건축 블록이다. 쌍곡 기하학에서 리만 곡면(Riemann surface)은 쌍곡 바지들을 붙여서 만들 수 있다. 이를 "바지 분해(pants decomposition)"라고 부른다. 따라서 일상적인 의류가 고급 수학 이론의 핵심 개념이 되는 것이다!
 

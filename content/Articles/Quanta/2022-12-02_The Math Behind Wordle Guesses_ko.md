@@ -10,8 +10,6 @@ date: 2022-12-02
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/October_Puzzle_2880x1620_Lede-scaled.webp)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 워들(Wordle)은 단순한 게임이다. 플레이어는 6번의 시도 안에 숨겨진 5글자 단어를 맞춰야 한다. 이전 추측에서 드러난 글자의 존재와 위치에 대한 단서를 바탕으로 추리해 나간다. 과거에도 비슷한 게임들이 있었지만, 워들의 독특한 점은 특정 날짜에 모든 플레이어가 같은 비밀 단어를 맞춰야 한다는 것이다. 이는 친구들과 결과를 공유하고 게임에 대해 토론하기 쉽게 만든다. 이러한 독특한 구조와 형식은 우리의 최신 [인사이트 퍼즐](https://www.quantamagazine.org/how-to-win-at-wordle-without-cheating-20221025/)에서 제시한 질문들의 영감이 되었다. 답변은 아래에서 논의한다.

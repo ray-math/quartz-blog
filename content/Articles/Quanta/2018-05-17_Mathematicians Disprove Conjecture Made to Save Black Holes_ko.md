@@ -10,8 +10,6 @@ date: 2018-05-17
 
 ![코시 지평선이 있는 블랙홀 그림](https://www.quantamagazine.org/wp-content/uploads/2018/05/CauchyHorizon_Fullwidthlede.jpg)
 
-[Maciej Rebisz](http://maciejrebisz.com/) for Quanta Magazine
-
 ## 서론
 
 추측이 제안된 지 거의 40년이 지나, 수학자들은 일반 상대성 이론 연구에서 가장 심오한 질문 중 하나를 해결했다. 지난 가을 [온라인에 게시된 논문](https://arxiv.org/abs/1710.01722)에서, 수학자 [미할리스 다페르모스(Mihalis Dafermos)](http://web.math.princeton.edu/~dafermos/)와 [조너선 룩(Jonathan Luk)](https://web.stanford.edu/~jluk/)은 블랙홀의 기묘한 내부 작동 방식에 관한 강한 우주 검열 추측(strong cosmic censorship conjecture)이 거짓임을 증명했다.

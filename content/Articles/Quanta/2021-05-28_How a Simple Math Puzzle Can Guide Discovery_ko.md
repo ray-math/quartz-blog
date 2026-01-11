@@ -10,8 +10,6 @@ date: 2021-05-28
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/04/Puzzle-Explore_2880_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 서론
 
 4월 [인사이트 퍼즐](https://www.quantamagazine.org/the-puzzling-power-of-simple-arithmetic-20210420/)에서 나는 독자들을 "실험 수학(experimental mathematics)"이라고 가장 잘 표현될 수 있는 길로 안내하려 했다. 목표는 단순한 산술 절차를 반복함으로써 두 개의 상수를 재발견하는 것이었다. 독자들은 이 절차가 반복되는 순환(cycle)-단일 숫자의 "순환"(길이가 1인 순환) 또는 두 개 이상의 숫자로 이루어진 순환-으로 끝난다는 것을 발견했다. 첫 번째 상수인 6174는 1946년 인도의 수학자 [D.R. 카프레카르(Kaprekar)](https://mathshistory.st-andrews.ac.uk/Biographies/Kaprekar/)가 종이와 연필을 통한 산술 탐구로 발견했다. 두 번째 상수 $\delta = 4.6692016...$는 1975년 수리물리학자 Mitchell Feigenbaum이 HP-65 프로그래밍 가능 계산기의 도움으로 발견했다.

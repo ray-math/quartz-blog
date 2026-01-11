@@ -10,8 +10,6 @@ date: 2021-05-06
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/05/Goat-Academy_2880_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 수학 시험을 본 적이 있다면, 아마도 풀을 뜯는 염소를 만났을 것이다. 보통 염소는 울타리 기둥이나 헛간 옆에 묶여 있고, 깜박한 농부가 염소를 거기 두고 가서 닿을 수 있는 풀을 뜯어먹게 내버려둔 상황이다. 방목하는 염소를 만나면, 여러분의 임무는 염소가 풀을 뜯을 수 있는 영역의 총 넓이를 계산하는 것이다. 수학 시험이니까 말이다.

@@ -10,8 +10,6 @@ date: 2021-11-18
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/11/Hotdogs_2600_Lede.jpg)
 
-BIG MOUTH for Quanta Magazine
-
 ## 서론
 
 바비큐 파티를 위해 핫도그를 사야 했던 적이 있다면, 최소공배수를 구하는 수학 문제를 풀어본 경험이 있을 것이다. 핫도그는 보통 10개들이 팩으로 나오고 번(bun)은 8개들이 팩으로 나오는 이유에 대한 오래된 질문은 잠시 접어두고(이에 대한 National Hot Dog and Sausage Council의 설명은 [여기](https://www.hot-dog.org/culture/hot-dog-fast-facts)에서 읽을 수 있다), 핫도그와 번의 개수를 맞추는 수학에 집중해 보자. 간단한 해결책은 핫도그 8팩과 번 10팩을 사는 것이지만, 누가 80개의 핫도그가 필요한가? 더 적은 팩을 사면서도 개수를 맞출 수 있을까?

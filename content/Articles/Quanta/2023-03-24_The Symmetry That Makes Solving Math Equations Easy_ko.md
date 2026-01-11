@@ -10,8 +10,6 @@ date: 2023-03-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/03/Academy-March2023-byRobertNeubecker-Lede-scaled.webp)
 
-Robert Neubecker for Quanta Magazine
-
 ## 서론
 
 "Pop Goes the Weasel" 멜로디를 떠올려보자. 이제 이 가사를 불러보라:

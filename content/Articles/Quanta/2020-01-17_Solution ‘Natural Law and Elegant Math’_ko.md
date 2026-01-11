@@ -10,8 +10,6 @@ date: 2020-01-17
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/12/ElegantMath_2880x1500_Lede.jpg)
 
-[Dan Page](https://www.danpage.net/) for Quanta Magazine
-
 ## 서론
 
 피타고라스 이래로 많은 이들은 아름다운 수학이 세계의 비밀을 드러내는 특별한 힘을 가지고 있다고 믿어왔다. 지난달 [Insights 퍼즐](https://www.quantamagazine.org/puzzle-does-nature-need-elegant-math-20191205/)에서 우리는 유진 위그너(Eugene Wigner)의 유명한 논문 "[자연과학에서 수학의 불합리한 효율성(The Unreasonable Effectiveness of Mathematics in the Natural Sciences)](https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html)"을 출발점으로 삼아 이 주제에 대한 토론을 시작하고 관련된 퍼즐 시나리오를 풀어보았다.

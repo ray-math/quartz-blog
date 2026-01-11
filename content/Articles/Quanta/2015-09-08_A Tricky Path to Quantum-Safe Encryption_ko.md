@@ -10,8 +10,6 @@ date: 2015-09-08
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/09/BreadCrumbTrail_1300.jpg)
 
-[Peter Diamond](http://www.peterdiamond.ca/) for Quanta Magazine
-
 2015년 8월 11일, 미국 국가안보국(NSA)은 자사 웹사이트의 한 [페이지](https://www.nsa.gov/ia/programs/suiteb_cryptography/)를 업데이트하며 정부와 군사 데이터의 암호화 방식을 현재 체계에서 아직 결정되지 않은 새로운 체계로 전환할 계획이라고 발표했다. 새 체계는 양자 컴퓨터의 공격에 저항할 수 있어야 한다.
 
 "현재의 인터넷 보안 조치와 그 기반이 되는 암호 기술이 양자 컴퓨터가 가져올 새로운 계산 능력을 견디지 못할 것임이 이제 분명해졌습니다." NSA 대변인 바니 바인스(Vanee' Vines)가 이메일을 통해 밝혔다. "중요한 국가 안보 시스템을 보호하는 NSA의 임무는 이러한 발전을 미리 예측할 것을 요구합니다."

@@ -10,8 +10,6 @@ date: 2021-08-19
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/08/High-Order-Tools_2880_Lede.jpg)
 
-[Mike Hughes](http://www.m-hughes.com/) for Quanta Magazine
-
 ## 서론
 
 그래프 이론만으로는 충분하지 않다.

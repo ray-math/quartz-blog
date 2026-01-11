@@ -10,8 +10,6 @@ date: 2023-04-19
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/04/JoY-S2E5-Infinity-byPeterGreenwood-Lede-LOGO-scaled.webp)
 
-Peter Greenwood for Quanta Magazine
-
 ## 서론
 
 무한의 개념은 아마도 숫자 자체만큼이나 오래되었을 것이다. 사람들이 영원히 세어나갈 수 있다는 것을 처음 깨달았을 때로 거슬러 올라간다. 하지만 우리에게 무한을 나타내는 기호가 있고 일상 대화에서 이 개념을 언급할 수 있음에도 불구하고, 무한은 수학자들에게조차 여전히 깊은 신비로 남아 있다. 이번 에피소드에서 Steven Strogatz는 코넬 대학교의 동료 수학자 [Justin Moore](https://math.cornell.edu/justin-moore)와 함께 어떻게 한 무한이 다른 무한보다 클 수 있는지(그리고 그 사이에 중간 크기의 무한이 없다고 확신할 수 있는지)에 대해 이야기한다. 또한 물리학자와 수학자가 무한을 어떻게 다르게 사용하는지, 그리고 무한이 수학의 토대 자체에 얼마나 중요한지도 논의한다.

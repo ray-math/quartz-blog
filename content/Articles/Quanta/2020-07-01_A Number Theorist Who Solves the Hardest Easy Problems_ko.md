@@ -12,8 +12,6 @@ date: 2020-07-01
 
 영국 옥스퍼드에 있는 자택 앞의 제임스 메이너드.
 
-[Tom Medwell](http://www.tommedwell.com/) for Quanta Magazine
-
 ## 서론
 
 [제임스 메이너드(James Maynard)](https://www.maths.ox.ac.uk/people/james.maynard)가 세 살이었을 때, 런던 바로 북동쪽 첼름스퍼드에 있는 그의 집에 보건 방문자가 발달 상태를 확인하러 왔다. 이런 방문은 어린아이들에게 일상적인 것이었고, 평가자는 표준 검사 항목들을 그에게 제시했다. 단 하나 문제가 있었다면: 메이너드는 그 검사들이 멍청하다고 생각했다.
@@ -87,8 +85,6 @@ date: 2020-07-01
 ![제임스 메이너드의 손이 빨간색 주사위 세 개를 들고 있는 사진](https://www.quantamagazine.org/wp-content/uploads/2020/07/James-Maynard_Dice_2K.jpg)
 
 메이너드는 정수론 연구에서 확률적 아이디어를 사용한다.
-
-[Tom Medwell](http://www.tommedwell.com/) for Quanta Magazine
 
 > 메이너드가 사용한 방법의 핵심 아이디어는 확률론적 직관과 조합론을 정수론에 적용하는 것이다. 소수는 결정론적 대상이지만-어떤 수가 소수인지 아닌지는 명확하다-그들의 분포는 많은 면에서 무작위 사건처럼 행동한다. 이것이 바로 "소수의 무작위성(pseudorandomness of primes)"이라는 개념이다. 메이너드는 확률론의 도구들, 특히 큰 편차 추정(large deviation estimates)과 상관관계 구조를 교묘하게 사용하여 소수 간격 문제에 적용했다. 이는 마치 동전 던지기에서 연속으로 앞면이 나올 확률을 계산하는 것과 유사하지만, 소수라는 훨씬 복잡한 대상에 대해 수행하는 것이다. 주사위 사진은 이러한 확률론적 사고의 상징이다.
 

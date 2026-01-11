@@ -10,8 +10,6 @@ date: 2021-07-22
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/07/Slopes_2880_lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 당신은 긴 회의 테이블 끝에 앉아, 꿈에 그리던 직장의 면접을 보고 있다. 여기까지 잘 왔지만, 이제 마지막 질문 하나만 남았다.

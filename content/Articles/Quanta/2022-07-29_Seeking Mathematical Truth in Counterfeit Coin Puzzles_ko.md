@@ -10,8 +10,6 @@ date: 2022-07-29
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/07/Balance_puzzle_2880x1620_Lede-scaled.jpg)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 우리의 [최근 퍼즐 모음](https://www.quantamagazine.org/puzzles-on-weighing-truth-with-a-balance-scale-20220627/)은 소박한 양팔 저울을 주제로 했다. 양팔 저울은 역사적으로 상업과 정부, 예술과 과학의 상징이었다. 양팔 저울은 레크리에이셔널 수학(recreational mathematics)에서도 인기가 높다. 저울 퍼즐은 명확하고 논리적인 추론을 요구하며, 수학적 일반화에도 잘 부합한다. *Quanta* 독자들이 아래 퍼즐에서 이러한 특성들을 어떻게 균형있게 다루었는지 살펴보자.

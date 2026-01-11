@@ -10,8 +10,6 @@ date: 2022-06-29
 
 ![수학을 하는 컴퓨터들](https://www.quantamagazine.org/wp-content/uploads/2022/06/JoW_LEAN_2880x1620_Lede_LOGO-scaled.jpg)
 
-Michael Driver for Quanta Magazine
-
 ## 서론
 
 인공지능에게 수학을 어떻게 가르칠 수 있을까? AI는 이미 체스나 바둑 같은 문제 해결 과제에서 인간을 능가했다. 하지만 기계가 어떤 과제를 다루기 전에, 그 과제는 먼저 컴퓨터가 이해할 수 있는 언어로 재해석되어야 한다. 지난 몇 년간, 전 세계의 연구자들과 아마추어들이 함께 협력하여 수학의 핵심 공리들을 Lean이라는 프로그래밍 언어로 번역해왔다. 이러한 지식으로 무장한 채, Lean을 이해하는 정리 증명 프로그램들은 [세계 최고의 수학자들 중 일부가](https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/) 자신들의 작업을 검증하는 것을 돕기 시작했다. Steven Strogatz가 Imperial College London의 순수수학 교수인 [Kevin Buzzard](https://www.imperial.ac.uk/people/k.buzzard)와 대화를 나누며, Lean에게 수학을 "가르치려는" 노력과 이러한 프로젝트들이 수학의 미래를 어떻게 형성할 수 있는지에 대해 이야기한다.

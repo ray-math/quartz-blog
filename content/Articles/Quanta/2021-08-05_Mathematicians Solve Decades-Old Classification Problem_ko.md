@@ -10,8 +10,6 @@ date: 2021-08-05
 
 ![사람들이 길을 따라 다채로운 수학적 나무들을 분류하는 그림](https://www.quantamagazine.org/wp-content/uploads/2021/08/Graph-Classification_2560_Lede.jpg)
 
-[Eric Nyquist](https://www.ericnyquist.com/) for Quanta Magazine
-
 ## 서론
 
 특정 지역에서 자라는 모든 식물을 조사한다면, 각각의 식물을 일일이 기록하기보다 종별로 정리하는 것이 낫다. 토리노 대학교의 수학자 [Gianluca Paolini](https://sites.google.com/view/gianlucapaolini/home)에 따르면, 토스카나 해안가의 특정 구간에서 이 작업은 그리 어렵지 않다. 주로 단일 식물, 즉 해송(*pinus pinaster*)만 발견되기 때문이다. 그러나 아마존 열대우림에서는 그곳에 뿌리내린 모든 종들의 이름과 개체수를 파악하는 것이 훨씬 더 큰 도전 과제가 된다. 이를 완전히 수행하는 것은 아마도 불가능할 것이다.

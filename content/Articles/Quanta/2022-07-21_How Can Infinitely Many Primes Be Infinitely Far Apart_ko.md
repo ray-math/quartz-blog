@@ -10,8 +10,6 @@ date: 2022-07-21
 
 ![손전등을 들고 어두운 파란 배경에 특정 숫자들을 비추는 붉은 머리 여성의 만화](https://www.quantamagazine.org/wp-content/uploads/2022/07/Academy_Primes_2880x1620_Lede-scaled.jpg)
 
-Robert Neubecker for Quanta Magazine
-
 ## 서론
 
 이번 달 수학 뉴스를 팔로우했다면, 35세의 정수론 학자 제임스 메이나드(James Maynard)가 수학자에게 주어지는 최고의 영예인 [필즈상(Fields Medal)](https://www.quantamagazine.org/tag/fields-medal/)을 받았다는 것을 알 것이다. 메이나드는 "고등학생에게 설명할 만큼 단순하지만 수세기 동안 수학자들을 당혹스럽게 할 만큼 어려운" 수학 문제를 좋아한다고 [Quanta가 보도했다](https://www.quantamagazine.org/number-theorist-james-maynard-wins-the-fields-medal-20220705/). 그러한 단순한 질문 중 하나는 바로 이것이다: 수직선을 따라 나아갈 때, 가까이 붙어 있는 소수들이 항상 존재해야 할까?

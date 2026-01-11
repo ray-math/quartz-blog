@@ -10,8 +10,6 @@ date: 2021-03-08
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/03/Forest-Matrices_2880_Lede.jpg)
 
-[Myriam Wares](https://myriamwares.com/) for Quanta Magazine
-
 ## 서론
 
 초등학교 수학 시간에 선생님들이 학생들에게 답을 그냥 추측하지 말라고 충고하는 모습은 누구나 익숙할 것이다. 그런데 새로운 증명이 확립한 바에 따르면, 사실 올바른 종류의 추측이 때때로 선형 방정식 시스템(linear systems of equations)을 푸는 최선의 방법이라는 것이다. 선형 방정식 시스템은 수학에서 가장 기초적인 계산 중 하나다.

@@ -18,8 +18,6 @@ date: 2021-12-23
 
 > 수학은 종종 고립된 순수 학문으로 여겨지지만, 실제로는 물리학, 컴퓨터 과학, 공학 등 다른 분야들과 끊임없이 상호작용한다. 특히 20세기 이후 양자역학의 발전은 함수해석학과 연산자 이론의 발전을 촉진했고, 반대로 수학의 발전은 새로운 물리 이론의 정립에 기여했다. 컴퓨터의 등장은 이러한 상호작용을 더욱 가속화했다. 예를 들어, 사색수(四色數) 정리는 1976년 컴퓨터의 도움으로 처음 증명되었는데, 이는 전통적인 수학 증명 방법론에 대한 근본적인 질문을 제기했다. 오늘날 컴퓨터는 단순한 계산 도구를 넘어 증명 보조 도구로 발전하고 있으며, 인간이 직접 검증하기 어려운 복잡한 증명의 정확성을 확인하는 데 사용되고 있다.
 
-Grace Park for Quanta Magazine
-
 [위상수학의 보존](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/)
 
 수학적 증명은 한번 발견되면 영원히 남을 것이라고 생각하기 쉽다. 그러나 1981년의 중요한 위상수학 결과는 그것을 이해하는 몇 안 되는 수학자들이 나이가 들고 분야를 떠나면서 잊혀질 위기에 처했다. 마이클 프리드먼(Michael Freedman)의 4차원 푸앵카레 추측 증명은 어떤 면에서 유사한(또는 "호모토피 동치인") 4차원 구와 비슷한 특정 도형들이 다른 면에서도 그것과 유사해야 한다는 것, 즉 그것들이 "동형사상(homeomorphic)"이어야 한다는 것을 보였다. (위상수학자들은 [두 도형이 같거나 유사한지를 판단하는 자신들만의 방법](https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/)을 가지고 있다.) 다행히도, *원판 매장 정리(The Disc Embedding Theorem)*라는 새 책이 [거의 500페이지에 걸쳐](https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/) 프리드먼의 놀라운 접근법의 피할 수 없는 논리를 확립하고 이 발견을 수학의 정전(正典)에 확고히 자리매김시켰다.
@@ -51,8 +49,6 @@ Grace Park for Quanta Magazine
 이것이 현대적 해법에 의해 재검토된 유일한 수십 년 된 문제는 아니었다. 1900년, 다비트 힐베르트(David Hilbert)는 23개의 미해결된 중요한 질문들을 제시했고, 올해는 수학자들이 [특정 수 체계의 구성 요소](https://www.quantamagazine.org/mathematicians-find-polynomial-building-blocks-hilbert-sought-20210525/)에 관한 12번 문제와 [7차 다항식의 해](https://www.quantamagazine.org/mathematicians-resurrect-hilberts-13th-problem-20210114/)에 관한 13번 문제에 대한 불완전한 답변을 게시하는 것을 보았다. 2월에는 또한 [단위 추측이 거짓](https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/)이라는 발표가 있었는데, 이는 수학자들이 생각했던 것보다 더 복잡한 구조에서 실제로 곱셈 역원이 존재한다는 것을 의미한다. 그리고 1월에 알렉스 콘토로비치(Alex Kontorovich)는 아마도 수학에서 가장 큰 미해결 문제인 리만 가설을 [에세이와 비디오](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/)로 탐구했다.
 
 > 힐베르트의 23개 문제는 20세기 수학 연구의 방향을 설정한 기념비적 질문들이다. 1900년 파리 국제 수학자 회의에서 힐베르트는 새로운 세기를 위한 수학의 청사진을 제시했다. 일부 문제는 빠르게 해결되었지만(예: 3번 문제는 1년 만에 해결), 일부는 여전히 미해결 상태다(예: 리만 가설과 관련된 8번 문제). 12번 문제는 크로네커-베버 정리(Kronecker-Weber theorem)를 일반화하는 것으로, 유리수체의 아벨 확대(abelian extension)는 원분체(cyclotomic field)로 생성될 수 있다는 것을 다룬다. 이를 다른 수체로 확장할 수 있는가? 부분적인 진전이 있었지만 완전한 해답은 아직 없다. 13번 문제는 7차 방정식의 해를 2변수 함수의 합성으로 표현할 수 있는가를 묻는다. 5차 이상의 방정식은 근의 공식이 없다는 것(아벨-루피니 정리)이 알려져 있지만, 힐베르트는 더 나아가 함수 합성의 복잡도를 물었다. 콜모고로프와 아놀드는 1950년대에 놀라운 결과를 얻었지만, 힐베르트가 원래 의도한 대수적 설정에서는 여전히 열린 문제다. 단위 추측은 군환(group ring)에서 모든 단원(unit)이 자명한 형태를 가진다는 주장이었는데, 이것이 거짓으로 판명된 것은 군론과 대수학의 교과서를 다시 써야 할 정도로 중요한 발견이었다.
-
-Matteo Bassini for Quanta Magazine
 
 [수학적 다리의 확장](https://www.quantamagazine.org/with-a-new-shape-mathematicians-link-geometry-and-numbers-20210719/)
 

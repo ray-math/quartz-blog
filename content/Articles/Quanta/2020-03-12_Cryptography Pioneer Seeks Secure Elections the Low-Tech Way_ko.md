@@ -12,8 +12,6 @@ date: 2020-03-12
 
 로널드 리베스트는 상거래를 보호하는 RSA 알고리즘을 만들었다. 이제 매사추세츠 공과대학교 교수는 선거의 보안을 개선하는 작업을 하고 있다.
 
-[Cody O'Loughlin](http://www.codyoloughlin.com/) for Quanta Magazine
-
 ## 서론
 
 [로널드 리베스트(Ronald Rivest)](https://people.csail.mit.edu/rivest/)는 백발의 수염을 기르고, 눈으로 미소 짓고, 자신의 기술적 선물을 세상 사람들에게 베푼다. 매사추세츠 공과대학교(MIT) 교수인 그는 RSA의 'R'이다. 이는 그가 아디 샤미르(Adi Shamir, 'S')와 레너드 애들먼(Leonard Adleman, 'A')과 함께 최초의 공개키 암호 체계 중 하나를 만들었다는 의미다. 이 알고리즘은 오늘날에도 여전히 널리 사용된다: 거의 모든 인터넷 기반 상거래가 이 알고리즘에 의존하며, 세 사람은 이 업적으로 [2002년 A.M. 튜링상(A.M. Turing Award)](https://amturing.acm.org/award_winners/rivest_1403005.cfm)을 수상했다-컴퓨팅 분야의 노벨상이라 할 수 있다. 최근 수십 년 동안 리베스트는 적대자가 시스템을 깨는 것을 계산적으로 어렵게 만드는 작업을 계속해왔지만, 이제 그는 민주주의 선거에서 투표가 의도대로 행사되고(cast as intended), 행사된 대로 수집되며(collected as cast), 수집된 대로 집계되는(tallied as collected) 것을 보장하는 데 집중한다. 그가 발견한 바에 따르면, 선거는 인터넷 기반 상거래를 포함한 거의 모든 다른 보안 애플리케이션보다 더 엄격한 요구사항을 가지고 있다.

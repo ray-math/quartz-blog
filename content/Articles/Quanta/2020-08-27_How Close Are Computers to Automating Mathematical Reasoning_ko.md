@@ -10,8 +10,6 @@ date: 2020-08-27
 
 ![로봇과 인간이 나란히 열심히 수학 문제를 푸는 일러스트](https://www.quantamagazine.org/wp-content/uploads/2020/08/Computer-Proof-Race_2880_Lede.jpg)
 
-[Maria Nguyen](https://dtnart.com/) for Quanta Magazine
-
 ## 서론
 
 1970년대, 수리논리학 분야에서 필즈상을 수상한 유일한 인물인 고(故) 폴 코언(Paul Cohen)은 수학자들을 흥분시키는 동시에 짜증나게 만드는 대담한 예측을 했다고 [전해진다](https://www.ams.org/journals/notices/201811/rnoti-p1424.pdf). "미래의 어느 시점에 수학자들은 컴퓨터로 대체될 것"이라는 예측이었다. 집합론에서의 대담한 방법론으로 전설적인 인물이었던 코언은 증명 작성을 포함해 수학의 모든 것이 자동화될 수 있다고 예견했다.

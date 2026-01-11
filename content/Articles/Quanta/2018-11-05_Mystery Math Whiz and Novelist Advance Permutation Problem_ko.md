@@ -10,8 +10,6 @@ date: 2018-11-05
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/Superpermutation_2880x1620.jpg)
 
-[Maciej Rebisz](http://maciejrebisz.com/) for Quanta Magazine
-
 ## 서론
 
 2011년 9월 16일, 한 애니메이션 팬이 온라인 게시판 4chan에 컬트 고전 TV 시리즈 *스즈미야 하루히의 우울*에 관한 수학 문제를 올렸다. 시간여행을 다루는 이 작품의 첫 시즌은 원래 비연대기적 순서로 방영되었고, 재방송과 DVD 버전은 각각 에피소드를 다시 재배열했다. 팬들은 온라인에서 에피소드를 시청하는 최적의 순서에 대해 논쟁을 벌이고 있었고, 4chan 게시자는 이런 질문을 던졌다: 만약 시청자들이 가능한 모든 순서로 시리즈를 보고 싶다면, 시청해야 하는 최단 에피소드 목록은 무엇일까?

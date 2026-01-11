@@ -28,8 +28,6 @@ date: 2016-07-12
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/07/Hyperuniform_Graphic07_ChickenEyes_2000.jpg)
 
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
-
 토르콰토는 2000년대 초부터 이 숨겨진 질서를 연구해왔으며, 그것을 "초균일성(hyperuniformity)"이라고 명명했다. (이 용어는 러트거스 대학교의 조엘 레보위츠(Joel Lebowitz)가 거의 같은 시기에 만든 "초동질성(superhomogeneity)"을 대부분 대체했다.) 그 이후로, 이것은 급속도로 확장되는 시스템 계열에서 나타났다. 새의 눈을 넘어, 초균일성은 준결정(quasicrystal)이라고 불리는 물질에서 발견되며, 무작위 숫자로 가득 찬 수학적 행렬, 우주의 대규모 구조, 양자 앙상블, 그리고 에멀전과 콜로이드 같은 연성 물질 시스템에서도 발견된다.
 
 > 준결정(Quasicrystal)은 1984년 다니엘 셰흐트만(Dan Shechtman)이 발견한 물질로, 2011년 노벨 화학상을 수상했다. 일반 결정은 원자들이 주기적으로 반복되는 패턴을 이루지만, 준결정은 원자 배열이 반복되지 않으면서도 장거리 질서(long-range order)를 가진다. 마치 펜로즈 타일링(Penrose tiling)처럼, 같은 패턴이 결코 반복되지 않지만 전체적으로는 규칙적인 대칭성을 보인다. 놀랍게도 준결정은 5회 회전 대칭성을 가질 수 있는데, 이것은 전통적인 결정학에서는 불가능하다고 여겨졌다. 셰흐트만의 발견은 처음에는 동료들로부터 조롱받았고, 노벨상 수상자였던 라이너스 폴링(Linus Pauling)조차 "준결정은 없다. 준과학자만 있을 뿐이다"라고 비판했다. 그러나 자연에서도 준결정이 발견되었고(러시아 운석에서), 이제는 코팅재와 LED 등 다양한 응용 분야에서 사용되고 있다. 준결정은 초균일성의 완벽한 예시다-무질서해 보이지만 숨겨진 질서를 가지고 있다.
@@ -55,8 +53,6 @@ date: 2016-07-12
 ![숨겨진 질서 찾기 점들의 장에 링을 반복적으로 던지고 링이 착지할 때마다 링 안의 완전한 점 수를 세는 것을 상상해보라. 질서 있는 격자 링 던지기당 포함된 점의 수는 작은 링보다 큰 링에서 더 많이 변화한다. 이것은 모든 변화가 링의 가장자리를 따라 발생하므로 링의 둘레에 비례하기 때문이다. 무작위 분포 수](https://www.quantamagazine.org/wp-content/uploads/2016/07/Hyperuniform_RingToss_450.png)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/07/Hyperuniform_Graphic07_RingToss_2000.jpg)
-
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
 
 이제 상관관계가 없는 점들의 흩뿌림-간격과 군집으로 표시되는 무작위 분포-으로 링 던지기를 하는 것을 상상해보라. 무작위성의 특징은 링을 더 크게 만들수록, 포착된 점 수의 변화가 링의 둘레가 아닌 링의 면적에 비례하여 스케일된다는 것이다. 그 결과 큰 스케일에서, 무작위 분포에서 링 던지기 사이의 밀도 변동은 격자에서보다 훨씬 더 극단적이다.
 

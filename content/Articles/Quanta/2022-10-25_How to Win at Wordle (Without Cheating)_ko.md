@@ -10,8 +10,6 @@ date: 2022-10-25
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/October_Puzzle_2880x1620_Lede-scaled.webp)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 워들(Wordle)은 수백만 명이 즐기는 현대의 고전 게임으로 빠르게 자리 잡았다. 퍼즐 애호가로서, 나는 워들을 보며 천문학자가 육안으로 볼 수 있는 초신성을 목격하는 것 같은 전율을 느낀다. 내 평생 퍼즐에 대한 이토록 광범위한 열광을 본 적은 단 두 번뿐이었다. 첫 번째는 어릴 때 스크래블(Scrabble)과 크로스워드 퍼즐을 처음 접했을 때였고, 두 번째는 1980년대 루빅스 큐브 열풍이었다. 오늘은 퍼즐 세계의 이 현대적 초신성을 탐구해보겠다.

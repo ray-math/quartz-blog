@@ -10,8 +10,6 @@ date: 2019-03-14
 
 ![Art for "Where Proof, Evidence and Imagination Intersect"](https://www.quantamagazine.org/wp-content/uploads/2019/03/ProofEvidenceImagination_Lede_1300.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 다음 수열에서 다음 숫자를 찾을 수 있는가?

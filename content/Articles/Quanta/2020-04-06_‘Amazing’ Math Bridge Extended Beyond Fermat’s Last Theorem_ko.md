@@ -10,8 +10,6 @@ date: 2020-04-06
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/04/Langlands-Extension_2880x1620_Lede.jpg)
 
-[Daniel Castro Maia](https://www.dcmaia.art/) for Quanta Magazine
-
 ## 서론
 
 1990년대 초 [앤드루 와일스(Andrew Wiles)](https://www.maths.ox.ac.uk/people/andrew.wiles)가 페르마의 마지막 정리를 증명했을 때, 그의 증명은 수학자들뿐만 아니라 전 인류를 위한 기념비적인 진전으로 환영받았다. 이 정리 자체는 극도로 단순하다-$x^{n} + y^{n} = z^{n}$이 $n$이 2보다 클 때 양의 정수 해를 갖지 않는다는 것이다. 하지만 이 단순한 주장은 350년 이상 동안 수많은 증명 시도자들을 매혹시켰다. 1637년 프랑스 수학자 피에르 드 페르마(Pierre de Fermat)가 디오판토스의 *산술론(Arithmetica)* 여백에 이것을 적어둔 이래로 말이다. 페르마는 악명 높게도 "진정으로 경이로운 증명을 발견했지만, 이 여백이 너무 좁아 담을 수 없다"고 썼다. 수세기 동안 전문 수학자들과 아마추어 애호가들은 페르마의 증명-혹은 어떤 증명이든-을 찾아 헤맸다.

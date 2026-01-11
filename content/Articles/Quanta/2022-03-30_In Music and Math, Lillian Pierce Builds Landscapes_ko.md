@@ -12,8 +12,6 @@ date: 2022-03-30
 
 릴리언 피어스는 듀크 대학교의 수학 교수로, 정수론과 조화해석학을 연구한다.
 
-Alex M. Sanchez for Quanta Magazine
-
 ## 서론
 
 [릴리언 피어스(Lillian Pierce)](https://services.math.duke.edu/~pierce/)는 4살 때의 어느 순간을 생생하게 기억한다. 오빠와 언니가 학교에서 나오기를 기다리며 가족의 스테이션 왜건에 앉아 있었고, 목련 나무들이 머리 위로 분홍색과 하얀색 아치를 이루고 있었다. 그녀의 어머니는 운전석에 앉아 파란 잉크로 숫자 수열을 쓰며 수표 잔고를 맞추고 있었다. 피어스는 그 광경에 매료되었다.
@@ -44,8 +42,6 @@ Alex M. Sanchez for Quanta Magazine
 
 피어스는 음악을 사랑하는 가정에서 자랐고, 어린 시절부터 전문적으로 바이올린을 연주하기 시작했다.
 
-Jade Wilson for Quanta Magazine
-
 팬데믹 기간 동안 학생들을 지원하기 위해, 그녀는 최근 다른 수학자들에게 그들의 경력 동안 극복해야 했던 도전에 대해 이야기해 달라고 요청했다. 그런 다음 그녀는 [그들의 이야기를 손으로 전사하여](https://services.math.duke.edu/~pierce/graphics/Paths_2020_Pierce.pdf) 직접 삽화를 그린 작은 책으로 만들었다.
 
 > 이 프로젝트는 수학 커뮤니티에서 매우 특별하다. 학문적 성공담만 들으면 학생들은 자신의 어려움이 비정상적이라고 느낄 수 있다. 하지만 저명한 수학자들도 실패, 자기 의심, 개인적 위기를 겪었다는 것을 알면, 학생들은 자신의 투쟁을 정상적인 과정의 일부로 받아들일 수 있다. 피어스가 이를 직접 손으로 쓰고 그림을 그린 것은 단순한 편의상의 선택이 아니라, 각 이야기에 개인적 따뜻함과 진정성을 부여하기 위한 의도적인 행위다. 디지털 텍스트가 아닌 손글씨는 "당신의 이야기는 소중하고, 나는 이것을 정성스럽게 보존하고 싶다"는 메시지를 전달한다.
@@ -75,8 +71,6 @@ Jade Wilson for Quanta Magazine
 ![Duke Gardens의 계단을 내려가는 릴리언 피어스](https://www.quantamagazine.org/wp-content/uploads/2022/03/LillianPierce_Steps.jpg)
 
 자신의 연구를 추구하는 것 외에도, 피어스는 다른 수학자들의 작업을 더 넓은 커뮤니티에 접근 가능하게 만드는 데 많은 시간과 노력을 기울였다.
-
-Alex M. Sanchez for Quanta Magazine
 
 ## 음악가이기도 하시죠. 어떻게 시작하셨나요?
 
@@ -131,8 +125,6 @@ Alex M. Sanchez for Quanta Magazine
 ![벤치에서 책을 읽고 있는 릴리언 피어스](https://www.quantamagazine.org/wp-content/uploads/2022/03/LillianPierce_Reading.jpg)
 
 피어스는 대부분 홈스쿨링을 받았다-그녀의 연구와 교육 접근 방식을 형성하는 데 도움을 준 교육이다.
-
-Alex M. Sanchez for Quanta Magazine
 
 ## 대학에 가기 전 대부분의 기간 동안 홈스쿨링을 받으셨고, 이것이 또한 당신이 일에서 중시하는 것에 영향을 미쳤다고 말씀하셨습니다. 당신의 교육 경험을 어떻게 특징짓겠습니까?
 

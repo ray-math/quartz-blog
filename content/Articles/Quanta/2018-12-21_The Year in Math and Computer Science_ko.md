@@ -32,8 +32,6 @@ date: 2018-12-21
 
 ![Art for "Titans of Mathematics Clash Over Epic Proof of ABC Conjecture"](https://www.quantamagazine.org/wp-content/uploads/2018/08/ABC_Conjecture_2880x1220.jpg)
 
-[Klaus Kremmerz](https://klauskremmerz.myportfolio.com/projects) for Quanta Magazine
-
 [수학계의 거인들이 ABC 추측의 거대한 증명을 놓고 충돌하다](https://www.quantamagazine.org/titans-of-mathematics-clash-over-epic-proof-of-abc-conjecture-20180920/)
 
 수학적 증명은 참이거나 더 많은 작업이 필요한 것이며, 이론적으로 모든 전문 수학자는 그 차이를 구별할 수 있어야 한다. 그러나 실제로 증명은 논리적일 수 있지만, 수학자들은 여전히 인간으로 남는다. 이것이 정수론의 주요 문제인 $abc$ 추측을 둘러싼 진행 중인 논란만큼 명백했던 적은 거의 없었다. 저명한 수학자 Shinichi Mochizuki는 2012년에 자신이 이 추측을 증명했다고 발표했다. 그러나 그 이후 6년 동안 Mochizuki의 범위 밖에 있는 연구자들은 거대하고 당혹스러운 증명을 따라갈 수 있는 이가 거의 없었고, 이로 인해 일부는 그 주장이 유지되지 않을 것이라고 의심하게 되었다. 9월에 Scholze와 Goethe University Frankfurt의 Jakob Stix는 그들이 원본 작업에서 "심각하고 고칠 수 없는 구멍"이라고 부른 것을 발견했다고 발표했다. Mochizuki는 자신의 증명이 정확하고 완전하다고 계속 주장하고 있다.
@@ -46,8 +44,6 @@ date: 2018-12-21
 
 ![Art for "Machine Learning Confronts the Elephant in the Room"](https://www.quantamagazine.org/wp-content/uploads/2018/09/Elephant_2880x1220_Archives.jpg)
 
-[Eric Nyquist](http://ericnyquist.com/) for Quanta Magazine
-
 [기계 학습이 방 안의 코끼리와 마주하다](https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/)
 
 기계 학습으로 구동되는 인공지능은 2018년에도 그 중요성이 계속 커졌다. 그러나 연구자들은 또한 우리의 가장 똑똑한 기계들이 어디서 무너지는지 그 한계를 계속 탐구했다. 한 연구 그룹은 거실 사진 위에 문자 그대로 코끼리를 겹쳐 놓으면 견고한 이미지 인식 시스템이 흥미로운 방식으로 실패한다는 것을 발견했다. 그리고 바둑과 체스 같은 고전적인 보드 게임을 스스로 학습할 수 있는 게임 플레이 시스템에 들어간 거대한 발전에도 불구하고, 유사한 시스템이 복잡한 실제 세계 시나리오를 다룰 수 있을지에 대한 의구심이 남아 있다. Massachusetts Institute of Technology의 인지 과학자 Josh Tenenbaum은 "실제 사고 활동, 아이디어의 창의적 탐구와 우리가 현재 AI에서 보는 것 사이에는 정말로 거대한 격차가 있다"고 말했다. "그런 종류의 지능은 존재하지만, 대부분은 위대한 AI 연구자들의 마음속에서 일어나고 있다."
@@ -55,8 +51,6 @@ date: 2018-12-21
 > 이 "방 안의 코끼리" 실험은 현대 딥러닝 시스템의 근본적 취약성을 드러낸다. 이미지 인식 시스템은 수백만 장의 정상적인 이미지로 훈련되지만, 이들이 학습하는 것은 진정한 '이해'가 아니라 통계적 패턴이다. 거실 사진에 (포토샵으로) 코끼리를 배치하면, 시스템은 "거실에 소파가 있다"는 식의 정확한 판단을 내리지 못하고 혼란스러워한다. 왜냐하면 훈련 데이터에서 거실과 코끼리가 함께 나타나는 경우가 거의 없었기 때문이다. 인간은 이런 상황을 쉽게 처리한다-"이상하지만 거실에 코끼리가 있네"라고 인식한다. 우리는 세상에 대한 상식적 모델(common sense model)을 갖고 있고, 맥락을 이해하며, 인과관계를 추론할 수 있다. 현재의 기계 학습은 이런 능력이 없다. Tenenbaum의 지적처럼, 정말 창의적이고 유연한 지능은 아직 AI 시스템 자체가 아니라 그것을 설계하는 인간 연구자들에게만 있다. 이는 AI가 특정 좁은 작업(narrow task)에서는 초인간적 성능을 보이지만, 일반적 지능(general intelligence)과는 여전히 거리가 멀다는 것을 의미한다.
 
 ![Photo of Urmila Mahadev](https://www.quantamagazine.org/wp-content/uploads/2018/10/UrmilaMahadev_Lede_2880x1220.jpg)
-
-[Jana Ašenbrennerová](http://www.asenbrennerova.com) for Quanta Magazine
 
 [대학원생이 양자 검증 문제를 해결하다](https://www.quantamagazine.org/graduate-student-solves-quantum-verification-problem-20181008/)
 
@@ -73,8 +67,6 @@ date: 2018-12-21
 > 타원 곡선의 계수(rank)는 그 곡선 위의 유리수점(rational point)들의 구조를 측정하는 가장 중요한 불변량이다. 타원 곡선 위의 유리수점들은 자연스러운 덧셈 구조를 갖는데, Mordell-Weil 정리에 따르면 이들은 유한 생성 아벨군을 이룬다. 계수는 바로 이 군의 자유 부분의 계수(즉, $\mathbb{Z}$의 몇 개 복사본과 동형인가)를 의미한다. 계수 0은 유리수점이 유한개만 있다는 뜻이고, 계수가 클수록 "더 많은" 유리수점이 있다. 그런데 Alexander Smith가 증명한 것은 놀라운 통계적 사실이다: 모든 타원 곡선을 특정 방식으로 "정렬"했을 때, 50%는 계수 0, 50%는 계수 1을 갖는다. 계수 2 이상은 각각 0%-즉 측도 0의 집합이다. 하지만 계수가 임의로 클 수 있다는 것도 알려져 있다. 이는 무한의 역설적 성질을 보여준다: 무한히 많지만 "거의 없는" 것들이 존재할 수 있다. 이 결과는 1970년대 Goldfeld와 Katz-Sarnak가 제시한 추측으로, 타원 곡선의 L-함수와 랜덤 행렬 이론을 연결하는 깊은 통찰에 기반한다. Smith의 증명은 이 연결을 정교하게 다루어 마침내 추측을 해결했다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/11/UniversalCoverings_2880x1220.gif)
-
-[DVDP](https://davidope.com/) for Quanta Magazine
 
 [아마추어 수학자가 가장 작은 보편 덮개를 찾다](https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/)
 

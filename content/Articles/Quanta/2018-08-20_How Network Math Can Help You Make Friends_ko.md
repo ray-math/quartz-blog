@@ -10,8 +10,6 @@ date: 2018-08-20
 
 ![Art for "How Network Math Can Help You Make Friends"](https://www.quantamagazine.org/wp-content/uploads/2018/08/Fat-Tail_Network_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 새로운 학교나 직장에 입학하거나, 새로운 도시로 이사했을 때, 어떻게 새로운 친구들을 사귀는가? 적극적으로 인기 있는 아이들이나 영향력 있는 사람들과 전략적인 연결을 만들 수도 있고, 우연한 만남이나 임의의 모임에 의존할 수도 있다. 어떤 접근을 취하든, 새로운 커뮤니티에서 기존 우정의 구조를 이해하는 것은 최선의 연결을 만드는 데 도움이 되며, 이는 궁극적으로 당신의 친구 서클을 정의할 것이다.

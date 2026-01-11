@@ -12,8 +12,6 @@ date: 2022-06-02
 
 곡면과 그래프를 모두 설명하는 한 가지 방법은, 누군가 그 대상 전체를 무작위로 걸어서 횡단하는 데 얼마나 걸리는지 묻는 것이다.
 
-Myriam Wares for Quanta Magazine
-
 ## 서론
 
 지난 7월, 더럼 대학교(Durham University)의 두 수학자 [윌 하이드(Will Hide)](https://www.maths.dur.ac.uk/users/william.hide/)와 [마이클 매기(Michael Magee)](https://maths.dur.ac.uk/users/michael.r.magee/)는 오랫동안 찾아 헤매던 곡면 수열의 존재를 확인했다. 이 수열의 각 곡면은 이전 것보다 더 복잡하고, 궁극적으로는 자기 자신과 너무나 복잡하게 연결되어 가능한 한계에 거의 도달한다.

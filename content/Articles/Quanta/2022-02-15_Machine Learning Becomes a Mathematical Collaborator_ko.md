@@ -10,8 +10,6 @@ date: 2022-02-15
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/Deepmind_2880x1620_Lede.jpg)
 
-Señor Salme for Quanta Magazine
-
 ## 서론
 
 수학자들은 어려운 문제에 대한 통찰을 찾을 때 종종 함께 작업한다. 이는 자유로운 협력 과정의 일종으로, 고유하게 인간적인 감각을 필요로 하는 것처럼 보인다.

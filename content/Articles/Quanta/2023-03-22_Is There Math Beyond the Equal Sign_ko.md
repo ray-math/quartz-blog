@@ -10,8 +10,6 @@ date: 2023-03-22
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/03/JoY-S2P3-CategoryTheory-byPeterGreenwood-Lede-Logo-scaled.webp)
 
-Peter Greenwood for Quanta Magazine
-
 ## 서론
 
 등호보다 더 많은 것이 수학에 존재하는가? 신발 한 켤레와 장갑 한 켤레는 서로 다르지만, 우리는 둘 다 '한 쌍'이라는 정의를 만족한다는 점에서 동일성을 인식한다. 범주론(category theory)은 정확히 같지 않으면서도 본질적으로 동일한 것들을 연구하는 수학의 한 분야다. 이것이 수학자 [유제니아 쳉(Eugenia Cheng)](http://eugeniacheng.com/)이 추상적 개념들 사이의 연결을 만들고 많은 주제와 규모에 걸친 패턴을 찾아내는 데 사용하는 도구다. 쳉은 시카고 미술대학(School of the Art Institute of Chicago)의 상주 과학자이자 *추상화의 즐거움: 수학, 범주론, 그리고 삶에 대한 탐험(The Joy of Abstraction: An Exploration of Math, Category Theory and Life)*의 저자다. 이번 에피소드에서 그녀와 진행자 스티브 스트로가츠는 범주론을 풀어내고 그것이 일상적인 문제들-당신의 삶에 계속 나타나는 짜증나는 그 사람을 알아보는 것을 포함해서-에 어떻게 적용될 수 있는지 보여준다.

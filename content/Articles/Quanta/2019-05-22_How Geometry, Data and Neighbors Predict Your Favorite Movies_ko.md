@@ -10,8 +10,6 @@ date: 2019-05-22
 
 ![Art for "How Geometry, Data and Neighbors Predict Your Favorite Movies"](https://www.quantamagazine.org/wp-content/uploads/2019/05/NearestNeighbor_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 Adrienne은 마블 영화 광팬이다. 그녀가 좋아하는 영화는 모두 헐크, 토르, 블랙 팬서가 등장한다. Brandon은 *인사이드 아웃*, *인크레더블*, 버즈 라이트이어가 나오는 모든 작품 같은 애니메이션을 선호한다. 나는 두 종류 모두 좋아하지만, 아마 Brandon보다는 Adrienne에 가까울 것이다. 그리고 *겟 아웃*과 *샤이닝* 같은 스릴러를 사랑하는 Cora 쪽으로도 약간 기울어져 있을지 모른다.

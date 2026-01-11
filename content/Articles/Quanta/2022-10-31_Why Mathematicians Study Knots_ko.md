@@ -10,8 +10,6 @@ date: 2022-10-31
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/10/Knots_2880x1620_Lede2-scaled.webp)
 
-Peter Greenwood for Quanta Magazine
-
 ## 서론
 
 매듭 이론(knot theory)은 우주의 근본적 구성을 이해하려는 시도로 시작되었다. 1867년, 과학자들이 온갖 종류의 물질을 설명할 수 있는 것이 무엇일지 열심히 알아내려던 시기에, 스코틀랜드의 수학자이자 물리학자인 피터 거스리 테이트(Peter Guthrie Tait)는 친구이자 동료 스코틀랜드인인 윌리엄 톰슨 경(Sir William Thomson)에게 연기 고리를 만드는 자신의 장치를 보여주었다. 톰슨-나중에 켈빈 경(Lord Kelvin, 온도 척도의 이름이 된 사람)이 되는-은 연기 고리의 매혹적인 형태, 그것의 안정성, 그리고 고리들 사이의 상호작용에 매료되었다. 그의 영감은 놀라운 방향으로 이어졌다. 연기 고리가 공기 속의 소용돌이(vortex)인 것처럼, 원자는 광투과 에테르(luminiferous ether), 즉 당시 물리학자들이 빛이 전파되는 매질로 믿었던 보이지 않는 매질 속에서 매듭지어진 소용돌이 고리가 아닐까 하는 생각이었다.

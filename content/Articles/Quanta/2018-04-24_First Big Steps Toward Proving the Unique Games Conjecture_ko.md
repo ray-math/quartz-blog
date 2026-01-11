@@ -10,8 +10,6 @@ date: 2018-04-24
 
 ![Lede art for "First Big Steps Toward Proving the Unique Games Conjecture"](https://www.quantamagazine.org/wp-content/uploads/2018/04/UniqueGames_2880x1620.jpg)
 
-[Kevin Hong](http://kevinhong.com/) for Quanta Magazine
-
 ## 서론
 
 1월에 [온라인으로 게재된](https://eccc.weizmann.ac.il/report/2018/006/) 한 논문은 이론 컴퓨터 과학자들을 그들 분야의 가장 중요한 추측 중 하나를 증명하는 여정의 절반 지점까지 이끌었다. 이 새로운 연구는 최근의 [세](https://www.semanticscholar.org/paper/On-independent-sets%2C-2-to-2-games%2C-and-Grassmann-Khot-Minzer/6c3d1f6d1227b528b644522eac19af905b9c1fb7) [편의](https://eccc.weizmann.ac.il/report/2016/198/) [논문](https://eccc.weizmann.ac.il/report/2017/094/)과 결합되어, 현재 뉴욕대학교의 컴퓨터 과학자인 [Subhash Khot](https://www.quantamagazine.org/subhash-khot-playing-unique-games-in-washington-square-park-20170710/)이 [2002년에 제안한](http://dl.acm.org/citation.cfm?id=510017) 유니크 게임 추측(Unique Games Conjecture)을 증명하기 위한 첫 번째 실질적인 진전을 제공한다.

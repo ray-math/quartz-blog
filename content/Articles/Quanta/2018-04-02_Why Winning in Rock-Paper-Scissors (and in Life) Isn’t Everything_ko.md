@@ -10,8 +10,6 @@ date: 2018-04-02
 
 ![가위바위보 삽화](https://www.quantamagazine.org/wp-content/uploads/2018/04/NashEquilibrium_RPS_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH)for Quanta Magazine
-
 ## 서론
 
 가위바위보는 누가 쓰레기를 버릴지 정하는 데 아주 좋은 방법이다. 하지만 3판 2선승제 대신 계속해서 라운드를 이어가면 어떤 일이 벌어지는지 주목해본 적이 있는가? 처음에는 당신이 우위를 점하는 패턴을 사용하지만, 곧 상대방이 이를 눈치채고 자신에게 유리하게 상황을 반전시킨다. 전략이 진화하면서 어느 순간 양측 모두 더 이상 개선할 수 없는 지점에 도달한다. 왜 그런 일이 일어날까?

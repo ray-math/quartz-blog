@@ -12,8 +12,6 @@ date: 2018-11-27
 
 스탠퍼드 대학교에서 촬영된 수학자 도키에다 타다시. 그는 자연에서 발견하는 "장난감들"을 사랑하며, "어린아이와 과학자는 같은 놀라움을 공유할 수 있다"고 말한다.
 
-[Constanza Hevia H.](https://www.constanzahevia.com/thetimeihaveleft) for Quanta Magazine
-
 ## 서론
 
 도키에다 타다시(Tadashi Tokieda)는 평범한 물체들이 비범한 일을 하는 세계에 산다. 쌀이 가득 든 병은 경사로를 굴러 내려가기를 거부한다. 종이 띠는 [단단한 장애물을 그냥 통과해 지나간다](https://www.youtube.com/watch?v=CN8hK3YFqhM&t=16s). 그릇 안에서 빙빙 도는 공들은 더 많은 공이 합류하면 [회전 방향을 바꾼다](https://www.youtube.com/watch?v=QFeG9CeeH88).
@@ -83,8 +81,6 @@ date: 2018-11-27
 > 레프 란다우(1908-1968)는 20세기 가장 위대한 이론물리학자 중 한 명이다. 그는 초유체성(superfluidity), 상전이 이론, 양자 전기역학 등에 기여했고, 1962년 노벨 물리학상을 받았다. 하지만 그를 더욱 전설적으로 만든 것은 그의 교육 철학과 "란다우 학파"다. 란다우는 이론물리학의 모든 측면을 마스터하기 위한 체계적 커리큘럼을 만들었고-이른바 "란다우의 최소 이론(Landau's minimum)"-이것을 통과한 사람만 그의 제자로 인정했다. 이 과정은 극도로 엄격했고, 평생 단 43명만 통과했다. 란다우는 또한 제자 리프시츠(Lifshitz)와 함께 10권의 "이론물리학 코스(Course of Theoretical Physics)"를 집필했는데, 이것은 여전히 물리학 교육의 고전으로 남아있다. 란다우의 철학-책과 강의가 아니라 문제 풀이를 통해 배운다는-은 도키에다에게 깊은 영향을 미쳤다.
 
 ![도키에다 타다시의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/11/Tokieda_2K_01.jpg)
-
-[Constanza Hevia H.](https://www.constanzahevia.com/thetimeihaveleft) for Quanta Magazine
 
 음, 이고르는 종이 한 장을 꺼내서 계산을 시작하지만, 어떻게든 그것을 풀 수가 없습니다. 란다우는 말합니다. "이고르, 너는 스스로를 교육받은 성인으로 여기지만, 이런 간단한 과제를 수행할 능력이 없구나."
 

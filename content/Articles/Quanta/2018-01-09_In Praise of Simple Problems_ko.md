@@ -10,8 +10,6 @@ date: 2018-01-09
 
 ![리처드 슈워츠의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/01/RichardSchwartz_2880x1620_01.jpg)
 
-[Ian MacLellan](https://portfolio.maclellanimages.com/index/G0000LNVclZ_B7Gw/thumbs) for Quanta Magazine
-
 ## 서론
 
 수학의 중요한 발견 대부분은 수십 년 혹은 수 세기에 걸친 노력 끝에 이뤄진다. [가장 큰 문제들에 도전](https://www.quantamagazine.org/secret-link-uncovered-between-pure-math-and-physics-20171201/)하고 싶다면, 새로운 것을 말하기 시작하기도 전에 매우 기술적인 내용들을 엄청나게 많이 숙달해야 한다.
@@ -87,8 +85,6 @@ date: 2018-01-09
 ![리처드 슈워츠의 집에 있는 프랙탈 시계 사진](https://www.quantamagazine.org/wp-content/uploads/2018/01/RichardSchwartz_2K_05.jpg)
 
 슈워츠의 홈 오피스에 있는 프랙탈 시계.
-
-[Ian MacLellan](https://portfolio.maclellanimages.com/index/G0000LNVclZ_B7Gw/thumbs) for Quanta Magazine
 
 ### 당신은 수학에 관한 여러 어린이 책을 썼습니다. 그것들을 쓴 동기는 무엇이었나요?
 

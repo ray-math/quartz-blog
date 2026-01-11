@@ -10,8 +10,6 @@ date: 2017-01-14
 
 ![Illustration: boxing gloves](https://www.quantamagazine.org/wp-content/uploads/2017/01/Knockout_rev_1000.png)
 
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/)for Quanta Magazine
-
 지난 몇 주간 이론 컴퓨터 과학자들은 급격한 반전의 연속을 경험했다. 2017년 1월 4일, 시카고 대학교의 [라슬로 바바이(László Babai)](http://people.cs.uchicago.edu/~laci/) 교수는 자신의 주장을 철회함으로써 학계에 충격파를 보냈다. 그 주장은 2015년 11월, 연구자들이 '지난 10년간 이론 컴퓨터 과학의 가장 큰 진전'이라고 환호했던 결과였다. 그런데 불과 5일 후인 1월 9일, 바바이는 자신의 증명에서 발견된 결함을 [수정했다고 발표](http://people.cs.uchicago.edu/~laci/update.html)했다. 그리고 오늘, 바바이의 연구에서 처음 오류를 발견한 수학자 - 독일 괴팅겐 대학교와 프랑스 국립과학연구센터의 [하랄트 헬프고트(Harald Helfgott)](https://webusers.imj-prg.fr/~harald.helfgott/anglais/) - 가 수학계의 가장 권위 있는 강연 시리즈 중 하나인 부르바키 세미나에서 [파리 강연](https://www.youtube.com/watch?v=7NR975OM2G8)을 통해 이 수정이 올바르다고 공개적으로 확인했다.
 
 > 부르바키 세미나는 1948년부터 이어져 온 프랑스 수학계의 전설적인 강연 시리즈다. 니콜라 부르바키라는 가상의 수학자 집단이 20세기 초중반 수학의 엄밀화와 구조주의 운동을 주도했는데, 이 세미나는 그들의 유산이다. 여기서 강연한다는 것은 해당 연구가 수학계에서 최고 수준의 중요성과 엄밀성을 인정받았다는 의미다. 헬프고트가 바바이의 결과를 이 무대에서 다루기로 한 것 자체가 그래프 동형 문제 해결의 역사적 중요성을 방증한다.

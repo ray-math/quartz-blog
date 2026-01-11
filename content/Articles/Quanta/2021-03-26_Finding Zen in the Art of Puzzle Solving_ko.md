@@ -10,8 +10,6 @@ date: 2021-03-26
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/02/Ants_2560_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 서론
 
 수학과 과학에서 "유레카(eureka)" 또는 "아하(aha)"로 알려진 통찰의 순간은 전설적이다. 적어도 2천 년 전으로 거슬러 올라가, 아마도 [사실 여부가 불확실한 아르키메데스의 이야기](https://www.scientificamerican.com/article/fact-or-fiction-archimede/)-그가 히에론 왕의 왕관 성분을 알아내는 핵심 아이디어를 떠올리고 나체로 목욕탕 밖으로 뛰쳐나갔다는-까지 닿는다. 뉴턴의 중력 이론부터 아인슈타인의 발견까지, 많은 과학적 발견이 이러한 순간의 덕택으로 여겨진다. 이런 "아하" 통찰은 종종 문제를 직접 다루지 않지만 마음속에 떠다니게 하는, 차분하고 선(禪)과 같은 상태에서 나타나는 것처럼 보인다.

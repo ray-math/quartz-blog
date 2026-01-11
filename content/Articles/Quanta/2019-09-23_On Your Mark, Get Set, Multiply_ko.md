@@ -10,8 +10,6 @@ date: 2019-09-23
 
 ![두 명의 경쟁자가 육상 트랙의 각자 레인에서 25 곱하기 63 문제를 푸는 경주를 벌이고 있다. 한 경쟁자는 표준 곱셈 알고리즘을 사용하고, 다른 경쟁자는 카라츠바 방법을 사용한다.](https://www.quantamagazine.org/wp-content/uploads/2019/09/Multiplication_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 올 여름, 아주 단순한 수학 문제를 두고 [논쟁의 전선](https://twitter.com/pjmdolI/status/1155598050959745026?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1155598050959745026&ref_url=https%3A%2F%2Fwww.nytimes.com%2F2019%2F08%2F02%2Fscience%2Fmath-equation-pedmas-bemdas-bedmas.html)이 그어졌다: $8 \div 2(2 + 2) = ?$ 만약 8을 2로 먼저 나누면 16이 나오지만, 2에 $(2 + 2)$를 먼저 곱하면 1이 나온다. 그렇다면 어느 답이 맞을까? 이 갈등은 너무나 뜨거워져서 [뉴욕 타임스](https://www.nytimes.com/2019/08/02/science/math-equation-pedmas-bemdas-bedmas.html)의 지면까지 장식했다. 그리고 댓글란이 보여주듯이, 전문 수학자가 이 문제에 대해 의견을 제시했음에도 양측을 화해시키기에는 충분하지 않았다.

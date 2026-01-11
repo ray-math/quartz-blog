@@ -10,8 +10,6 @@ date: 2018-10-25
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/10/ImaginaryNumbers_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 수학 수업 시간에 앉아서 "나는 이것을 언제 쓸 거지?"라고 생각해 본 적이 있는가? '허수(imaginary numbers)'를 처음 만났을 때 이런 질문을 던졌을 것이다. 그럴 만한 이유가 있다. 허수라고 불리는 수보다 덜 실용적인 것이 무엇이 있겠는가?

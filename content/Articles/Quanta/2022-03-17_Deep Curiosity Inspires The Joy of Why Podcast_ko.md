@@ -36,8 +36,6 @@ date: 2022-03-17
 
 이번 시즌 *왜의 기쁨*에 출연하는 연구자들 중 일부(왼쪽에서 오른쪽으로, 위에서 아래로): Sean Carroll, Lisa Piccirillo, Sheref Mansy, Melanie Wood, Alex Keene, Dena Dubal, Shruti Naik, Jack Szostak, Dragana Rogulja.
 
-Credits (왼쪽에서 오른쪽으로, 위에서 아래로): Courtesy of Sean Carroll; Ian MacLellan for Quanta Magazine; John Ulan; Stephanie Mitchell/Harvard University; Texas A&M College of Science; Steve Babuljak; NYU Langone Health; Aynsley Floyd at Aynsley Floyd photography; Anna Olivella and the Harvard Brain Science Initiative
-
 새로운 도구의 계시적인 힘은 [Dragana Rogulja](https://neuro.hms.harvard.edu/faculty-staff/dragana-rogulja)와의 대화에서 나에게 가장 개인적으로 다가왔다. 그녀는 우리가 왜 잠을 자야 하는지의 미스터리를 탐구하기 위해 최신 유전자 편집 및 영상 기술을 사용해온 수면 과학자다. 적어도 한 세기 동안, 장기간의 수면 박탈이 필연적으로 치명적이라는 것은 알려져 있었다. 그러나 아무도 그 이유를 알아낼 수 없었다. 정확히 무엇이 사망의 원인일까? 또는 질문을 뒤집어서, 수면은 어떤 필수적인 목적을 수행할까? 내가 수면의 수학에 관한 박사 연구를 하고 있을 때, 나는 한 주요 수면 학회에서 저명한 연구자가 이 문제를 해결하려는 최신 시도를 긴장감 있게 설명하는 것을 청중석에서 넋을 잃고 들은 적이 있다. 안타깝게도 그의 실험은 결론에 이르지 못했고 미스터리만 더 깊어졌다.
 
 > 수면의 필요성은 생물학의 가장 근본적인 미해결 문제 중 하나다. 거의 모든 동물이 잔다-포유류, 새, 파충류, 양서류, 물고기, 심지어 초파리와 선충류까지. 이 보편성은 수면이 진화적으로 매우 중요한 기능을 한다는 것을 시사한다. 그러나 그 기능이 무엇인지는 놀랍도록 불분명하다.

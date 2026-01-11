@@ -10,8 +10,6 @@ date: 2019-08-20
 
 ![퍼즐로 변환된 일몰 해변 장면의 삽화.](https://www.quantamagazine.org/wp-content/uploads/2019/08/Hexagonal-Puzzle_2880x1655_Lede.jpg)
 
-Dan Page for Quanta Magazine
-
 ## 서론
 
 삶은 예측 불가능하고, 무작위적인 일들이 우리에게 끊임없이 일어난다. 우주 자체가 무작위적이라고 말할 수도 있을 것이다. 그러나 놀랍게도, 수많은 무작위적 사건들이 모이면 과학이 정확하게 예측할 수 있는 거시적 패턴을 만들어낸다. 열확산(heat diffusion)과 브라운 운동(Brownian motion)이 대표적인 예다.

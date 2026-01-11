@@ -10,8 +10,6 @@ date: 2017-09-11
 
 ![Rebecca Goldin](https://www.quantamagazine.org/wp-content/uploads/2017/09/RGoldin_2880x1920.jpg)
 
-[Max Hirshfeld](https://www.maxpix.com/) for Quanta Magazine
-
 ## 도입
 
 George Mason University의 신입생 오리엔테이션에서 [레베카 골딘(Rebecca Goldin)](http://math.gmu.edu/~rgoldin/)은 충격적인 통계 하나를 언급했다. 최근 연구에 따르면, 대학생의 36%가 4년간의 대학 생활 동안 비판적 사고력이 유의미하게 향상되지 않는다는 것이다. "이 학생들은 사실과 의견을 구별하는 데 어려움을 겪었고, 인과관계와 상관관계를 혼동했습니다"라고 골딘은 설명했다.

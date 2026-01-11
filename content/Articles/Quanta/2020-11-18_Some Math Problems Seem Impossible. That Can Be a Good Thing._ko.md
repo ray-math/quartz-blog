@@ -10,8 +10,6 @@ date: 2020-11-18
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/11/Convex-Octagon_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 도입
 
 *네 개의 직각을 가진 볼록 팔각형을 그려보라.*

@@ -10,8 +10,6 @@ date: 2020-11-20
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/10/Conway_puzzle_2880x1620_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 들어가며
 
 우리의 [10월 인사이트 퍼즐](https://www.quantamagazine.org/three-math-puzzles-inspired-by-john-horton-conway-20201015/)은 전설적인 수학자 존 호튼 콘웨이(John Horton Conway)의 업적을 기념하며, 그의 연구와 관련된 두 가지 수학 문제와 그의 유명한 생명 게임(Game of Life)과 유사한 개방형 게임을 탐구하도록 여러분을 초대했다. 독자들의 열렬한 반응에 기쁨을 느꼈다.

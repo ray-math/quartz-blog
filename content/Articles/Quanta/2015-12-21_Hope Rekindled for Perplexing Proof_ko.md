@@ -10,8 +10,6 @@ date: 2015-12-21
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/12/ABC_Mochizuki_Beckert.jpg)
 
-[Wylie Beckert](http://www.wyliebeckert.com/)for Quanta Magazine
-
 이달 초, 수학계는 3년 동안 공동체를 사로잡아온 미스터리의 진전 신호를 찾기 위해 옥스퍼드 대학교를 향해 눈길을 돌렸다.
 
 그 계기는 [모치즈키 신이치(Shinichi Mochizuki)](http://www.kurims.kyoto-u.ac.jp/~motizuki/top-english.html)의 연구에 관한 학회였다. 교토 대학교의 뛰어난 수학자인 그는 2012년 8월 이해하기 어렵지만 무시할 수 없는 [네 편의 논문](http://www.kurims.kyoto-u.ac.jp/~motizuki/papers-english.html)을 발표했다. 그는 이 연구를 "우주 간 타이히뮐러 이론(inter-universal Teichmüller theory, IUT 이론)"이라 불렀고, 이 논문들이 [정수론(number theory)](https://www.quantamagazine.org/tag/number-theory/)에서 가장 놀라운 미해결 문제 중 하나인 $abc$ 추측의 증명을 담고 있다고 설명했다.
@@ -52,8 +50,6 @@ $abc$ 추측은 또한 프랑스 수학자 [뤼시앵 스피로(Lucien Szpiro)](
 
 [휴식 시간 동안 발표에 대해 논의하는 고 야마시타(Go Yamashita, 왼쪽부터), 아리얀 자반페야르(Ariyan Javanpeykar), 유이치로 호시(Yuichiro Hoshi)](https://www.quantamagazine.org/wp-content/uploads/2015/12/ABC_01.jpg)
 
-[Philipp Ammon](http://www.photoammon.com/#!/index)for Quanta Magazine
-
 정수에서 타원곡선으로의 번역은 수학에서 흔한 것이다. 이는 추측을 더 추상적이고 진술하기 복잡하게 만들지만, 수학자들이 문제에 더 많은 기법을 적용할 수 있게 한다. 이 전략은 [앤드루 와일스(Andrew Wiles)](https://www.maths.ox.ac.uk/people/andrew.wiles)가 1994년 페르마의 마지막 정리를 증명할 때 효과를 발휘했다. 문제의 유명하게 단순하지만 제약적인 공식(2보다 큰 정수 $n$에 대해 $a^{n} + b^{n} = c^{n}$의 양의 정수 해가 없다는 것)으로 작업하는 대신, 그는 두 번 번역했다. 한 번은 타원곡선에 대한 진술로, 그 다음은 타원곡선의 "갈루아 표현(Galois representations)"이라는 또 다른 유형의 수학적 대상에 대한 진술로. 갈루아 표현의 세계에서 그는 원래 문제의 진술에 적용할 수 있는 증명을 생성할 수 있었다.
 
 > 와일스의 전략은 모듈성 정리(Modularity Theorem, 당시는 타니야마-시무라-베유 추측)를 증명하는 것이었다. 이는 "모든 타원곡선은 모듈러 형식(modular form)과 연관된다"는 놀라운 진술이다. 모듈러 형식은 복소 평면의 상반평면에서 특별한 대칭성을 갖는 함수다. 왜 타원곡선(대수기하학적 대상)이 모듈러 형식(해석학적 대상)과 관련되는가? 이는 랭글랜즈 프로그램(Langlands Program)의 일부로, 수학의 서로 다른 분야들 사이의 깊은 연결을 탐구하는 거대한 통합 비전이다. 와일스는 타원곡선을 갈루아 표현으로 번역함으로써 대수적 정수론의 강력한 도구들을 사용할 수 있었고, 이를 통해 페르마의 마지막 정리를 증명했다. 모치즈키도 유사한 철학-적절한 번역을 통해 새로운 도구에 접근한다-을 따르지만, 그의 번역은 훨씬 더 급진적이다.
@@ -91,8 +87,6 @@ $abc$ 추측은 또한 프랑스 수학자 [뤼시앵 스피로(Lucien Szpiro)](
 케들라야의 프로베니오이드 설명은 모인 수학자들에게 모치즈키의 기법이 어떻게 스피로의 추측의 원래 공식으로 되돌아올 수 있는지에 대한 첫 번째 진정한 감각을 제공했다. 다음 단계는 본질적인 것이었다-프로베니오이드의 관점에서의 재구성이 어떻게 잠재적 증명에 진정으로 새롭고 강력한 기법을 적용할 수 있게 만드는지 보여주는 것이었다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/12/ABC_05.jpg)
-
-[Philipp Ammon](http://www.photoammon.com/#!/index)for Quanta Magazine
 
 이러한 기법들은 모치즈키의 네 편의 IUT 이론 논문에 나타나며, 이는 학회의 마지막 이틀 동안 주제였다. 이 논문들을 설명하는 일은 퍼듀 대학교의 [정팡 목(Chung Pang Mok)](http://www.mcm.ac.cn/faculty/cpmok/201409/t20140916_255899.html)과 교토 대학교 수리해석연구소의 모치즈키 동료인 [유이치로 호시(Yuichiro Hoshi)](http://www.kurims.kyoto-u.ac.jp/~yuichiro/index_e.html), [고 야마시타(Go Yamashita)](http://www.kurims.kyoto-u.ac.jp/~gokun/)에게 돌아갔다. 이 세 사람은 모치즈키의 IUT 이론을 이해하는 데 집중적으로 노력한 소수의 사람들 중 하나다. 모든 설명에 따르면, 그들의 강연은 따라가기 불가능했다.
 

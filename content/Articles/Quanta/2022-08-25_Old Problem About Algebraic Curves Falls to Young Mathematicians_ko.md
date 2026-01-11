@@ -10,8 +10,6 @@ date: 2022-08-25
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Curves_2560_Lede.jpg)
 
-Nadzeya Makeyeva for Quanta Magazine
-
 ## 서론
 
 기하학의 기본 사실 하나가 수천 년 동안 알려져 있다. 평면 위의 임의의 두 점을 지나는 직선을 그을 수 있다는 것이다. 점이 더 많아지면 운이 다한다. 세 개 이상의 점이 모두 한 직선 위에 놓일 가능성은 거의 없다. 하지만 임의의 세 점을 지나는 원을 그을 수 있고, 임의의 다섯 점을 지나는 원뿔 곡선(타원, 포물선, 쌍곡선)을 그을 수 있다.

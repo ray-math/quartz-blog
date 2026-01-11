@@ -10,8 +10,6 @@ date: 2020-01-15
 
 ![다양한 과학적·수학적 주제에 대해 팟캐스트 게스트의 이야기를 듣고 있는 스티븐 스트로가츠](https://www.quantamagazine.org/wp-content/uploads/2020/01/JoyOfX_Steve-Strogatz_2880x1620_Lede.jpg)
 
-[Ashley Mackenzie](http://ashmackenzie.com/) for Quanta Magazine
-
 ## 들어가며
 
 1970년대 십대 시절, 나는 고등학교 도서관에 있는 크고 부드러운 벨벳 의자에 푹 파묻혀 책을 읽는 것을 무척 좋아했다. 탄 오렌지색 천(70년대라고 말했지 않던가)으로 덮인 그 의자에서, 나는 위대한 과학자들의 회고록 속으로 빠져들곤 했다. 그 자서전들 중 하나인 베르너 하이젠베르크의 《부분과 전체: 만남과 대화》는 내게 지속적인 인상을 남겼다. 그 책에서 하이젠베르크는 젊은 박사후연구원 시절 한 문제에 절망적으로 막혀 있던 경험을 묘사한다. 설상가상으로, 그는 극심한 꽃가루 알레르기로 고생하고 있어서 2주간 휴가를 내고 북해의 외딴 섬, 꽃가루가 없는 곳으로 도피해야 했다. 어느 날 밤, 그는 갑자기 문제의 해답을 보았다. 너무 흥분해서 잠을 잘 수 없었고, 새날이 밝아오자 "바다로 튀어나온 바위를 올라가 해가 뜨기를 기다렸다." 그날 밤의 깨달음은 이제 양자역학(quantum mechanics)이라고 불린다.
@@ -39,8 +37,6 @@ date: 2020-01-15
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/01/JoyOfX_Portraits-2000.jpg)
 
 팟캐스트 게스트들은 왼쪽에서 오른쪽으로, 위부터: Alex Kontorovich, Janna Levin, Robbert Dijkgraaf, Leslie Vosshall; 중간 행: Cori Bargmann, Corina Tarnita, Priyamvada Natarajan, Brian Keating; 아래 행: Tadashi Tokieda, Brian Nosek, Moon Duchin, John Urschel, Rebecca Goldin.
-
-(Kontorovich) AMS by Laurie DeWitt from Pure Light Images; (Levin) Sonja Georgevich; (Dijkgraaf) Gabi Porter, Institute for Advanced Study; (Vosshall) Frank Veronsky; (Bargmann) Chandler West/CZI; (Tarnita) [Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine; (Natarajan) [Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine; (Keating) Carson Nicely; (Tokieda) [Constanza Hevia H.](https://www.constanzahevia.com/thetimeihaveleft) for Quanta Magazine; (Nosek) Dan Addison | UVA Communications; (Duchin) Alonso Nichols/Tufts University; (Urschel) Courtesy John Urschel; (Goldin) [Max Hirshfeld](https://www.maxpix.com/) for Quanta Magazine
 
 내가 대화를 나눈 과학자들은 확실히 나에게 많은 것을 가르쳐 주었다. 한 에피소드에서 들을 수 있듯이, 천체물리학자 [재나 레빈(Janna Levin)](https://www.quantamagazine.org/janna-levin-on-seeing-and-hearing-black-holes-20200303/)은 블랙홀에 대해 나를 가르쳤지만, 내가 훨씬 더 즐거웠던 것은 왜 그녀가 블랙홀에 그렇게 집착하는지에 대한 그녀의 설명이었다. 내가 "당신에게 블랙홀의 무엇이 그렇게 특별한가요?"라고 물었을 때, 그녀는 나를 입을 떡 벌리게 만드는 놀라운 즉흥 이야기를 풀어놓았다. 그리고 놀란 것은 나만이 아니었다. 그 내내, 내가 스튜디오 창문을 통해 조정실을 들여다보는 동안, 오디오 엔지니어인 버트 오덤-리드도 똑같이 입을 벌리고 있었다.
 

@@ -10,8 +10,6 @@ date: 2020-12-09
 
 ![빨간 줄에 묶여 두 원의 교차점에서 풀을 뜯는 검은 염소의 일러스트](https://www.quantamagazine.org/wp-content/uploads/2020/12/Goat-Problem_2600_Lede.jpg)
 
-[Dappermouth](https://www.instagram.com/dappermouth) for Quanta Magazine
-
 ## 서론
 
 다음과 같이 단순하게 들리는 문제를 생각해보자: 1에이커의 풀밭을 둘러싸는 원형 울타리가 있다. 울타리 안쪽에 염소를 묶는다면, 이 동물이 정확히 0.5에이커에 접근할 수 있도록 하려면 밧줄의 길이가 얼마나 되어야 할까?

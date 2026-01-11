@@ -10,8 +10,6 @@ date: 2022-06-30
 
 ![16세기 과학자 니콜로 폰타나 타르탈리아와 제롤라모 카르다노 사이에 그려진 3차 방정식 그래프](https://www.quantamagazine.org/wp-content/uploads/2022/06/Cubic-Equations_2880x1620_Lede-scaled.jpg)
 
-Kristina Armitage for Quanta Magazine
-
 ## 서론
 
 역사는 뒤통수를 치는 경쟁으로 가득하다. 에디슨과 테슬라, 하딩과 케리건, 투팍과 비기. 16세기 이탈리아 수학자들 사이의 갈등도 이에 못지않게 극적이었다. 한쪽은 뛰어나지만 문제 많은 박식가 제롤라모 카르다노(Gerolamo Cardano), 다른 쪽은 니콜로 폰타나(Niccolò Fontana)로 더 잘 알려진 타르탈리아(Tartaglia, "말더듬이"라는 뜻으로, 십대 시절 프랑스 군인의 칼에 얼굴을 다친 후 얻은 별명)였다. 갈등의 중심에는 3차 방정식이 있었다.

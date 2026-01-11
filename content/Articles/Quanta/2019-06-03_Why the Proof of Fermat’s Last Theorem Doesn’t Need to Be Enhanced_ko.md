@@ -10,8 +10,6 @@ date: 2019-06-03
 
 ![페르마의 마지막 정리 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2019/06/Fermat_2880x1550_Lede.jpg)
 
-[James O'Brien](http://www.obrien-studio.com/) for Quanta Magazine
-
 ## 서론
 
 지난 6월 23일은 앤드류 와일스(Andrew Wiles)가 페르마의 마지막 정리(Fermat's Last Theorem)를 증명했다고 발표한 지 25주년이 되는 날이었다. 그는 350년 동안 미해결로 남아있던, 수학에서 가장 유명한 문제를 해결했다. 와일스의 증명을 둘러싼 전설-그가 7년 동안 비밀리에 문제를 연구한 것, 6월 발표 몇 달 후 증명에서 발견된 오류, 1년 후 그의 제자였던 리처드 테일러(Richard Taylor)와 함께 쓴 공동 논문에서 우아하게 해결한 것, 그리고 2000년의 기사 작위-는 수학 전설의 연대기에 기록되었다.

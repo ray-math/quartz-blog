@@ -10,8 +10,6 @@ date: 2017-11-20
 
 ![Federico Ardila](https://www.quantamagazine.org/wp-content/uploads/2017/11/Federico_Ardila_2880x1620.jpg)
 
-[Jason Henry](http://jasonhenryphoto.tumblr.com/) for Quanta Magazine
-
 ## 서론
 
 "Nadie te quita lo bailado." (네가 춤춘 것은 아무도 빼앗아갈 수 없다.)
@@ -133,8 +131,6 @@ Jorge E. Ardila
 ![2017년 오클랜드의 Life Is Living Festival에서 DJ 하는 페데리코 아르딜라](https://www.quantamagazine.org/wp-content/uploads/2017/11/Federico_Ardila_2880x1750.jpg)
 
 2017년 오클랜드의 Life Is Living Festival에서 DJ 하는 페데리코 아르딜라.
-
-[Jason Henry](http://jasonhenryphoto.tumblr.com/) for Quanta Magazine
 
 ### 거의 10년 전에 오클랜드에 기반을 둔 DJ 콜렉티브를 설립하셨습니다. 그것은 수학자이자 교사로서의 작업과 어떻게 연결됩니까?
 

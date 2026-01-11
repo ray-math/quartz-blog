@@ -12,8 +12,6 @@ date: 2018-12-10
 
 특정 다항식 방정식은 더 작은 단위로 쪼갤 수 있다.
 
-[Hannah Li](https://www.hannahliart.com/) for Quanta Magazine
-
 ## 들어가며
 
 소수(prime numbers)는 모든 사랑을 독차지한다. 수많은 대중적인 이야기의 주인공이고, 수학에서 가장 유명한 미해결 문제들의 중심에 서 있다. 그러나 거의 똑같이 근본적이면서도 훨씬 덜 주목받는 또 다른 수학적 현상이 있다. 바로 소 방정식(prime equations)이다.

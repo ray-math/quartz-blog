@@ -10,8 +10,6 @@ date: 2017-03-30
 
 ![삽화: 새로운 수학을 찾는 다이버](https://www.quantamagazine.org/wp-content/uploads/2017/03/diver-math-1.jpg)
 
-[James O'Brien](http://www.obrien-studio.com/) for Quanta Magazine
-
 ## 서론
 
 수학은 우리가 생각하는 것보다 훨씬 더 '환경과학'에 가까운 학문일지도 모른다. 비록 영원한 진리를 탐구하는 학문이지만, 많은 수학적 개념들은 일상적 경험에서 그 기원을 찾을 수 있다. 점성술과 건축술은 이집트인과 바빌로니아인들이 기하학을 발전시키는 영감을 주었다. 17세기 과학혁명 시기의 역학 연구는 우리에게 미적분학을 가져다주었다.

@@ -12,8 +12,6 @@ date: 2022-07-05
 
 제네바 바스티옹 공원(Parc des Bastions)에 선 위고 뒤미닐-코팽. 한 동료의 말에 따르면 "위고는 매우, 매우 낙관적입니다. 그는 무언가가 작동하기를 원하죠."
 
-Samuel Rubio for Quanta Magazine
-
 ## 들어가며
 
 제네바 대학교(University of Geneva) 수학과는 보통 조용하고 고요하다-단, [위고 뒤미닐-코팽(Hugo Duminil-Copin)](https://www.ihes.fr/~duminil/)의 사무실에서 복도를 따라 목소리가 울려 퍼질 때는 예외다. 그리고 그런 일은 드물지 않다. "우리가 하고 있는 일에 너무 흥분해서 서로에게 소리를 지르는 것으로 학과 내에서 알려져 있었어요." 프리부르 대학교(University of Fribourg)의 수학자이자 뒤미닐-코팽의 전 박사후연구원이었던 [이오안 마놀레스쿠(Ioan Manolescu)](https://homeweb.unifr.ch/manolesc/Pub/)가 말했다. 때때로 그들의 목소리가 절정에 달하면, 이웃 교수가 소음에 대해 불평할 수도 있었고, 그러면 그들은 사무실 문을 닫아야 했다. "우리는 동료들에게 미움을 받았죠." 뒤미닐-코팽이 농담조로 말했다.
@@ -31,8 +29,6 @@ Samuel Rubio for Quanta Magazine
 > 퍼콜레이션(Percolation)이란 원래 '스며들다', '여과하다'라는 뜻의 라틴어에서 유래한 말로, 커피 필터로 물이 천천히 스며드는 현상을 떠올리면 된다. 수학적 퍼콜레이션 이론은 1957년 존 해머슬리(John Hammersley)와 사이먼 브로드벤트(Simon Broadbent)가 방독면 필터의 효과를 연구하다가 처음 제안했다. 무작위로 막히거나 열린 구멍들이 있는 매질에서 유체가 한쪽 끝에서 다른 쪽 끝으로 통과할 수 있는지를 다룬다. 이 간단해 보이는 질문이 놀랍도록 심오한 수학적 구조를 담고 있으며, 통계물리학, 재료과학, 네트워크 이론, 전염병학 등 수많은 분야의 기초가 된다.
 
 ![Hugo Duminil-Copin in a chair with a laptop.](https://www.quantamagazine.org/wp-content/uploads/2018/07/HDC_Sitting.jpg)
-
-Samuel Rubio for Quanta Magazine
 
 "어떻게든 그가 이 분야를 통과하고 나면, 더 이상 알아볼 수 없게 됩니다." 베르너가 말했다. "모든 것이 더 쉬워지고, 간소화됩니다. 결과들은 더 강력해지고... 이러한 물리적 현상들에 대한 전체적인 이해가 변혁되었습니다."
 
@@ -53,8 +49,6 @@ Samuel Rubio for Quanta Magazine
 ![large photo of a man with dark curly hair standing behind a desk with a large computer](https://www.quantamagazine.org/wp-content/uploads/2018/07/HDC_Office-NEW-CROP.jpg)
 
 제네바 대학교 사무실의 뒤미닐-코팽.
-
-Samuel Rubio for Quanta Magazine
 
 "저는 결코 낙담하지 않습니다. 저는 제가 하는 일을 최소한 즐길 것이라는 점에 대해 항상 긍정적입니다." 그가 말했다.
 
@@ -140,8 +134,6 @@ Samuel Rubio for Quanta Magazine
 
 ![three photos of a light-skinned man with dark curly hair and dark round glasses working at a computer](https://www.quantamagazine.org/wp-content/uploads/2018/07/HDC_Triprych-scaled.jpg)
 
-Samuel Rubio for Quanta Magazine
-
 이것의 대부분은 베르누이 퍼콜레이션에 대해 이미 알려져 있었다. 베르누이 퍼콜레이션은 독립적인 동전 던지기를 통해 검은 모서리의 존재 여부가 결정되는 단순한 모델이다. 그러나 대부분의 퍼콜레이션 모델의 경우, 그렇지 않다. 대신, 격자의 한 부분에 검은 모서리가 존재하는 것은 다른 곳에 검은 모서리가 있는지 여부에 영향을 미칠 것이다. 이러한 장거리 의존성(long-range dependencies) 때문에, 그러한 퍼콜레이션 모델은 이해하기가 훨씬 더 어렵다.
 
 그러나 그것들은 또한 현실의 더 나은 모델이다. 검은 모서리의 경로는 자석과 같은 자연 시스템의 다른 부분들 사이의 상관관계나 통신 채널을 나타낼 수 있다. 사실, 뒤미닐-코팽은 종종 의존적 퍼콜레이션 모델을 사용하여 강자성체와 관련 시스템의 행동을 연구하는 데 사용되는 이징 모델(Ising model)에 대한 통찰을 얻었다.
@@ -181,8 +173,6 @@ Samuel Rubio for Quanta Magazine
 ![Hugo Duminil-Copin smiling.](https://www.quantamagazine.org/wp-content/uploads/2018/07/HDC_Close-up.jpg)
 
 "저는 그렇게 자신감이 있는 것은 아닙니다." 뒤미닐-코팽이 말했다. 그러나 "저는 제가 하는 일을 최소한 즐길 것이라는 점에 대해 항상 긍정적입니다."
-
-Samuel Rubio for Quanta Magazine
 
 뒤미닐-코팽에게 가능한 한 일반적이고 우아한 명확한 논문을 쓰는 것은 존중의 문제다: 그것을 읽는 데 시간을 보낼 수학자들을 위해, 그리고 그것을 기반으로 구축하거나 자신의 연구에 사용하고 싶어 할 사람들을 위해. 그것은 증명을 그 본질로 정제하고 불필요하거나 혼란스러운 부분을 잘라내면서 몇 년을 보내는 것을 의미할 수 있다. 또는 [한 주요 연구에서](https://link.springer.com/article/10.1007/s00220-015-2480-z) 그가 했듯이, 새로운 학생들이 분야의 핵심 부분에 대해 배우는 방식을 변혁시킬 방식으로 기존 증명을 단순화하는 것을. "그는 진정으로 실제로 설명하는 것을 신경 쓰고, 단순히 그것을 실제로 증명한 첫 번째 사람이 되는 것만이 아닙니다." 하이러가 말했다.
 

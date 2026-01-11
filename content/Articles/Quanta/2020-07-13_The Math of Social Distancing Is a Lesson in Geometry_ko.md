@@ -10,8 +10,6 @@ date: 2020-07-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/07/Social-Distancing_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 구 채우기(sphere packing) 문제는 수학자만 좋아할 법한 주제처럼 보일 수 있다. 평면에 원을 배치하거나 공간에 구를 배치하는 가장 효율적인 방법을 찾는 것에 누가 흥분할 수 있겠는가?

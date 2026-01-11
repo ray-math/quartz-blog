@@ -10,8 +10,6 @@ date: 2022-04-08
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/Zugzwang_2880_Lede.jpg)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 두 명의 플레이어나 팀이 대결하는 대부분의 게임에서는 누군가가 먼저 수를 두어야 한다. 이는 게임에 내재된 비대칭성을 만들어내고, 자연스럽게 한 가지 질문이 제기된다: 먼저 가는 것이 유리할까, 나중에 가는 것이 유리할까?

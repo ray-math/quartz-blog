@@ -9,8 +9,6 @@ date: 2020-12-07
 
 캘리포니아 버클리 자택에서 딸과 함께 있는 컴퓨터 과학자 젤라니 넬슨.
 
-[Constanza Hevia](https://www.constanzahevia.com/) for Quanta Magazine
-
 ## 서론
 
 [젤라니 넬슨(Jelani Nelson)](https://people.eecs.berkeley.edu/~minilek/)에게 알고리즘은 끝없이 펼쳐진 놀이터와 같다. "설계 공간이 너무나 광활해서 무엇을 생각해낼 수 있을지 탐험하는 것 자체가 즐겁습니다"라고 그는 말한다.
@@ -38,8 +36,6 @@ date: 2020-12-07
 ![2개 부분으로 나뉜 사진. 왼쪽 이미지는 의자에 앉아 무릎 위의 공책에 글을 쓰며 책상에 발을 올린 젤라니 넬슨. 오른쪽 이미지는 그가 작업 중인 코드를 보여주는 넬슨의 노트북 화면.](https://www.quantamagazine.org/wp-content/uploads/2020/12/Jelani-Nelson_Working_02.jpg)
 
 젤라니 넬슨은 미국령 버진 아일랜드에서 자랐다. 그는 미국 본토에서 가져온 교과서로 코딩을 배웠다.
-
-[Constanza Hevia](https://www.constanzahevia.com/) for Quanta Magazine
 
 ### 컴퓨터 과학에 처음 관심을 갖게 된 것은 언제였나요?
 
@@ -126,8 +122,6 @@ Courtesy of Jelani Nelson
 ![책상에서 글을 쓰고 있는 젤라니 넬슨의 클로즈업.](https://www.quantamagazine.org/wp-content/uploads/2020/12/Jelani-Nelson_Work_03.jpg)
 
 넬슨은 알고리즘 설계가 실제로는 인간 정신의 창의적 능력에 의해서만 제한된다고 생각한다.
-
-[Constanza Hevia](https://www.constanzahevia.com/) for Quanta Magazine
 
 ### 그렇다면 추정을 최대한 정확하게 유지하기 위해 어떤 희생을 해야 하나요?
 

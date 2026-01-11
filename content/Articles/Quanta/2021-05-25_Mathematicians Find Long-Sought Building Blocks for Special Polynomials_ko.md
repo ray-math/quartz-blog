@@ -10,8 +10,6 @@ date: 2021-05-25
 
 ![큰 구조물을 건설하는 인물들의 삽화, 최신 추가 부분에 새로운 재료가 사용되고 있다](https://www.quantamagazine.org/wp-content/uploads/2021/05/Hilberts-12th_2880_Lede.jpg)
 
-[Jaki King](https://www.designbyjaki.com/) for Quanta Magazine
-
 ## 서론
 
 수학의 문제들은 종종 단순한 "예 또는 아니오" 구조를 가진다: 이 명제가 참인가 거짓인가? 그러나 가장 지속적이고 흥미로운 문제들은 수십 년의 작업 산물로서 여러 세대에 걸쳐 전파되는데, 마치 완성까지 수 세기가 걸린 중세 대성당과도 같다. 이러한 질문들에 대한 답은 새로운 문을 열고 계속해서 건설할 수 있는 새로운 구조를 제공한다.

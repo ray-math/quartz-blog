@@ -10,8 +10,6 @@ date: 2021-02-10
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/02/Ants_2560_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 서론
 
 5년간의 [Insights 퍼즐](https://www.quantamagazine.org/tag/insights-puzzle/) 연재를 통해, 우리는 칼럼의 이름에 걸맞은 질문들을 제시하고자 노력해왔다. 때로는 의도한 통찰이 과학적 질문들을 비추는 단순화된 시나리오에 기반했다-예를 들어 [벨의 정리(Bell's theorem)](https://www.quantamagazine.org/quantum-entanglement-puzzle-solution-20170310/)나 [유전(heredity)](https://www.quantamagazine.org/puzzle-answers-about-sexual-inheritance-and-mixed-dog-breeds-20200731/)처럼. 또 어떤 때는 철학적 질문들을 탐구했다-[수학에서의 우아함(elegance)](https://www.quantamagazine.org/puzzle-solution-natural-law-and-elegant-math-20200117/)이나 [무작위성(randomness)](https://www.quantamagazine.org/solution-randomness-from-determinism-20191122/)처럼. 그 외에도 [회전된 그래핀 시트의 초전도성](https://www.quantamagazine.org/puzzle-solution-magic-moire-in-graphene-20190726/)과 같은 최첨단 발견들을 다루기도 했다.

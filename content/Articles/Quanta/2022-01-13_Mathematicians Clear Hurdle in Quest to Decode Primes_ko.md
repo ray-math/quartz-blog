@@ -10,8 +10,6 @@ date: 2022-01-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/01/L-Functions_2880_Lede.jpg)
 
-Mia Carnevale for Quanta Magazine
-
 ## 서론
 
 베른하르트 리만(Bernhard Riemann)이 소수의 분포에 관한 근본적인 질문을 제기한 지 162년이 흘렀다. 최선을 다했음에도 불구하고, 수학자들은 리만 가설(Riemann hypothesis)에서 거의 진전을 이루지 못했다. 그러나 이와 관련된 더 단순한 문제들에서는 상당한 진전을 이루어냈다.

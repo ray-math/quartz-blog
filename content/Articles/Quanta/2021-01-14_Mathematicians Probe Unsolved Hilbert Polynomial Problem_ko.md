@@ -10,8 +10,6 @@ date: 2021-01-14
 
 ![다항식으로 둘러싸인 동굴을 내려가는 수학자들을 묘사한 일러스트](https://www.quantamagazine.org/wp-content/uploads/2021/01/Hilberts_13th_2880_Lede.jpg)
 
-[Ricardo Bessa](https://www.ricardobessa.com/) for Quanta Magazine
-
 ## 서론
 
 수학에서 성공은 드물다. 벤슨 파브(Benson Farb)에게 물어보라.

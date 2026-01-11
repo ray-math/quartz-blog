@@ -10,8 +10,6 @@ date: 2019-02-06
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/02/Sum-Product-Problem_2880x1620.jpg)
 
-[Corey Brickley](https://coreybrickley.com/projects) for Quanta Magazine
-
 ## 서론
 
 1983년, 다작의 추측 제안자 Paul Erdős는 한 가지 수학 문제를 제시했다: 어떤 숫자 집합이든 마음대로 선택하라. 이는 1부터 12까지의 자연수일 수도 있고, 처음 10,000개의 소수일 수도 있으며, 당신의 대가족 모든 구성원의 생일 날짜일 수도 있다. 이 숫자들을 정사각형 격자로 배열하되, 하단 가로줄과 왼쪽 세로줄에 같은 숫자 목록을 배치한다. 그런 다음 격자를 교차하는 두 숫자 쌍의 합 또는 곱으로 채워 넣는다.

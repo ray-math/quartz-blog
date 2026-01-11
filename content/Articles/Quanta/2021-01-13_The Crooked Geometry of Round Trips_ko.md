@@ -10,8 +10,6 @@ date: 2021-01-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/01/CubePath_2880_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 지구가 구 모양이 아니라면 삶이 어떨지 궁금해 본 적이 있는가? 우리는 행성의 회전 대칭성이 제공하는 태양계에서의 부드러운 여행과 매끄러운 일몰을 당연하게 여긴다. 둥근 지구는 또한 점 $A$에서 점 $B$로 가는 가장 빠른 길을 찾기 쉽게 만든다. 두 점을 지나며 구를 반으로 자르는 원을 따라 이동하면 된다. 우리는 이러한 최단 경로를 측지선(geodesic)이라 부르며, 비행기 항로와 인공위성 궤도를 계획할 때 사용한다.

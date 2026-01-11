@@ -12,8 +12,6 @@ date: 2019-04-11
 
 ![Art for "Mathematicians Discover the Perfect Way to Multiply"](https://www.quantamagazine.org/wp-content/uploads/2019/04/Multiplication_1920x1080_Lede.gif)
 
-[Mengxin Li](https://mengxinli.com/) for Quanta Magazine
-
 ## 서론
 
 4000년 전, 바빌로니아인들이 곱셈을 발명했다. 그리고 지난달, 수학자들이 그것을 완성했다.

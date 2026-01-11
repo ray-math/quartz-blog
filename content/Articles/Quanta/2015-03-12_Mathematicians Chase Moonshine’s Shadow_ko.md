@@ -10,8 +10,6 @@ date: 2015-03-12
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/03/MonstrousMoonshine_996x560.jpg)
 
-[Peter Diamond](http://www.peterdiamond.ca/)for Quanta Magazine
-
 1978년, 수학자 [존 맥케이(John McKay)](https://www.concordia.ca/artsci/math-stats/profiles/john-mckay.html)는 이상한 우연처럼 보이는 것을 발견했다. 그는 괴물군(monster group)이라 불리는 수수께끼 같은 존재의 구조를 표현하는 여러 방법을 연구하고 있었다. 괴물군은 새로운 종류의 대칭성을 포착하는 거대한 대수적 대상이었다. 수학자들은 괴물군이 실제로 존재하는지 확신하지 못했지만, 만약 존재한다면 특정 차원에서 특별한 방식으로 작용한다는 것을 알고 있었다. 그 처음 두 차원은 1과 196,883이었다.
 
 > 유한 단순군(finite simple groups)은 대칭성 이론에서 '원자'와 같은 역할을 한다-더 이상 쪼갤 수 없는 기본 단위다. 19세기 말부터 수학자들은 모든 유한 단순군을 분류하는 대장정을 시작했고, 1980년대에 이르러 이 분류가 완성되었다. 결과는 놀라웠다: 대부분은 몇 개의 무한 패밀리로 깔끔하게 정리되었지만, 26개의 '산발적(sporadic)' 군들이 어떤 패턴에도 맞지 않았다. 괴물군은 이 산발적 군들 중 가장 크고, 1981년에야 실제로 구성되었다. 그 크기는 약 $8 \times 10^{53}$개의 원소를 가지고 있어서, 우주에 있는 모든 원자의 수보다도 많다. '괴물(monster)'이라는 이름은 그저 수사적 표현이 아니다.

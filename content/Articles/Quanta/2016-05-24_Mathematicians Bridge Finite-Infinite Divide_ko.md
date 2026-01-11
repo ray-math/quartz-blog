@@ -10,8 +10,6 @@ date: 2016-05-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/WylieBeckert_RamseyTheory_1K.jpg)
 
-[Wylie Beckert](http://www.wyliebeckert.com/) for Quanta Magazine
-
 ## 서론
 
 놀라운 새 증명을 통해 두 젊은 수학자가 유한과 무한 사이의 간극을 가로지르는 다리를 발견했고, 동시에 이 기묘한 경계를 지도화하는 데 도움을 주었다.
@@ -45,8 +43,6 @@ $RT_{2}^{2}$의 색칠 가능하고 분할 가능한 무한 집합들은 실제 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/Ramsey_Triples-450-rev.png)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/RamseyGraphic_2000.jpg)
-
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
 
 이는 부분적으로 이전 연구가 세 쌍에 대한 램지 정리(Ramsey's theorem for triples), 즉 $RT_{2}^{3}$는 유한론적으로 환원 가능하지 않다는 것을 증명했기 때문이었다: 무한 집합에서 대상들의 세 쌍을 (어떤 규칙에 따라) 빨간색이나 파란색으로 칠할 때, $RT_{2}^{3}$가 말하는 무한한 단색 세 쌍의 부분집합은 유한론적 추론으로 환원하기에는 너무 복잡한 무한이다. 즉, $RT_{2}^{2}$의 무한에 비해 $RT_{2}^{3}$의 무한은, 말하자면, 더 절망적으로 무한하다.
 
@@ -91,8 +87,6 @@ $RT_{2}^{2}$의 색칠 가능하고 분할 가능한 무한 집합들은 실제 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/Ramsey_Triples-450-rev.png)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/05/Ramsey_Triples-615-rev.png)
-
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
 
 "그 이후로 $RT_{2}^{2}$에 관한 많은 중요한 논문들이 출판되었습니다"라고 바이어만은 말했다-가장 중요하게는, 리우 지아이(Jiayi Liu)의 2012년 결과(1960년대 [Carl Jockusch](http://www.math.uiuc.edu/~jockusch/)의 결과와 짝을 이룸)가 $RT_{2}^{2}$는 계층 구조의 두 번째 수준, 즉 $RT_{2}^{3}$보다 한 단계 아래에 위치한 논리 체계에 의해 증명될 수도 없고 그것을 증명할 수도 없음을 보였다. 두 번째 수준 체계는 "[원시 재귀 산술(primitive recursive arithmetic)](http://home.uchicago.edu/~wwtx/PRA2.pdf)"로 유한론적으로 환원 가능한 것으로 알려져 있으며, 이는 가장 강력한 유한론적 논리 체계로 널리 여겨진다. 문제는 $RT_{2}^{2}$가 계층 구조의 두 번째 수준에 속하지 않음에도 불구하고 원시 재귀 산술로도 환원 가능할지, 아니면 더 강한 무한론적 공리가 필요할지였다. "$RT_{2}^{2}$의 최종 분류는 손이 닿지 않는 것처럼 보였습니다"라고 바이어만은 말했다.
 

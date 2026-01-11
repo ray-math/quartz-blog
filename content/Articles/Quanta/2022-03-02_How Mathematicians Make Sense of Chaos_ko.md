@@ -10,8 +10,6 @@ date: 2022-03-02
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/03/Chaos-Theory_Lede_2560.jpg)
 
-Maggie Chiang for Quanta Magazine
-
 ## 서론
 
 1885년, 스웨덴의 오스카 2세는 네 가지 수학 문제로 구성된 공개 현상 공모를 발표했다. 프랑스의 박학자(polymath) 앙리 푸앵카레(Henri Poincaré)는 천체의 운동과 관련된 문제, 이른바 $n$-체 문제(n-body problem)에 집중했다. 우리 태양계는 시계처럼 정확한 운동을 영원히 계속할 것인가, 행성들이 허공으로 날아가 버릴 것인가, 아니면 불타는 태양으로 붕괴할 것인가?

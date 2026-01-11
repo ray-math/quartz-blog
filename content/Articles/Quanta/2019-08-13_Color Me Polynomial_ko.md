@@ -10,8 +10,6 @@ date: 2019-08-13
 
 ![Art for "Color Me Polynomial"](https://www.quantamagazine.org/wp-content/uploads/2019/08/PolynomialAcademy-2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 2015년, 시인에서 수학자로 전향한 허준이(June Huh)는 약 50년 전에 제기된 문제를 해결하는 데 기여했다. 이 문제는 "매트로이드(matroids)"라는 복잡한 수학적 대상, 그리고 점과 선의 조합 또는 그래프에 관한 것이었다. 그러나 동시에 이것은 다항식에 관한 질문이기도 했다-학창 시절 수학 시간에 접했던, 여러 거듭제곱으로 올라간 변수들의 합으로 이루어진 익숙한 표현 말이다.

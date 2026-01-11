@@ -10,8 +10,6 @@ date: 2021-09-09
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/Freedman-Proof_2880_Lede.jpg)
 
-[Grace Park](https://grace-illustration.com/) for Quanta Magazine
-
 ## 서론
 
 수학적 지식 중 가장 중요한 조각 중 하나가 영원히 사라질 뻔했다. 이제 새 책이 이를 구하려 한다.

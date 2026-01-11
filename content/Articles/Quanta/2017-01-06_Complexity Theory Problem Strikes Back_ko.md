@@ -10,8 +10,6 @@ date: 2017-01-06
 
 ![삽화: 권투 글러브와 그래프](https://www.quantamagazine.org/wp-content/uploads/2017/01/Punch_1000.png)
 
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/)for Quanta Magazine
-
 이론 컴퓨터 과학자 [László Babai](http://people.cs.uchicago.edu/~laci/)가 불과 1년 전 컴퓨터 과학계를 놀라게 했던 주장을 [철회했다](http://people.cs.uchicago.edu/~laci/update.html). 2015년 11월, 그는 이론 컴퓨터 과학에서 가장 유명한 문제 중 하나인 그래프 동형 문제(graph isomorphism problem)에 대한 ["준다항(quasi-polynomial)" 알고리즘](https://www.quantamagazine.org/20151214-graph-isomorphism-algorithm/)을 개발했다고 발표했다. Babai의 결과가 완전히 무너진 것은 아니다-컴퓨터 과학자들은 여전히 그것을 돌파구로 간주한다-그러나 1년간의 면밀한 검토 끝에 핵심 주장에 미묘한 오류가 발견되었다. (*2017년 1월 9일 업데이트:* Babai는 오류를 수정했으며 알고리즘이 준다항 시간에 실행된다는 주장을 갱신했다고 [발표했다](http://people.cs.uchicago.edu/~laci/update.html). 그는 "업데이트된 arXiv 게시물을 작업 중"이라고 덧붙였다.)
 
 > 그래프 동형 문제는 두 그래프가 본질적으로 같은 구조인지 판별하는 문제다. 예를 들어 소셜 네트워크에서 사람들을 노드로, 친구 관계를 엣지로 나타낸 두 그래프를 생각해보자. 노드의 라벨(이름)이 다르더라도, 관계 구조가 동일하다면 두 그래프는 '동형(isomorphic)'이다. 이는 마치 같은 분자 구조를 가진 화합물을 다른 각도에서 보거나 원자에 다른 번호를 매긴 것과 같다. 수학적으로는 일대일 대응 함수 $f$가 존재하여 그래프 $G_1$의 임의의 두 노드 $u, v$ 사이에 엣지가 있으면 그래프 $G_2$의 대응하는 노드 $f(u), f(v)$ 사이에도 엣지가 있고 그 역도 성립하는 경우를 말한다. 실용적 응용으로는 화학에서 분자 구조 비교, 생물학에서 단백질 상호작용 네트워크 분석, 컴퓨터 비전에서 패턴 인식 등이 있다.

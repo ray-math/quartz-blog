@@ -10,8 +10,6 @@ date: 2015-09-02
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/09/DVDP_ObfuscatedCode_613x343.gif)
 
-[davidope](http://dvdp.tumblr.com/)for Quanta Magazine
-
 2013년 7월, [두 편의 연구가 암호학계를 들끓게 만들었다](https://www.quantamagazine.org/20140130-perfecting-the-art-of-sensible-nonsense/). 연구자들이 자신들의 작업을 공유하는 온라인 아카이브에 며칠 간격으로 게시된 이 논문들은, 소프트웨어 프로그램 내부의 비밀을 숨기는 [강력한](https://eprint.iacr.org/2013/451) [새로운 방법](https://eprint.iacr.org/2013/454)을 함께 설명했다.
 
 이 방법은 "식별 불가능 난독화(indistinguishability obfuscation)", 줄여서 IO라고 불렸다. 저자들은 이것을 모든 암호학의 "중심 허브"로 선전했다-공개 키(public key)나 선택적 보안 서명(selectively secure signature)과 같은 익숙한 암호학 도구들을 재구성할 수 있는 통합된 기반이라는 것이다. 논문들은 또한 IO가 수학적으로 어떤 모습일지 처음으로 시연해 보이려는 시도를 했다.

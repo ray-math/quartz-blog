@@ -12,8 +12,6 @@ date: 2021-06-24
 
 고등연구소의 스토니 브룩(Stony Brook) 위 다리를 건너는 네이선 사이버그.
 
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
-
 ## 서론
 
 64세의 [네이선 사이버그(Nathan Seiberg)](https://www.ias.edu/sns/seiberg)는 여전히 뉴저지주 프린스턴에 있는 자택의 전기 작업을 직접 하고, 심지어 배관 작업도 일부 손수 한다. 이스라엘에서 성장하던 어린 시절 자동차를 손보고 라디오를 만들면서 키운 관심사다.
@@ -45,8 +43,6 @@ date: 2021-06-24
 ![책으로 가득 찬 여러 선반 앞 안락의자에 앉아 있는 사이버그의 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/06/Nathan-Seiberg_2K_Library.jpg)
 
 사이버그는 비교적 최근에야 분리된 학문 분야가 된 수학과 물리학이 언젠가 같은 깊은 지적 구조 아래 다시 합쳐질 것이라고 생각한다.
-
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
 
 ### 수학과 물리학은 오랜 역사를 함께해왔습니다. 수세기에 걸쳐 그들이 서로에게 영향을 준 가장 중요한 방식들은 무엇입니까?
 
@@ -117,8 +113,6 @@ date: 2021-06-24
 ![사무실 책상에서 글을 쓰고 있는 사이버그의 컬러 사진](https://www.quantamagazine.org/wp-content/uploads/2021/06/Nathan-Seiberg_2K_Office.jpg)
 
 사이버그 자신의 시도에도 불구하고 아무도 양자장론을 설명하는 표준 교과서를 쓰지 못했다는 사실을 사이버그는 그 학문이 아직 완전히 이해되지 않았다는 신호로 본다.
-
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
 
 ### 양자장론이 완전히 이해된 후에도 무엇이 발견될 수 있습니까?
 

@@ -30,8 +30,6 @@ date: 2019-12-23
 
 ![Neutrinos and matrices](https://www.quantamagazine.org/wp-content/uploads/2019/11/Neutrinos-Eigenvalues_2880x1220_HPA.jpg)
 
-[Maciej Rebisz](http://maciejrebisz.com/) for Quanta Magazine
-
 ## 오래된 문제들에 대한 새로운 관점
 
 친숙한 길이라고 해서 여전히 새로운 비밀을 간직할 수 없다는 뜻은 아니다. 수학자, 물리학자, 공학자들은 수세기 동안 "고유값(eigenvalue)"과 "고유벡터(eigenvector)"라 불리는 수학적 항들을 다뤄왔으며, 이들을 사용하여 물체가 늘어나거나 회전하거나 다른 방식으로 변환되는 것을 설명하는 행렬을 기술해왔다. 8월에 세 명의 물리학자와 한 명의 수학자가 [우연히 발견한 간단한 새 공식](https://www.quantamagazine.org/neutrinos-lead-to-unexpected-discovery-in-basic-math-20191113/)을 설명했는데, 이는 두 고유-항을 새로운 방식으로 연결한다-이는 물리학자들의 중성미자 연구 작업을 훨씬 단순하게 만들면서 새로운 수학적 통찰을 제공했다. 기사 출판 후, 연구자들은 이 관계가 이전에 여러 번 발견되었다가 무시되었음을 알게 되었다.
@@ -54,8 +52,6 @@ date: 2019-12-23
 
 ![Art for "Mathematicians Discover the Perfect Way to Multiply"](https://www.quantamagazine.org/wp-content/uploads/2019/04/Multiplication_2880x1220_HPA.gif)
 
-[Mengxin Li](https://mengxinli.com/) for Quanta Magazine
-
 ## 숫자 가지고 놀기
 
 우리 모두 초등학교에서 곱셈하는 법을 배웠지만, 3월에 [두 수학자가 훨씬 더 좋고 빠른 방법을 설명했다](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/). 모든 자릿수를 다른 모든 자릿수와 곱하는 것-이는 충분히 큰 수에서는 빠르게 감당할 수 없게 된다-대신, 곱셈을 하려는 사람들은 숫자를 더하고, 곱하고, 재배열하는 일련의 기법을 결합하여 훨씬 적은 단계 후에 곱에 도달할 수 있다. 이것이 사실상 큰 수를 곱하는 가장 효율적인 가능한 방법일 수 있다.
@@ -68,8 +64,6 @@ date: 2019-12-23
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/03/AI-Science_2880x1220HP.jpg)
 
-[Rachel Suggs](http://www.rachelsuggsillustration.com/) for Quanta Magazine
-
 ## 머신 러닝의 성장통
 
 과학자들은 데이터를 얻는 것뿐만 아니라 그것을 이해하는 데에서도 점점 더 기계의 도움을 받고 있다. 3월에 우리는 [머신 러닝이 과학이 수행되는 방식을 변화시키는 방법을](https://www.quantamagazine.org/how-artificial-intelligence-is-changing-science-20190311/) 보도했다. 예를 들어, 생성 모델링(generative modeling)이라 불리는 프로세스는 관찰과 시뮬레이션이라는 더 전통적인 수단 이후의 가설을 공식화하고 테스트하는 "제3의 길"일 수 있다-비록 많은 이들이 여전히 이것을 단지 정보 처리의 개선된 방법으로 보지만 말이다. 어느 쪽이든, Dan Falk이 쓴 것처럼, 이는 "과학적 발견의 풍미를 변화시키고 있으며, 확실히 그것을 가속화하고 있다."
@@ -81,8 +75,6 @@ date: 2019-12-23
 > 시각 인식의 "질감 편향(texture bias)"은 심오한 문제를 드러낸다. 인간은 물체를 주로 모양으로 인식한다-삼각형 바퀴 달린 자동차는 여전히 자동차다. 그러나 표준 CNN(Convolutional Neural Network)은 질감에 과도하게 의존한다. 코끼리 질감의 고양이 모양을 코끼리로 분류할 수 있다. 이는 훈련 방식의 문제다: ImageNet 같은 데이터셋에서 질감이 종종 강력한 단서이기 때문이다. 더 근본적으로, 이는 현재 신경망이 인간과 다른 방식으로 일반화함을 보여준다. BERT(Bidirectional Encoder Representations from Transformers)는 자연어 처리의 혁명이었다. 사전 훈련된 BERT는 SQuAD(Stanford Question Answering Dataset) 같은 벤치마크에서 인간 성능을 초과했다. 그러나 "적대적 예제(adversarial examples)"-문장에 미묘한 변화를 주면 모델이 완전히 잘못된 답을 낸다-는 진정한 이해의 부족을 드러낸다. 모델은 표면적 통계적 패턴을 학습했지만 의미의 깊은 구조를 파악하지 못했다. 이는 "벤치마크 게이밍"의 위험을 보여준다: 높은 점수가 진정한 능력을 반영하지 않을 수 있다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/10/QuantumS_1220_2880HP.jpg)
-
-[James O'Brien](http://www.obrien-studio.com/) for Quanta Magazine
 
 ## 양자 컴퓨터의 다음 단계
 

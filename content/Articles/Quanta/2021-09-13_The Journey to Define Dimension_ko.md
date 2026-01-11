@@ -10,8 +10,6 @@ date: 2021-09-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/09/Dimensions_2880_Lede.jpg)
 
-[Maggie Chiang](http://www.hellomaggiec.com/) for Quanta Magazine
-
 ## 서론
 
 차원(dimension)이라는 개념은 처음에는 직관적으로 보인다. 창밖을 흘끗 보면, 좁은 깃대 꼭대기에 앉은 까마귀는 0차원을 경험하고, 전화선 위의 울새는 1차원에 제약되며, 땅 위의 비둘기는 2차원에서 자유롭게 움직이고, 공중의 독수리는 3차원을 누리고 있는 것처럼 보일 수 있다.

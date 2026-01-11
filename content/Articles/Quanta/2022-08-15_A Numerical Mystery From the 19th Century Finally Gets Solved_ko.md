@@ -12,8 +12,6 @@ date: 2022-08-15
 
 "가우스 합이 마법 같다는 게 밝혀졌다. 도대체 무슨 이유에서인지는 모르겠지만, 가우스 합은 정말 놀라운 일들을 해낸다."
 
-Kristina Armitage for Quanta Magazine
-
 ## 서론
 
 1950년대 초, 고등연구소(Institute for Advanced Study)의 한 연구팀이 첨단 프로젝트에 착수했다. 존 폰 노이만(John von Neumann)과 허먼 골드스타인(Herman Goldstine)의 요청으로, 물리학자 헤드비그 셀베르그(Hedvig Selberg)는 1,700개의 진공관으로 구성된 IAS의 컴퓨터를 프로그래밍하여, 그 기원이 18세기까지 거슬러 올라가는 기묘한 수학적 합들을 계산했다.

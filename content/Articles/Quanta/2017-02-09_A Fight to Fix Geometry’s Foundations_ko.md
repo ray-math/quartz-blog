@@ -10,8 +10,6 @@ date: 2017-02-09
 
 ![Pyramid of people](https://www.quantamagazine.org/wp-content/uploads/2017/02/symplectic-geometry-1K.jpg)
 
-[Daan Botlek](http://www.daanbotlek.com/) for Quanta Magazine
-
 ## 서론
 
 1830년대, 아일랜드 수학자 윌리엄 로완 해밀턴(William Rowan Hamilton)은 뉴턴의 운동 법칙을 재정식화하면서, 물체의 위치와 운동량 사이에 깊은 수학적 대칭성을 발견했다. 그리고 1980년대 중반, 수학자 미하일 그로모프(Mikhail Gromov)는 해밀턴의 아이디어를 본격적인 수학 연구 분야로 변모시킨 일련의 기법들을 개발했다. 10년도 채 되지 않아, 다양한 배경을 가진 수학자들이 모여들어 "심플렉틱 기하학(symplectic geometry)"으로 알려지게 된 분야의 가능성을 탐구하기 시작했다.

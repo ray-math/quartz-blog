@@ -10,8 +10,6 @@ date: 2017-02-02
 
 ![Francis Su](https://www.quantamagazine.org/wp-content/uploads/2017/02/1920wide_MSP-0007.jpg)
 
-[Mark Skovorodko](http://www.markskovorodko.com/) for Quanta Magazine
-
 ## 서론
 
 수학 학회에서 기립박수가 터지는 일은 흔하지 않다. 그러나 Francis Su는 지난달 애틀랜타에서 그런 영예를 누렸다. 캘리포니아 Harvey Mudd College의 수학자이자 미국 수학협회(Mathematical Association of America, MAA)의 퇴임하는 회장인 Su는 MAA와 미국 수학회(American Mathematical Society)의 합동 수학 회의(Joint Mathematics Meetings)에서 [감동적인 고별 연설](https://mathyawp.wordpress.com/2017/01/08/mathematics-for-human-flourishing/)을 전달했는데, 그 연설에서 수학 공동체에 더 포용적이 되라고 도전장을 던졌다.
@@ -107,8 +105,6 @@ FRANCIS SU: 인간 번영을 생각할 때, 나는 아리스토텔레스의 정�
 ![Francis Su](https://www.quantamagazine.org/wp-content/uploads/2017/02/1000wide_MSP-0026.jpg)
 
 Harvey Mudd 캠퍼스의 Su.
-
-[Mark Skovorodko](http://www.markskovorodko.com/) for Quanta Magazine
 
 ### 합동 수학 회의(Joint Mathematics Meetings)에서 특별히 여성을 위한 수많은 상들이 있었고, 많은 여성들이 초청 강연을 했습니다. 수학 공동체가 인종적 포용성보다 성평등에서 더 많은 진전을 이루었습니까?
 

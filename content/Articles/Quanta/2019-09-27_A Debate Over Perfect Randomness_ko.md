@@ -10,8 +10,6 @@ date: 2019-09-27
 
 ![해변 일몰 풍경을 퍼즐로 만든 일러스트](https://www.quantamagazine.org/wp-content/uploads/2019/08/Hexagonal-Puzzle_2880x1655_Lede.jpg)
 
-[Dan Page](https://www.danpage.net/) for Quanta Magazine
-
 ## 서론
 
 지난달 [Insights 칼럼](https://www.quantamagazine.org/the-puzzling-search-for-perfect-randomness-20190820/)에서 우리는 자전거 자물쇠와 육각형 직소퍼즐 같은 일상적인 물체에서의 무작위성을 탐구한 후, 무작위성의 철학적 기초와 세상에 완벽한 무작위성이 존재하는지에 대해 논의했다. 독자들로부터 많은 통찰력 있는 댓글을 받을 수 있어 매우 기뻤다. 이러한 댓글들을 살펴보기 전에 먼저 퍼즐의 해답을 알아보자.

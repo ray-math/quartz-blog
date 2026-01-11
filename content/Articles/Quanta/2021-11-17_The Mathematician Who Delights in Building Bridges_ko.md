@@ -12,8 +12,6 @@ date: 2021-11-17
 
 Ana Caraiani는 Imperial College London 캠퍼스 근처 Serpentine Bridge에 서 있다. 그녀는 수학의 멀리 떨어진 영역들을 연결하는 다리를 놓는 작업을 한다.
 
-Philipp Ammon for Quanta Magazine
-
 ## 소개
 
 Princeton University에서 졸업 논문을 준비할 때, [Ana Caraiani](https://www.imperial.ac.uk/people/a.caraiani)는 지도교수인 수학자 Andrew Wiles로부터 어려운 문제를 받았다. Wiles는 1994년 [페르마의 마지막 정리](https://www.quantamagazine.org/tag/fermats-last-theorem/)를 증명하여 최근 명성을 얻었지만, Caraiani는 자신에게 주어진 문제에서는 운이 좋지 않았다. 그러나 비록 큰 진전을 이루지 못했음에도 불구하고, 그녀는 좌절하지 않았다.
@@ -33,8 +31,6 @@ Caraiani는 *Quanta*와 수학에서의 경험과 "수학의 대통일 이론"�
 ![Ana Caraiani가 파란 건물을 배경으로 나무 탁자에 앉아 있는 야외 사진](https://www.quantamagazine.org/wp-content/uploads/2021/11/1.-Quanta_Ana-Caraiani_0001.jpg)
 
 Caraiani는 랭글랜즈 프로그램으로 알려진, 현대 수학에서 가장 야심찬 프로젝트 중 하나에 참여하고 있다. 이것은 매우 협력적인 노력이며, 그녀는 종종 Imperial College의 Dalby Court에서 동료들과 만난다.
-
-Philipp Ammon for Quanta Magazine
 
 ### 남성이 지배하는 수학 올림피아드에 진입하려고 했던 고등학생 시절 이후로 상황이 변했나요?
 
@@ -88,8 +84,6 @@ Philipp Ammon for Quanta Magazine
 
 "제 동료들과 제가 하는 일의 대부분은 다리를 건설하는 것과 관련이 있어요"라고 Caraiani는 말했다.
 
-Philipp Ammon for Quanta Magazine
-
 ### 반대 방향으로 가려면 별도의 다리가 필요한가요?
 
 맞아요. 첫 번째 다리는 한 방향으로만 갈 수 있어요. 갈루아 표현에서 모듈러 형식으로 가고 싶다면, 우리는 페르마의 마지막 정리 증명을 완성하기 위해 발명된 Taylor-Wiles 방법에 의존해요. 그래서 이제 우리는 양방향으로 여행할 수 있어요.
@@ -115,8 +109,6 @@ Philipp Ammon for Quanta Magazine
 ![런던의 버스 정류장 앞을 걷고 있는 Ana Caraiani의 야외 사진](https://www.quantamagazine.org/wp-content/uploads/2021/11/3.-Quanta_Ana-Caraiani_0023.jpg)
 
 Caraiani는 랭글랜즈 프로그램이 결국 수학의 모든 것을 설명할 것이라고 생각하지 않지만, 언젠가는 이 분야의 모든 영역과 연결될 수 있을 것이라고 생각한다.
-
-Philipp Ammon for Quanta Magazine
 
 ### 왜 그 시점에서 두 번째 추측을 직접 완성하기보다 다른 사람들을 불러들였나요?
 

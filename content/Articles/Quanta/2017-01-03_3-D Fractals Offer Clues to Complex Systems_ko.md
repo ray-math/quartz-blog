@@ -58,8 +58,6 @@ date: 2017-01-03
 
 ![그래픽: Julia 집합 만들기](https://www.quantamagazine.org/wp-content/uploads/2017/01/JuliaSet_450_double.png)
 
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
-
 Julia 집합의 기하학적 구조를 더 잘 이해하기 위해, 수학자들은 때때로 그것의 '채워진(filled)' 버전을 고려한다-Julia 집합 자체와 그 내부의 모든 점들을 포함하는 것이다. 채워진 Julia 집합은 복소평면의 영역이다. DeMarco와 Lindsey는 이 채워진 Julia 집합을 그들의 3차원 물체의 절반-남반구라고 할 수 있는-으로 사용한다. 다른 절반은 평면의 '뚜껑(cap)'이라고 부르는 것으로, 그들이 개발한 알고리즘을 통해 구성된다.
 
 "Julia 집합이 기초, 즉 남반구 같은 것이고, 뚜껑은 상반부 같은 것이다"라고 DeMarco는 말했다. "그것들을 함께 붙이면 다면체인 도형을 얻게 된다."

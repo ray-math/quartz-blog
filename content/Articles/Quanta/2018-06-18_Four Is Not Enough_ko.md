@@ -10,8 +10,6 @@ date: 2018-06-18
 
 ![Illustration for "Four Is Not Enough"](https://www.quantamagazine.org/wp-content/uploads/2018/06/PlaneColoring_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 도입
 
 표준 8×8 체스판을 각각 두 칸을 덮는 직사각형 도미노로 완전히 덮고 싶다고 가정해보자. 어떻게 할 수 있을지 상상하기 쉽다: 도미노를 가로로 한 줄에 4개씩 놓거나, 세로로 한 열에 4개씩 놓을 수 있다. 계단처럼, 동심 정사각형처럼, 또는 맞물린 이빨처럼 배열할 수도 있다. 거의 1,300만 가지 방법이 있으며, 각 배열은 정확히 32개의 도미노를 필요로 한다. 체스판의 총 면적이 64칸이고 각 도미노가 2칸을 덮기 때문이다.

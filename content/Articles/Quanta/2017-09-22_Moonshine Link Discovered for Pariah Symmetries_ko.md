@@ -10,8 +10,6 @@ date: 2017-09-22
 
 ![파리아 문샤인](https://www.quantamagazine.org/wp-content/uploads/2017/09/PariahMoonshine_2880x1520.jpg)
 
-[Peter Diamond](http://www.peterdiamond.ca) for Quanta Magazine
-
 ## 서론
 
 1892년, 수학자 오토 횔더(Otto Hölder)는 한 세기 넘게 수학계를 사로잡을 질문을 제기했다: 모든 유한 대칭의 주기율표를 만드는 것이 가능한가? 수백 명의 수학자들이 기여한 끝에 나온 답은 '예'였다. 그러나 이 기념비적인 노력에서 나온 분류 체계는 깨달음과 동시에 당혹감을 불러일으켰다. 잘 이해되는 대칭 도표의 원소들 외에도, 수학자들이 존재해야만 함을 증명할 수 있었지만 어떤 자연스러운 형태와도 연결할 수 없는 소수의 이상한 원소들이 모습을 드러낸 것이다.

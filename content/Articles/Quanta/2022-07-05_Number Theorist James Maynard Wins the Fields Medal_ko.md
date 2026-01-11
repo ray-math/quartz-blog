@@ -12,8 +12,6 @@ date: 2022-07-05
 
 영국 옥스퍼드 자택 밖의 제임스 메이너드.
 
-Tom Medwell for Quanta Magazine
-
 ## 들어가며
 
 2013년, 수학자에게 일어날 수 있는 최고의 일이자 동시에 최악의 일 중 하나가 [제임스 메이너드](https://www.sjc.ox.ac.uk/discover/people/professor-james-maynard/)에게 일어났다. 대학원을 갓 졸업한 그는 수학 분야에서 가장 오래되고 핵심적인 문제 중 하나인 소수의 간격(spacing)에 관한 문제를 [해결](https://arxiv.org/abs/1311.4600)했다. 이는 순수 수학 연구의 은밀한 세계를 넘어 그에게 명성을 안겨주었을 만한 업적이었다. 단 하나 어려움이 있었다면: [다른 수학자가 메이너드 결과의 가장 헤드라인을 장식할 만한 부분을 완전히 다른 방법으로 몇 달 먼저 증명해버린 것이다](https://www.quantamagazine.org/yitang-zhang-proves-landmark-theorem-in-distribution-of-prime-numbers-20130519/).
@@ -47,8 +45,6 @@ Tom Medwell for Quanta Magazine
 ![한 손이 붉은 반투명 주사위 한 쌍을 잡고 있는 모습과 얼굴 카드를 잡고 있는 손의 이중 그림](https://www.quantamagazine.org/wp-content/uploads/2018/07/James-Maynard_Dicecards.jpg)
 
 메이너드는 그의 수론 연구에서 확률론적 아이디어를 사용한다.
-
-Tom Medwell for Quanta Magazine
 
 "꽤 기억에 남는 일이었다 - 세 살짜리가 이 불쌍한 여자를 무너뜨리는 것이"라고 질 메이너드가 인터뷰에서 말했다.
 
@@ -131,8 +127,6 @@ Tom Medwell for Quanta Magazine
 그러나 그는 또한 내향적인 수학자들에 대한 많은 클리셰를 깨뜨린다. 동료들은 그를 따뜻하고, 재미를 사랑하며, 외향적이라고 부른다. 팬데믹 이전에, 그는 자신의 커피 원두를 직장에 가져와 점심 후 매일 다른 수론학자들을 위해 커피를 내렸다. 그리고 몇 년 전 버클리의 수학과학연구소(Mathematical Sciences Research Institute)에서 한 학기를 보냈을 때, 그가 다른 두 젊은 수학자들과 공유한 집은 "파티 하우스"였다고 히스-브라운은 말했다(메이너드는 그것을 "수학자 기준으로 파티 하우스"라고 한정했지만).
 
 ![흰색 칼라 셔츠를 입은 갈색 머리의 같은 젊은 백인 남성의 얼굴을 보여주는 나란히 있는 다섯 장의 사진](https://www.quantamagazine.org/wp-content/uploads/2018/07/James-Maynard_Faces-scaled.jpg)
-
-Tom Medwell for Quanta Magazine
 
 메이너드 때문에 새로운 세대의 수론학자들 중 많은 이들이 더 사교적이라고 그랜빌은 말했다. "그는 그룹의 중심 같은 존재다."
 

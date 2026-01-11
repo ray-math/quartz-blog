@@ -10,8 +10,6 @@ date: 2022-01-31
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/01/Tetrahedra_QA_2880_Lede.jpg)
 
-Olena Shmahalo for Quanta Magazine
-
 ## 들어가며
 
 내각이 41도, 76도, 63도인 삼각형이 존재한다고 생각하는가?

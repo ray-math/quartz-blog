@@ -10,8 +10,6 @@ date: 2022-08-18
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/08/Uhura_2560_Lede.jpg)
 
-James Round for Quanta Magazine
-
 ## 도입
 
 어떤 퍼즐의 해법은 너무나 아름답고 상식적인 접근법보다 압도적으로 뛰어나서 마치 기적처럼 보일 수 있다. 예를 들어, 우리의 [가장 최근 Insights 퍼즐](https://www.quantamagazine.org/seeking-mathematical-truth-in-counterfeit-coin-puzzles-20220729/)에서 세 번째 질문의 해법이 그러한 특성을 보였다. 세 개의 저울(그 중 하나는 무작위 결과를 주는 고장난 저울)을 사용하여 위조 동전을 찾는 최선의 방법에 관한 그 문제는, 처음에는 적어도 여섯 번의 저울질이 필요해 보이지만 영리하게 네 번의 저울질로 해결할 수 있었다.

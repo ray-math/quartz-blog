@@ -106,8 +106,6 @@ date: 2018-08-01
 
 더럼 대학교 수학과의 피갈리.
 
-[Tom Parker](https://www.tomparkerphotography.com/) for Quanta Magazine
-
 ## 예상치 못한 영감
 
 이탈리아 수학에는 '최소 곡면(minimal surfaces)'이라고 불리는 것을 연구하는 오랜 역사가 있다. 이는 어떤 양을 최소화하는 형태들이다. 원은 최소 곡면의 간단한 예인데, 어떤 면적을 둘러싸는 데 필요한 둘레를 최소화하는 형태이기 때문이다.

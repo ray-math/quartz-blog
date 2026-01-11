@@ -10,8 +10,6 @@ date: 2020-10-01
 
 ![연구자들이 디지털 도서관을 건설하고 작성하는 모습, 이는 인간형 로봇이 고급 수학을 수행하도록 돕는다](https://www.quantamagazine.org/wp-content/uploads/2020/10/Lean_2880x1500_Lede.jpg)
 
-[BakaArts](https://www.instagram.com/bakaarts/) for Quanta Magazine
-
 ## 서론
 
 매일, 수십 명의 뜻을 같이하는 수학자들이 Zulip이라는 온라인 포럼에 모여 그들이 믿는 수학 분야의 미래를 건설한다.

@@ -10,8 +10,6 @@ date: 2015-10-20
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/10/Quanta_WhiteonBlack_v5_ALT.gif)
 
-[Glen Faught](http://www.gfaught.com/) for Quanta Magazine
-
 4년 전, 수학자 [Maria Chudnovsky](https://web.math.princeton.edu/~mchudnov/)는 누구나 겪는 곤란한 상황에 직면했다. 120명의 결혼식 하객들을 12개 정도의 테이블에 배치해야 하는데, 일부 하객들은 서로 사이가 좋지 않았다. 다행히도 이 문제는 그녀의 전문 분야에 정확히 부합했다. 그녀는 하객들을 네트워크의 노드(node, 점)로 생각했고, 서로 양립할 수 없는 노드들 사이에 링크(선)를 그었다. 그녀의 과제는 서로 다른 테이블을 나타내는 색상 스펙트럼을 사용하여 노드들을 칠하는 것이었다. 연결된 노드들이 절대로 같은 색을 갖지 않는다면, 리셉션에서 어떤 불화도 일어나지 않을 것이다.
 
 "그래프 채색(graph coloring)"으로 알려진 이 추구의 대가로서, Chudnovsky는 모든 것을 머릿속에서 처리했고 좌석 배치도를 금방 완성했다. "제 남편이 매우 감명받았어요"라고 그녀는 말했다.
@@ -31,8 +29,6 @@ date: 2015-10-20
 이제 Chudnovsky와 협력자들은 모든 완벽 그래프를 칠하기 위한 정리를 향해 중요한 발걸음을 내딛고 있다. 그들은 지난 몇 년 동안 "파이의 다른 조각들을 조금씩 뜯어내며", 점점 더 큰 완벽 그래프의 부분 클래스에 대한 채색 정리를 증명해왔다고 스토니브룩 대학교의 수학자 [Alan Tucker](http://www.ams.sunysb.edu/~tucker/)는 말했다. 이번 달, 가장 일반적인 결과에서, Chudnovsky는 [Irene Lo](http://ieor.columbia.edu/irene-lo), [Frédéric Maffray](http://pagesperso.g-scop.grenoble-inp.fr/~maffrayf/), [Nicolas Trotignon](http://perso.ens-lyon.fr/nicolas.trotignon/), [Kristina Vušković](http://www.engineering.leeds.ac.uk/people/computing/staff/k.vuskovic)와 함께 "사각형(squares)"이라 불리는 네 개의 노드로 이루어진 까다로운 배열을 포함하지 않는 모든 완벽 그래프를 칠하기 위한 [정리](http://arxiv.org/pdf/1509.09195v1.pdf)를 게시했다. 카네기 멜론 대학교의 수학자 [Gérard Cornuéjols](https://www.math.cmu.edu/math/faculty/Cornuejols)는 "그것은 일반적인 경우가 해결될 수도 있다는 확신을 줍니다"라고 말했다.
 
 > 여기서 "사각형(square)" 또는 "네-홀(four-hole)"은 네 개의 노드가 사이클을 이루는 구조 $C_{4}$를 의미한다. 네 개의 노드를 $v_{1}, v_{2}, v_{3}, v_{4}$라 하면, $v_{1} - v_{2} - v_{3} - v_{4} - v_{1}$의 순서로 연결되어 있지만 대각선 $v_{1} - v_{3}$나 $v_{2} - v_{4}$는 연결되지 않은 구조다. 이 단순해 보이는 구조가 왜 문제일까? 사각형이 있으면 그래프를 부분으로 나누고 재조립하는 "분할 정복" 전략이 복잡해진다. 사각형의 각 노드가 그래프의 다른 부분과 어떻게 연결되는지에 따라 경우의 수가 폭발적으로 증가하기 때문이다. 이 논문은 사각형이 없는 경우를 해결함으로써 일반 경우로 가는 마지막 장애물을 명확히 했다.
-
-*Andrew Silver for Quanta Magazine*
 
 ## Interactive: 색을 선택한 다음 노드를 선택하여 이 단순한 완벽 그래프를 칠해보세요. 전체 그래프가 칠해지면, 연결된 노드들이 같은 색을 공유하지 않는지 "확인(Check)"하세요.
 

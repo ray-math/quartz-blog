@@ -12,8 +12,6 @@ date: 2017-06-27
 
 뉴저지주 프린스턴 고등연구소의 허준이
 
-[Jean Sweep](http://jeansweep.com/) for Quanta Magazine
-
 ## 서론
 
 이른 봄의 따뜻한 아침, [허준이(June Huh)](https://web.math.princeton.edu/~huh/)는 프린스턴 대학교 캠퍼스를 가로질러 걸어갔다. 그의 목적지는 맥도넬 홀이었는데, 그곳에서 수업을 하기로 되어 있었지만 가는 길을 정확히 알지 못했다. 허준이는 프린스턴 캠퍼스에 인접한 명망 높은 고등연구소(Institute for Advanced Study, IAS)의 멤버다. IAS 멤버로서 허준이는 강의 의무가 전혀 없지만, 가환대수(commutative algebra)라는 주제에 관한 고급 학부 수학 과정을 자원해서 가르치고 있었다. 왜 그렇게 하느냐고 물었을 때 그는 이렇게 답했다. "가르칠 때는 유용한 일을 하는 겁니다. 연구를 할 때는 대부분의 날들에 아무것도 못하죠."
@@ -41,8 +39,6 @@ date: 2017-06-27
 ![허준이의 책상](https://www.quantamagazine.org/wp-content/uploads/2017/06/JuneHuh_Table_1440.jpg)
 
 IAS에 있는 허준이의 사무실 내부.
-
-[Jean Sweep](http://jeansweep.com/) for Quanta Magazine
 
 ## 우연한 제자
 
@@ -136,8 +132,6 @@ IAS에 있는 허준이의 사무실 내부.
 
 ![허준이의 책들](https://www.quantamagazine.org/wp-content/uploads/2017/06/JuneHuh_Books_2880x1200.jpg)
 
-[Jean Sweep](http://jeansweep.com/) for Quanta Magazine
-
 ## 숨겨진 구조의 탐색
 
 허준이가 일리노이에 도착했을 때 이 모든 것을 알지 못했다. 대부분의 1학년 대학원생들은 자신의 연구보다 수업에 더 많은 시간을 보내지만, 히로나카와의 3년간의 도제 기간을 거친 후 허준이는 추구하고 싶은 아이디어들을 가지고 있었다.
@@ -163,8 +157,6 @@ IAS에 있는 허준이의 사무실 내부.
 > 수학 강연의 질은 증명의 질만큼이나 중요하다. 훌륭한 결과도 나쁜 발표로 인해 묻힐 수 있고, 반대로 명확한 발표는 아이디어를 널리 퍼뜨린다. 허준이가 "핵심 지점으로 바로 갔다"는 것은 그가 본질적 아이디어를 식별하고 명확히 전달하는 능력이 뛰어났음을 의미한다. 이것은 시인으로서의 그의 초기 훈련과 무관하지 않을 것이다-복잡한 감정을 간결한 언어로 압축하는 능력. 수학도 결국 아이디어의 전달이고, 최고의 수학자들은 종종 최고의 설명가들이기도 하다.
 
 ![허준이 도서관](https://www.quantamagazine.org/wp-content/uploads/2017/06/JuneHuh_Library_1440.jpg)
-
-[Jean Sweep](http://jeansweep.com/) for Quanta Magazine
 
 강연 후, 미시간 교수진은 허준이에게 전학을 제안했고, 그는 2011년에 그렇게 했다. 그 시점까지 그는 리드 추측이 더 크고 더 중요한 문제-로타 추측-의 특수한 경우라는 것을 알게 되었다.
 
@@ -207,8 +199,6 @@ IAS에 있는 허준이의 사무실 내부.
 ![허준이의 책상](https://www.quantamagazine.org/wp-content/uploads/2017/06/JuneHuh_Tea_1440.jpg)
 
 허준이의 사무실 차 세트.
-
-[Jean Sweep](http://jeansweep.com/) for Quanta Magazine
 
 ## 파트너십의 성장
 

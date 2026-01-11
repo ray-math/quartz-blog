@@ -10,8 +10,6 @@ date: 2022-03-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/03/Handshake_2880_Lede.jpg)
 
-BIG MOUTH for Quanta Magazine
-
 ## 서론
 
 팬데믹 제한 조치가 완화되면서 사람들이 다시 모이기 시작했다. 하지만 꽤 오래 지났으니, 당신과 친구들이 분위기를 풀기 위해 도움이 필요하다면, 여기 시도해볼 수 있는 수학적 파티 게임이 있다.

@@ -12,8 +12,6 @@ date: 2020-03-31
 
 오버볼파흐 수학 연구소에서 강연이 끝난 후 대화를 나누는 수학자들.
 
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
-
 ## 서론
 
 2월, COVID-19 팬데믹이 도시들을 봉쇄하고 국경을 폐쇄하기 전, 나는 독일 남부 슈바르츠발트(검은 숲)에 위치한 [오버볼파흐 수학 연구소(Oberwolfach Research Institute for Mathematics)](https://www.mfo.de/)에서 약 50명의 수학자들과 함께 나흘을 보냈다. 연구소는 일 년 중 대부분의 주에 수학의 서로 다른 분야에 초점을 맞춘 소규모 모임을 주최한다. 나는 전문 수학자들 사이에 끼어들 계획이었다. 그들과 함께 식사하고, 강연 뒷자리에 앉고, 복도 대화를 엿듣으며, 이런 밀접한 모임이 어떻게 수학적 발견을 촉진하는지 알아내려 했다.
@@ -53,8 +51,6 @@ date: 2020-03-31
 ![칠판에 그림을 그리고 있는 두 수학자의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2K_Board.jpg)
 
 아칸소 대학교의 제레미 반 혼-모리스(Jeremy Van Horn-Morris)와 조지아 대학교의 고르다나 마틱(Gordana Matic)은 3차원 다양체의 구조에 관한 문제를 수년간 함께 연구해왔다.
-
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
 
 아, 그리고 위상수학자들은 그것들을 도형(shapes)이라고 부르지 않는다. 그들은 다양체(manifolds)라고 부르는데, 이것은 독특하고 정확한 의미를 가진 용어다. 하지만 "다양체"를 들을 때 "도형"을 떠올리는 것이 더 쉽다면, 그렇게 해도 괜찮다.
 
@@ -102,8 +98,6 @@ date: 2020-03-31
 
 고등과학연구소의 케이티 복스와 유타 대학교의 프리얌 파텔이 수요일 저녁 저녁 식사 후 새로운 협업을 시작한다.
 
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
-
 프리얌은 밀접하게 관련된 도형(무한형 곡면, infinite-type surfaces)을 연구하며, 케이티의 테스트를 자신의 작업에 적용할 수 있는지 알아내고 싶어했다. 프리얌은 저녁 식사 후 어느 날 저녁에 케이티와 이야기할 계획이라고 말했다. 나는 들어도 되는지 물었다. 그녀는 내 요청에 놀랐다.
 
 "사람들이 수학에 대해 이야기할 때, 항상 다른 사람들이 주변에 있기를 원하지는 않습니다. 당신은 매우 취약한 위치에 있습니다." 프리얌이 말했다. "당신은 단지 아이디어가 흐르도록 내버려 둡니다."
@@ -119,8 +113,6 @@ date: 2020-03-31
 ![앉아서 대화하고 있는 프리얌 파텔과 오텀 켄트의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2K_Patel-Kent.jpg)
 
 파텔이 위스콘신 대학교 매디슨의 오텀 켄트와 대화한다.
-
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
 
 대화의 주제는 두 개의 블록을 붙이는 것처럼 3차원 다양체를 함께 붙이는 문제였다. 붙이기를 작동시키려면 다양체의 경계를 변형하여 서로 맞도록 해야 한다. 오텀과 야이르는 이 변형이 다양체의 다른 성질을 어떻게 바꿀 수 있는지 이해하려고 노력하고 있었다.
 
@@ -141,8 +133,6 @@ date: 2020-03-31
 ![수학 문제를 풀고 있는 오텀 켄트와 야이르 민스키의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2K_Kent-Minsky.jpg)
 
 켄트와 예일 대학교의 야이르 민스키는 오버볼파흐에서의 시간을 3차원 다양체를 붙이는 것과 관련된 문제에 대한 수년간의 협업을 계속하는 데 사용했다.
-
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
 
 야이르는 잠시 생각했다. 마침내 그가 말했다. "그래서 세 가지 점이 있다고 생각합니다. 하나는 동의하는 점이고 두 개는 논쟁의 여지가 있는 점입니다."
 
@@ -166,8 +156,6 @@ date: 2020-03-31
 
 레겐스부르크 대학교의 마르쿠스 랜드(Markus Land)가 맨체스터 대학교의 리처드 웹(Richard Webb)의 강연 후 질문한다.
 
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
-
 수학 강연에서 발표자와 청중 간의 교감은 강렬하다-오텀과 야이르가 서로 관계하는 방식과 유사하지만, 더 날카롭다.
 
 발표자들이 기호들의 행을 풀어놓을 때, 때때로 그들이 우리 모두를 농락하고 있는 것처럼 느껴졌다. 전체 문장이 거의 알아볼 수 있는 단어 없이 지나갔다. 한때 나도 한두 번 그랬을지 모르지만, 전체가 횡설수설이라고 생각해도 용서받을 것이다. 그러나 강연 중 하나에서 내 주변의 수학자들이 좌석에서 움직이기 시작했다. 방의 다른 부분에서 나는 주의를 기울이는 무리의 소리 같은 소음을 들었다. 마침내 누군가가 손을 들고 말했다: "그것은 작다 기호가 아니라 크다 기호여야 하지 않나요?" 칠판의 문제 있는 기호를 가리키면서.
@@ -189,8 +177,6 @@ date: 2020-03-31
 ![사교 활동과 게임을 하는 수학자들을 보여주는 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2K_GameNight-02.jpg)
 
 하루의 강연 후, 오버볼파흐의 수학자들은 술과 게임으로 긴장을 풀었다.
-
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
 
 프리얌이 나를 찾아와서 자신과 케이티가 막 시작하려 한다고 말했다. 나는 노트와 필스너 한 병을 가지고 의자를 끌어당겨 보기로 했다.
 
@@ -249,8 +235,6 @@ date: 2020-03-31
 ![녹색 언덕과 나무를 배경으로 한 오버볼파흐 건물의 사진](https://www.quantamagazine.org/wp-content/uploads/2020/03/Social-Math_2K_Outdoors_v2.jpg)
 
 오버볼파흐 캠퍼스는 설계상 외진 곳에 있다.
-
-[Thi My Lien Nguyen](http://www.myliennguyen.ch/) for Quanta Magazine
 
 오버볼파흐에서의 처음 며칠 동안, 수학자들과의 모든 상호작용은 서로 경계하는 낯선 사람들 사이처럼 형식적으로 느껴졌다. 그러나 그날 오후 집으로 걷는 길에 나는 그룹에서 내 지위가 농구 팀의 장비 관리자 같은 것으로 바뀌었다고 느꼈다-여전히 진짜 선수는 아니지만 애정 어린 포함.
 

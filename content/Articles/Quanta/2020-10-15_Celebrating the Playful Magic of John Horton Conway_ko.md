@@ -10,8 +10,6 @@ date: 2020-10-15
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/10/Conway_puzzle_2880x1620_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 서론
 
 2020년 4월 COVID-19로 세상을 떠난 전설적인 수학자 존 호턴 콘웨이(John Horton Conway)는 퍼즐과 게임을 발명하는 일에 어린아이 같은 즐거움을 느꼈다. 그는 소마 큐브(Soma cube), 페그 솔리테어(peg solitaire), 콘웨이의 병사들(Conway's soldiers) 같은 수많은 퍼즐을 상세하게 분석했다. 그는 "최후의 날 알고리즘(Doomsday algorithm)"-머릿속으로 요일을 빠르게 계산하는 방법으로, 콘웨이는 2초 안에 이를 해낼 수 있었다-을 발명했고, 새싹(Sprouts)과 유명한 생명 게임(Game of Life)을 포함한 수많은 게임을 만들었다. 생명 게임은 셀룰러 오토마타(cellular automata) 연구의 시작점이 되었다.

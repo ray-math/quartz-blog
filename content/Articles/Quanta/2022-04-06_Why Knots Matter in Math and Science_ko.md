@@ -10,8 +10,6 @@ date: 2022-04-06
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/02/JOY_OF_Y-E2_2880x1620_Logo_Lede.jpg)
 
-Michael Driver for Quanta Magazine
-
 ## 서론
 
 누구나 매듭이 무엇인지 안다. 하지만 매듭은 수학과 과학에서 특별한 의미를 갖는다. 매듭의 성질이 DNA의 생화학, 신소재의 합성, 3차원 공간의 기하학처럼 광범위한 주제에 숨겨진 비밀을 푸는 열쇠가 될 수 있기 때문이다. 이번 에피소드에서 진행자 Steven Strogatz는 동료 수학자인 [Colin Adams](https://sites.williams.edu/cadams/)와 [Lisa Piccirillo](https://math.mit.edu/directory/profile.php?pid=2153)와 함께 매듭의 신비를 탐구한다.

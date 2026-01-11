@@ -10,8 +10,6 @@ date: 2022-05-27
 
 ![보라색 정장을 입은 빨간 머리 남자가 밝은 청록색 배경에서 흰 토끼와 함께 달리고 있다. 그의 실크해트에서 큰 흰색 숫자들이 쏟아져 나오고 있다.](https://www.quantamagazine.org/wp-content/uploads/2022/05/Puzzle_May_2880x1620_Lede-1.jpg)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 최근 [Insights 퍼즐](https://www.quantamagazine.org/how-do-math-magicians-know-your-number-20220504/)에서 나는 독자들에게 특정 마술의 작동 원리를 알아내는 도전을 제시했다. 문제의 마술은 마술사가 어떻게든 당신이 숨긴 숫자나 카드의 정체를 알아맞히는 종류였다. 하지만 마술사는 겉보기에 아무런 정보도 없는 상황에서 당신의 마음속에 있는 것을 어떻게 정확히 추론할까? 아래에서 보겠지만, 그 비밀은 수학의 냉혹한 논리를 통해 수수께끼를 풀 수 있을 만큼 **딱 충분한 정보를 추출하는 것**이다.

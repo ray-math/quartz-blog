@@ -10,8 +10,6 @@ date: 2016-10-05
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/10/Education_HineMizushima_1920.jpg)
 
-[Hiné Mizushima](http://hinemizushima.com/) for Quanta Magazine
-
 ## 들어가며
 
 만약 우리가 손가락만 튕기면 미국 학교에서 수학과 과학을 가르치는 방식을 바꿀 수 있다면, 대부분의 사람들이 그렇게 할 것이다. 현재 접근법의 결함은 명백하다. 전문가들의 머릿속에서는 생동감 넘치는 주제들이 학생들에게 전달될 때쯤이면 생명력을 잃고 만다. 대수학 2(Algebra 2)를 듣는 아이들이 "우리가 언제 이걸 쓸 건데요?"라고 묻고, 교사가 "수학은 생각하는 법을 가르쳐 준단다"라고 대답하는 것은 드문 일이 아니다. 이것은 사실이다-만약 그렇게 가르쳐진다면 말이다.

@@ -12,8 +12,6 @@ date: 2020-06-25
 
 닫힌 루프가 모든 종류의 직사각형의 꼭짓점을 포함할까?
 
-[Vignette](https://www.instagram.com/vi_ne_te/) for Quanta Magazine
-
 ## 서론
 
 3월 중순, 수학자 [조슈아 그린(Joshua Greene)](https://sites.google.com/bc.edu/joshua-e-greene/)과 [앤드류 롭(Andrew Lobb)](http://maths.dur.ac.uk/users/andrew.lobb/)은 같은 상황에 처해 있었다. 코로나19 팬데믹이 문밖에서 확산되는 동안 봉쇄 상태에서 적응하느라 고군분투하고 있었던 것이다. 그들은 연구에 몰두함으로써 이 상황에 대처하기로 결심했다.

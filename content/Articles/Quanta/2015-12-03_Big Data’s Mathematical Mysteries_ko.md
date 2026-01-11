@@ -10,8 +10,6 @@ date: 2015-12-03
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2015/12/DaubechiesBigData_OBrien_1200.jpg)
 
-[James O'Brien](http://www.obrien-studio.com/)for Quanta Magazine
-
 Quantized
 
 정상급 연구자들이 발견의 과정을 탐구하는 [월간 칼럼]. 이번 달의 칼럼니스트는 듀크 대학교(Duke University)의 수학 및 전기·컴퓨터공학 제임스 B. 듀크 석좌교수(James B. Duke Professor) 잉그리드 도베시(Ingrid Daubechies)이다.

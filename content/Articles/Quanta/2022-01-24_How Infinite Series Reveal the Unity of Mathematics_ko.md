@@ -10,8 +10,6 @@ date: 2022-01-24
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/01/Infinite_Series_2560_Lede.jpg)
 
-Maggie Chiang for Quanta Magazine
-
 ## 서론
 
 순수한 천재성에서 존 폰 노이만(John von Neumann)을 능가하기는 어려웠다. 현대 컴퓨터의 설계자이자 게임 이론의 창시자였던 폰 노이만은 무엇보다도 번개처럼 빠른 암산 능력으로 전설이 되었다.

@@ -12,8 +12,6 @@ date: 2020-09-10
 
 만약 홀수 완전수가 존재한다면, 점점 더 터무니없이 많은 제약 조건들을 만족해야 할 것이다.
 
-[Jason Chuang](https://www.instagram.com/jasonchuangart/?hl=en) for Quanta Magazine
-
 ## 서론
 
 1990년대 중반 고등학생이었던 [Pace Nielsen](https://math.byu.edu/?mtt_page=pace-nielsen)은 오늘날까지도 씨름하고 있는 수학 문제를 처음 접했다. 하지만 그는 나쁘게 생각하지 않는다. 그를 사로잡은 문제, 홀수 완전수 추측(odd perfect number conjecture)은 2,000년이 넘는 역사를 가지고 있어, 수학에서 가장 오래된 미해결 문제 중 하나이기 때문이다.

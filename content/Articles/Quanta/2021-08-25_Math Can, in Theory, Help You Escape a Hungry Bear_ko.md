@@ -10,8 +10,6 @@ date: 2021-08-25
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/06/Puzzle-Lake_2880_Lede.jpg)
 
-[James Round](https://www.jamesrounddesign.com/) for Quanta Magazine
-
 ## 서론
 
 우리의 [6월 인사이트 퍼즐](https://www.quantamagazine.org/can-math-help-you-escape-a-hungry-bear-20210629/)은 Martin Gardner가 1965년 *Scientific American* 칼럼에서 유명하게 만들고 나중에 *The Colossal Book of Short Puzzles and Problems*라는 책에 실린 고전적인 퍼즐에 몇 가지 변형을 가했다. 우리 버전에서는 반지름 3.5인 원형 호수의 중심에 있는 수영 선수가 해안에서 자신을 사냥하는 곰으로부터 탈출을 시도한다. 곰은 수영을 하지 못하지만 둘레를 따라 수영 선수 속력의 3.5배로 달릴 수 있으며, 수영 선수의 속력은 시간 단위당 1 길이 단위다. 살아남기 위해 운동선수는 곰이 같은 지점에 도달하기 전에 해안에 도착해야 한다.

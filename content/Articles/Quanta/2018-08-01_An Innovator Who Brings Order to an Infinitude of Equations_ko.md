@@ -61,8 +61,6 @@ date: 2018-08-01
 
 케임브리지 근처 자택에서 태국산 북으로 쿠르드 노래를 연주하는 비르카르.
 
-[Philipp Ammon](https://www.photoammon.com/) for Quanta Magazine
-
 노팅엄 대학교에는 비르카르가 진입하고자 했던 분야인 대수기하학(algebraic geometry)을 전문으로 하는 사람이 없었다. 하지만 그곳의 공식 지도교수인 정수론자 [이반 페센코(Ivan Fesenko)](https://www.maths.nottingham.ac.uk/personal/ibf/)는 비르카르가 대학 밖의 수학 행사에 참석하도록 격려했다. 2002년 케임브리지에서 열린 한 학회에서 비르카르는 존스홉킨스 대학교의 수학자 [뱌체슬라프 쇼쿠로프(Vyacheslav Shokurov)](http://mathematics.jhu.edu/directory/vyacheslav-shokurov/)를 만났다. 관계 초기에 쇼쿠로프는 비르카르를 볼티모어에서 몇 시간 떨어진 곳으로 스키를 타러 데려갔다. 쇼쿠로프는 비르카르가 얼마나 빨리 스키를 익히는지, 그리고 그의 태도에 깊은 인상을 받았다.
 
 "그는 수줍고 품위 있는 사람입니다. 아마도 마을에서 자랐고 전통적인 가정에서 성장했기 때문일 겁니다." 쇼쿠로프가 이메일로 말했다.
@@ -89,11 +87,7 @@ Kevin Hartnett
 
 근처에는 비르카르의 여행에서 가져온 물건들 모음이 놓여 있다.
 
-[Philipp Ammon](https://www.photoammon.com/) for Quanta Magazine
-
 케임브리지 대학교 비르카르의 사무실에는 활동가 그룹 한가운데 앉아 있는 알렉상드르 그로텐디크의 사진이 걸려 있다(왼쪽). 근처에는 비르카르의 여행에서 가져온 물건들 모음이 놓여 있다(오른쪽).
-
-Kevin Hartnett (pinboard); [Philipp Ammon](https://www.photoammon.com/) for Quanta Magazine (objects)
 
 대수기하학 역시 문화들의 혼합이다. 한쪽에는 방정식의 연구인 대수학(algebra)이 있고, 다른 쪽에는 형태의 연구인 기하학(geometry)이 있다. 두 관점은 같은 문제를 보는 서로 다른 방식을 제공한다. 대수 방정식 $y = 2x - 3$을 예로 들어보자. 그 해들을 그래프로 그리면 기하학적 대상 - 직선 - 을 얻는다. 두 관점은 상호보완적이다. $y = 2x - 3$과 $y = 3x + 5$라는 두 방정식의 공통 해를 찾고 싶다면, 대수를 통해 답을 찾을 수도 있고, 두 방정식을 모두 그래프로 그려서 어디서 교차하는지 볼 수도 있다.
 

@@ -10,8 +10,6 @@ date: 2018-04-09
 
 ![Illustration for "Mathematicians Explore Mirror Link Between Two Geometric Worlds"](https://www.quantamagazine.org/wp-content/uploads/2018/04/Mirror_Symmetry_2880x1620.jpg)
 
-[Mike Zeng](http://zaoeyo.com/) for Quanta Magazine
-
 ## 서론
 
 27년 전, 한 물리학자 그룹이 수학의 판도를 완전히 뒤집는 우연한 발견을 했다. 이들은 끈 이론(string theory)의 세부 사항을 풀어내려던 중, 기묘한 대응 관계를 관찰했다. 한 종류의 기하학적 세계에서 나온 숫자들이 전혀 다른 종류의 기하학적 세계에서 나온 매우 다른 종류의 숫자들과 정확히 일치했던 것이다.

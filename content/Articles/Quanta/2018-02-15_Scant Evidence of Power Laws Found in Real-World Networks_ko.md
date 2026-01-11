@@ -10,8 +10,6 @@ date: 2018-02-15
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2018/02/Networks_2880x1620.jpg)
 
-[Meredith Miotke](https://www.mlmiotke.com/) for Quanta Magazine
-
 ## 서론
 
 지난달 온라인에 [게시된 논문](https://arxiv.org/abs/1801.03400)이 현대 네트워크 과학 시대의 가장 오래되고 놀라운 주장 중 하나에 대한 논쟁을 다시 불붙였다. 그 주장은 실제 세계의 복잡한 네트워크 대부분-월드 와이드 웹에서 세포 내 상호작용하는 단백질에 이르기까지-이 "척도 없는(scale-free)" 구조를 따른다는 것이다. 대략적으로 말하자면, 이는 소수의 노드가 다른 노드들보다 훨씬 많은 연결을 가지며, 이것이 멱함수 법칙(power law)이라는 수학 공식을 따른다는 의미다. 따라서 네트워크를 특징짓는 단일한 척도가 존재하지 않는다.

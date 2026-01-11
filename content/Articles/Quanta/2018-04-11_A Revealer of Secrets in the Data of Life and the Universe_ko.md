@@ -12,8 +12,6 @@ date: 2018-04-11
 
 2018년 2월, 펜실베이니아 주립대학교에서 통계학 교수로 재직 중인 도널드 리처즈.
 
-[Jessica Kourkounis](http://www.kourkounis.com/) for Quanta Magazine
-
 ## 서론
 
 통계학에서는 추상적인 수학이 실제 삶과 만난다. 무질서한 원시 데이터 집합에서 의미를 찾기 위해, [도널드 리처즈(Donald Richards)](http://personal.psu.edu/dsr11/)와 같은 통계학자들은 먼저 연관성(associations)을 찾는다. 예를 들어 흡연과 폐암 사이의 통계적 연결, 또는 뉴욕 증권거래소의 하루 종가와 다음 날 도쿄 증권거래소의 종가 사이의 연결 같은 것이다. 이후 더 깊은 연구를 통해 한 현상이 다른 현상을 일으키는지, 아니면 두 현상 모두 공통의 원인을 가지고 있는지를 탐구할 수 있다.
@@ -55,8 +53,6 @@ date: 2018-04-11
 자메이카에는 경제적 고려 때문에 사람들이 수학을 피하는 경향이 있었습니다. 의사, 변호사, 엔지니어가 되는 것에 비해 소득이 상당히 적을 것으로 예상되었기 때문입니다.
 
 ![카드 한 벌을 들고 있는 수학자 도널드 리처즈의 사진.](https://www.quantamagazine.org/wp-content/uploads/2018/04/DonaldRichards_2K_04.jpg)
-
-[Jessica Kourkounis](http://www.kourkounis.com/) for Quanta Magazine
 
 ### 어떻게 통계학으로 가게 되셨나요?
 

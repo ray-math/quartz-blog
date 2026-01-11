@@ -10,8 +10,6 @@ date: 2020-11-17
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/11/Bryna-Kra_2880_Lede.jpg)
 
-[Moe Zoyari](https://www.zoyari.com/) for Quanta Magazine
-
 ## 서론
 
 브리나 크라(Bryna Kra)는 구조를 찾는다. "존재하는 줄도 몰랐던 곳에서 질서를 발견하는 것을 사랑한다"고 그녀는 말했다.
@@ -121,8 +119,6 @@ date: 2020-11-17
 그렇다, GROW는 수학 과학 분야의 대학원을 고려하도록 학부 여성들을 격려하기 위한 컨퍼런스다. 우리는 다양한 분야의 수학 연구를 보여주지만, 컨퍼런스의 주요 목적은 멘토링, 연구가 무엇인지에 대한 패널 토론, 학계에서의 경력이 무엇을 의미하는지, 그리고 학생들이 대학원을 준비하기 위해 무엇을 해야 하는지다.
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/11/GROW-Cup.jpg)
-
-[Moe Zoyari](https://www.zoyari.com/) for Quanta Magazine
 
 ### 컨퍼런스가 다른 대학들에서 개최되었다고 언급했다. 왜 그런가?
 

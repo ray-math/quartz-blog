@@ -12,8 +12,6 @@ date: 2020-05-19
 
 리사 피치릴로는 콘웨이 매듭 문제를 해결하여 매사추세츠 공과대학교(MIT)에서 종신 재직권 트랙 교수 자리를 얻었다.
 
-[Ian MacLellan](https://portfolio.maclellanimages.com/index/G0000LNVclZ_B7Gw/thumbs) for Quanta Magazine
-
 ## 서론
 
 2018년 여름, 저차원 위상수학과 기하학에 관한 [학회](https://web.ma.utexas.edu/conferences/gompf/?)에서 [리사 피치릴로(Lisa Piccirillo)](https://sites.google.com/view/lpiccirillo/home)는 괜찮은 작은 수학 문제에 대해 들었다. 텍사스 대학교 오스틴 캠퍼스의 대학원생이었던 그녀는 이 문제가 자신이 개발하던 기법들을 시험해볼 좋은 장이라고 생각했다.
@@ -92,8 +90,6 @@ date: 2020-05-19
 
 ![An informational graphic showing the Conway knot, the related Kinoshita-Terasaka knot and a complicated companion knot Lisa Piccirillo devised to help determine the Conway knot's slice status.](https://www.quantamagazine.org/wp-content/uploads/2020/05/Conway-Knot-graphic-FINAL2.jpg)
 
-5W Infographics for Quanta Magazine
-
 문제는 이 새로운 매듭이 우연히 매끄럽게 단면이라는 것이다. 그리고 콘웨이 매듭이 매끄러운 단면 매듭과 매우 밀접하게 관련되어 있기 때문에, 수학자들이 비단면 매듭을 탐지하는 데 사용하는 모든 도구들([불변량(invariants)](https://www.quantamagazine.org/math-invariants-helped-lisa-piccirillo-solve-conway-knot-problem-20200602/)이라고 불림)을 속이는 데 성공한다.
 
 > 매듭 불변량은 매듭을 구별하는 수학적 '지문'이다. 매듭에 수, 다항식, 또는 다른 수학적 구조를 할당하는데, 매듭을 연속적으로 변형해도 이 값은 변하지 않는다. 예를 들어 '존스 다항식(Jones polynomial)'은 각 매듭에 다항식을 할당한다. 만약 두 매듭의 존스 다항식이 다르면, 두 매듭은 다르다는 것을 확실히 알 수 있다. 하지만 역은 성립하지 않는다-같은 불변량을 가져도 다른 매듭일 수 있다. 돌연변이 매듭들은 대부분의 고전적 불변량(존스 다항식, 알렉산더 다항식 등)에 대해 같은 값을 가진다. 따라서 콘웨이 매듭과 그 돌연변이인 기노시타-테라사카 매듭은 거의 모든 불변량을 속인다. 기노시타-테라사카가 매끄러운 단면이므로, 대부분의 불변량은 콘웨이 매듭도 매끄러운 단면이라고 '잘못' 말한다.
@@ -123,8 +119,6 @@ date: 2020-05-19
 ![Lisa Piccirillo on a bicylcle](https://www.quantamagazine.org/wp-content/uploads/2020/05/Lisa-Piccirillo_bike_2K.jpg)
 
 피치릴로의 이전 교수 중 한 명은 수학자로서 그녀의 핵심 강점 중 하나로 창의성을 꼽았다.
-
-[Ian MacLellan](https://portfolio.maclellanimages.com/index/G0000LNVclZ_B7Gw/thumbs) for Quanta Magazine
 
 서로 다른 매듭들이 같은 4차원 추적을 가질 수 있으며, 수학자들은 이러한 추적 형제들이, 말하자면, 항상 같은 단면 상태를 가진다는 것을 이미 알고 있었다-둘 다 단면이거나, 둘 다 단면이 아니다. 하지만 피치릴로와 현재 라이스 대학교의 박사후 연구원인 [앨리슨 밀러(Allison Miller)](https://sites.google.com/view/anmiller/)는 [이러한 추적 형제들이 단면성을 연구하는 데 사용되는 모든 매듭 불변량에 대해 반드시 똑같아 보이지는 않는다는 것을 보였다](https://arxiv.org/abs/1702.03974).
 

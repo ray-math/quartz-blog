@@ -10,8 +10,6 @@ date: 2016-03-14
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/03/primefinal.jpg)
 
-[Zim + Teemo](http://www.zimteemo.com/illustrationhome) for Quanta Magazine
-
 ## 서론
 
 두 명의 수학자가 소수(prime numbers)-1과 자기 자신으로만 나누어떨어지는 수-의 단순하지만 이전에는 전혀 알려지지 않았던 성질을 발견했다. 소수들은 자신의 바로 다음에 오는 소수의 마지막 자릿수에 대해 뚜렷한 선호도를 가지고 있는 것으로 보인다.

@@ -12,8 +12,6 @@ date: 2017-12-01
 
 옥스퍼드 대학교의 수학자 김민형은 오랫동안 자신의 비전을 혼자만 간직해왔다. "정수론 연구자들은 꽤 완고한 사람들이거든요"라고 그는 말했다.
 
-[Tom Medwell](http://www.tommedwell.com) for Quanta Magazine
-
 ## 서론
 
 수학의 세계는 대부분의 사람들이 들어본 적도 없고 개념화하기조차 어려운 기묘한 수 체계들로 가득하다. 그러나 유리수(rational numbers)는 익숙하다. 유리수는 셀 수 있는 수들과 분수들-초등학교 때부터 알고 지낸 모든 수-이다. 하지만 수학에서 가장 단순한 것들이 종종 이해하기 가장 어렵다. 그것들은 매끄러운 벽처럼 단순해서, 붙잡을 수 있는 틈새나 돌출부나 명백한 성질이 없다.
@@ -29,8 +27,6 @@ date: 2017-12-01
 ![김민형의 그림](https://www.quantamagazine.org/wp-content/uploads/2017/12/MHK_WhiteBoard_2K_02.jpg)
 
 세 개의 구멍이 뚫린 토러스(torus)라는 수학적 대상이 옥스퍼드 대학교에 있는 김민형의 화이트보드를 장식하고 있다.
-
-[Tom Medwell](http://www.tommedwell.com) for Quanta Magazine
 
 이 연결이 환상적으로 들린다면, 그것은 실제로 환상적이기 때문이다. 수학자들에게도 그렇다. 그리고 바로 그 이유 때문에, 김민형은 오랫동안 그것을 혼자만 간직했다. "저는 그것을 숨기고 있었어요. 왜냐하면 여러 해 동안 물리학과의 연결에 대해 다소 당혹스러워했거든요"라고 그는 말했다. "정수론 연구자들은 꽤 완고한 사람들이고, 물리학의 영향은 때때로 그들을 수학에 대해 더 회의적으로 만들거든요."
 
@@ -68,8 +64,6 @@ date: 2017-12-01
 
 옥스퍼드에 있는 자신의 사무실에서 김민형.
 
-[Tom Medwell](http://www.tommedwell.com) for Quanta Magazine
-
 "유리수 점에 대한 효과적인 결과를 얻으려면, 확실히 새로운 아이디어가 필요할 것이라는 느낌이 들어요"라고 엘렌버그가 말했다.
 
 현재, 그 새로운 아이디어가 무엇일 수 있는지에 대한 두 가지 주요 제안이 있다. 하나는 일본 수학자 모치즈키 신이치(Shinichi Mochizuki)로부터 나왔는데, 그는 2012년에 수백 페이지에 달하는 [정교하고 참신한 수학](https://www.quantamagazine.org/hope-rekindled-for-abc-proof-20151221)을 교토 대학의 자신의 교수 웹페이지에 게시했다. 5년이 지난 지금도, 그 작업은 대체로 난해한 상태로 남아 있다. 다른 새로운 아이디어는 김민형으로부터 나왔는데, 그는 유리수를 확장된 수적 설정에서 생각하려고 시도했으며, 그 설정에서는 유리수들 사이의 숨겨진 패턴이 드러나기 시작한다.
@@ -105,8 +99,6 @@ date: 2017-12-01
 ![김민형의 책들](https://www.quantamagazine.org/wp-content/uploads/2017/12/MHK_Books_2K_01.jpg)
 
 ![김민형의 책들](https://www.quantamagazine.org/wp-content/uploads/2017/12/MHK_Books_2K_02.jpg)
-
-[Tom Medwell](http://www.tommedwell.com) for Quanta Magazine
 
 ## 공간들의 공간
 
@@ -153,8 +145,6 @@ date: 2017-12-01
 "제가 처음에 찾으려고 했던 것은" 수학적 설정에 대한 최소-작용 원리였다고 그는 이메일에 썼다. "아직 완전히 갖지는 못했어요. 하지만 그것이 거기 있다는 것에 대해 꽤 확신합니다."
 
 ![김민형의 그림](https://www.quantamagazine.org/wp-content/uploads/2017/12/MHK_WhiteBoard_2K_03.jpg)
-
-[Tom Medwell](http://www.tommedwell.com) for Quanta Magazine
 
 ## 불확실한 미래
 

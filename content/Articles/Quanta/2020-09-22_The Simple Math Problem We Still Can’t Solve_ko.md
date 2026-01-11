@@ -10,8 +10,6 @@ date: 2020-09-22
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/09/Collatz_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 이 글에는 경고가 따라온다: 이 수학 문제를 풀려고 시도하지 마라.

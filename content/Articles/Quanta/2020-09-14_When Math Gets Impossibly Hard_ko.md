@@ -10,8 +10,6 @@ date: 2020-09-14
 
 ![깨진 도구들, 큐브, 숫자들 그리고 불가능한 수학을 추상적으로 표현한 이미지](https://www.quantamagazine.org/wp-content/uploads/2020/09/Impossible-Math_2880x1220_LHPA.jpg)
 
-[James O'Brien](http://www.obrien-studio.com/) for Quanta Magazine
-
 ## 서론
 
 우리는 무엇이든 가능하다고 말하기를 좋아한다. 노턴 저스터의 소설 『환상의 요금소』에서 왕은 밀로에게 그의 탐험이 불가능하다고 말하기를 거부한다. "불가능하다는 것을 모르기만 한다면 정말 많은 것들이 가능하니까"라는 이유에서다. 하지만 현실에서는 어떤 것들은 불가능하며, 우리는 수학을 사용하여 그것을 증명할 수 있다.

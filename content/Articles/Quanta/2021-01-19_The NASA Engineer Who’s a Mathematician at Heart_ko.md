@@ -12,8 +12,6 @@ date: 2021-01-19
 
 버지니아주 햄튼에 있는 자택에서 공학 책을 읽고 있는 크리스틴 다든. NASA 엔지니어로서 그녀는 초음속 비행기를 더 조용하게 만드는 연구를 수행했다.
 
-[Julia Rendleman](http://www.juliarendleman.com/) for Quanta Magazine
-
 ## 서론
 
 제2차 세계대전 직전, 미국의 민권운동가 [A. Philip Randolph](https://www.britannica.com/biography/A-Philip-Randolph)는 루즈벨트 대통령을 설득하여 국방산업 고용에서 인종, 피부색, 출신국에 기반한 차별을 종식시켰다. 얼마 지나지 않아 1941년, 루즈벨트는 [행정명령 8802](https://www.britannica.com/event/Executive-Order-8802)를 발표했고, 이는 NASA의 전신인 국립항공자문위원회(National Advisory Committee for Aeronautics, NACA)를 포함한 여러 기관들이 흑인 근로자를 고용하기 시작하는 계기가 되었다.
@@ -67,8 +65,6 @@ date: 2021-01-19
 ![파란색 프렌치 커브를 들고 있는 다든의 사진](https://www.quantamagazine.org/wp-content/uploads/2021/01/Christine-Darden_2K_drawing-02-French-curve.jpg)
 
 다든은 여전히 NASA 초기에 데이터 포인트를 그리는 데 사용했던 제도 도구들, 예를 들어 이 프렌치 커브를 가지고 있다.
-
-[Julia Rendleman](http://www.juliarendleman.com/) for Quanta Magazine
 
 ## 어땠나요? 초창기에 남성 엔지니어들과 대화를 나눈 적이 있나요?
 
@@ -151,8 +147,6 @@ NASA, Sandie Gibbs
 ![소파에 앉아 미소 짓고 있는 다든의 사진](https://www.quantamagazine.org/wp-content/uploads/2021/01/Christine-Darden_2K_portrait.jpg)
 
 다든은 마고 리 셰털리의 책 《히든 피겨스》에 소개되었고, 그녀는 청소년 그룹에게 자신의 일의 중요성과 소녀들이 자신의 능력을 알도록 하는 것에 대해 강연한다.
-
-[Julia Rendleman](http://www.juliarendleman.com/) for Quanta Magazine
 
 ## 당신의 또 다른 큰 유산-책 《히든 피겨스》-도 은퇴 후에 일어났습니다. 어떻게 그렇게 되었나요?
 

@@ -10,8 +10,6 @@ date: 2020-03-10
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/03/Fishing-for-Irrationals_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 들어가며
 
 학생들이 계산기에 너무 의존하게 되면, 나는 그들에게 스스로 곱했을 때 2가 되는 수를 찾아보라고 한다. 학생들은 $1^{2} = 1$이고 $2^{2} = 4$이므로, 답이 1과 2 사이에 있어야 한다는 것을 금방 알아챈다. 그들은 1.1, 1.2, 1.3 등을 제곱해보고, $1.4^{2} = 1.96$이고 $1.5^{2} = 2.25$임을 발견한다. "1.4와 1.5 사이에 있어요"라고 그들이 말한다.

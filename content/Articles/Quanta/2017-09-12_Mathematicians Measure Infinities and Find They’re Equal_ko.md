@@ -10,8 +10,6 @@ date: 2017-09-12
 
 ![Measuring tapes](https://www.quantamagazine.org/wp-content/uploads/2017/09/Infinities_2880x1620.jpg)
 
-[Colors Collective](http://www.colorscollective.com/) for Quanta Magazine
-
 ## 서론
 
 수십 년간의 통념을 뒤집는 돌파구에서, 두 수학자가 무한의 두 변종이 실제로 같은 크기라는 것을 보였다. 이 발전은 수학에서 가장 유명하고 난해한 문제 중 하나를 건드린다: 자연수의 무한한 크기와 실수의 더 큰 무한한 크기 사이에 중간 크기의 무한이 존재하는가?

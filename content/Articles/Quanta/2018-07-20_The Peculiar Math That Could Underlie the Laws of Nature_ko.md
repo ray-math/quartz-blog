@@ -12,8 +12,6 @@ date: 2018-07-20
 
 케임브리지 대학의 수리물리학자 콜 퓨리(Cohl Furey)는 입자물리학의 표준 모형과 팔원수-그 곱셈 규칙이 파노 평면(Fano plane)이라 불리는 삼각형 도표에 암호화되어 있는 수-사이의 연결고리를 찾아내고 있다.
 
-[Susannah Ireland](https://www.susannahireland.com/) for Quanta Magazine
-
 ## 서론
 
 2014년, 캐나다 워털루 대학의 대학원생이었던 [콜 퓨리(Cohl Furey)](https://www.furey.space/)는 차를 빌려 남쪽으로 6시간을 운전해 펜실베이니아 주립대학으로 향했다. [무라트 귀나이딘(Murat Günaydin)](http://www.phys.psu.edu/people/gxt)이라는 물리학 교수와 꼭 이야기를 나누고 싶었기 때문이다. 퓨리는 귀나이딘이 40년 전에 발표한 연구 결과-기초물리학과 순수수학의 관계에 대한 강력한 의혹을 뒷받침하지만 대부분 잊혀진 결과-를 어떻게 발전시킬 수 있을지 알아냈다.
@@ -45,8 +43,6 @@ MacTutor History of Mathematics
 ![Photo of Cohl Furey](https://www.quantamagazine.org/wp-content/uploads/2018/07/CohlFurey_2K_01.jpg)
 
 퓨리가 자주 요가 매트를 펴고 작업하는 트리니티 홀 케임브리지 교정에서 초상 촬영을 위해 포즈를 취하고 있다.
-
-[Susannah Ireland](https://www.susannahireland.com/) for Quanta Magazine
 
 그러나 퓨리는 포기하지 않았다-포기할 수 없었다. 팔원수와 다른 나눗셈 대수가 자연의 법칙을 뒷받침한다는 깊은 직관에 이끌려, 그녀는 동료에게 학계에서 일자리를 찾지 못하면 아코디언을 들고 뉴올리언스로 가서 거리 공연으로 물리학 연구를 지원할 계획이라고 말했다. 그 대신, 퓨리는 영국 케임브리지 대학에서 박사후 연구원 자리를 얻었다. 그녀는 이후 팔원수와 표준 모형을 연결하는 여러 결과를 내놓았는데, 전문가들은 이를 흥미롭고, 신기하고, 우아하며, 새롭다고 평가하고 있다. "그녀는 정말 깊은 물리학 퍼즐을 해결하기 위한 중요한 단계를 밟았습니다"라고 최근 퓨리의 작업에 관한 [온라인 강의 영상 시리즈](https://www.youtube.com/channel/UCvsmxUuD5ZdOGittaeosXMA)를 본 후 케임브리지의 그녀를 방문한 럿거스 대학의 수리물리학자 [샤디 타흐빌다르-자데(Shadi Tahvildar-Zadeh)](http://sites.math.rutgers.edu/~shadi/)는 말했다.
 

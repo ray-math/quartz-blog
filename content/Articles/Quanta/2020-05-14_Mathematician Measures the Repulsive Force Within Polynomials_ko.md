@@ -56,8 +56,6 @@ Quanta Magazine; 출처: [Windell Oskay](https://www.flickr.com/photos/oskay/458
 
 ![복소평면 위의 단위원과 원분 다항식의 단위근을 설명하는 간단한 그림](https://www.quantamagazine.org/wp-content/uploads/2020/05/Roots-of-Unity-1.2.jpg)
 
-5W Infographics for Quanta Magazine; 출처: Alex Kontorovich
-
 그러나 대부분의 다항식은 원분 다항식이 아니며, 그들의 근은 단위근이 아니다. 이것은 당신이 생각해낼 수 있는 거의 모든 계수, 변수, 지수의 조합의 경우다.
 
 1965년, [안제이 신첼(Andrzej Schinzel)](https://www.impan.pl/~schinzel/)과 [한스 자센하우스(Hans Zassenhaus)](https://math.osu.edu/about-us/history/hans-zassenhaus)는 원분 다항식과 비원분 다항식의 근들의 기하학이 매우 구체적인 방식으로 다르다고 예측했다. 첫 번째 계수가 1인 임의의 비원분 다항식을 취하고 그 근들을 그래프로 나타내라. 일부는 단위원 내부에, 다른 것들은 정확히 그 위에, 그리고 또 다른 것들은 그 외부에 놓일 수 있다. 신첼과 자센하우스는 모든 비원분 다항식이 단위원 외부에 있고 최소한 어떤 최소 거리만큼 떨어진 근을 적어도 하나는 가져야 한다고 예측했다.
@@ -71,8 +69,6 @@ Quanta Magazine; 출처: [Windell Oskay](https://www.flickr.com/photos/oskay/458
 신첼-자센하우스 추측은 그 척력이 얼마나 강해야 하는지도 정확히 정의했다. "그것은 근들이 모두 단위원에 매우 가까울 수 없다는 것을 매우 정밀하고 정량화 가능한 의미로 말합니다"라고 치머만은 말했다.
 
 ![7차 다항식의 근들을 보여주는 그림으로, 단위원 외부에 적어도 하나의 근이 있음을 나타냄](https://www.quantamagazine.org/wp-content/uploads/2020/05/Roots-of-Unity-2.3.jpg)
-
-5W Infographics for Quanta Magazine; 출처: Alex Kontorovich
 
 추측의 주요 예측은 물리학 방정식의 느낌을 가지고 있다. 모든 비원분 다항식은 상수 수를 다항식의 차수로 나눈 것과 같은 거리만큼 단위원 외부에 적어도 하나의 근을 가져야 한다고 말한다. 그 상수의 정확한 값은 중요하지 않으므로, 예를 들어 0.1이라고 하자. 차수 23의 비원분 다항식이 있다면, 추측은 그것이 단위원 외부로 적어도 0.1/23만큼 떨어진 근을 가져야 한다고 예측한다.
 

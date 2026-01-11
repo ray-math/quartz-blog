@@ -10,8 +10,6 @@ date: 2016-06-28
 
 ![자전거를 타고 있는 페터 숄체](https://www.quantamagazine.org/wp-content/uploads/2016/06/Scholze_1300.jpg)
 
-[Nyani Quarmyne](http://www.nqphotography.com/) for Quanta Magazine
-
 2010년, 정수론 커뮤니티를 통해 놀라운 소문이 퍼져나갔고, [재러드 와인스타인(Jared Weinstein)](http://math.bu.edu/people/jsweinst/)에게도 전해졌다. 독일 본 대학교의 어떤 대학원생이 정수론에서 가장 난해한 증명 하나를 다룬 288페이지짜리 책 "해리스-테일러(Harris-Taylor)"를 단 37페이지로 [다시 증명하는 논문](http://arxiv.org/abs/1010.1540)을 썼다는 것이다. 22세의 학생 [페터 숄체(Peter Scholze)](http://www.math.uni-bonn.de/people/scholze/)는 정수론과 기하학 사이의 광범위한 연결을 다루는 증명에서 가장 복잡한 부분 중 하나를 우회하는 방법을 찾아낸 것이었다.
 
 > "해리스-테일러 책"은 2001년 마이클 해리스(Michael Harris)와 리처드 테일러(Richard Taylor)가 저술한 『The Geometry and Cohomology of Some Simple Shimura Varieties』를 가리킨다. 이 책은 시무라 다양체(Shimura varieties)라는 기하학적 대상의 코호몰로지를 연구하는데, 이는 랑글랜즈 프로그램의 핵심 부분이다. 랑글랜즈 프로그램은 정수론의 갈루아 표현(Galois representations)과 기하학의 자기형식(automorphic forms)을 연결하는 방대한 예상들의 집합이다. 해리스-테일러의 증명은 극도로 기술적이고 복잡하기로 악명 높았다-전문가들조차 세부사항을 이해하기 어려워했다. 숄체가 이를 37페이지로 재구성했다는 것은 단순히 증명을 압축한 게 아니라, 문제의 본질적 구조를 완전히 새로운 방식으로 이해했다는 의미다. 이는 젊은 수학자가 기존 거장들의 작업을 근본적으로 재해석한, 수학사에서도 드문 사례였다.

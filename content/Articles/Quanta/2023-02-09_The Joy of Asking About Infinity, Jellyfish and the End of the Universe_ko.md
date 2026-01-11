@@ -10,8 +10,6 @@ date: 2023-02-09
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2023/02/JoY-OpeningEssay-byPeterGreenwood-Lede-1-scaled.webp)
 
-Peter Greenwood for Quanta Magazine
-
 ## 서론
 
 우리의 [첫 번째 시즌](https://www.quantamagazine.org/deep-curiosity-inspires-the-joy-of-why-podcast-20220317/)은 [수면](https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/), [수학적 매듭](https://www.quantamagazine.org/why-knots-matter-in-math-and-science-20220406/), [노화](https://www.quantamagazine.org/why-do-we-get-old-and-can-aging-be-reversed-20220727/), [양자 중력](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/)처럼 다채로운 주제들을 다뤘다. 나는 이번 시즌에 새로운 질문들을 던지고 그 과정에서 예상치 못한 무언가를 배우게 되리라는 기대에 가득 차 있었다. 그런데 몇 주 전 스티브(Steve)와 *Quanta* 편집장 토마스 린(Thomas Lin)이 무한의 서로 다른 크기들에 관해 이야기하기 시작했을 때 받은 놀라움을 상상해보라. 나는 그 자리에 얼어붙었다. 무한에 대한 나의 가정들이 완전히 뒤집히는 것은 정말 즐거운 경험이었다. 그리고 항상 만실이지만 언제나 더 많은 손님을 받을 수 있는 호텔에 관한 다비트 힐베르트(David Hilbert)의 [유명한 역설](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2010/05/09/the-hilbert-hotel/)을 곰곰이 생각해보는 것도 즐거웠다. 이 모든 것은 집합론자(set theorist) 저스틴 무어(Justin Moore)와 함께하는 무한에 관한 에피소드를 준비하는 과정이었다.

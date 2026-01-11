@@ -10,8 +10,6 @@ date: 2021-01-26
 
 ![빨대 위에 앉아 다양한 위상학적 도형을 바라보는 인간 형상을 보여주는 삽화.](https://www.quantamagazine.org/wp-content/uploads/2021/01/Topology-Straw_2880_Lede.jpg)
 
-[Maggie Chiang](http://www.hellomaggiec.com/) for Quanta Magazine
-
 ## 서론
 
 논쟁을 유발하고 싶다면, 친구들에게 이렇게 물어보자. "명왕성은 행성인가?" 또는 "핫도그는 샌드위치인가?" 혹은 "빨대에는 구멍이 몇 개 있는가?" 처음 두 질문은 찬성과 반대로 논쟁을 불러일으키겠지만, 세 번째 질문은 2개, 1개, 심지어 0개라는 주장을 낳는다.

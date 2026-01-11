@@ -10,8 +10,6 @@ date: 2020-05-07
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2020/05/Patterns_2880x1620_Lede.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 들어가며
 
 비 오는 날이나 집에 머물러야 할 때 할 수 있는 간단한 숫자 게임이 있다. 당신과 내가 번갈아가며 $\{1, 2, 3, \ldots, 9\}$ 목록에서 숫자를 지워나간다. 세 개의 연속된 숫자를 만들지 않으면서 마지막으로 숫자를 지우는 사람이 이긴다. 한번 해보자! 당신이 먼저 시작해도 좋다.

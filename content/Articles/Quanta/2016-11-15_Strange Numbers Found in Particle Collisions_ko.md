@@ -12,8 +12,6 @@ date: 2016-11-15
 
 입자 충돌은 어떻게든 수학의 "모티브(motives)"와 연결되어 있다.
 
-[Xiaolin Zeng](https://www.behance.net/zaoeyo) for Quanta Magazine
-
 ## 서론
 
 제네바에 있는 대형 강입자 충돌기(Large Hadron Collider)에서 물리학자들은 양성자를 17마일 길이의 트랙을 따라 가속시켜 거의 빛의 속도로 충돌시킨다. 이것은 세계에서 가장 정밀하게 조율된 과학 실험 중 하나지만, 충돌 후 생성된 양자 잔해를 이해하려 할 때 물리학자들은 어린아이가 상황을 묘사하는 것과 크게 다르지 않은, 놀라울 정도로 단순한 도구인 [파인만 다이어그램(Feynman diagram)](https://www.quantamagazine.org/20160705-feynman-diagrams-nature-of-empty-space/)으로 시작한다.
@@ -45,8 +43,6 @@ date: 2016-11-15
 ![대형 강입자 충돌기에서 실험을 실행하기 전에, 물리학자들은 파인만 다이어그램이라고 불리는 도구를 사용하여 입자들을 충돌시킬 때 무엇을 보아야 하는지에 대한 예측을 생성한다. 이 이론적 예측은 실험 데이터를 해석할 수 있게 해주는 안내서 역할을 한다.](https://www.quantamagazine.org/wp-content/uploads/2016/11/Shortcut_450_double.png)
 
 ![대형 강입자 충돌기에서 실험을 실행하기 전에, 물리학자들은 파인만 다이어그램이라고 불리는 도구를 사용하여 입자들을 충돌시킬 때 무엇을 보아야 하는지에 대한 예측을 생성한다. 이 이론적 예측은 실험 데이터를 해석할 수 있게 해주는 안내서 역할을 한다.](https://www.quantamagazine.org/wp-content/uploads/2016/11/Shortcut_615.png)
-
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
 
 ## 반복되는 주제
 
@@ -103,8 +99,6 @@ date: 2016-11-15
 ![두 입자가 충돌할 때, 많은 일이 일어날 수 있다. 충돌이 특정한 입자 쌍을 생성하는 경우에도, 다양한 중간 충돌이 일어날 수 있다. 이 일련의 반응에서 입자는 추가 입자를 방출하고 나서 다시 재흡수할 수 있으며, 이것이 충돌을 설명하는 데 사용되는 파인만 다이어그램에서 소위 "고리(loop)"를 생성한다. 고리를 추가하면 더 정밀한 실험 예측으로 이어진다. 하지만 새로운 고리마다 물리학자들이 고려해야 할 다이어그램의 수(그리고 계산해야 할 대응하는 적분의 수와 난이도)가 급속히 증가한다. 현재 물리학자들이 2개 이상의 고리를 가진 실험에 대한 진폭을 계산하는 것은 어렵다. 그들은 그 수를 3개나 4개로 늘리려고 노력하고 있다.](https://www.quantamagazine.org/wp-content/uploads/2016/11/Loops_450_double.png)
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2016/11/Feyman.jpg)
-
-[Lucy Reading-Ikkanda](http://www.lucyreading.com/) for Quanta Magazine
 
 ## 놀라운 연결
 

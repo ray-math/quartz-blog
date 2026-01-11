@@ -12,8 +12,6 @@ date: 2022-04-25
 
 무작위 그래프는 삼각형(오른쪽), 해밀턴 사이클(가운데), 또는 다른 흥미로운 성질을 가질까?
 
-Olena Shmahalo for Quanta Magazine
-
 ## 서론
 
 수학자 [Jeff Kahn](https://sites.math.rutgers.edu/~jkahn/)과 [Gil Kalai](http://www.ma.huji.ac.il/~kalai/)가 2006년 ["기댓값 임계값(expectation threshold)" 추측](https://arxiv.org/abs/math/0603218)을 처음 제시했을 때, 그들 스스로도 이것을 믿지 않았다. 그들의 주장-무작위 그래프(random graph)라 불리는 수학적 대상에 대한 광범위한 단언-은 너무 강력하고, 너무 포괄적이며, 참이기에는 너무 대담해 보였다. 이것은 수학적 진리의 반영이라기보다는 희망적 사고처럼 느껴졌다. 그럼에도 아무도 이것이 거짓임을 증명할 수 없었고, 곧 이 분야에서 가장 중요한 미해결 문제 중 하나가 되었다.
@@ -59,8 +57,6 @@ Rod Searcey
 ![아인슈타인 조각상 옆의 Gil Kalai](https://www.quantamagazine.org/wp-content/uploads/2022/04/Kalaijpg.jpg)
 
 히브리 대학교의 Gil Kalai.
-
-Daniel Vaaknin for Quanta Magazine
 
 2006년, Kahn과 Kalai는 이것이 실제로 최악의 시나리오라고 가정했다. 그들의 이름을 딴 추측은 기댓값 임계값과 참 임계값 사이의 간격이 로그 인수보다 결코 크지 않을 것이라고 진술한다. Conlon에 따르면, 이 추측은 "본질적으로 무작위 그래프의 핵심 질문을 가져와서 일반적인 답을 제공합니다."
 

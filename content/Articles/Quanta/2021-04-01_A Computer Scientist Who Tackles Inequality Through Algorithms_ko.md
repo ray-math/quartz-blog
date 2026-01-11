@@ -10,8 +10,6 @@ date: 2021-04-01
 
 ![컴퓨터 과학자 레디엣 아베베의 클로즈업 정면 초상화](https://www.quantamagazine.org/wp-content/uploads/2021/04/Rediet-Abebe_2880_Lede.jpg)
 
-[Constanza Hevia](https://www.constanzahevia.com/) for Quanta Magazine
-
 ## 서론
 
 [레디엣 아베베(Rediet Abebe)](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabebe.html)가 2009년 하버드 대학교에 학부생으로 입학했을 때, 그녀는 수학을 전공할 계획이었다. 하지만 케임브리지 공립학교들과의 경험이 그녀의 계획을 바꾸어 놓았다.
@@ -101,8 +99,6 @@ date: 2021-04-01
 ![디프틱. 왼쪽에는 레디엣 아베베가 밖에서 노트북으로 작업하고 있는 모습. 오른쪽에는 인공지능 분야에서 흑인의 존재감을 높이는 것에 관한 기사를 보여주는 아베베의 노트북 화면 클로즈업.](https://www.quantamagazine.org/wp-content/uploads/2021/04/Rediet-Abebe_CompSci_02.jpg)
 
 아베베는 인공지능 분야에서 일하는 흑인 연구자 커뮤니티인 Black in AI 조직의 공동 창립자다.
-
-[Constanza Hevia](https://www.constanzahevia.com/) for Quanta Magazine
 
 ### 이것을 연구 주제로 파고들기 시작한 것은 어떻게 된 건가요?
 

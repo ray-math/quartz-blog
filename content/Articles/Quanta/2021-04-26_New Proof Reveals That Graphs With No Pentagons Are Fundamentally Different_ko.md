@@ -10,8 +10,6 @@ date: 2021-04-26
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/04/No-5-Hole_2880_Lede.jpg)
 
-[Pablo Hurtado de Mendoza](https://pablohurtadodemendoza.com/) for Quanta Magazine
-
 ## 서론
 
 사람들로 가득 찬 방에 들어가면, 정치적 성향에서부터 TV 시청 습관에 이르기까지 온갖 것들을 추측할 수 있다. 하지만 그 방에 최소한 여섯 명이 있다면, 1930년 프랭크 램지(Frank Ramsey)의 정리 덕분에 그들에 대해 절대적인 수학적 확실성을 가지고 말할 수 있는 것이 있다: 그 사람들 중에는 서로를 모두 아는 세 명의 그룹이 있거나, 또는 한 번도 만난 적이 없는 세 명의 그룹이 있다.

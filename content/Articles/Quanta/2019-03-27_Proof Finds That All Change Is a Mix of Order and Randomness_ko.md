@@ -10,8 +10,6 @@ date: 2019-03-27
 
 ![Art for "Proof Finds That All Change Is a Mix of Order and Randomness"](https://www.quantamagazine.org/wp-content/uploads/2019/03/WeakPinsker_2880x1620_Lede.jpg)
 
-[Allison Filice](https://allisonfilice.com/) for Quanta Magazine
-
 ## 서론
 
 세상의 모든 꽃 품종으로 가득 찬 정원을 상상해 보자-섬세한 난초, 우뚝 솟은 해바라기, 사와로 선인장의 밀랍 같은 꽃, 그리고 시체꽃의 악취 나는 꽃잎들. 이제 그 모든 꽃의 다양성이 단 두 품종으로 축소되고, 그 둘을 교배함으로써 나머지 모든 품종을 만들어낼 수 있다고 상상해 보자.

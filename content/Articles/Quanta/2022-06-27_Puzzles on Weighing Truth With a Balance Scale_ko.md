@@ -10,8 +10,6 @@ date: 2022-06-27
 
 ![인간 형상이 완벽하게 균형 잡힌 저울 위에 금화를 쌓고 있다](https://www.quantamagazine.org/wp-content/uploads/2022/06/Balance_puzzle_2880x1620_Lede-scaled.jpg)
 
-James Round for Quanta Magazine
-
 ## 서론
 
 양팔저울 퍼즐은 레크리에이션 수학(recreational mathematics)에서 풍부하게 발견된다. 이 퍼즐의 핵심 요소는 겸손한 양팔저울(two-pan balance scale)이다-수천 년 동안 [상업의 필수품](https://www.jdmartin.org/scalesbalances)이었고 여전히 개발도상국의 시끌벅적한 시골 시장에서 찾아볼 수 있다. 가장 단순한 형태는 중앙 지지대 또는 받침점(fulcrum)에서 동일한 거리에 두 개의 접시가 매달린 금속 막대로 구성된다.

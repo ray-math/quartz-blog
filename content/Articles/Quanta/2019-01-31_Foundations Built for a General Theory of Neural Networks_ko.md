@@ -10,8 +10,6 @@ date: 2019-01-31
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/01/Neural_Networks_2880x1620.jpg)
 
-[Koma Zhang](https://www.instagram.com/komaciel/) for Quanta Magazine
-
 ## 서론
 
 우리가 마천루를 설계할 때 우리는 그것이 명세대로 작동할 것이라고 기대한다. 그 건물이 특정 무게를 지탱할 수 있고, 특정 강도의 지진을 견딜 수 있을 것이라고 믿는다.

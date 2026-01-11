@@ -12,8 +12,6 @@ date: 2017-12-20
 
 코리나 타르니타는 풍경 속 신비로운 "요정의 원(fairy circle)" 패턴을 해독했다.
 
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
-
 ## 서론
 
 [코리나 타르니타(Corina Tarnita)](https://scholar.princeton.edu/ctarnita/home)가 싹트는 수학자였을 때, 그녀는 수학에 대한 흥미가 깜빡이며 꺼져가는 것을 느꼈다. 소녀 시절 그녀는 루마니아 국가 수학 올림피아드를 휩쓸었다-1999년부터 2001년까지 3연속 우승을 거두었다-그리고 하버드 대학교에 학부생으로 진학했고, 곧바로 대학원에 입학해 순수 수학의 문제들을 연구했다.
@@ -37,8 +35,6 @@ date: 2017-12-20
 ![책상에서 고리들과 함께 있는 코리나 타르니타의 사진](https://www.quantamagazine.org/wp-content/uploads/2017/12/CorinaTarnita_2000x1200.jpg)
 
 프린스턴 대학교 사무실의 타르니타.
-
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
 
 ### 당신은 최근 다세포 유기체와 같은 시스템이 개별 단위로부터 어떻게 진화하는지 더 잘 이해해야 한다고 [주장했습니다](http://www.pnas.org/content/114/42/11018.abstract). 이런 종류의 연구 프로그램은 어떤 모습일까요?
 
@@ -85,8 +81,6 @@ date: 2017-12-20
 > 육각형 패턴은 자연에서 반복적으로 나타나는 효율적인 공간 채우기 구조다. 벌집, 현무암 주상절리, 베나르 대류(Bénard convection) 등에서 관찰된다. 수학적으로 이는 '최소 표면 문제(minimal surface problem)'와 관련이 있다-주어진 면적을 최소한의 경계 길이로 나누는 방법. 1999년 토마스 헤일스(Thomas Hales)가 증명한 '벌집 추측(Honeycomb Conjecture)'은 평면을 같은 면적의 영역들로 나눌 때 육각형 격자가 경계 길이를 최소화한다는 것을 보여준다. 흰개미 군체의 경우, 각 군체는 자원 획득 영역을 최대화하면서 이웃과의 충돌을 최소화하려 한다. 이런 지역적 최적화가 전체적으로 육각형 패턴을 만들어낸다. 이는 중앙 계획 없이 분산된 의사결정이 어떻게 규칙적인 구조를 만들어낼 수 있는지 보여주는 자기조직화의 아름다운 예다.
 
 ![사무실에 있는 코리나 타르니타의 사진](https://www.quantamagazine.org/wp-content/uploads/2017/12/CorinaTarnita_2880x1620_02.jpg)
-
-[Sasha Maslov](https://sashamaslov.com/) for Quanta Magazine
 
 ### 2015년 *Science*에서, 그리고 올해 다시 *Annual Review of Entomology*에서 프링글과 함께, 당신은 건강한 생태계를 나타내는 흰개미 집에 의한 이런 종류의 녹색 섬 패턴을 생태계가 실패하고 있음을 의미하는 비슷하게 보이는 패턴과 분리하는 것이 중요하다고 주장합니다. 이 두 번째 종류의 패턴에 대해 설명해주시겠습니까?
 

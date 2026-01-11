@@ -12,8 +12,6 @@ date: 2023-03-27
 
 지난달 프린스턴 대학교 연구실의 에미 머피. "고등학교를 졸업할 즈음, 나는 수학이야말로 나를 진정으로 설레게 하는 것임을 깨달았다"고 그녀는 *Quanta*에 말했다.
 
-Caroline Gutman for Quanta Magazine
-
 ## 서론
 
 "나에게 수학은 우리 사이의 공간에 존재한다"고 에미 머피는 [2020년 수학 신지평상(New Horizons in Mathematics Prize)](https://breakthroughprize.org/Laureates/3/L3864) 수락 연설에서 밝혔다.
@@ -35,8 +33,6 @@ Caroline Gutman for Quanta Magazine
 ![프린스턴 대학교 캠퍼스의 큰 원형 조각물 위에 앉아 있는 에미 머피.](https://www.quantamagazine.org/wp-content/uploads/2023/03/EmmyMurphy-byCarolineGutman-SittingOutside-scaled.webp)
 
 프린스턴 캠퍼스의 머피.
-
-Caroline Gutman for Quanta Magazine
 
 ## 대학 진학이 당연한 것처럼 느껴졌나요?
 
@@ -78,8 +74,6 @@ Caroline Gutman for Quanta Magazine
 
 그녀의 기하학 분야에서 연구되는 수학적 대상인 르장드르 매듭(Legendrian knot)을 든 머피.
 
-Caroline Gutman for Quanta Magazine
-
 ## 이러한 형태들에서 발견한 "놀라운 정도의 유연성"에 대해 말해주세요.
 
 비유로, 자전거 체인을 상상해 보세요. 그것은 밧줄과 같지만, 한 방향으로는 구부리기 쉽고 다른 방향으로는 그렇지 않아요. 만약 그것을 매듭으로 묶는다면, 이 매듭을 풀 수 있는지 물을 수 있겠죠.
@@ -109,8 +103,6 @@ Caroline Gutman for Quanta Magazine
 > 머피의 이 관점은 수학의 본질에 대한 철학적 입장이다. 플라톤주의적 관점에서는 수학적 대상들이 인간과 무관하게 '거기에' 존재하며, 수학자는 그저 그것을 발견할 뿐이다. 반대로 사회구성주의적 관점에서는 수학이 인간 공동체가 만들어낸 창조물이다. 머피는 후자 쪽에 가까우면서도, 더 섬세한 입장을 취한다. 그녀에게 수학은 개별 수학자의 머릿속에 존재하는 것도, 추상적 플라톤의 세계에 존재하는 것도 아니다. 그것은 수학자들이 서로 소통하고 아이디어를 교환하는 "사이의 공간"에 존재한다. 이는 비트겐슈타인의 "의미는 사용에 있다"는 관점이나, 수학적 개념이 수학 공동체의 실천 속에서 형성된다는 현대 수학철학과 공명한다. 또한 이것은 단순한 철학적 입장이 아니라, 머피 자신의 연구 스타일 - 협력적이고 소통 중심적인 - 을 정당화한다.
 
 ![프린스턴 대학교 캠퍼스에서 작은 나무들 사이에 서 있는 에미 머피.](https://www.quantamagazine.org/wp-content/uploads/2023/03/EmmyMurphy-byCarolineGutman-Trees-scaled.webp)
-
-Caroline Gutman for Quanta Magazine
 
 ## 당신의 수학 타임라인은 트랜스젠더로서의 역사와 어떻게 교차하나요?
 

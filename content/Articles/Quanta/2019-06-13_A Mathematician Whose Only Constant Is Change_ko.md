@@ -10,8 +10,6 @@ date: 2019-06-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/06/AmieWilkinson_2880x1920_Lede.jpg)
 
-[Tim Klein](https://www.timkleinphoto.com/portraits) for Quanta Magazine
-
 ## 서론
 
 [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/)은 탐험가다. 하지만 그녀가 찾는 것은 미지의 땅이 아니라 아직 발견되지 않은 수학적 세계들이다-예상치 못한 방식으로 전개되는 복잡한 운동 시스템들 말이다. University of Chicago의 교수로서, 그녀는 존재한다고 추측만 되던 독특한 유형의 '동역학계(dynamical systems)'를 발견한 것으로 알려져 있다.
@@ -70,8 +68,6 @@ Wilkinson이 발견한 동역학계의 예인 "병리적 엽층구조(pathologic
 
 Wilkinson이 발견한 동역학계의 예인 "병리적 엽층구조"의 그래프 (왼쪽). Wilkinson은 이 엽층구조를 직물로 디자인했고, 지금은 그녀 사무실의 베개에 있다 (오른쪽).
 
-Courtesy of Amie Wilkinson; [Tim Klein](https://www.timkleinphoto.com/portraits) for Quanta Magazine
-
 ### 그런 질문들에 어떻게 답하나요?
 
 내가 주제에 접근하는 방식은, 그리 특이한 방식은 아니지만, 탐험가로서다. 나는 일어날 수 있는 새로운 현상들을 찾고 있다. 그래서 내 가장 흥미로운 작업 중 일부는 놀라운 동역학계의 예들을 구성하는 것이었다.
@@ -97,8 +93,6 @@ Courtesy of Amie Wilkinson; [Tim Klein](https://www.timkleinphoto.com/portraits)
 ![은색 머리의 여성이 담쟁이덩굴 벽을 배경으로 파란 드레스를 입고 걷고 있다.](https://www.quantamagazine.org/wp-content/uploads/2019/06/Wilkinson_V_01.jpg)
 
 University of Chicago 캠퍼스의 Wilkinson.
-
-[Tim Klein](https://www.timkleinphoto.com/portraits) for Quanta Magazine
 
 ### 당신의 경력에서 그것이 위압적인 것에서 황홀한 것으로 전환된 지점을 알아볼 수 있나요?
 
@@ -165,8 +159,6 @@ Harvard 수학에는 여성 연구자가 없었다. 나는 롤모델 부족으�
 ![](https://www.quantamagazine.org/wp-content/uploads/2019/06/Wilkinson_2K_Tablet_04.jpg)
 
 Wilkinson이 양자 동역학계를 탐구하는 물리학 논문에 표시를 하고 있다.
-
-[Tim Klein](https://www.timkleinphoto.com/portraits) for Quanta Magazine
 
 ### 당신은 이 물결치는 곡선들로 정사각형 전체를 줄무늬로 만드나요? 머리카락처럼 보이네요.
 

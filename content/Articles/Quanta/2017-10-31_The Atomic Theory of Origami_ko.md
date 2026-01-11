@@ -12,8 +12,6 @@ date: 2017-10-31
 
 마이클 애시스는 종이접기에서도 상전이 현상이 발생할 수 있음을 발견했다.
 
-[James Horan](https://www.jameshoranshootspeople.com/) for Quanta Magazine
-
 ## 서론: 우주에서 지도까지, 한 번의 동작으로
 
 1970년, 천체물리학자 미우라 코료(Koryo Miura)는 종이접기 역사상 가장 유명하고 집중적으로 연구된 접기 패턴 중 하나를 고안했다. 미우라오리(Miura-ori)다. 평행사변형들이 테셀레이션(tessellation, 빈틈없이 채워지는 패턴)을 이루는 이 주름 패턴은 한 번의 동작으로 전체 구조가 접히고 펼쳐진다-지도를 접는 우아한 방법이었다. 이것은 또한 우주선의 태양 전지판을 포장하는 효율적인 방법으로도 입증되었다. 미우라는 1985년에 이 아이디어를 제안했고, 1995년 일본의 우주 비행 유닛 위성(Space Flyer Unit satellite)에서 실제로 발사되었다.
@@ -40,8 +38,6 @@ date: 2017-10-31
 
 호주 뉴캐슬 대학교의 애시스.
 
-[James Horan](https://www.jameshoranshootspeople.com/) for Quanta Magazine
-
 ## 뜨거운 접힘: 온도가 올라가면 결함이 생긴다
 
 2014년, 에반스는 미우라오리에 몇 가지 결함(defects)을 넣으면 어떤 일이 일어나는지 [연구](http://science.sciencemag.org/content/345/6197/647)한 팀의 일원이었다. 연구자들은 몇 개의 주름을 뒤집어서-볼록한 부분을 눌러 오목하게 만들고 그 반대로-구조를 더 단단하게 만들 수 있다는 것을 보여주었다. 그들은 결함이 결점이 아니라 기능일 수 있다는 것을 발견했다. 단지 결함을 추가하거나 제거함으로써, 원하는 만큼 단단한 미우라오리를 구성하고 재구성할 수 있다.
@@ -63,8 +59,6 @@ date: 2017-10-31
 ![베이지색 미우라오리 시트의 결함](https://www.quantamagazine.org/wp-content/uploads/2017/10/MiuraOri_2K_03.jpg)
 
 미우라오리 패턴의 결함.
-
-[James Horan](https://www.jameshoranshootspeople.com/) for Quanta Magazine
 
 비교적 낮은 온도에서는 결함들이 질서정연하게 행동한다. 그리고 전체 격자를 결함이 덮을 정도로 충분히 높은 온도에서는 종이접기 구조가 비교적 균일해진다.
 

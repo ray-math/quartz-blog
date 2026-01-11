@@ -10,8 +10,6 @@ date: 2019-01-16
 
 ![Art for "Unscrambling the Hidden Secrets of Superpermutations"](https://www.quantamagazine.org/wp-content/uploads/2019/01/Superpermutations_2880x1620.jpg)
 
-[BIG MOUTH](https://www.behance.net/BIGMOUTH) for Quanta Magazine
-
 ## 서론
 
 4. 3. 1. 5. 2.

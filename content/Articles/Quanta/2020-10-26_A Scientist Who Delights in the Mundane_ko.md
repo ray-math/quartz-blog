@@ -12,8 +12,6 @@ date: 2020-10-26
 
 L. 마하데반은 사과의 모양이나 뇌가 접히는 방식 같은 일상 현상 뒤에 숨은 과학을 탐구하는 것을 평생의 업으로 삼아왔다.
 
-[Ken Richardson](https://www.kenrichardsonphoto.com/) for Quanta Magazine
-
 ## 서론
 
 뚝뚝 떨어지는 수도꼭지의 복잡한 역학, 접착 패드가 실패하는 여러 방식, 진흙이 갈라지는 현상-이런 문제들은 사소하거나 심지어 지루해 보일 수 있다. L. 마하데반(L. Mahadevan)은 동의하지 않는다. 하버드 대학교의 응용수학, 물리학, 유기체 및 진화생물학 교수인 마하데반은 수학과 물리학을 사용해 일상적인 현상을 탐구하며, 우리가 당연하게 여기고 따라서 거의 생각하지 않는 많은 대상과 행동들이 자세히 살펴보면 실로 놀라운 것임을 보여준다.
@@ -37,8 +35,6 @@ L. 마하데반은 사과의 모양이나 뇌가 접히는 방식 같은 일상 
 ![Mahadevan holds a white molded gel that reflects the cuts of kirigami](https://www.quantamagazine.org/wp-content/uploads/2020/10/L-Mahadevan_2K_Kirigami-Gel.jpg)
 
 마하데반의 지속적인 관심사 중 하나는 종이 변형의 수학이다. 여기에는 오리가미(빨간색)의 접기와 키리가미(흰색)의 자르기가 포함된다.
-
-[Ken Richardson](https://www.kenrichardsonphoto.com/) for Quanta Magazine
 
 ### 다른 사람들이 사소하다고 여길 수 있는 것들을 연구하고 싶다는 것을 언제 깨달았나요?
 
@@ -82,8 +78,6 @@ L. 마하데반은 사과의 모양이나 뇌가 접히는 방식 같은 일상 
 
 종이를 연구하는 것 외에도, 마하데반은 인간 뇌가 어떻게 접히는지 탐구해 왔다.
 
-[Ken Richardson](https://www.kenrichardsonphoto.com/) for Quanta Magazine
-
 ### 흰개미 집은 어떤 면에서 다른 구조물과 비교될 수 있나요?
 
 우리는 흰개미 집처럼 완전히 다공성이지도 않고 완전히 단열되지도 않은 건물을 짓습니다. 그 비유는 생명의 가장 기본적인 형태로 전이됩니다. 예를 들어, 세포는 외부 세계와 소통할 수 있게 하고 에너지, 물질, 정보의 전달을 허용하는 외피 없이는 세포가 아닙니다-완전히 단열되지도 완전히 다공성이지도 않은.
@@ -111,8 +105,6 @@ L. 마하데반은 사과의 모양이나 뇌가 접히는 방식 같은 일상 
 ![Swirling white structures on Mahadevan's desk](https://www.quantamagazine.org/wp-content/uploads/2020/10/L-Mahadevan_2KV_3Dmodels.jpg)
 
 마하데반의 실험실은 실험들로 가득 차 있다. 여기서는 액체 현탁액에 대한 아이디어와 특정 물질들이 수학적 모델에 따라 어떻게 침전하는지를 테스트하고 있다.
-
-[Ken Richardson](https://www.kenrichardsonphoto.com/) for Quanta Magazine
 
 ### 당신의 연구 중 많은 부분이 꽤 추상적으로 들립니다. 가능한 응용에 대해 얼마나 생각하나요?
 

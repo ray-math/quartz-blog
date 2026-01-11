@@ -10,8 +10,6 @@ date: 2021-03-02
 
 ![스티븐 스트로가츠가 마이크 앞에 앉아 있고, 주변에 다양한 주제를 상징하는 아이콘들이 소용돌이치는 일러스트레이션](https://www.quantamagazine.org/wp-content/uploads/2021/03/Joy-of-X_2560_Lede.jpg)
 
-[Islenia Mil](https://www.isleniamil.com/) for Quanta Magazine
-
 ## 서론
 
 고백할 것이 있다. *The Joy of x* 팟캐스트 새 시즌 작업을 하는 프로듀서로서, 나는 가끔 에피소드를 편집하다가 이런 생각을 한다: 대체 누가 나를 이 방에 들여보낸 걸까? 마치 호텔 바를 어슬렁거리다가 우연히 마지막 남은 자리가 깊은 대화에 빠진 두 사람 옆이 된 것 같다. 나는 그들이 강렬하고 열정적으로 이야기하는 것을 엿듣고 있다. 하지만 그들은 연인이 아니다-그들은 자신들의 직업적 삶에 대한 친밀한 세부사항을 공유하고 있다. 탐험과 발견으로 가득한 이야기들이다. 물론 이 장면은 내 상상 속에서 펼쳐지는 것이다. 내가 엿듣고 있는 대화는 헤드폰 속에만 존재한다.
@@ -37,8 +35,6 @@ date: 2021-03-02
 ![](https://www.quantamagazine.org/wp-content/uploads/2021/03/JoX-Season2-Portraits-Grid_v9.jpg)
 
 팟캐스트 게스트들(왼쪽에서 오른쪽으로, 맨 위 줄부터): Federico Ardila, Frank Wilczek, Rediet Abebe, Neil Shubin, Eve Marder, Sharon Glotzer, Melanie Mitchell; Emery Brown, Trachette Jackson, Amie Wilkinson, Charlie Marcus, Bonnie Bassler.
-
-(Ardila) Courtesy of San Francisco State University; (Wilczek) Niklas Björling/Stockholm University; (Abebe) Courtesy of Rediet Abebe; (Shubin) Courtesy of Neil Shubin; (Marder) Heratch Ekmekjian; (Glotzer) Laura Rudich | Michigan Engineering; (Mitchell) Santa Fe Institute; (Brown) Joshua Sarinana/MIT Picower Institute; (Jackson) Scott C. Soderberg, Michigan Photography, University of Michigan; (Wilkinson) [Tim Klein](https://www.timkleinphoto.com/portraits) for Quanta Magazine; (Marcus) Óla J. Joensen, Niels Bohr Institute; (Bassler) Courtesy of Bonnie Bassler
 
 하지만 그것보다 더 많은 것이 있다. 우리는 과학의 가치와 과정에 대한 세계적인 논쟁이 우리 문화에서 펼쳐지는 것을 목격해왔다. SARS-CoV-2 바이러스와 그것이 어떻게 전파되는지에 대한 집단적 논의는 또 다른 위기의 증거를 제공했다: 이 위기에 참여하기 위한 대중의 과학적 소양과 능력이 취약하다는 것이다. 지난 1년 동안 팬데믹을 끝내기 위한 우리의 집단적 희망은 백신 개발에 고정되어 있었고, 동시에 3,100만 명이 백신 반대 그룹을 팔로우하고 있다.
 

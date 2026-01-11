@@ -10,8 +10,6 @@ date: 2022-07-13
 
 ![](https://www.quantamagazine.org/wp-content/uploads/2022/07/JoW_Evidence-in-Math_2880x1620_Lede_LOGO-scaled.jpg)
 
-Michael Driver for Quanta Magazine
-
 ## 서론
 
 어떻게 누군가가 무한에 대해 확신을 가지고 말할 수 있을까? 모든 소수를 알지 못하면서 신비로운 소수에 대해 우리가 정말로 알 수 있는 것은 무엇일까? 과학자들이 가설을 검증하기 위해 데이터가 필요한 것처럼, 수학자들은 추측(conjecture)을 증명하거나 반증하기 위해 증거가 필요하다. 그러나 정수론(number theory)이라는 무형의 영역에서 증거로 인정되는 것은 무엇일까? 이번 에피소드에서 스티븐 스트로가츠(Steven Strogatz)는 하버드 대학교 수학 교수인 [멜라니 매체트 우드(Melanie Matchett Wood)](https://people.math.harvard.edu/~mmwood/)와 대화하며, 확률과 무작위성이 어떻게 수학자들이 요구하는 완벽한 논증을 위한 증거를 확립하는 데 도움이 될 수 있는지 배운다.
